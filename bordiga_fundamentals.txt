@@ -1,4 +1,4 @@
-Title:		Fundamentals of Revolutionary Communism
+Title:		The Fundamentals of Revolutionary Communism
 Author:		Amadeo Bordiga
 Description:	Published in Il Programma Comunista 13, 14, and 15 in 1957. This version based on the online copy found at http://www.quinterna.org/lingue/english/historical_en/the_fundamentals.htm
 Date:		1957
@@ -8,7 +8,7 @@ CSS:		../files/style.css
 
 {{../files/article_header.txt}}
 
-## FOREWORD (1976)
+## Foreword (1976)
 
 The following text is the written account of a party general meeting held in 1957.
 
@@ -24,7 +24,7 @@ Nothing new under the sun then. Just the ongoing and continuous work of presenti
 
 Although written almost half a century ago, the Fundamentals was an excellent response to this traditional need of our movement, and it still it retains both its power and its scientific rigor.
 
-## INTRODUCTION
+## Introduction
 
 We need to begin, first of all, by explaining that the aim of our present exposition is not to systematically examine every economic, historical and political aspect of the communist scheme and its programme, nor to provide an exhaustive treatment of what we might call the 'connective tissue' which binds all these different aspects of communism together, by which we mean our original and completely distinctive way of resolving the questions of the relationship between theory and action, economy and ideology, determining causality and the dynamics of human society; that is, the method which Marxism, and Marxism alone, has used since it first appeared in the first half of the 19th century, and which, for brevity's sake, may be referred to as the philosophical aspect of Marxism, or _dialectical materialism_.
 
@@ -36,7 +36,7 @@ In order to do that, we will focus on the one genuinely revolutionary doctrine's
 
 The reader might recall that a similar theme was developed during our 1952 meeting in Milan (Invarianza storica del marxismo nel corso rivoluzionario, in _Programma Comunista_, nos.1-5, 1953, and reproduced in nos. 5-6, 1969). The first part of the report lay claim to the historical invariance of Marxism which, it was maintained, is not a doctrine still in the process of formation but rather one completed in the historical epoch appropriate to it, that is, the period which witnessed the birth of the modern proletariat. It is a touchstone of our historical vision that this class will go through the whole arc of the rise and fall of capitalism using the same unaltered theoretical armoury. The second part of the report -- "The False Expedient of Activism" -- developed a critique of the perennial illusion of "voluntarism", portraying it as an extremely dangerous and degenerate form of Marxism which continues to be exploited whenever there's an outbreak of the opportunist disease.
 
-## SURVEY OF THE OPPOSITION
+## Survey of the Opposition
 
 In the first part of that report, we divided our position's enemies into three camps: those who deny the validity of Marxism, those who falsify it, and those who claim to be bringing it up to date.
 
@@ -57,9 +57,9 @@ Stalin is the theoretical father of this method of "enrichment" and "modernizati
 Thus, whilst we adopt a standpoint which opposes all three groups simultaneously, it is the misleading distortions and arrogant neo-constructions of the third group which most urgently need to be addressed and set to rights. Being contemporary they are better known, but it is still difficult for today's workers, following the ravages of Stalinism, to relate them to the old historical traps; against which we propose one stance and one alone: a return to the fundamental communist positions of the 1848 Manifesto, which contains, in potential, our entire social and historical criticism, and which likewise demonstrates that everything which has happened since, all the bloody struggles and defeats experienced by the proletariat during the course of the last century, only serve to confirm the validity of what some people foolishly wish to abandon.
 
 
-## I. THE PARTY AND THE CLASS STATE AS ESSENTIAL FORMS OF THE COMMUNIST REVOLUTION
+## I. The Party and the Class State as Essential Forms of the Communist Revolution
 
-### THE CENTRAL QUESTION OF POWER
+### THE Central Question of Power
 
 In spite of the preventive counter-measures taken by the 20th Congress of the Russian Communist Party, the number of critics of the Moscow degeneration has continued to grow after the events in Hungary, Poland and Eastern Germany, and they are even to be found on the margins of the official Stalinist parties in the West, and include people like Sartre and Picasso who are highly dubious and petty-bourgeois in our opinion. Their not entirely unsuccessful condemnation of Moscow sounds something like this: abuse of dictatorship, abuse of the centrally-disciplined political party, abuse of the State power in its dictatorial form. All of them put forward similar remedies: more liberty, more democracy, socialism to be brought into the ideological and political atmosphere of liberal and electoral legality, and the use of State power in relation to different political proposals and opinions should be renounced. As usual, the main targets of our criticism are not those who hold this point of view because they openly advocate the bourgeois mode of production (sanctified by just such an ideological, juridical and political framework), but those who wish to graft such nonsense onto the trunk of Marxist doctrine.
 
@@ -77,7 +77,7 @@ The organ of the dictatorship and operator of the State-weapon is the political 
 
 One cannot therefore detach party from class as though class were the main element and the party merely accessory to it. By putting forward the idea of a proletariat without a party, a party which is sterilized and impotent party, or by looking for substitutes for it, the latest corrupters of Marxism have actually annihilated the class by depriving it of any possibility of fighting for socialism, or even, come to that, fighting for a miserable crust of bread.
 
-### AN ERROR UNMASKED 100 YEARS AGO
+### An Error Unmasked 100 Years Ago
 
 As a result of their confused critique, today's "enrichers" of Marxism have made similar blunders, and have inadvertently ended up adopting the same bourgeois and petty-bourgeois insinuations which were made when the Russian Revolution was still following the classic Marxist line -- admired even by the "enrichers" -- in which Class, State, Party and Party members stood together on the same revolutionary plane, precisely because on these essential points there were no hesitations of any kind.
 
@@ -99,7 +99,7 @@ But this foolish attempt, which the "modernizers" consider an original discovery
 
 Proudhon rejects the idea of political conflict because his view of the way societies change is fundamentally flawed: it doesn't involve the complete overthrow of capitalist relations of production; it is competition orientated, localised and co-operativist, and is trapped within a bourgeois vision of business enterprise and market. He might have proclaimed that property was theft, but his system, remaining a mercantile system, remains one which is property orientated and bourgeois. Proudhon's myopia about economic revolution is the same as today's "factory socialists", who duplicate in less vigorous form the old Utopia of Robert Owen; who wanted to liberate the workers by handing over to them the management of the factories, right in the middle of bourgeois society. Whether these people label themselves Ordinovists in Italy, or Barbarists in France, they are in the end, all of them, chips off the same Proudhonian block and deserve the same invective as Stalin: Oh Poverty of the Enrichers!
 
-### RESURRECTED AND TENACIOUS PROUDHONISM
+### Resurrected and Tenacious Proudhonism
 
 In Proudhon's system we find individual exchange, the market, and the free will of the buyer and seller exalted above all else. It is asserted that in order to eliminate social injustice, all that is required is to relate every commodity's exchange value to the value of the labour contained within it. Marx shows -- and will show later, pitting himself against Bakunin, against Lassalle, against Duhring, against Sorel and against all the latter-day pygmies mentioned above -- that what lies beneath all this is nothing other than the apologia, and the preservation, of bourgeois economy; incidentally, there is nothing different in the Stalinist claim that in a Socialist society, which Russia claims to be, the law of exchange of equivalent values will continue to exist.
 
@@ -125,9 +125,9 @@ The Party, which at an organisational level sets the non-proletarian at the same
 
 The party's superiority lies precisely in its overcoming of the disease of labourism and workerism. You join the party as a consequence of your own position in the hand to hand struggle between historical forces for a revolutionary social form; and your position as party member and militant is not merely a servile copy of your position "in respect to the productive mechanism", i.e. that mechanism which is created by bourgeois society and related "physiologically" to that society and to its ruling class.
 
-## II. THE PROLETARIAT'S ECONOMIC ORGANISATIONS: PALE SUBSTITUTES FOR THE REVOLUTIONARY PARTY
+## II. The Proletariat's Economic Organisations: Pale Substitutes for the Revolutionary Party
 
-### A HISTORY OF IMPOTENT SYSTEMS
+### A History of Impotent Systems
 
 In our fight against the Stalinist betrayal, we have always considered its distortions of economic theory as a thousand times more serious than the "abuse of power" which so scandalised Trotskyists and Khruschevians, or the famous 'crimes' which world philistinism keeps on harking on about. In order to combat these distortions, we always have recourse to Marx's classical thesis against Proudhon which appears in the first volume of Capital, chapter XXIV, note: "We may well, therefore, be astonished at the cleverness of Proudhon, who would abolish capitalistic property by enforcing the eternal laws of property that are based on commodity production".
 
@@ -145,7 +145,7 @@ The real issue is the clash of historical forces and the new social programme wh
 
 We shall briefly record the "proposals" of these fashion designers, who want to parade the battle-weary proletariat up the political catwalk with a new set of chains yoking it to capital.
 
-### THE SUPERSTITION OF THE LOCAL "COMMUNE"
+### The Superstition of the Local "Commune"
 
 Anarchist doctrines are the expression of the following thesis: centralised power is evil; and they assume that the entire question of the liberation of the oppressed class can be resolved by getting rid of it. But for the anarchist, class is only an accessory concept. He wishes to liberate the individual, the person, and thereby conforms with the programme of the liberal and bourgeois revolution. He only reproaches the latter for having installed a new form of power, failing to see that this is merely the necessary consequence of the fact that it didn't have as its content and motive-force the liberation of the person or the citizen, but the achieving of dominion of a new social class over the means of production. Anarchism, libertarianism -- and even Stalinism, in its Westernised guise -- is nothing other than classical revolutionary bourgeois liberalism plus something else (which they call local autonomy, administrative State, and entry of the working class into the constitutional powers). When such petty-bourgeois peccadilloes are grafted on to it, bourgeois liberalism, which in its time was a real and serious matter, becomes just an illusion with which to castrate the workers' revolution.
 
@@ -165,7 +165,7 @@ It wasn't a question of reducing the historical conflict from a national to the 
 
 The idea of organisations forming confederations of workers in each town, and each town declaring itself politically independent, is therefore now defunct. Bourgeois illusions about self-government still survive, however, and will continue to befuddle the minds, and paralyse the hands, of working class militants for a long time to come.
 
-The other forms of workers' "immediate" organisation would have a longer and more complex history, with a tendency to get caught up in the craft and professional trade unions, industrial unions, and the factory councils. Insofar as such forms are proposed as alternatives to the revolutionary political party, the history of these movements and the doctrines which are more or less confusedly based upon them, coincide with the history of opportunism during the 2nd and 3rd Internationals. As we have covered the subject on numerous occasions elsewhere, we will give only a brief summary here, but we will remark that the European masses are still largely ignorant of their class's history, and they will really need to learn from the immense sacrifices which have been made one day, and treasure them,
+The other forms of workers' "immediate" organisation would have a longer and more complex history, with a tendency to get caught up in the craft and professional trade unions, industrial unions, and the factory councils. Insofar as such forms are proposed as alternatives to the revolutionary political party, the history of these movements and the doctrines which are more or less confusedly based upon them, coincide with the history of opportunism during the 2nd and 3rd Internationals. As we have covered the subject on numerous occasions elsewhere, we will give only a brief summary here, but we will remark that the European masses are still largely ignorant of their class's history, and they will really need to learn from the immense sacrifices which have been made one day, and treasure them.
 
 The history of localism, and of so-called anarchist and libertarian communism, is the story of opportunism within the 1st International. Marx fought to free the International of these tendencies by means of both theoretical criticism, and hard organisational struggle against Bakunin and his intractable supporters in France, Switzerland, Spain and Italy.
 
@@ -177,7 +177,7 @@ As far as Marxist doctrine is concerned, from that time on it was equipped with 
 
 Those who substitute "people" for class, by prioritising the proletarian class above the party, believe they are rendering it a supreme homage whilst in fact they are declassing it, drowning it in "popular" confusion, and sacrificing it on the altar of counter-revolution.
 
-### THE MYTH OF THE REVOLUTIONARY TRADE UNION
+### The Myth of the Revolutionary Trade Union
 
 By the end of the 19th century, the political parties of the proletarian class in Europe had become large and powerful organisations. Their role model was the German "Sozialdemokratie", which after a long struggle had forced the bourgeois Kaiserist State to repeal Bismark's special anti-socialist laws, and had also steadily increased its share of the votes and the parliamentary seats at each successive general election. This party was supposed to be the depository of Marx and Engel's tradition, and to this fact was due the prestige it enjoyed within the new 2nd International when it was set up in 1889.
 
@@ -195,7 +195,7 @@ These currents, which in Russia were represented by the bolshevism of Plekhanov 
 
 The primary form of proletarian organisation for the syndicalists was the economic trade union, whose main task was supposed to be not only leading the class struggle to defend the immediate interests of the working class, but also preparing, without being subject to any political party, to lead the final revolutionary war against the capitalist system.
 
-### SORELIANS AND MARXISM
+### Sorelians and Marxism
 
 A complete analysis of the origins and evolution of this doctrine, both as we find it in Sorel's work, and in the multifarious groups which in various countries subscribed to it, would take us too far off our track; at this point we shall therefore just discuss its historical balance sheet, and its very questionable view of a future non-capitalist society.
 
@@ -211,7 +211,7 @@ Sorel and his followers are actually far removed from Marxist determinism, and t
 
 We are not really interested in following the logical evolution of Georges Sorel's thinking after that: idealism, spiritualism, and then a return to the womb of the Catholic Church.
 
-### THE TEST OF THE FIRST WORLD WAR
+### The Test of the First World War
 
 As already stated above, we certainly can't provide here an in-depth analysis of the crisis of socialism which occurred in August 1914 at the outbreak of the First World War. We just need to see if the crisis affected only the political parties, or the trade unions, and indeed the syndicalist ideologists, as well. And the latter, although never thinking of themselves as a party, were in fact precisely that; indeed their members were drawn mainly from the petty-bourgeois class, despite their superstitious attachment to notions of working-class purity. At that time, in typical anarchist fashion, the syndicalists consisted of a variety of ill-defined "groups" which declared themselves to be non-political, non-electoral, non-parliamentary, and non-party etc, etc. And we have plenty of contemporary examples to show that this show of chaste reserve with regard to political parties and revolutionary politics doesn't stop these free and easy "groupists" from joining bourgeois and opportunist parties, or even fighting in electoral campaigns for filthy class traitors. Autonomy rules!
 
@@ -233,7 +233,7 @@ In Italy, the Confederation of Labour was confronted with the Italian Syndicalis
 
 The socialist party acquitted itself rather better: when Mussolini walked out in October 1914, at the Milan section's expulsion meeting not one voice was raised on his behalf.
 
-### THE FACTORY ORGANISATION
+### The Factory Organisation
 
 In the first place, the idea that the proletarian political party should be sacrificed in order to shift the centre of revolutionary gravity towards the trade unions involves a complete abandonment of the basic tenets of Marxist theory. It is thus a view which only receives support from those who have abjured Marxism's philosophical and economic creed (as did the Sorelians eventually, and the Bakunians right from the start); it is a view, moreover, which history has shown to be totally baseless. The argument that political parties allow non-working class elements to join, and that these elements end up in the executive posts, whilst this never occurs (simply not true) in the trade unions, flies in the face of the most resounding historical evidence to the contrary.
 
@@ -263,7 +263,7 @@ If the ridiculous search for "content" is applied to a fully socialist society, 
 
 Those who have taken up these ideologies have shown their total inability, both theoretically and in practice, to struggle for anything beyond a pale imitation of bourgeois society. What they really want is their own autonomy from the power of the class party and the revolutionary dictatorship. When Marx was still very young, and imbued with Hegelian ideas (ideas which these people still believe in even now) he would have answered that those who seek proletarian autonomy find instead bourgeois autonomy, raised up as an eternal model of mankind (see _On the Jewish Question_).
 
-### HISTORY OF "FACTORY SOCIALISM"
+### History of "Factory Socialism"
 
 The ancestors of the Italian Ordinovist factory councils are the old anglo-saxon craft-guilds, which were formed not to fight against bourgeois employers but against feudal lords and rival guilds.
 
@@ -289,7 +289,7 @@ It was the final bankruptcy of that system of ideas which rejects revolution as 
 
 The Italian Ordinovist current had not yet gone so far as declaring the political party unnecessary since it broadly agreed with the 3rd International tactic of establishing contacts with other proletarian parties, even reformist and opportunist ones, since it supported the idea of a class-front composed of manual workers, industrialists and the petty-bourgeoisie. But future events, and the triumph of opportunism within Italy and the Communist International, would show that the doctrine of self-sufficient factory councils (with their own little self-contained revolutions), was a very dangerous starting point; as indeed was the illusion that communist victory was assured as soon as individual enterprises had passed from the hands of the management into those of their employees. In fact Communism involves the reorganisation of the whole of human life, and the old productive model -- to which the spontaneously arisen networks of trade-union and factory based organisations subscribe -- needs to be denounced, and then totally destroyed from top to bottom.
 
-### A FUTILE RETURN TO VACUOUS FORMULAS
+### A Futile Return To Vacuous Formulas
 
 The great Russian tragedy has been accompanied at every stage of its involution by attempts to breathe life into new forms of proletarian organisation. And this in despite of the fact that political party and Dictatorship of the Proletariat were considered central factors by the great pioneers of the October Revolution; central to their immense organisational effort which carried them to the forefront of the proletarian, anti-capitalist, advance which menaced capitalism at the end of the First World War.
 
@@ -323,9 +323,9 @@ The present Russian opportunists, in their mad dash towards a total repudiation 
 
 No further _a posteriori_ or historical evidence is required to show the sheer inconsistency of this hackneyed, insidious and irritating slogan, and the essential part it has played in the liquidation of the revolutionary party.
 
-## III. THE PETTY-BOURGEOIS DISTORTION OF THE FEATURES OF COMMUNIST SOCIETY IN THE "SYNDICALIST" AND "ENTERPRISE SOCIALIST" CONCEPTIONS OF PROLETARIAN ORGANISATION
+## III. The Petty-bourgeois Distortion of the Features of Communist Society in the "Syndicalist" and "Enterprise Socialist" Conceptions of Proletarian Organisation
 
-### THE POLITICAL PARTY IS IRREPLACEABLE
+### The Political Party Is Irreplaceable
 
 The view that the organisations formed by workers to conduct their struggles should be entirely structured around the production network of the bourgeois industrial economy -- a view taken to its furthest extreme in Gramsci's system and revived today by various anti-Stalinist groups -- has proved to be entirely ineffectual in practice and invariably goes hand in hand with a failure to identify the fundamental differences between the economic structure of today and tomorrow: between the present capitalist society and the communist society which will take its place after the victory of the proletarian class. Any such theory therefore falls far short of the Marxist critique of the present capitalist economic system.
 
@@ -335,7 +335,7 @@ The features of a non-capitalist and non-mercantile society which emerge from a 
 
 The way to overcome this short-coming -- which will involve many battles along the way -- is through forming organisations which avoid modelling themselves on those drawn from the bourgeois world. These organisations are the proletarian party and the proletarian State, within which the society of tomorrow crystallizes in advance of its existence in a historical sense. Within those organisations which we define as "immediatist", which copy and bear the physiological imprint of present-day society, all they can do is crystallize and perpetuate this society.
 
-### THE "COMMUNE" FORM
+### The "Commune" Form
 
 It is a very strange fact that the libertarians, who around 1870 or so engaged in their polemics against Marx in the First International, and whose short-sightedness we have already referred to, are still widely considered to be "to the Left" of Marx. Actually, in spite of their verbal opposition to militarism and patriotism, they never grasped the importance of going beyond the purely national level when criticising bourgeois economy and studying how it spreads onto the global scale.
 
@@ -353,7 +353,7 @@ In fact, these various communes would have no option but to trade amongst each o
 
 This imaginary system of little economic communes is nothing more than a philosophical caricature of that age-old petty-bourgeois dream self-government. It can easily be seen that this system is just as mercantile as the one which existed in Stalin's Russia or in the increasingly anti-proletarian post-Stalinist Russia, and it is equally clear that it involves a totally bourgeois system of monetary equivalents (without a State mint?!) which is bound to weigh down the average productive labourer far more than a system of national or imperialist, large-scale industries.
 
-### THE "TRADE UNION" FORM
+### The "Trade Union" Form
 
 So far, we have been elaborating the historico-political part of our criticism of the trade-unionist (or syndicalist) conception of the proletarian struggle. Using the bitter proof of past experience, we have highlighted the doctrinal insufficiency and the ineptitude of the formula "Trade unions versus the bourgeois State": a formula put forward with the intention of getting rid of not only the organ of political struggle, the party, but also the organ of social direction -- as indispensable as it is historically transitory -- represented by the revolutionary State which Marx envisaged.
 
@@ -367,7 +367,7 @@ We should not forget that, within the framework of the organisations of economic
 
 Whereas individual trade unions and leagues, and even their national federations, being much less unitary and centralised, suffer the limitations of particular trade interests, which concern themselves with short-term, restricted demands, the chambers of labour of city and country, by developing solidarity amongst workers from different trades and workplaces, were more inclined to consider class problems at a deeper level. Even though the locally based nature of these organisations meant they couldn't completely free themselves of those defects which we examined earlier on (in our criticism of localist and "communalist" forms), real political problems were discussed there, not in the trite electoral sense, but in terms of revolutionary activity.
 
-### THE VIGOUR OF INTER-SYNDICAL FORMS
+### The Vigour of Inter-syndical Forms
 
 We could mention many episodes, which occurred in those post world war Red Years, in which the specific and highly active organ of the chambers of labour, the General Council of the Leagues, rallied the Italian workers to mass movements and uprisings, often entirely bypassing the trade-union officials by openly issuing their appeals in the name of socialist and then communist groups.
 
@@ -383,7 +383,7 @@ Within the trade-union organisation network, therefore, we can see how each trad
 
 During the present phase of Stalinist opportunism, even this one, last, precious resource has been destroyed. And since the Chambers of Labour, as main venues for the hectic meetings of the most combative workers, no longer exist (traditionally, thousands of workers used to attend every evening, making it easy for decisions to reach the whole area by the next morning) today's horrible, rose-tinted union officials have replaced it with corridors full of rows of bureaucratic counter windows, where each isolated, intimidated worker goes to ask what is due to him; or to accept orders from on high about some stupid, little action, so that he may later whisper around the orders, and bewail the latest castrated strike.
 
-### THE ECONOMIC FUNCTION
+### The Economic Function
 
 Let us suppose the working class had defeated the established order by trade-union action alone, and that a new economic and productive activity had started to unfold after bourgeois control was eliminated. In the case of a city with a strong, centralised and closely linked trade-union organisation, such a hypothesis is perhaps least far from reality, but we are still left with the objections we made about the "communal" form; as to the possibility of attaining a definitive victory in a particular city or region without having achieved it in the neighbouring areas of the same country too.
 
@@ -399,7 +399,7 @@ In the socialist economy, it is not the individual who makes decisions about pro
 
 In bourgeois society, the proletarian produces whatever the capitalist requires (or put in a more generalised and scientific way whatever the general laws of the capitalist mode of production require; whatever the inhuman monstrosity of capital requires) but as far as his own consumption is concerned, although restricted in terms of quantity, the proletarian can consume whatever, and however, he likes. In Socialist society, individuals will not be free to make "independent" choices regarding what productive activities they take part in, and what they consume, as both these spheres will be dictated by society, and in the interests of society. By whom? is the inevitable stupid question. To which we unhesitatingly reply: in the initial phase it will be the "dictatorship" of the revolutionary proletarian class, whose only organ capable of arriving at a prior understanding of the forces which will then come into play is the revolutionary party; in a second historical phase, society as a whole will exert its will spontaneously through a diffused economy, which will have abolished both the independence of classes and of individual persons, in all fields of human activity.
 
-### THE SAME OLD CONTROVERSY
+### The Same Old Controversy
 
 At each step of the way our discussion has turned up formulas which appear rather strange. As a result, we feel obliged to stop every now and again, and patiently explain that our clearly defined school of Marxism has abided by these formulas for more than a century. But we are also keen to explain that it is not only the Stalinists and the rickety Semi-Stalinists currently in power who make us sick, but also the anti-Stalinists, currently swarming around like a plague of locusts who simply echo the corrected and 'enriched' _old-fashioned_ Marxism of their alleged opponents, and who are content instead to break their lances on the violators of 'autonomy', attributing to such violations the constant succession of revolutionary defeats.
 
@@ -419,7 +419,7 @@ Slaves would be in a position of "Class autonomy" if they were to declare 'we ar
 
 The concepts expressed here are all to be found, word for word, in Marx's writings as we will now proceed to demonstrate.
 
-### UNFORGETTABLE WORDS
+### Unforgettable Words
 
 The syndicalist and labourist currents -- all of which we prefer to call "immediatist" because they confuse dialectically distinct moments of current organisation, historical development and revolutionary theory -- would like to restrict the entire historic cycle of the proletarian class to a simple enrolment of the workers in particular factories, trades or other small isolated sectors, and they base everything on this cold, lifeless model. And therein lies their fundamental error. Marxist determinism, on the other hand, destroys the bourgeois fiction of "the individual", "The person", "the citizen", and reveals that the philosophical attributes of this mythical entity are nothing but a universalization and eternalization of the relations which benefit the individual member of the modern ruling class, the bourgeois, the capitalist, the owners of land and money, the merchant. Having turned this wretched idol, the individual, on its head, Marxism replaces it with the economic society, which is "temporarily a national society".
 
@@ -441,7 +441,7 @@ A few lines on, Marx derides the formula of democratic control of the working pe
 
 But the passage from the same text which shows what is, for us Marxists, the form of tomorrow's society is this: "The workers' desire to create the conditions for cooperative production on a social and, by beginning at home, at first on a national scale, means nothing beyond that they are working to revolutionise the present conditions of production; it has nothing in common with the foundation of cooperative societies with State aid!".
 
-### ON THE SCALE OF SOCIETY AS A WHOLE
+### On the Scale of Society as a Whole
 
 This passage, along with many similar ones, is enough to establish that anyone who sinks from the "level of society", which at a certain historical point prior to the conquest of power coincides with the "national level", down to federal/trade-union levels (municipal, individual enterprise level, or worse still), falls into immediatism, betrays Marxism, and lacks any conception of communist society: in other words, they are nothing to do with the revolutionary struggle.
 
@@ -465,7 +465,7 @@ In this fictitious programme, not only production is not carried out by society 
 
 We'll finish this doctrinal part by taking another passage from _Critique of the Gotha Programme_, directing it at both the "immediatists" and, the "State capitalists" to remind them that the task of our indispensable proletarian dictatorial State is not to liberate capital, but to repress it, along with those who defend it whether they be bourgeois, petty-bourgeois, or even proletarian (that is those enslaved by bourgeois or lumpen-bourgeois tradition). It is a passage which Marx wrote to ridicule the "minimalist" proposal of a "single progressive income tax" (as it exists today in Russia): "Income tax presupposes varied sources of income for varied social classes, and HENCE CAPITALIST SOCIETY".
 
-### THE RUSSIAN EXPERIENCE AND LENIN
+### The Russian Experience and Lenin
 
 In the period between the 1920 and the 1921 international communist congresses, a debate took place at the 10th congress of the Russian party (3-16 March, 1921) with the so-called "Workers' opposition" (we've covered this topic in greater depth elsewhere in our study of Russia). We should remark that the oppositional stance put up by the Italian Left in 1920/21 (see our publication _La Question Parlementaire dans L'Internationale Comuniste_) was very different from the line of this opposition, which was harshly defined by Lenin as a "syndicalist and anarchist deviation within our party".
 
@@ -495,7 +495,7 @@ This passage emphasises the inferiority of all the immediate organizations with 
 
 In this same text Lenin denies that the 1919 programme of the Russian party had ever conceded the function of economic management to the trade unions. Certainly a few sentences from that programme spoke about the management of the whole of the national economy as "a single economic entity", and of the "indissoluble ties between the central State administration, the national economy and the broad masses of working people" as a target to be achieved, on condition that the Trade unions "divest themselves of the narrow craft-union spirit, and embrace the majority and eventually all of the working people".
 
-### TRADE UNIONS AND STATE CAPITALISM
+### Trade Unions and State Capitalism
 
 The question of the Trade Unions and centralised State economic management would be back on the agendae in Russia, and indeed in the rest of the world, because it constitutes a modern, convenient expedient for the capitalism of every country, especially in the United States.
 
@@ -511,7 +511,7 @@ In the contrary situation -- the decidedly progressive stage of State capitalism
 
 This task -- the end point of centuries and centuries of tortured history -- is exactly contrary to the dreams and superstitions of the 'immediatist' school of book-keepers and second-hand dealers, each generation of which wants to get its stunted hands on the advantages it would reap from "autonomously confederating".
 
-### THE FACTORY-BASED FORM
+### The Factory-based Form
 
 After our detailed examination of the 'immediatist' vision of a post-capitalist society managed by the trade unions, all the defects of the "factory council" form can be clearly seen.
 
@@ -531,7 +531,7 @@ Because "the redemption of the working class consists in the abolition of all cl
 
 Many generations have come and gone, three Internationals have lived and died. We have seen hundreds of people shuffle off this mortal coil who thought they could go one better than Marx and Lenin, without even attaining the level of that incorruptible bourgeois, Maximilien Robespierre: who for 160 years has lain under the tombstone marking the death of all New Orders!
 
-### MARXISM AND "COUNCIL ECONOMY"
+### Marxism and "Council Economy"
 
 Out text demonstrates the irreconcilable antithesis between Marxism and Gramscism. This is a subject which interests us not so much because of the history of the polemics between him and us, but because there are groups of confused anti-Stalinists and squalid epigones who still want to revive these positions.
 
@@ -557,7 +557,7 @@ In the Five Year Plan -- fashioned on the pattern of the economy of the Soviet U
 
 Can it be that the new order, in Turin and Moscow, is already beginning to display less brilliant curves?
 
-### A FEW CONCLUDING REMARKS
+### A Few Concluding Remarks
 
 We have concentrated on comparing the socialist and Marxist vision of future society with the "vision" of the immediatists (i.e. those who distrust the State-form and the Party-form seen by Marx, Lenin and ourselves as the essential prerequisites of revolution), but we haven't yet stopped, although we've flicked through the 'Marginal Notes' part of the _Critique of the Gotha Programme_, to examine the fundamental difference between the lower and higher stages of socialism, classically reinstated by Lenin.
 
