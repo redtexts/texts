@@ -3,7 +3,7 @@ Author:		Amadeo Bordiga
 Description:	Originally published in Rassegna Comunista in February 1922, republished in Communist Program (the ICP journal) in 1982, and finally posted online on Antagonism's site at http://www.oocities.org/CapitolHill/Lobby/3909/bordiga0.html
 Date:		1922
 Posted:		2016-01-01
-Modified:	2016-05-12
+Modified:	2016-05-13
 CSS:		../files/style.css
 
 {{../files/article_header.txt}}
@@ -35,6 +35,7 @@ This metaphysical presupposition, incompatible with the Marxist critique, is cha
 ## II
 
 To these arbitrary constructions of social constitutions, whether aristocratic or democratic, authoritarian or liberal, as well as to the anarchist conception of a society without hierarchy or delegation of power, which is rooted in analogous errors, the communist critique opposed a much more thorough study of the nature and causes of social relations in their complex evolution throughout human history and a careful analysis of their characteristics in the present capitalist epoch from which it drew a series of reasoned hypotheses about their further evolution. To this can now be added the enormous theoretical and practical contribution of the proletarian revolution in Russia.
+
 It would be superfluous here to develop the well-known concepts of economic determinism and the arguments which justify its use in interpreting historical events and the social dynamic. The apriorism common to conservatives and utopians is eliminated by the analysis of factors rooted in production, the economy, and the class relations they determine. This makes possible a scientific explanation of the juridical, political, military, religious and cultural facts which make up the diverse manifestations of social life.
 
 We will merely retrace the historical evolution of the mode of social organization and grouping of men, not only in the state, an abstract representation of a collectivity fusing together all individuals, but also in other organizations which arise from the relations between men.
