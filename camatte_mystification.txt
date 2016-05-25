@@ -3,7 +3,7 @@ Author:		Jacques Camatte
 Description:	Published in 1969 in French. This English translation was found at http://www.oocities.org/~johngray/demyst.htm. This was intended to form part of a longer work, which explains the numbering found in the text. More publication details can be found on the original page, linked above
 Date:		1969
 Posted:		2016-01-01
-Modified:	2016-04-06
+Modified:	2016-05-24
 CSS:		../files/style.css
 
 {{../files/article_header.txt}}
@@ -90,7 +90,7 @@ Twentieth century theorists are corporatists because they think that it is only 
 
 Marx always denounced the swindle of politics and laid bare the real relations:
 
->"Therefore it is a natural necessity , the essential human properties however estranged they may seem to be, and interest that hold the members of civil society together; civil , not political life is their real tie." ('The Holy Family', Collected Works, Vol. 4, p. 120)
+>"Therefore it is a natural necessity, the essential human properties however estranged they may seem to be, and interest that hold the members of civil society together; civil, not political life is their real tie." ('The Holy Family', Collected Works, Vol. 4, p. 120)
 
 >"Precisely the slavery of civil society is in appearance the greatest freedom because it is in appearance the fully developed independence of the individual, who considers as his own freedom the uncurbed movement, no longer bound by a common bond or man, of the estranged elements of his life, such as property, industry, religion, etc., whereas actually this is his fully developed slavery and inhumanity. Law has here taken the place of privilege." ('The Holy Family', Collected Works, Vol. 4, p. 116)
 
