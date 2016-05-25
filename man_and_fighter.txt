@@ -3,7 +3,7 @@ Author:		Boris Nicolaievsky and Otto Maenchen-Helfen
 Description:	Digital version 1.0. Produced for http://www.redtexts.org and based on Archive.org's scan of the 1936 original British edition. The only intentional changes made to the original text are to indicate misspellings; to move English translations of German and French into the body of the text, rather than footnotes; and to exclude the index. It is believed that the original text is now in the public domain. This ebook is entered into the public domain
 Date:		1936
 Posted:		2015-08-01
-Modified:	2016-03-24
+Modified:	2016-05-24
 CSS:		../files/style.css
 
 {{../files/article_header.txt}}
@@ -634,7 +634,7 @@ Zu Briten and Römern sich betten,
 Plattnasige düstre Kaffern zu  
 Alabasterweissen Grisetten.  
 Ja, ändern wird sich die ganze Welt  
-Durch diese moderne Leitung-  
+Durch diese moderne Leitung-
 Doch die schonsten Weiber bekommen die  
 Redakteure der_ Rheinischen Zeitung.
 
