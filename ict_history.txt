@@ -3,12 +3,12 @@ Author:		Internationalist Communist Tendency
 Description:	This document was written around 2009 by Jock for the International Bureau for the Revolutionary Party, now the Internationalist Communist Tendency, and can be found on their website at http://www.leftcom.org/en/articles/2009-07-01/the-italian-communist-left-a-brief-internationalist-history
 Date:		2009
 Posted:		2016-01-01
-Modified:	2016-05-14
+Modified:	2016-06-02
 CSS:		../files/style.css
 
 {{../files/article_header.txt}}
 
-_Text presented to the comrades of the EKS (International Communist Left) in Turkey on March 5th, 2009. [(1)][notes]_
+_Text presented to the comrades of the EKS (International Communist Left) in Turkey on March 5th, 2009 [(1)][notes]._
 
 >"We, the Internationalist Communist Party - Italian section of the International Bureau for the Revolutionary Party - come directly from the Italian Communist Left and have made the necessary steps forwards, facing the real dynamic of capitalism and the present nature of imperialism (which, remember, is not a policy). For us, the others coming from the tradition of the Italian Communist Left either abandoned its methodological general ground (and this is the case of the ICC) or like the Bordigists [(2)][notes] remained static (invariant?) with the 1921-1922 positions, leaving themselves outside the development of revolutionary perspectives for capitalism today." - Mauro Stefanini in an e-mail to a contact.
 
