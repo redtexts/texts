@@ -3,7 +3,7 @@ Author:		International Communist Party
 Description:	This text was published in four parts in the ICP's publication "Communist Left," starting in issue 21-22. Find all four parts at http://international-communist-party.org/CommLeft/CLIndex.htm
 Date:		2005-2009
 Posted:		2016-01-01
-Modified:	2016-03-24
+Modified:	2016-06-02
 CSS:		../files/style.css
 
 {{../files/article_header.txt}}
@@ -44,7 +44,7 @@ From a political and economic point of view various events would occur in this p
 
 The consequence of the war with Great Britain was a boost to the industrialisation of the North. Without the supply of goods from industries in Great Britain it became a pressing necessity to set up indigenous industries, and the preferred area for industrial expansion was -- due to the concentration of capital, the continual influx of manpower and the already entrenched commercial sector -- precisely the North, which to start with had been extremely opposed to the war. Among other things the government had to reconstitute in 1816 a Union bank, and also institute mild protective tariffs in order to protect the nascent industry from overseas competition. This matter of protectionism -- required by the industrial North in the interests of its immense internal market, and opposed by the South, exporter of agricultural products -- would come to overshadow every relationship between the two halves of the country.
 
-1818 would mark the controversial appearance of another key issue in North-South relations, slavery. The territory of Missouri was ready to be admitted as a full state of the Union, but it was proposed by a deputy from the North that admission should be conditional on a gradual abolition of slavery in that state. What prompted this demand and why did it give rise to a serious crisis? To understand this it is necessary to go a bit deeper into the question of slavery and examine the changes it had undergone in previous years. 
+1818 would mark the controversial appearance of another key issue in North-South relations, slavery. The territory of Missouri was ready to be admitted as a full state of the Union, but it was proposed by a deputy from the North that admission should be conditional on a gradual abolition of slavery in that state. What prompted this demand and why did it give rise to a serious crisis? To understand this it is necessary to go a bit deeper into the question of slavery and examine the changes it had undergone in previous years.
 
 ## The 'Peculiar Institution'
 
@@ -233,7 +233,7 @@ But when Ulysses S. Grant assumed command of the Federal forces in February 1864
 
 Another sector revolutionised by military technology, along with the engineers corps which assumed a hitherto unknown importance, was the cavalry. The cavalry's 'irresistible charges' had been rendered very resistible indeed by advent of the rifle barrelled gun, and it as well would have to be reorganised. Here adaption occurred very rapidly. Once the now suicidal charges were abandoned, the cavalry was used for several new purposes: tactically, to provide an impenetrable screen against enemy scouts when the army was on the march; for near and long-distance scouting expeditions; and for audacious attacks, sometimes far behind the enemy lines, against vital logistical objectives. It became a mobile troop, capable of moving with surprising speed and of fighting either on horse or foot. This was a very modern combination of functions which, at the beginning, the Southerners knew how to exploit to the full.
 
-Finally, at sea, there was another great innovation: the new ironclad battleships. Impervious to the cannon shot then available, they would, in their turn, initiate a new phase of naval warfare. 
+Finally, at sea, there was another great innovation: the new ironclad battleships. Impervious to the cannon shot then available, they would, in their turn, initiate a new phase of naval warfare.
 
 "From whatever standpoint one regards it, the American Civil War presents a spectacle without parallel in the annals of military history. The vast extent of the disputed territory; the far-flung front of the lines of operation; the numerical strength of the hostile armies, the creation of which hardly drew any support from a prior organisational basis; the fabulous cost of these armies; the manner of commanding them and the general tactical and strategic principles in accordance with which the war is being waged, are all new in the eyes of the European onlooker". Thus did Marx begin a famous article on the American Civil War dated 21 March, 1862. And from the strategic and tactical points of view as well, there are other distinctive features of the war which are worth briefly examining in order to understand it better.
 

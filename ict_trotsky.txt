@@ -3,7 +3,7 @@ Author:		Internationalist Communist Tendency
 Description:	This is a pamphlet of the Internationalist Communist Tendency, available at their website at http://www.leftcom.org/en/articles/2000-10-01/trotsky-and-trotskysm. Slight fixes were made to typos and formatting
 Date:		2000
 Posted:		2016-02-01
-Modified:	2016-03-24
+Modified:	2016-06-02
 CSS:		../files/style.css
 
 {{../files/article_header.txt}}
@@ -633,7 +633,7 @@ As can be seen in the pamphlet, our method is not to argue against Trotsky the m
 * **1934** Murder of Kirov in Leningrad began the Purges in the USSR. The so-called "French turn" when Trotsky urged his supporters in France to rejoin Social Democracy. Entryism became a Trotskyist trademark.
 * **1935** Trotsky moved to Norway. _The Revolution Betrayed_ published.
 * **1936** The Spanish Civil War began. Trotsky arrived in Mexico.
-* **1937** Japan invaded China. 
+* **1937** Japan invaded China.
 * **1938** Leon Sedov, Trotsky's son, murdered in Paris by Stalin's agents. Trotsky wrote _The Death Agony of Capitalism and the Tasks of the Fourth International_ (now known as the _Transitional Programme_). James Burnham and Max Schachtman of the Socialist Workers' Party urged Trotsky to abandon the degenerated workers' state formula.
 * **1939** The Hitler-Stalin Pact and the invasion of Poland that began the second imperialist war.
 * **1940** The murder of Trotsky by a Stalinist agent. The Fourth International continued to defend the USSR as a "degenerated workers' state" even after the invasion of Finland.

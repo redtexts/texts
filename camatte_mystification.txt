@@ -3,7 +3,7 @@ Author:		Jacques Camatte
 Description:	Published in 1969 in French. This English translation was found at http://www.oocities.org/~johngray/demyst.htm. This was intended to form part of a longer work, which explains the numbering found in the text. More publication details can be found on the original page, linked above
 Date:		1969
 Posted:		2016-01-01
-Modified:	2016-05-24
+Modified:	2016-06-02
 CSS:		../files/style.css
 
 {{../files/article_header.txt}}
@@ -66,7 +66,7 @@ It required conciliation to be able to dominate for it was impossible that domin
 
 Until this historical stage there was a more or less clear separation between production and distribution. Political democracy could be envisaged as a means of distributing products more equitably. But when the material community is achieved, production and distribution are indissolubly linked. The imperatives of circulation thus condition distribution. However circulation is no longer something completely external to production but is, for capital, an essential moment of its total process. It is thus capital itself which conditions distribution.
 
-All men fulfill a function for capital which fundamentally presupposes their existence. In relation to their execution of this function, men receive a certain distribution of products through the intermediary of a wage. We have a social democracy. Incomes policy is a means of achieving it. 
+All men fulfill a function for capital which fundamentally presupposes their existence. In relation to their execution of this function, men receive a certain distribution of products through the intermediary of a wage. We have a social democracy. Incomes policy is a means of achieving it.
 
 5.1.13. In the period of the formal domination of capital (political democracy) democracy is not a form of organisation opposed as such to capital, it is a mechanism used by the capitalist class to attain domination over society. During this period all the organisational forms included in this struggle achieved this same result. That is why the proletariat can also can for a certain time intervene on this terrain. On the other hand, oppositions can also occur within the same class, between the industrial and financial bourgeoisies, for example. Parliament is therefore an arena where these various interests clash. The proletariat can use parliament as a platform to denounce the democratic mystification and can use universal suffrage as a means to organise the class.
 
@@ -82,7 +82,7 @@ Society having found the being of its oppression (which abolishes the duality, t
 
 Only they did not understand that the proletariat not only had to destroy the old state machine, but also had to put another in its place. Many socialists believed that it was possible to conquer the state from inside and the anarchists believed that one could abolish it from one day to the next.
 
-Twentieth century theorists are corporatists because they think that it is only a matter of organising production and of humanising it to resolve all problems. They are immediatists. This is an indirect proof of the theory of the proletariat. To say that it is necessary to reconcile the proletariat with the economic movement, is to recognise that a solution can only emerge on this terrain . This immediatism arises from the fact that communist society is forever strengthening inside capitalism itself. It is not a question of reconciling the two, but of destroying the power of capital, its organised strength, the capitalist State, which maintains private monopoly when all economic mechanisms tend to make it disappear. The communist solution is mediate. Reality seems to evade the state, it is necessary to highlight it and, at the same time, to indicate the need for another transitory state: the dictatorship of the proletariat. 
+Twentieth century theorists are corporatists because they think that it is only a matter of organising production and of humanising it to resolve all problems. They are immediatists. This is an indirect proof of the theory of the proletariat. To say that it is necessary to reconcile the proletariat with the economic movement, is to recognise that a solution can only emerge on this terrain . This immediatism arises from the fact that communist society is forever strengthening inside capitalism itself. It is not a question of reconciling the two, but of destroying the power of capital, its organised strength, the capitalist State, which maintains private monopoly when all economic mechanisms tend to make it disappear. The communist solution is mediate. Reality seems to evade the state, it is necessary to highlight it and, at the same time, to indicate the need for another transitory state: the dictatorship of the proletariat.
 
 5.1.16. The development towards social democracy was discounted from the start:
 
@@ -124,6 +124,6 @@ The democratic principle in reality is only the acceptance of a given fact: the 
 
 This thesis often appears in the form: proletarian democracy is not bourgeois democracy, and one will talk of direct democracy to show that while the second needs a break, a duality (delegation of powers), the first denies this. The future society is thus defined as being the realisation of direct democracy.
 
-This is only a negative negation of bourgeois society, and not its positive negation. It still wants to define communism as a mode of organisation that would be more adequate to various human manifestations. But communism is the affirmation of a being, the true Gemeinwesen of man. Direct democracy appears to be a means for achieving communism. However communism does not need such a mediation. It is not a question of having or of doing, but of being. 
+This is only a negative negation of bourgeois society, and not its positive negation. It still wants to define communism as a mode of organisation that would be more adequate to various human manifestations. But communism is the affirmation of a being, the true Gemeinwesen of man. Direct democracy appears to be a means for achieving communism. However communism does not need such a mediation. It is not a question of having or of doing, but of being.
 
 {{../files/footer.txt}}

@@ -3,7 +3,7 @@ Author:		Adam Buick
 Description:	Written as a chapter of the 1987 book 'Non-Market Socialism in the Nineteenth and Twentieth Centuries.' Buick is a member of the Socialist Party of Great Britain. This version is based on the original internet version, still available at http://www.oocities.org/capitolhill/lobby/3909/bordbuik.html
 Date:		1987
 Posted:		2016-03-15
-Modified:	2016-04-06
+Modified:	2016-06-02
 CSS:		../files/style.css
 
 {{../files/article_header.txt}}
@@ -20,7 +20,7 @@ In 1975 a pamphlet called _Un Monde sans argent: le communisme_ (_A World Withou
 
 This pamphlet was published by a group which had been partly influenced by the situationists, as could be seen by their typically situationist name of The Friends of the 4 Million Young Workers. Above all, however, the group had been influenced in their ideas on a 'world without money' by the later writings of Amadeo Bordiga.
 
-## Who was Amadeo Bordiga 
+## Who was Amadeo Bordiga
 
 Amadeo Bordiga (1889-1970) had been before the First World War an active and prominent member of the 'intransigent' wing of the Socialist Party of Italy (PSI). Bordiga and his comrades called themselves 'intransigents' because they opposed reformist trends within the PSI. Grappling with the problem of how to prevent a socialist party becoming reformist, Bordiga at first advocated expelling freemasons and other open reformists and the submission of the parliamentary group to the strict control of the party organisation outside parliament. Towards the end of the war he took this line of reasoning even further, arguing that, to avoid becoming reformist, the party should abstain from parliamentary activity altogether since it was seeking votes to get elected that obliged it to adapt itself to the reform-minded consciousness of the majority of workers. Eventually, Bordiga came to the view that the solution lay in the socialist party being an elite party, composed exclusively of socialists, which would not consider itself bound to take into account the views of the working class before taking action to try to achieve socialism. As this corresponded to a large extent to what Lenin and the Bolsheviks were saying (at least up until 1921), Bordiga became one of their partisans in the West.
 

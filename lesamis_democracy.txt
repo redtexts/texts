@@ -3,7 +3,7 @@ Author:		Les Amis de 4 Millions de Jeunes Travailleurs
 Description:	A section of the book 'Un Monde Sans Argent: Le Communisme,' written in French in 1975-1976 and originally translated and posted online at http://reocities.com/~johngray/monde603.htm
 Date:		1975-1976
 Posted:		2016-01-01
-Modified:	2016-03-24
+Modified:	2016-06-02
 CSS:		../files/style.css
 
 {{../files/article_header.txt}}
@@ -58,6 +58,6 @@ Is communism the advent of liberty? Yes, if one understands by this that mankind
 
 What we challenge is the philosophy which opposes free-will and determinism. This separation reflects the opposition of man and the world, individual and society. It expresses the rootlessness of the individual and his inability to understand his own needs in order to satisfy them. He can choose between a thousand types of work, a thousand forms of leisure, a thousand loves and be influenced in a thousand ways because nothing truly affects him. No certainty lives within him. He doubts everything and first of all himself. In doing this he is ready to support everything and often believes he has chosen it. Liberty presents itself as the philosophical garb of misery. Doubt as the expression of freedom of thought when really it signifies loss, the inability of man to situate himself in his world.
 
-In the course of the revolution man loses his chains but finally becomes linked simultaneously to his desires and to the necessities of the moment. He becomes passionate once again and begins to understand himself. The extraordinary climate of joy and tension within insurrections is linked to the feeling that everything is possible and at the same time that what one does must be done urgently. That one must no longer hesitate and be blown back and forth between petty tasks. Subjective and objective constraints merge together. 
+In the course of the revolution man loses his chains but finally becomes linked simultaneously to his desires and to the necessities of the moment. He becomes passionate once again and begins to understand himself. The extraordinary climate of joy and tension within insurrections is linked to the feeling that everything is possible and at the same time that what one does must be done urgently. That one must no longer hesitate and be blown back and forth between petty tasks. Subjective and objective constraints merge together.
 
 {{../files/footer.txt}}
