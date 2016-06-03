@@ -3,7 +3,7 @@ Author:		International Communist Current
 Description:	Writen by 'JJ' for International Review 76, in 1994. Available online at https://en.internationalism.org/ir/076_index.html
 Date:		1994
 Posted:		2016-02-29
-Modified:	2016-06-02
+Modified:	2016-06-03
 CSS:		../files/style.css
 
 {{../files/article_header.txt}}
@@ -97,7 +97,9 @@ JJ.
 ## Reference articles
 
 * ICC pamphlet _The Decadence of Capitalism_.
+
 * _International Review_ no 31: "Machiavellianism, the consciousness and unity of the bourgeoisie."
+
 * _International Review_ no 66: "The massacres and crimes of the 'great democracies.'"
 
 {{../files/footer.txt}}

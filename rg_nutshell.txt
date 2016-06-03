@@ -177,8 +177,11 @@ Capitalists advance more than just wages. To exploit labour-power and to extract
 So, a commodity production which goes out each day from a factory will be made up by:
 
 * a fraction of the value of the machines and what is more generally referred to as _fixed capital_ (the fixed part of constant capital); this value is not transferred all at once, but little by little, and is what economists call value of amortization;
+
 * the value of the raw materials, fluids, etc. that go into the product; this is what is called the _circulating_ part of _constant capital_;
+
 * the value of the wages paid to proletarians corresponding to the _variable capital_; this is the part of the working day that is paid for, which Marx calls _necessary labour_.
+
 * and, finally the _surplus-value_ produced during the working day by these same proletarians, which corresponds to the part of the working day that is _surplus-labour_.
 
 The value of a commodity therefore boils down to the amount of labour it contains, that is to say the amount of labour-time necessary to produce it bringing together all stages of its production. The raw materials that will be transformed are themselves products of labour, and therefore have in turn an exchange value in the capitalist mode of production. This value (as well as the spent fraction of the fixed capital) is added to the value that is created during the production of the new commodity. Marx says that the value of this constant capital is _transferred_ to the product.
@@ -296,7 +299,9 @@ Marx calls this phenomenon the _tendential fall in the rate of profit_. This is 
 Among these counteracting factors, Marx highlights:
 
 * The increase in the exploitation of the labour-power through the development of the productivity and intensity of labour;
+
 * The depreciation of the elements of constant capital: the calculation we have applied to the value of v also applies to c. Suppose that where before it took 50 hours to build a machine, now it only takes 25. This means that the portion of c represented by this machine has had its value cut in half. In the same way, if the rise in productivity overtakes the production of raw materials and intermediate products, the value of these items decreases. Capital has therefore succeeded in increasing the *technical composition* of capital while holding up the rise of the *value composition*. This is why that to define the organic composition of capital we say that it is the value composition, insofar as it reflects the technical composition.
+
 * Relative surplus population. There exists in society an unemployed or underemployed population which carries weight to technical progress because capital may prefer to employ underpaid workers rather than invest in modernization. This is the case for luxury industries in general, and the tendency to develop luxury follows the development of capital, particularly when it comes to satisfying the needs of the upper middle-classes. Generally speaking, the development of branches which employ more than the average amount of living labour helps to counteract the tendential fall in the rate of profit.
 
 ### 2.11 The cycle of accumulation
@@ -398,6 +403,7 @@ All these phenomena indicate that wage-labour does not _sensu stricto_ imply a r
 The considerable expansion of the productivity of labour since the Second World War can be explained in two ways.
 
 * The first is that this social wealth is produced by the _totality_ of the wage-earning population. And yet, in the developed world, this population receives an equivalent that varies between half and two-thirds of the GDP. Then it is easy to conclude that both the absolute and the relative exploitation of the proletariat (which in this case is taken together with the general wage-earning population) will not worsen, and that the interests of capital and labour are therefore compatible.
+
 * The second is to maintain Marx's crucial distinction between the productive and unproductive portions of the employed population, the latter of which may be wage-earners themselves. In this case, it is necessary to bring back the production of surplus-value to the sole productive portion. This means that the value and surplus-value are produced by the proletariat alone and not by the totality of the wage-earnings. As a result, it is clear that the exploitation of the proletariat is much greater than the first explanation allows and it is shown that the interests of labour are irreconcilable with those of capital.
 
 The consequence of this last point in determining the possibility of communism is crucial; in fact, the concentration of the productive sphere on the proletariat, and not on wage-earnings as a whole, shows the unprecedented productivity attained through the development of the capitalist mode of production, productivity whose product _must_ be wasted to avoid the pot boiling over. This shows the amazing capacities of a reorganization of productive functions; the elimination of a number of unproductive sectors, even socially harmful, and the generalizing of productive labour throughout the society as a whole while decreasing individual labour-hours, would bring about considerable changes from the very first phases of a revolutionary process.
@@ -445,13 +451,17 @@ At the same time, fictitious capital (shares and the like) also swells under the
 The quest for maximum surplus-value takes several forms:
 
 * lengthening of the working day;
+
 * raising of the productivity.
 
 Other forms favour the creation of more value and surplus-value simultaneously, such as:
 
 * developing the intensity of labour, which involves creating more commodities of the same value in the same amount of time;
+
 * developing the complexity of labour, meaning the same labour power will produce more or less value depending on the type of the labour, simple or complex, it is being used for;
+
 * developing the quality of labour, meaning the more qualified labour power has relatively more value than a less qualified one producing more value in the same amount of time;
+
 * optimizing the position of national labour in the international division of labour [(8)][notes].
 
 In doing so while also continuing to pursue its ultimate goal: maximum surplus-value, capitalist production develops productive powers within the limits proper to this mode of production. Upon doing so, the potential of production, and overproduction, is increasingly important. In order to postpone this contradiction and counteract its effects, capital implements a series of responses different in nature. We can classify them according to the type of their responses:
@@ -557,23 +567,33 @@ These measures, which may vary from one country to another and the setup of whic
 Labour:
 
 * An immediate and drastic reduction in working hours and integration of polytechnic training within these working hours, including among other things, how to manage the proletarian semi-State whose organisation goal is ultimate simplification.
+
 * The generalization of labour and of manual labour among all members of society who are in working-age and capable to work.
+
 * The banning of all night work and any unnecessary shift work other than in healthcare, security ...
+
 * The creation of measures that socialize domestic labour like cooking, cleaning, laundry, childcare ...
+
 * A rotation of and division of collective tasks through civil service.
 
 Economy:
 
 * The development of the public sector through free access to services such as healthcare and education ...
+
 * The State-ownership of banks and insurance, creating a unique new entity.
+
 * The setting up of social planning and accounting to allocate labour power among the major branches of industry.
+
 * The proletarian State ownership of major corporations.
+
 * The creation of measures that help unify small companies into larger entities, and the pooling of resources to increase social productivity, one of the conditions to reduce working hours.
+
 * The abolishment of indirect taxes. Progressive income tax. The abolishment of inheritance. The institution of a social pass based on working hours (the equivalent of the labour-time vouchers promoted by Marxism in the 19th century) for managing individual consumption. This pass is not money, because it cannot be accumulated and cannot be used to pay a salary to labour-power.
 
 Territory organisation:
 
 * The requisition of housing so as to immediately remedy conditions for those living in poor housing.
+
 * The halting of construction development in large cities and their suburbs. The creation of measures that help reconcile the town and the country. The development of labour-power in the agriculture, forestry, and ocean industries.
 
 Security:
@@ -583,9 +603,13 @@ Security:
 Administration:
 
 * The abolition of parliaments and the dismantling of State and local administration in order to re-establish the management of social life within the community of associated producers.
+
 * The settlement of territorial councils (soviets) in charge of the administration of society and holding executive, legislative, and judiciary authority.
+
 * The election of responsible representatives that may be recalled at any time.
+
 * The representatives paid salaries equal to the average salary.
+
 * The unification of all countries having accomplished revolution and the abolition of borders.
 
 Education:

@@ -3,7 +3,7 @@ Author:		Internationalist Communist Tendency
 Description:	This is a pamphlet of the Internationalist Communist Tendency, available at their website at http://www.leftcom.org/en/articles/2000-10-01/trotsky-and-trotskysm. Slight fixes were made to typos and formatting
 Date:		2000
 Posted:		2016-02-01
-Modified:	2016-06-02
+Modified:	2016-06-03
 CSS:		../files/style.css
 
 {{../files/article_header.txt}}
@@ -582,63 +582,121 @@ Mexico, D.F. 9 May 1951_
 As can be seen in the pamphlet, our method is not to argue against Trotsky the man. This is not simply because _argumentum ad hominem_ is useless as a way to understand revolutionary history but also because we absolutely reject the bourgeois idea that history is really the history of great men. The life of Trotsky (and indeed of Lenin) is adequate testimony to the fact that individuals are not superior to material circumstances. We are aware, therefore, that the case we have presented here requires some understanding of the main historical events surrounding both Trotsky and the workers' movement as a whole. This chronological outline is intended to provide the context for our arguments.
 
 * **1879 October 26th** Lev Davidovich Bronstein, fifth son of Anna and David Leontevich Bronstein born at Yanovka, Southern Ukraine.
+
 * **1881** Assassination of Tsar Alexander II by Populists who believe Russia can avoid an industrial revolution on Western lines if they adopt the peasant _mir_ as their social unit. Populism became the most favoured political movement for Russian intellectuals at this period.
+
 * **1883** George Plekhanov with Vera Zazulich and Pavel Axelrod founded the Emancipation of Labour group, the first Russian Marxist organisation.
+
 * **1895** Lenin and Martov founded the League of Struggle for the Emancipation of the Working Class. Its leaders were immediately arrested and sent to Siberia.
+
 * **1897** The Southern Russian Workers Union founded by L.D. Bronstein and other former Narodniks (Populists) who now embraced Marxism and began leafletting factories.
+
 * **1898** Bronstein was arrested and moved around several prisons. In Odessa a gaoler, Trotsky, gave him the idea for the pen name by which he will be known.
+
 * **1900** The Russian Social Democratic Labour Party founded. Sentenced to four years in Siberia Trotsky married Alexandra Lvovna Sokolovskaya (who had earlier introduced him to Marxism) so that they could remain together.
+
 * **1902** Lenin wrote _What is to be Done_. Establishment of _Iskra_, for which Trotsky wrote (nicknamed Piero, 'The Pen'). Trotsky's first escape from Siberia.
+
 * **1903** Split in the Russian Social Democratic Labour Party into Bolsheviks and Mensheviks. Trotsky sided with Mensheviks.
+
 * **1904** Trotsky resigned from Menshevik fraction.
+
 * **1905 January 22nd** "Bloody Sunday": Massacre of peaceful demonstration of workers began a year of revolution. Trotsky (with Natalya Sedova) returned to Russia.
+
 * **November** Trotsky became the second Chairman of the St. Petersburg Soviet (after the arrest of Khrustalev-Nosar). Lenin wrote _Two Tactics of Social-Democracy in the Democratic Revolution_ in which he advocated "uninterrupted revolution". Trotsky arrested in December when the revolution collapsed.
+
 * **1907** Made his second escape from Siberia and settled in Vienna where he edited Pravda which preached re-uniting of the Bolshevik and Menshevik factions. Lenin described him as "that windbag Trotsky" at this time.
+
 * **1908** Stuttgart Conference of the Second International passes the motion proposed by Luxemburg, Lenin etc. to call for a general strike in the event of a European war. The Bosnian Crisis nearly led to war between Russia and Austria-Hungary. German support for Austria forced the Russian Empire to back down.
+
 * **1912** Basle Conference of the Second International repeated the same call.
+
 * **1914** Start of First World War. Leaders of Social Democracy ignore the resolutions of the Second International and support "their" own governments. Only the Russian, Bulgarian and Serbian parties oppose the war. Trotsky went to Switzerland and wrote _The War and the International_ which condemned the war before moving to France to work with Martov's anti-war paper, _Golos_ (_The Voice_) and writing for _Kievan Thought_.
+
 * **1915 February** Trotsky denounced Menshevism in _Nashe Slovo_.
+
 * **September** 38 Socialist delegates from eleven countries met at Zimmerwald to oppose the war. Trotsky wrote the Zimmerwald Manifesto against the war but did not join the Left who supported Lenin's internationalist position calling for "the imperialist war to be turned into a civil war."
+
 * **1916** The Kienthal Conference confirms the split between the "Left" and the pacifists. The French state prevent Trotsky's attendance.
+
 * **September** Trotsky expelled from France, arrived in the USA via Spain.
+
 * **1917 March** On hearing of the outbreak of the February Revolution Trotsky headed back to Russia but the steamer docked at Halifax, Nova Scotia so that he British interned him as a prisoner of war with 800 Germans. Trotsky's speeches to them on the Zimmerwald Conference were halted by the prison authorities.
+
 * **April** Lenin arrived in Petrograd. His _April Theses_ called for proletarian revolution, all power to the soviets, a new International and the adoption of the name communist by the Bolsheviks. Many Bolshevik leaders (including Trotsky's brother in law Kamenev) refused to accept them.
+
 * **May** "The July Days". Kronstadt sailors under the influence of Bolshevik slogans tried prematurely to get the Bolsheviks to take over from the Provisional Government. Trotsky rescued the leader of the SRs, Victor Chernov, from the angry sailors. The Provisional Government could muster enough military support to gun down the demonstrators and the Bolsheviks were proscribed. Trotsky announced his support for Lenin and was imprisoned.
+
 * **August** The attempted coup d'etat by General Kornilov forces Kerensky to _de facto_ relegitimise the Bolsheviks in order to mobilise popular support against his own Chief of Staff.
+
 * **September** Trotsky elected to the Bolshevik Party Central Committee. On 23rd September he was elected Chairman of the Petrograd Soviet.
+
 * **October** Trotsky supported Lenin's call for the overthrow of the Kerensky Government.
+
 * **October 24th** As Chairman of the Military Revolutionary Committee of the Petrograd Soviet (originally set up to organise the fight against Kornilov) Trotsky organised the takeover of power when Kerensky attempted a pre-emptive strike against the working class. Trotsky not only announced the overthrow of Kerensky but also on the 25th pronounced the famous final epitaph on the Mensheviks and Socialist Revolutionaries that they now should go to where they belonged "the dustbin of history".
+
 * **November** Debate in the Bolshevik Central Committee on the nature of the new power had Trotsky turning down Lenin's proposal that he, as Chair of the Soviets, should become head of the new government. When discussing what to call the new government Trotsky suggests the name 'peoples Commissars' to avoid the capitalist-sounding 'ministers'. Trotsky was made Commissar for Foreign Affairs. As Commissar for Foreign Affairs Trotsky says he will simply publish the secret treaties between the imperialist Entente powers (Russia, France and Britain) then "shut up shop". He does publish the treaties demonstrating that the war is also a war of conquest on the Entente side. But he was given the task of negotiating the nature of the peace with the German Imperial High Command.
+
 * **December** Trotsky (with Kamenev and Joffe) arrived in Brest-Litovsk to negotiate the terms of the peace treaty with the German General Staff. The delegation distributed leaflets to the German troops urging them to revolution. Trotsky tried to stall on accepting the German terms. He accepted Lenin's offer that if he voted for Trotsky's "neither war nor peace" line then Trotsky would support Lenin's recognition that the Bolsheviks had no choice but to accept Brest-Litovsk.
+
 * **1918 March 3rd** The Treaty of Brest-Litovsk signed costing the Soviet Republic Finland, the Ukraine and its best grain lands. By this time Trotsky had resigned. He now became Commissar for War. For the next two and half years he organised the Red Army.
+
 * **August 27th** Trotsky began to live on his famous train which went from front to front rallying the Red Army in the civil war against the Whites. He virtually did not leave it for two years. Trotsky wrote _Terrorism and Communism_ in reply to Mensheviks' criticisms of the Red Terror.
+
 * **1920 December** With three million proletarians dead and famine and apathy now stalking the Soviet republic it was clear that "war communism" would have to be replaced. In the debate on what to replace it with Trotsky proposed "the militarisation of labour".
+
 * **1921 January** Italian Socialist Party split when Serrati refused to expel reformists. Communist Party of Italy formed with Amadeo Bordiga as leading figure.
+
 * **March** At the Tenth Party Congress the New Economic Policy (NEP) was adopted to replace "war communism". Factions such as the Workers Opposition were formally banned. Before it had finished the Kronstadt revolt brought the "tragic necessity" (Trotsky) of its suppression by Tukhachevsky. The failure of the March Action in Germany brought an end to the hopes of immediate relief for the beleaguered Soviet Republic.
+
 * **1922 March** Zinoviev proposed Stalin as General Secretary of the Communist Party.
+
 * **1923 February** In Italy Bordiga arrested.
+
 * **May** Lenin's first stroke. Lenin wrote his _Testament_ crticising both Stalin and Trotsky but urging removal of Stalin.
+
 * **June** Third Enlarged Executive of the Comintern installed new, 'mixed' leadership in PCd'I.
+
 * **1924 January** The death of Lenin. Trotsky was absent from the funeral after Stalin told him there would not be enough time for him to return to Moscow.
+
 * **May** Gramsci returned to Italy to take up leadership of PCd'I after two years under the tutelage of the Comintern in Moscow.
+
 * **June** Fifth Congress of Communist International called for 'bolshevisation' of Communist Parties.
+
 * **November** The KPD led the German working class to defeat for the final time. Publication of Trotsky's _The Lessons of October_.
+
 * **1925** Trotsky removed as Commissar for War.
+
 * **1926** Failure of the General Strike in Britain. Bordiga's last attendance at a Comintern meeting to challenge Stalin about the direction of the USSR.
+
 * **1927** Defeat of the Chinese working class. Trotsky now joined by Zinoviev and Kamenev in the United Opposition. All three expelled from the Party.
+
 * **1928** Trotsky sent to Alma Ata. Stalin now in total control of Party and state in the USSR. The Left Fraction of the Communist Party of Italy formally reconstituted in Pantin, Paris. _Prometeo_ published in Brussels.
+
 * **1929** Trotsky exiled to Prinkipo Island, Turkey. The first issue of the Bulletin of the Oppposition issued in Paris. The Wall Street Crash started the Depression.
+
 * **1930** Formal expulsion of Bordiga from the Communist Party of Italy for "Trotskyism".
+
 * **1933** Trotsky's The Permanent Revolution completed. Nazism came to power in Germany. Trotsky obtained a visa to France where the International Left Opposition was based. This took the name International Communist League (Bolshevik Leninist). Italian Fraction, after failed discussions with Trotsky, began to publish _Bilan_.
+
 * **1934** Murder of Kirov in Leningrad began the Purges in the USSR. The so-called "French turn" when Trotsky urged his supporters in France to rejoin Social Democracy. Entryism became a Trotskyist trademark.
+
 * **1935** Trotsky moved to Norway. _The Revolution Betrayed_ published.
+
 * **1936** The Spanish Civil War began. Trotsky arrived in Mexico.
+
 * **1937** Japan invaded China.
+
 * **1938** Leon Sedov, Trotsky's son, murdered in Paris by Stalin's agents. Trotsky wrote _The Death Agony of Capitalism and the Tasks of the Fourth International_ (now known as the _Transitional Programme_). James Burnham and Max Schachtman of the Socialist Workers' Party urged Trotsky to abandon the degenerated workers' state formula.
+
 * **1939** The Hitler-Stalin Pact and the invasion of Poland that began the second imperialist war.
+
 * **1940** The murder of Trotsky by a Stalinist agent. The Fourth International continued to defend the USSR as a "degenerated workers' state" even after the invasion of Finland.
+
 * **1943 May** Stalin dissolved the Comintern as part of the imperialist wartime deal with the USA and Britain.
+
 * **July** Mussolini government collapses. Wave of strikes in Italy. The Italian Left, led by Onorato Damen formed the Internationalist Communist Party (Battaglia Comunista) clandestinely in Fascist Italy.
+
 * **November** First issue of revived _Prometeo_.
 
 ## Notes
