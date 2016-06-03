@@ -3,7 +3,7 @@ Author:		Robin Goodfellow
 Description:	Presented as part one of a series on democracy and Marx and Engels. This red texts version has some very slight changes to formatting and spelling. The original was posted at http://www.robingoodfellow.info/pagesen/rubriques/marxdemoen1.htm. Strangely, this text's French edition is labeled as part two, while this English translation is labeled as part one
 Date:		2002
 Posted:		2016-06-02
-Modified:	2016-06-02
+Modified:	2016-06-03
 CSS:		../files/style.css
 
 {{../files/article_header.txt}}
@@ -11,6 +11,7 @@ CSS:		../files/style.css
 The issue of the communist movement's attitude toward democracy is made all the more important because:
 
 1. it has usually been pushed back behind analyses that display more ideology than truly scientific thought (we are thinking particularly of Bordiguism's theorization of anti-democratism)
+
 2. contrary to what we, among others, had thought, the democratic movement has, over the last two decades, shown itself capable of historic initiative. We are thinking of the German reunifications, the creation of new national entities in Europe, etc.
 
 As often happens, an issue that had seemed finished has blown up in the face of revolutionary militants.
@@ -53,6 +54,7 @@ It is therefore a falsification to say that Marx and Engels "were democrats." Wh
 As Texier has posed it [(5)][notes] -- were Marx and Engels democrats or not? -- this is in fact a false problem. What interests us is:
 
 1. seeing how Marx and Engels theorized the issue of democracy, especially from the point of view of the permanent revolution.
+
 2. analyzing how they behaved practically in regard to the various political representatives of European states, during their lifetimes, and how they expressed party positions on these issues.
 
 Concerning the first point, Texier has a theory: revolution in France was the object of a permanent revolution, and contrary to Marx and Engels' expectations, this bourgeois revolution did not give way to a proletarian one.

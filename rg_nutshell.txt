@@ -3,7 +3,7 @@ Author:		Robin Goodfellow
 Description:	A text produced by Robin Goodfellow, a group of authors writing primarily in French and formerly associated with the publication Communisme ou Civilisation. This text was posted online at http://www.robingoodfellow.info/pagesen/rubriques/meren.htm
 Date:		2013
 Posted:		2016-06-02
-Modified:	2016-06-02
+Modified:	2016-06-03
 CSS:		../files/style.css
 
 {{../files/article_header.txt}}
@@ -226,10 +226,15 @@ Labour can be exchanged for capital and from this viewpoint return a profit to t
 It follows from that:
 
 1. Although all productive workers are wage-labourers, not all wage-labourer is productive. Marxism shows that, even if there is an increase in wage-labour, it is the unproductive wage-labour within it that grows the fastest and which is the material basis for the rise of the modern middle-classes, salaried middle-classes. Ancient middle-classes do not emerge from the capitalist mode of production, and they tend to diminish. On the other hand, even not being producers of surplus-value, they may be producers of value (peasants and artisans, for example).
+
 2. Productive labour is not assimilable to the one that produces a tangible product, a concrete object.
+
 3. Productive labour is not assimilable to the manual labour. The proletariat is not made up solely of the socio-professional category "worker" or, in other words, Marx does not conceive of a working class made up of only manual labourers. This is similar to when we confuse the notion of industrial capital with the industrial branch alone. In fact, agriculture and services can emerge from industrial capital and allow the production of surplus-value.
+
 4. Productive labour is not assimilable to the one that produces socially useful objects. Proletarians who produce weapons or luxury items produce surplus-value and are therefore productive. In the same way, unproductive labour is not necessarily useless labour or socially detrimental. The communist society, for example, will need social accounting whose role will be all the more important even though its relative cost would be much lower.
+
 5. It is useless to individualize productive labour. Marx shows that the capitalist mode of production has, from early on in its existence, been characterized by the existence of a collective worker (see cooperation, manufacture, and large-scale industry) that carries out material production.
+
 6. The salaried middle-class is not characterised by a mid-level income, as it is by bourgeois sociology. The upper echelons of the proletariat or the most qualified fractions of it may have higher incomes than many members of the middle-class. What differentiates the two is the productive or unproductive nature of their labour and not their levels of wages.
 
 ### 2.9 Formal subsumption and real subsumption of labour under capital
@@ -452,13 +457,21 @@ Other forms favour the creation of more value and surplus-value simultaneously, 
 In doing so while also continuing to pursue its ultimate goal: maximum surplus-value, capitalist production develops productive powers within the limits proper to this mode of production. Upon doing so, the potential of production, and overproduction, is increasingly important. In order to postpone this contradiction and counteract its effects, capital implements a series of responses different in nature. We can classify them according to the type of their responses:
 
 1. Facilitating sales, the realizing of the social product = credit development.
+
 2. Seeking out new outlets and outside areas of accumulation = exports, the fight to dominate new markets.
+
 3. Increasing need and creating new needs = development of advertising and marketing to give commodities a new appeal.
+
 4. Diversifying and creating new needs, creating new use-values = development of the means of luxury consumption. One of the appeals of this sector is that in general it produces a larger amount of surplus-value due to the fact that it employs relatively more living labour. These branches also have a lower organic composition than average, which favours a rise in the rate of profit.
+
 5. Historical evolution of use-values and needs driving the unit value of commodities to a slow-down. The "revalorization" of use-values [(9)][notes] and the evolution of needs = yesterday's luxuries become today's needs.
+
 6. Planning the obsolescence of commodities. Organizing the wasting of resources.
+
 7. Fixing capital. Accumulating fixed capital which are not productive immediately (major highway structures, public infrastructure, canals, and so on), absorbing surplus-value without immediately affecting the productivity of labour.
+
 8. Development of a class of consumers that consumes without producing: an unproductive class. A consumer class is a necessity. Underconsumption theorists, notably Malthus, predicted this need. This cannot be met by the proletariat, whose consumption is limited and whose relative wages fall with the development of capitalist production, which fulfils it. The raising of real wages could certainly occur, but it would necessarily be within strict limitations. This modern unproductive class is the salaried middle-class. As it develops, the rate of accumulation is limited and the demand of means of consumption rises, bringing with it the consumption of sophisticated products and luxury goods.
+
 9. Tendential fall in the rate of profit and in the rate of accumulation. Accumulation and growth slow down, and capital postpones these contradictions by giving up its mission.
 
 Crises do not mechanically lead to war or revolution, but they do contribute to causing them, and while revolution is the proletariat's ultimate solution for ending its own exploitation and halting the catastrophic path of the capitalist mode of production, war will be capital's ultimate solution for regenerating itself, at the risk of destroying mankind.

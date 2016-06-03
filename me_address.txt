@@ -3,7 +3,7 @@ Author:		Karl Marx and Friedrich Engels
 Description:	Written in March of 1850, mere months before Marx gave up hope for an imminent revolution following the revolutions of 1848, the address describes the immediate tasks of the working class, first in tactical alliance with the bourgeois to destroy feudalism, then in outright class warfare with the bourgeoisie
 Date:		1850
 Posted:		2015-08-05
-Modified:	2016-03-24
+Modified:	2016-06-03
 CSS:		../files/style.css
 
 {{../files/article_header.txt}}
@@ -19,7 +19,9 @@ We told you already in 1848, brothers, that the German liberal bourgeoisie would
 The treacherous role that the German liberal bourgeoisie played against the people in 1848 will be assumed in the coming revolution by the democratic petty bourgeoisie, which now occupies the same position in the opposition as the liberal bourgeoisie did before 1848. This democratic party, which is far more dangerous for the workers than were the liberals earlier, is composed of three elements:
 
 1. The most progressive elements of the big bourgeoisie, who pursue the goal of the immediate and complete overthrow of feudalism and absolutism. This fraction is represented by the former Berlin Vereinbarer, the tax resisters;
+
 2. The constitutional-democratic petty bourgeois, whose main aim during the previous movement was the formation of a more or less democratic federal state; this is what their representative, the Left in the Frankfurt Assembly and later the Stuttgart parliament, worked for, as they themselves did in the Reich Constitution Campaign;
+
 3. The republican petty bourgeois, whose ideal is a German federal republic similar to that in Switzerland and who now call themselves 'red' and 'social-democratic' because they cherish the pious wish to abolish the pressure exerted by big capital on small capital, by the big bourgeoisie on the petty bourgeoisie. The representatives of this fraction were the members of the democratic congresses and committees, the leaders of the democratic associations and the editors of the democratic newspapers.
 
 After their defeat all these fractions claim to be 'republicans' or 'reds', just as at the present time members of the republican petty bourgeoisie in France call themselves 'socialists'. Where, as in Wurtemberg, Bavaria, etc., they still find a chance to pursue their ends by constitutional means, they seize the opportunity to retain their old phrases and prove by their actions that they have not changed in the least. Furthermore, it goes without saying that the changed name of this party does not alter in the least its relationship to the workers but merely proves that it is now obliged to form a front against the bourgeoisie, which has united with absolutism, and to seek the support of the proletariat.

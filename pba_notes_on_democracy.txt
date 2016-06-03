@@ -3,7 +3,7 @@ Author:		the Poor, the Bad and the Angry
 Description:	Originally published at http://www.againstsleepandnightmare.net/ANTICAPL/PBA/DEMO_NTS.html on the Against Sleep and Nightmare website, specifically in the subsection devoted to the Poor, the Bad and the Angry group/publication. I therefore attribute it to them
 Date:		1990s?
 Posted:		2015-09-01
-Modified:	2016-03-24
+Modified:	2016-06-03
 CSS:		../files/style.css
 
 {{../files/article_header.txt}}
@@ -11,6 +11,7 @@ CSS:		../files/style.css
 Democratic ideology essentially contains two sort of the illusions:
 
 1. The idea that under all circumstance the morally superior way of making decisions is having some sort of electoral participation by the majority.
+
 2. The idea that the method of decision making is what distinguishes different sort of social system.
 
 These illusions have many forms and are interrelated. Mainstream American democratic rhetoric justifies political decisions by the use of both elections and polls. It is "very democratic" in the sense that the passive choices of the majority can change the form that the American repression and exploitation take.
