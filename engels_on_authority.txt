@@ -3,7 +3,7 @@ Author:		Friedrich Engels
 Description:	Written in 1872. This version comes from https://www.marxists.org/archive/marx/works/1872/10/authority.htm
 Date:		1872
 Posted:		2016-01-01
-Modified:	2016-03-24
+Modified:	2016-06-04
 CSS:		../files/style.css
 
 {{../files/article_header.txt}}
