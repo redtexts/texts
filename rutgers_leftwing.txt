@@ -5,6 +5,7 @@ Date:		1916
 Posted:		2016-03-19
 Modified:	2016-03-25
 CSS:		../files/style.css
+HTML Header:    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 {{../files/article_header.txt}}
 
