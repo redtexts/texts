@@ -3,7 +3,7 @@ Author:		American Fraction of the Left Communist International
 Description:	Written by D for the March-April 1949 issue of Internationalist Bulletin, the publication of the American Fraction of the Left Communist International. Punctuation errors in the text below were present in the original
 Date:		1949
 Posted:		2016-03-25
-Modified:	2016-03-25
+Modified:	2016-10-14
 CSS:		../files/style.css
 HTML Header:    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -52,9 +52,7 @@ The characterization of the present trend in world economy as state capitalism, 
 These are:
 
 * Marx, Vol. I, of "Capital";
-
 * Engels, "Anti-Duhring"
-
 * Bukharin, "ABC of Communism".
 
 Marx understood that the struggle of capital to enforce its property rights, at a certain stage, reaches the state level. He wrote, "In former times, capital resorted to legislation, whenever necessary, to enforce its proprietary rights over the free laborer. For instance, down to 1815, the emigration of mechanics employed in machine making was, in England, forbidden, under grievous pains and penalties" (Karl Marx, Vol. I, "Capital," p. 628).
