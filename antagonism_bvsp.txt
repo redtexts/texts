@@ -3,7 +3,7 @@ Author:		Antagonism
 Description:	Antagonism notes this was written by "an anonymous collective" in 2000-2001. It consists of a bibliography and an introduction to two texts on the relationship between class and party. One text is by Anton Pannekoek of the German-Dutch communist left, the other is by Amadeo Bordiga of the Italian communist left. It was originally posted at http://www.oocities.org/capitolhill/lobby/3909/bordiga/bvptoc.html
 Date:		2000-2001
 Posted:		2016-01-01
-Modified:	2016-06-02
+Modified:	2016-10-14
 CSS:		../files/style.css
 HTML Header:    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -190,61 +190,33 @@ An examination of these two tendencies, amongst the most radical of the twentiet
 ### Notes
 
 1. In Italy at the time, the term Maximalism referred to reformists with revolutionary phraseology. This contrasts with Russia where Maximalism was a revolutionary tendency.
-
 2. This error was corrected after WWII in the analysis of the proletariat as a class "without reserves", e.g. in "Marxismo e Miseria". See below.
-
 3. See "LIP and the Self-Managed Counterrevolution" by Negation, for a lengthy discussion of the politics, and political economy of self-management.
-
 4. "Seize Power or Seize the Factory?"
-
 5. F. Perlman and F. Gregoire, "Worker-Student Action Committees."
-
 6. _ibid_.
-
 7. _ibid_.
-
 8. Wildcat, "Outside and Against the Unions."
-
 9. O. Ruehle, "From the Bourgeois to the Proletarian Revolution."
-
 10. B. Winslow, _Syliva Pankurst, Sexual Politics and Political Activism_
-
 11. S. Bologna, "Class Composition and the Theory of the Party at the Origins of the Worker's Council Movement"
-
 12. J. Camatte, Community and Communism in Russia.
-
 13. See _The Italian Communist Left_ for details of the various splits and name changes.
-
 14. A. Bordiga, "Considerations on the party's organic activity when the general situation is historically unfavourable", 1965
-
 15. A. Bordiga, 1926, "_Intervento alla commissione politica per il congresso di Lione_". A slightly different translation of this passage appears in Gramsci, _Political Writings 1921-1926_.
-
 16. See Lenin's _What is to Be Done?_
-
 17. Pannekoek, "_Massenaktion und Revolution_", 1912, in Bricaner, p. 126
-
 18. Marx to Freiligrath, 1860
-
 19. See for instance, "The Wilhelmshaven Revolt" for an insider account by a council communist of how a naval mutiny was organised in a strictly centralised fashion.
-
 20. The tendency associated with the journal _Race Traitor_ have carried out some important work. See _How the Irish Became White_, Ignatiev. Another interesting tendency is Wages for Housework, and especially the writings of S. James and Dalla Costa. These have similar strengths, in looking long and hard at the conflicts within the proletariat, but similar weaknesses in tending to over-emphasise their own special interest group.
-
 21. Marx, "Critical Notes on the Article 'The King of Prussia and Social Reform. By a Prussian'"
-
 22. _ibid_.
-
 23. Marx, _The Poverty of Philosophy_
-
 24. Bordiga, "Doctrine of the Body Possessed by the Devil"
-
 25. Marx, _Capital_, volume II, chapter 1
-
 26. The Communist Party daily paper
-
 27. Bordiga, "_Marxismo e Miseria_"
-
 28. Marx and Engels, _The German Ideology_
-
 29. Marx, Leter to Bracke, 1875
 
 ## Bibliography

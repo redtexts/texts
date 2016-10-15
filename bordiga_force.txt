@@ -3,7 +3,7 @@ Author:		Amadeo Bordiga
 Description:	Apparently written by Bordiga in 1946-1948, and published in English in Communist Program from 1975-1979. This version from https://www.marxists.org/archive/bordiga/works/1946/violence.htm. It is also available at http://sinistra.net/lib/upt/compro/lipa/lipanbeboe.html
 Date:		1946
 Posted:		2016-08-04
-Modified:	2016-08-04
+Modified:	2016-10-14
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -122,7 +122,6 @@ The research we have engaged in regarding the "dosage" of violence exercised in 
 According to a first and well known interpretation, the revolution which carried into effect the principles of freedom, equality and fraternity, as expressed in the elective institutions, was a universal and final conquest for mankind. This was claimed on the basis
 
 1. that it radically improved the conditions of life of all the members of society by freeing them from the old oppressions and by opening up for them the joy of a new world and
-
 2. that it eliminated the historical eventuality of any further social conflict which could violently shatter the newly established institutions and relationships.
 
 A second interpretation which is less naive and less impudently apologetic about the delightfulness of the bourgeois system, recognises that it still harbours large differences of social conditions and economic exploitation to the detriment of the working class and that further transformations of society must be carried out through more or less brusque or gradual means. However it maintains with absolute obstinacy that the conquests of the revolution that brought the capitalist class to power represented a substantial advancement also for the other classes which, thanks to it, gained the inestimable advantage of legal and civil liberties. Therefore, it alleges that the question is only that of proceeding on the road that has already been opened up; that is to say, it is claimed that all that is necessary is to eliminate the remaining forms of despotism and exploitation -- after having eliminated the most sever and atrocious ones -- all the while keeping hold of those first fundamental conquests. This worn out interpretation is served to us in many forms. This is the case when Roosevelt, from the summit of the pyramid of power, deigned to add new liberties, freedom from need and freedom from fear, to the well known liberties of the old literature (and this at a time when a war of unprecedented violence was raging, bringing an extermination and starvation of human beings beyond any previous limit). This is also the case when, from the base of the pyramid, a naive representative of the vulgar popular politicking formulates, with new words, the old concoction of democracy and socialism by chattering about social liberties which should be added to those that have already been achieved.
@@ -522,13 +521,9 @@ The celebrated problem of discipline thus consists in establishing a system of l
 There is no rule or recipe for preventing the party from falling into the crisis of opportunism or for preventing it from necessarily reacting by forming factions. However we have the experience of many decades of proletarian struggle which enables us to establish some necessary, optimum conditions of which the research, the defence and the realisation must be the constant task for our movement. We conclude by laying down the most important of these.
 
 1. The party must defend and advocate all the clarity and continuity of the communist doctrine throughout its successive historical applications. It must not tolerate the proclamation of principles which are in even partial conflict with its theoretical cornerstones.
-
 2. In every historical situation the party must openly proclaim the complete content of its economic, social, and political program, above all in regards to the question of power, its conquest by means of armed force, and its exercise through dictatorship. Those dictatorships which degenerate into regimes of privileges for a small circle of bureaucrats have always been accompanied by hypocritical ideological proclamations that are masked behind basically populist slogans, sometimes democratic, sometimes nationalist in nature, and by the pretension of having the support of the popular masses. The revolutionary communist party on the other hand does not hesitate to declare its intention of attacking the state and its institutions and of holding the defeated class under the despotic weight of the dictatorship, even when it admits that only an advanced minority of the oppressed class has reached the point of understanding these necessities of the struggle. "Communists disdain to conceal their views and aims" (the Manifesto). Only renegades pride themselves on a supposed ability to attain these aims while cleverly hiding them.
-
 3. The party must observe a strict organisational rigor: it does not accept the idea of increasing its ranks by making compromises with groups or grouplets, or worse still of bargaining to win over the membership of the rank and file by making concessions to alleged leaders.
-
 4. The party must work to instil clear historical understanding of the antagonistic nature of the struggle. Communists demand the initiative of attack against a whole world of rules and regulations, and traditions. They know that they constitute a danger for the privileged classes. They call the masses to the offensive and not to the defensive against the pretended danger of losing supposed gains and improvements won under capitalism. Communists do not lend and lease their party for causes not their own and for non-proletarian objectives such as liberty, country, democracy and other such lies. "Proletarians have nothing to loose but their chains".
-
 5. Communists renounce the whole gamut of tactical expedients which were advocated under the pretext of hastening the process of winning over large strata of the masses to the revolutionary program. Such expedients are the political compromise, the alliance and united front with other parties, and the various slogans concerning the state which were used as substitutes for the dictatorship of the proletariat (such as workers' and peasants' government, progressive democracy).
 
 Communists recognise, historically, that the use of these tactical means is one of the main factors which hastened the decomposition of the proletarian movement and communist soviet rule. They maintain that those who deplore the opportunist syphilis of the Stalinist movement but who at the same time champion the tactical weapons of the opportunist enemy are more dangerous than the Stalinists themselves.
@@ -550,9 +545,7 @@ The Left replaced the idiotic majoritary criterion, which is copied after bourge
 ## Notes
 
 1. The Christian-Democratic Prime Minister in 1947 -- Ed
-
 2. This expression refers to the left currents headed by Lenin and Rosa Luxemburg who struggled inside the Second International against revisionism and social-pacifism. During World War I and after the October revolution they were violently attacked by the social democrats and the centrists, notably Kautsky -- Ed.
-
 3. This refers to Engels' introduction to a reedition of Marx's "Class Struggles in France" in 1895. The leadership of the German Social Democratic Party censored Engels' introduction so that it appeared as an apology of legality at all costs and a demonstration that insurrection was impossible. In spite of the fact that Engels protested this in a letter to Kautsky, the latter did not publish the original introduction. Engels was to die some months later. The original text was discovered only in 1925 -- Ed.
 
 {{../files/footer.txt}}

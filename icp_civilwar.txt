@@ -3,7 +3,7 @@ Author:		International Communist Party
 Description:	This text was published in four parts in the ICP's publication "Communist Left," starting in issue 21-22. Find all four parts at http://international-communist-party.org/CommLeft/CLIndex.htm
 Date:		2005-2009
 Posted:		2016-01-01
-Modified:	2016-06-03
+Modified:	2016-10-14
 CSS:		../files/style.css
 HTML Header:    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -37,11 +37,8 @@ This formula allowed the Democratic Party to secure the presidency with Jefferso
 Such continuity of government and political line, not without occasional jolts and resistance from the North, allowed for an uninterrupted development of the United States both in a territorial and economic sense. In 1860 the territory of the Union was already approaching what it is today, being bordered by the two oceans and by Canada and Mexico. The principal stages in this growth were:
 
 1. The acquisition of Louisiana from France in 1803
-
 2. The 1812-14 war with Great Britain, which prevented an expansion towards Canada
-
 3. The acquisition of Florida from Spain in 1819
-
 4. The war with Mexico (1845-48), followed by the acquisition of enormous territories in the South-West.
 
 From a political and economic point of view various events would occur in this period which would have repercussions on the crisis which led to the Civil War. In the South the cultivation of cotton suddenly became very lucrative with the invention in 1797 of a machine for separating the seeds from the cotton fibre. In the space of a few years cotton would become the main crop in numerous Southern states, bringing wealth and an important export crop to the country.
@@ -544,7 +541,6 @@ When all is said and done, this chapter in the history of the bourgeoisie, who a
 ## Notes
 
 1. Battilocchio -- the word comes from a "Filo del tempo" article in "il programma comunista", no. 7, 1953. Literally, someone who, passing by, makes you blink in admiration. It indicates the important person, the great leader, whom, according to idealists, is able, by sheer force of his own will power and capacity, to shape history. This, of course, is totally opposed to our view, according to which the more "important" a person is, the more he is determined in all his decisions and acts by forces beyond his control.
-
 2. Hannibal is at the Gates -- the enemy directly threatens.
 
 {{../files/footer.txt}}

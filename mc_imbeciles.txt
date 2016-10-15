@@ -3,7 +3,7 @@ Author:		Mouvement Communiste
 Description:	Translated from French by Red and Black Notes, who note that this text was produced to be (but never was) distributed at the Summit of the Americas in Quebec in April 2001. Published online by Red and Black Notes at http://www.oocities.org/red_black_ca/Articles.htm
 Date:		2001
 Posted:		2016-01-01
-Modified:	2016-03-24
+Modified:	2016-10-14
 CSS:		../files/style.css
 HTML Header:    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -32,17 +32,13 @@ They are all those who for the last few years, from the big social-democratic an
 The ideology of anti-globalisation sets out to denounce:
 
 * a fraction of capital designated under the generic term "financial markets" which is parasitic and evil;
-
 * the commoditisation of certain "sacred" sectors of productive activity: "culture", agriculture, water? but avoids, in the end, the critique of the foundation and the raison d'etre of capitalism, wage labour and the productive consumption of the commodity labour power;
-
 * the relocation of production to the lower wage countries by the famous "multinationals".
 
 The solutions put forward by the anti-globalists are the following:
 
 * the introduction of the Tobin tax (at a rate of 0.1% of the total) on financial movements, the so-called "0.1% socialism" (although it's far less than for "share trading capital gains" which are subject to a "tax withholding with full discharge" of 26%);
-
 * the introduction of new customs barriers to protect national production;
-
 * the participation of citizens in city affairs, for example, the municipal self-management of Porto Alegre.
 
 Behind this apparently innovative and trendy discourse we can find the most hackneyed themes of reformism. What, in fact, is the sad pantomime of Porto Alegre if not "municipal socialism" in a modern guise? What is the march on Mexico City of the EZLN - organised jointly by the Mexican state and Marcos - if not a "modern" application of the old social-democratic reformism from the beginning of the 20th Century, which explained that the objective of the proletarian movement was no longer the violent taking of political power but its gradual and peaceful conquest?

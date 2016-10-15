@@ -3,7 +3,7 @@ Author:		Solidarity
 Description:	From a Solidarity pamphlet entitled "Ceylon: The JVP Uprising" that was apparently published in 1972. Originally posted online on the Subversion website at http://www.oocities.org/athens/acropolis/8195/blasts/blasts.htm
 Date:		1972
 Posted:		2016-01-01
-Modified:	2016-03-24
+Modified:	2016-10-14
 CSS:		../files/style.css
 HTML Header:    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -46,7 +46,6 @@ Another equally important dimension of national liberation struggles is ignored 
 Support for any national liberation struggle is always reactionary. It usually consists of:
 
 1. support for a client state of the state capitalist bloc, which amounts to defending state capitalist imperialism against Western imperialism;
-
 2. support for despotic regimes which destroy, together with classic bourgeois property forms, any independent organisation of the working class and peasantry.
 
 It is often claimed that a distinction must be made between the reactionary and bureaucratic leaderships of national liberation struggles and the masses of people involved in such struggles. Their objectives are said to be different. We believe this distinction seldom to be valid. The foreigner is usually hated as a foreigner, not as an exploiter -- because he belongs to a different culture, not because he extracts surplus value. This prepares the way for local exploiters to step into the shoes of the foreign ones. Moreover the fact that a given programme (say, national independence) has considerable support does not endow it with any automatic validity. Mass 'consciousness' can be mass 'false-consciousness.' Millions of French, British, Russian and German workers slaughtered one another in the first World War, having internalised the 'national' ideas of their respective rulers. Hitler secured 6 million votes in September 1930. The leaders of national struggles can only come to power because there is a nationalist feeling which they can successfully manipulate. The bonds of 'national unity' will then prove stronger than the more important but 'divisive' class struggle.

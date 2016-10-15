@@ -3,7 +3,7 @@ Author:		Internationalist Communist Tendency
 Description:	This document was written around 2009 by Jock for the International Bureau for the Revolutionary Party, now the Internationalist Communist Tendency, and can be found on their website at http://www.leftcom.org/en/articles/2009-07-01/the-italian-communist-left-a-brief-internationalist-history
 Date:		2009
 Posted:		2016-01-01
-Modified:	2016-06-03
+Modified:	2016-10-14
 CSS:		../files/style.css
 HTML Header:    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -50,13 +50,9 @@ Gradually many of the "French" (and "Belgian") comrades came back to Italy to jo
 The failure of the GCF to join the PCint was a mistake as even the ICC history of the Italian Left demonstrates. The PCInt had taken up the work of Bilan but had resolved many of its confusions. Damen insisted that:
 
 1. Rosa Luxemburg and not Lenin was right on the national question.
-
 2. The old Communist parties (now fully stalinised) were not centrist but bourgeois.
-
 3. There was no hope of conquering the unions and that new strategies towards the daily class struggle would have to be evolved to connect the daily struggle of the class to the longer term struggle for communism.
-
 4. The USSR was not a neither-nor society but state capitalist.
-
 5. There could be no substitution of the party for the class as a whole.
 
 "The Communist party must not take power in order to exercise it in the name of the proletariat because the proletariat does not delegate to others its historic mission nor hand over a general power of attorney, not even to its political party." (Theses of the Damen Tendency at the 1952 Congress of the PCInt)
@@ -66,13 +62,9 @@ And Bordiga? Bordiga remained at home during the fascist period and during the w
 However in 1948 with the strike wave over and the Italian bourgeois republic established, the differences between the two old tendencies in the Fraction re-emerged. Bordiga added to the confusion, and with the help of Vercesi, Maffi and others, succeeded three years later in splitting the Internationalist Communist Party. He then went on to found his own organisation in 1952 (Programma Comunista, called International - not Internationalist - Communist Party). The points of methodological and political disagreements were:
 
 * the characteristics of imperialism - the Bordiga group insisted that in some "backward" areas of the world, the national struggle was part of the anti-imperialist movement of "coloured people" as Bordiga expressed it.
-
 * the union question - Bordiga insisted that the possibility of gaining influence in the working class could still come through gaining influence in the unions.
-
 * the Party/class relationship. Bordiga (who we must now regard as different from the Bordiga of the 1920s) maintained that we could not speak of the class unless it had a political party, thus destroying the distinction Marx made between a class for itself and a class in itself. The consequence of this view was that the Party alone would make the revolution - clearly an impossibility.
-
 * Bordiga rejected the idea that the USSR was state capitalist and thus had no clear position as to what kind of society it was (in fact Bordiga advanced different views at different times throughout the rest of his life).
-
 * the final distortion of Marxism was to insist that it was "invariant" and that the doctrine was the same since 1848, a theory which ignored all that the proletariat had learned on its long road to emancipation and stood in stark contrast to the views of Marx and Engels, who several times criticised their own formulations in the light of proletarian experience.
 
 Programma was to split further several times with each part insisting it was the real class party so that in Italy today there are several International Communist Parties but only one Internationalist Communist Party.
@@ -96,7 +88,6 @@ We also do not see ourselves as a rival of the ICC, as we see the ICC as having 
 ## Notes
 
 1. The EKS invited the Bureau to Ankara at the end of last year but decided to join the ICC before we met them. They however re-iterated their invitation and so we accepted. This brief text was given to an internal meeting of the EKS and we also addressed a joint IBRP-ICC Public Meeting in Haceteppe University on the current crisis and the situation of the international working class.
-
 2. Mauro Stefanini, refers here to the International Communist Current (ICC) and the different organisations that claim heritage to the Italian Left Communist leader Amadeo Bordiga.
 
 {{../files/footer.txt}}

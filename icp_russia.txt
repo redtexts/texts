@@ -3,7 +3,7 @@ Author:		International Communist Party
 Description:	Originally published in 1970 in Il Programma Comunista and later posted online at http://www.sinistra.net/lib/pro/whyrusnsoc.html. This version changes some of the original's formatting
 Date:		1970
 Posted:		2016-01-01
-Modified:	2016-06-03
+Modified:	2016-10-14
 CSS:		../files/style.css
 HTML Header:    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -176,13 +176,9 @@ If legally speaking, this impotence only manifests itself officially with the 19
 In opposition to the widespread "extremist" view, according to which the defeat of Socialism in Russia was due to a monstrous state capitalism, it is necessary to describe the form of production to which the proletarian power in that country finally capitulated. It is sufficient to refer to Lenin to learn about this "Enemy No 1 of Socialism" referred to constantly in his speeches and writings, and to notice how this enemy held fast before all the reforms and changes occurring in the USSR. In the text previously cited, the author of "The Tax in Kind" enumerates the five types of Russian economy:
 
 1. Natural economy: i.e. patriarchal production, almost totally consumed by its producers.
-
 2. Small commodity production: "this includes the majority of those peasants who sell their grain".
-
 3. Private capitalism: whose rebirth goes back to the N.E.P.
-
 4. State capitalism: i.e. grain monopoly and national accounting of production, which the proletarian power strives to accomplish in the face of a multitude of difficulties.
-
 5. Socialism: On this last point, Lenin is crystal clear; it is, he says nothing but a "legal opportunity" of the proletarian state. An opportunity that could only become an immediate reality if the Russian revolution, as Lenin sharply reminded Bukharin on another occasion, had inherited the historic results from a "completed Imperialism" from "a system in which everything was in submission to finance capital" and in which "it remained only to decapitate it to leave everything else in the hands of the proletariat".
 
 This evidently wasn't the case in Russia, and it is for this reason that, in Lenin's outline, the struggle unfolds not between state capitalism -- still at the stage of a tendency and efforts to create it -- and Socialism -- which is mere "legal opportunity" founded on the nature of the party in power, but in the economy, where small production dominates.

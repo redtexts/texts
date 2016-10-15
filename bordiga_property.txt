@@ -3,7 +3,7 @@ Author:		Amadeo Bordiga
 Description:	Written by Bordiga as a member of the Partito Comunista Internazionale for publication in Il Programma Comunista no. 16, September 3-17, 1958. It was then translated into Spanish in 1981, and thence into English in 2013. Found in English at http://libcom.org/library/revolutionary-program-communist-society-eliminates-all-forms-ownership-land-instruments- Spanish available at http://sinistra.net/lib/upt/elproc/moqe/moqefkibus.html
 Date:		1958
 Posted:		2016-04-05
-Modified:	2016-04-06
+Modified:	2016-10-14
 CSS:		../files/style.css
 HTML Header:    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -408,17 +408,11 @@ Any tactic that seeks to utilize these insidious methods in an attempt to achiev
 ## Notes
 
 1. Turin Meeting, June 1-2, 1958. In publishing these "corollaries" of the meeting of the party held on June 1 and 2, 1958 in Turin, which first appeared in issues numbers 16 and 17 of the same year in our bimonthly _Il Programma Comunista_, we must recall that the Turin Meeting was convened in response--during its second session--to the meeting of the most extreme representatives of post-Stalinist revisionism held in Ljubljana, and was at the same time a living vindication of the central role of the party in the revolution and in the state of the proletarian dictatorship, and the occasion for an ardent polemic against the distorters and "modernizers" of the Marxist revolutionary vision. As a result, the prefigurative outline that is elaborated in the text reproduced here of the fundamental features of communist society is not ... a blind leap forward by the intellect or by desire into the empty world of ideas: it is inseparable from the struggle to destroy the capitalist mode of production and thus from the reconstruction of the guiding-organ of this formidable battle, the class party. This is a text that was written for revolutionary militants, not for those who dream of a City of the Sun or for impotent philosophers who are waiting for the Word to be made Flesh.
-
 2. See the series of documents produced at General Meetings of the party on this question in "El marxismo y la cuestion nacional y colonial", _El Programa Comunista_, no. 36, October-December 1980.
-
 3. We may add, in 1980: "and in Spain and all of Latin America."
-
 4. See "Trayectoria y catástrofe de la forma capitalista en la clásica y monolítica construcción teorica del marxismo", which is the report of the General Meeting of the Party in Piombino (September 1957), in Amadeo Bordiga, _Economia marxista e economia controrivoluzionaria_, Ed. Iskra, Milan, 1976. See also Marx's "Wage Labour and Capital".
-
 5. See "Russia e rivoluzione nella teoria marxista", _Il Programma Comunista_, nos. 21-24 (1954) and no. 1 (1955); and "Struttura economica e sociale della Russia d'oggi", first published in our Italian journal in 1955-1957 and republished by Edizione Il Programma Comunista, Milan, 1976.
-
 6. See "Trayectoria y catástrofe de la forma capitalista en la clásica y monolítica construcción teorica del marxismo", which is the report of the General Meeting of the Party in Piombino (September 1957), in Amadeo Bordiga, _Economia marxista e economia controrivoluzionaria_, Ed. Iskra, Milan, 1976. See also Marx's "Wage Labour and Capital".
-
 7. _Ibid_.
 
 {{../files/footer.txt}}

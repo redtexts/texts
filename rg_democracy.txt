@@ -3,7 +3,7 @@ Author:		Robin Goodfellow
 Description:	Presented as part one of a series on democracy and Marx and Engels. This red texts version has some very slight changes to formatting and spelling. The original was posted at http://www.robingoodfellow.info/pagesen/rubriques/marxdemoen1.htm. Strangely, this text's French edition is labeled as part two, while this English translation is labeled as part one
 Date:		2002
 Posted:		2016-06-02
-Modified:	2016-06-05
+Modified:	2016-10-14
 CSS:		../files/style.css
 HTML Header:    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -12,7 +12,6 @@ HTML Header:    <meta name="viewport" content="width=device-width, initial-scale
 The issue of the communist movement's attitude toward democracy is made all the more important because:
 
 1. it has usually been pushed back behind analyses that display more ideology than truly scientific thought (we are thinking particularly of Bordiguism's theorization of anti-democratism)
-
 2. contrary to what we, among others, had thought, the democratic movement has, over the last two decades, shown itself capable of historic initiative. We are thinking of the German reunifications, the creation of new national entities in Europe, etc.
 
 As often happens, an issue that had seemed finished has blown up in the face of revolutionary militants.
@@ -22,15 +21,11 @@ As always, we are following here the method of the return to Marx. As communism 
 We will begin here with a work by a bourgeois scholar published in 1998: _Révolution et démocratie chez Marx et Engels_, by Jean Texier (published by PUF). As counter-revolutionary as this book might be, it still has numerous merits:
 
 * It is a very serious work of research and compilation about the texts themselves.
-
 * It has unearthed texts still unpublished in French.
-
 * It does important work in restoring the context in which certain texts were published and the conditions in which they were revealed (particularly in the context of Marx and Engels' struggle within German social-democracy).
-
 * It proves (despite the fact that this is exactly what Texier does not want to show) that there was an absolute continuity in Marx and Engels' politics from the 1843 writings to Engels' death, on the following principles:
 
 	* The refusal of legalism at all cost.
-
 	* The rejection of pacifism.
 
 On the other hand, Texier remains criminally silent about the passages where Marx and Engels are explicitly critical of democracy, which is called a "lie" (Engels).
@@ -60,7 +55,6 @@ It is therefore a falsification to say that Marx and Engels "were democrats." Wh
 As Texier has posed it [(5)][notes] -- were Marx and Engels democrats or not? -- this is in fact a false problem. What interests us is:
 
 1. seeing how Marx and Engels theorized the issue of democracy, especially from the point of view of the permanent revolution.
-
 2. analyzing how they behaved practically in regard to the various political representatives of European states, during their lifetimes, and how they expressed party positions on these issues.
 
 Concerning the first point, Texier has a theory: revolution in France was the object of a permanent revolution, and contrary to Marx and Engels' expectations, this bourgeois revolution did not give way to a proletarian one.
@@ -82,9 +76,7 @@ Texier's only -- and rather thin -- argument consequently evaporates on its own.
 Under this modest title, Texier attributes three revisions to Engels after Marx's death. His argument tries to show that Marx and Engels abandoned their 1842-1852 idea of "permanent revolution." He claims to have located the following milestones of this abandonment:
 
 * 1885 (Appendix to the _Revelations Concerning the Communist Trial in Cologne_).
-
 * 1891, with the passage of the critique of the Erfurt program on the democratic republic.
-
 * 1895, with "Engels' political last will and testament" represented by his preface to the book _Class Struggles in France_.
 
 ### 1885
@@ -174,60 +166,35 @@ We will come back later in this article to other issues discussed in Jacques Tex
 Period: Regime: Form.
 
 * 1830-1848: Constitutional Monarchy (Louis Philippe): Proscribed vote. Restricted to males 25 years and older, paying more than 200 gold francs in taxes. The electorate was composed of 240,000 people. A partial right to vote was given to certain individuals according to their titles or former offices in certain institutions.
-
 * Decree of March 5, 1848: Democratic republic (Second Republic): No property distinction; males 21 years and older. The electorate was 9 million.
-
 * Law of March 15, 1849: Democratic republic (Second Republic): Established the single-vote, majority-list ballot for the election of deputies.
-
 * Law of May 31, 1850: Democratic republic (Second Republic): Restrictive measures: requirement of 3 years residency in the commune or canton (versus 6 months previously). This measure was unfavorable to proletarians, who required mobility due to their search for work. Reestablishment of financial requirements. The voter had to be a registered tax payer. 3 million people excluded from the electorate.
-
 * 1852: Second Empire: Return to the electoral law of March 15, 1848. No more property requirements. 21 years. 6 months residency. Institution of the single-nomination majority ballot in two cycles. Municipal councilors elected, but the government has the right to remove them. Mayors appointed by prefects.
-
 * 1871-1940: Democratic republic (Third Republic): Return to the 1849 law, but soldiers (including many conscripts) deprived of the right to vote. (Because of this, the electorate was smaller than in the Second Empire.)
-
 * 1940-1944: French State (Vichy France): Abolition of the Legislature. Abolition of the function of President of the Republic. The French Head of State exercises legislative power. Elimination of the election of local authorities. Mayors and councilors were appointed.
-
 * 1946-1958: Democratic republic (Fourth Republic): Direct universal suffrage. Inclusion of women in the electorate which totaled 25 million voters.
-
 * 1958: Democratic republic (Fifth Republic): Direct universal suffrage, including for the election of the President of the Republic (referendum law of November 6, 1962).
-
 * 1974: Democratic republic (Fifth Republic): Change of age requirement from 21 to 18 years, with attendant enlargement of voting population.
-1994: Democratic republic (Fifth Republic): Right to vote for (European) foreigners in local elections. The issue of the right to vote for immigrants remains undecided.
+* 1994: Democratic republic (Fifth Republic): Right to vote for (European) foreigners in local elections. The issue of the right to vote for immigrants remains undecided.
 
 ## Notes
 
 1. Translator's note: CNRS is the French acronym for the French National Center for Scientific Research, which, according to its web site, is a state-run "basic-research organization that defines its mission as producing knowledge and making it available to society."
-
 2. "Nonetheless, it seems to me equally possible to argue seriously in support of the opposite position, that Marx and Engels' thinking was fundamentally antidemocratic" (Texier, 13).
-
 3. "In my opinion, Marx and Engels' thought was essentially, fundamentally democratic" (Texier, 296).
-
 4. One could see a complete misinterpretation, for example in the following commentary: "The preface that he [Engels] wrote that year for the German edition of _The Civil War in France_ by K. Marx emphasizes the fact that the Commune was a 'true democracy; and ends with an exclamation that says more or less that: the idea of a proletarian dictatorship scares you! Do you want to know what it is? Look at the Paris Commune (**and don't be afraid, because these revolutionaries were democrats**), that was the dictatorship of the proletariat" (p. 344). One can't help being confused when reading the passage between parentheses, that we have underlined: as if it would have been in Engels' psychology to seek to reassure the bourgeoisie! As if Engels didn't cite, through this passage, the Commune's measures, which, despite their timidity were measures that expropriated the bourgeoisie and measures seeking to destroy the bourgeoisie's interests, and as if they hadn't been accomplished by armed proletarians.
-
 5. And resolved by him in this way: "I think it will be possible to support the idea that, despite some problematic aspects, Marx and Engels' thought, including during the extremely difficult period (1848-1852 **NDR**) was fundamentally democratic" (Texier, 84).
-
 6. Translator's note: This term was translated in the Trotsky in English (_The Permanent Revolution_). "The question of the class character of the revolution and its 'growing over' (_transcroissance_) was submitted by Lenin (after October) to an analysis in his book against Kautsky." Neither the translator nor the author of this article have located any other English translation of _transcroissance_ other than "growing over." The major dictionaries we looked at did not include it. According to Robin Goodfellow, however, "the exact political meaning here is that in the SAME movement, there is first an expression of democratic power, an expression which transforms itself into another form, i.e., the socialist revolution."
-
 7. Texier, p. 227.
-
 8. Translator's note: The Marx-Engels internet archive shows the title _Karl Marx Before the Cologne Jury_ as published in 1885 in the table of contents of the Collected Works, at http://www.marxists.org/archive/marx/works/cw/volume26/index.htm.
-
 9. Translator's note: Not having access to a copy of this surely previously-translated quotation from Engels, I have translated it myself from the French in RGF's text.
-
 10. As an aside, we are reaching here the limits if Texier's "philological" approach. While it is useful to systematically place the writings in their context (for example, to look at the versions that commentators really had available to them), that can not be done to the detriment of an approach that considers theory as an organic whole. If philology favorizes a fragmentary approach, then down with philology!
-
 11. Compare this with the following passage from Lenin: "From the moment all members of society, or at least the vast majority, have learned to administer the state themselves, have taken this work into their own hands, have organized control over the insignificant capitalist minority, over the gentry who wish to preserve their capitalist habits and over the workers who have been thoroughly corrupted by capitalism -- from this moment the need for government of any kind begins to disappear altogether. The more complete the democracy, the nearer the moment when it becomes unnecessary. The more democratic the 'state' which consists of the armed workers, and which is 'no longer a state in the proper sense of the word', the more rapidly every form of state begins to wither away." Lenin, _State and Revolution_, as web-published at http://www.marxists.org/archive/lenin/works/1917/sep/staterev/ch05.htm - s4 .
-
 12. Translator's note: Joseph O'Malley's translation, _Critique of Hegel's Philosophy of Right_, Oxford University Press, 1970, as it appears on the Marx-Engels Internet Archive, at http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch06.htm.
-
 13. Translator's note: The _Communist_ Left?
-
 14. Translator's note: This translation from International Publishers edition, 1938, 1966, page 18.
-
 15. Translator's note: Stalinist translation again.
-
 16. You don't need to be an expert in German in tell the difference between FOR and OF. Texier himself notes, at the bottom of the page: "All of the French versions translate "die spezifische Form für die Diktatur des Proletariats" as "the specific form of the dictatorship of the proletariat." It could also be translated as "the specific form for the dictatorship of the proletariat." Of course "it could," but the Stalinist translators didn't do it, and for good reason. We remain confused by Texier's bad faith, when he himself just afterward quotes Engels' letter to Lafargue written IN FRENCH (and Engels was perfectly competent in written French, among many other languages) "the republic is the perfect political form for the dictatorship of the proletariat." And he was the one who underlined it...
-
 17. Translator's note: I couldn't find the original. This is my translation from the French, which was cited as from Editions de Pékin, p. 17.
 
 {{../files/footer.txt}}
