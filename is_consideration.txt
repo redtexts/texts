@@ -3,7 +3,7 @@ Author:		L'Insecurite Sociale
 Description:	Written by the Paris-based L'Insecurite Sociale in 1984. This red texts version is based on an English translation found at http://libcom.org/library/communism-points-consideration-linsecurite-sociale. However, the red texts version derives its headings from the French original, which is available with interesting English notes at http://reocities.com/~johngray/comm00.htm; and it replaces the text of the Hess passage -- still in French in the Libcom english translation for some reason -- with the English text of the same passage, which can be found in 'The Communist Tendency in History,' another translated L'Insecurite Sociale text available on red texts
 Date:		1984
 Posted:		2016-03-12
-Modified:	2016-03-24
+Modified:	2016-10-16
 CSS:		../files/style.css
 HTML Header:    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -173,7 +173,7 @@ One will no longer be able to "use and abuse" something, whatever it is, just be
 
 >Said I: "How about your relations with foreign nations?"
 
->"I will not affect not to know what you mean," said he, "but I will tell you at once that the whole system of rival and contending nations which played so great a part in the `government' of the world of civilisation has disappeared along with the inequality betwixt man and man in society."
+>"I will not affect not to know what you mean," said he, "but I will tell you at once that the whole system of rival and contending nations which played so great a part in the 'government' of the world of civilisation has disappeared along with the inequality betwixt man and man in society."
 
 >"Does not that make the world duller?" said I.
 
