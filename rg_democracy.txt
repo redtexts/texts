@@ -3,7 +3,7 @@ Author:		Robin Goodfellow
 Description:	Presented as part one of a series on democracy and Marx and Engels. This red texts version has some very slight changes to formatting and spelling. The original was posted at http://www.robingoodfellow.info/pagesen/rubriques/marxdemoen1.htm. Strangely, this text's French edition is labeled as part two, while this English translation is labeled as part one
 Date:		2002
 Posted:		2016-06-02
-Modified:	2016-10-14
+Modified:	2016-10-16
 CSS:		../files/style.css
 HTML Header:    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -24,7 +24,6 @@ We will begin here with a work by a bourgeois scholar published in 1998: _Révol
 * It has unearthed texts still unpublished in French.
 * It does important work in restoring the context in which certain texts were published and the conditions in which they were revealed (particularly in the context of Marx and Engels' struggle within German social-democracy).
 * It proves (despite the fact that this is exactly what Texier does not want to show) that there was an absolute continuity in Marx and Engels' politics from the 1843 writings to Engels' death, on the following principles:
-
 	* The refusal of legalism at all cost.
 	* The rejection of pacifism.
 
