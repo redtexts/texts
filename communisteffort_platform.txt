@@ -1,6 +1,6 @@
 Title:		Platform
 Author:		Communist Effort
-Description:	From A Communist Effort, a British journal. A PDF of this issue is available at http://libcom.org/library/communist-effort-issues-1-2-4
+Description:	From issue 2 of A Communist Effort, a British journal. A PDF of this issue is available at http://libcom.org/library/communist-effort-issues-1-2-4
 Date:		1984
 Posted:		2016-11-11
 Modified:	2016-11-11
