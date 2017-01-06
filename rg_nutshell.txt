@@ -3,7 +3,7 @@ Author:		Robin Goodfellow
 Description:	A text produced by Robin Goodfellow, a group of authors writing primarily in French and formerly associated with the publication Communisme ou Civilisation. This text was posted online at http://www.robingoodfellow.info/pagesen/rubriques/meren.htm
 Date:		2013
 Posted:		2016-06-02
-Modified:	2016-10-14
+Modified:	2017-01-05
 CSS:		../files/style.css
 HTML Header:    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -379,7 +379,7 @@ Taking into account these different phenomena allows us to see how harmful the c
 
 The contradictions inherent to the capitalist mode of production push the antagonism between town and country, the imbalance between the urban and the rural, to their ultimate limits. This contradiction reaches such heights [(6)][notes] that the bourgeoisie, failing to attain a harmonious distribution of the population over the territory, is forced to take responsibility for this latter and to feed and maintain under perfusion the populations it excludes from its system of production. Therefore, the masses of people expelled from agricultural lands end up crowded into the outskirts of the megalopolis.
 
-At the same time, urban rent has skyrocketed. In France, for example, it has far surpassed the ground rent in mass for a long time. Even though buildings (whether residential or for productive tasks) take up much less space than agricultural lands, their overall prices are much higher, and the relationship between the price per square metre of the most opulent housings or offices and the worst agricultural lands continues to grow. This ratio has now reached a million to one in France. Indeed, in the most fashionable Paris districts the price per square metre easily reaches on the average €10,000, while the worst agricultural lands are sold at around €1,000 per hectare. If we consider the most extreme examples, this already considerable gap increases tenfold.
+At the same time, urban rent has skyrocketed. In France, for example, it has far surpassed the ground rent in mass for a long time. Even though buildings (whether residential or for productive tasks) take up much less space than agricultural lands, their overall prices are much higher, and the relationship between the price per square metre of the most opulent housings or offices and the worst agricultural lands continues to grow. This ratio has now reached a million to one in France. Indeed, in the most fashionable Paris districts the price per square metre easily reaches on the average 10,000 Euros, while the worst agricultural lands are sold at around 1,000 Euros per hectare. If we consider the most extreme examples, this already considerable gap increases tenfold.
 
 Bourgeois society will never succeed in properly feeding humanity, nor will it ever be able to provide decent housing, nor manage territories, forests, the soil, the health and well-being of the populations, and the metabolism between man and nature, in a way that benefits the mankind as a whole.
 

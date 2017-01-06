@@ -3,7 +3,7 @@ Author:		Amadeo Bordiga
 Description:	Published in Il Programma Comunista 13, 14, and 15 in 1957. This version based on the online copy found at http://www.quinterna.org/lingue/english/historical_en/the_fundamentals.htm
 Date:		1957
 Posted:		2016-04-22
-Modified:	2016-07-15
+Modified:	2017-01-07
 CSS:		../files/style.css
 HTML Header:    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -549,7 +549,7 @@ In the same passage Marx also deals with the limitations of Lassalle's vision --
 
 Here Marx develops a historical parallel with the slave-economy (one we touched on earlier when discussing the idiotic demand for wage-earners' autonomy): "it is as if, among slaves who have finally got behind the secret of slavery and broken out in rebellion, one slave, still in thrall to obsolete notions, were to inscribe on the programme of rebellion [an immediatist, Ordinovist, non-Marxist slave we should say]: slavery must be abolished because the feeding of slaves in the system of slavery cannot exceed a certain low maximum!".
 
-To the "welfarist" gentlement we say: even if capitalism could increase average living standards to the umpteenth degree, we reiterate to you our historic prediction: capitalism's death!
+To the "welfarist" gentlemen we say: even if capitalism could increase average living standards to the umpteenth degree, we reiterate to you our historic prediction: capitalism's death!
 
 The standards offered by the great FIAT industrial plants appeared to Gramsci as a noble order when compared to the sad and brutalised existence of the Sardinian shepherd, worse than the Fourth Estate even.
 

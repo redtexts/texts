@@ -3,7 +3,7 @@ Author:		Les Amis de 4 Millions de Jeunes Travailleurs
 Description:	This text was originally published in French in 1975-1976. It was translated to Spanish (parts I and II) and Portugeuse (part III), from which it was translated into English and posted online at http://libcom.org/library/world-without-money-communism-les-amis-de-4-millions-de-jeunes-travailleurs
 Date:		1975-1976
 Posted:		2015-09-01
-Modified:	2016-06-02
+Modified:	2017-01-05
 CSS:		../files/style.css
 HTML Header:    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -1697,7 +1697,7 @@ We cannot reduce the proletariat to a standardized image: miserable starvelings,
 
 Just as the bourgeoisie is defined as a caste, by its privileges and its special characteristics, by how hard it is to join its ranks, instead of as a class, so, too, is the proletariat reduced to a socio-professional category or an aggregate of socio-professional categories.
 
-On the basis of such a definition it is easy to show that it is difficult, if not impossible, to define the proletariat. Does it really exist at all? Is it not the case that technological progress and social welfare measures have caused it to disappear? The class struggle, even if it is granted any importance, is reduced to just another kind of conflict. Male and and female, young and old, town and country, are all engaged in conflict with each other. So why shouldn't the same be true of workers and employers?
+On the basis of such a definition it is easy to show that it is difficult, if not impossible, to define the proletariat. Does it really exist at all? Is it not the case that technological progress and social welfare measures have caused it to disappear? The class struggle, even if it is granted any importance, is reduced to just another kind of conflict. Male and female, young and old, town and country, are all engaged in conflict with each other. So why shouldn't the same be true of workers and employers?
 
 Our sociologists accuse Marx of having invented the class struggle and of not understanding the concept of social class. He contradicted himself because sometimes he spoke of the peasants as a class and at other times he spoke of them as divided into opposed classes.
 
