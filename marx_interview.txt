@@ -2,7 +2,7 @@ Title:		New York World interview with Karl Marx
 Author:		Karl Marx
 Description:	Marx is interviewed by R. Landor, a correspondent of the bourgeois New York World, just months after the slaughter of the Paris Commune. Taken from https://www.marxists.org/archive/marx/bio/media/marx/71_07_18.htm. This is apparently an abridged version of the interview; a full version can be found in Marx, K., Foner, P. S., and Landor, R. (1972). Two Neglected Interviews with Karl Marx. Science and Society, 3-28
 Date:		1871
-Posted:		2016-08-05
+Posted:		2015-08-05
 Modified:	2016-03-24
 CSS:		../files/style.css
 HTML Header:    <meta name="viewport" content="width=device-width, initial-scale=1.0">
