@@ -3,7 +3,7 @@ Author:		Gauche Communiste de France
 Description:	This text was written by Marc (Chirik?) for the September 1947 issue of Internationalisme. It was published in English, along with footnotes and another GCF article on Trotskyism, under the title "What distinguishes revolutionaries from Trotskyism?" in the International Communist Current's International Review 139 in 4th quarter 2009
 Date:		1947
 Posted:		2016-09-23
-Modified:	2016-09-23
+Modified:	2017-01-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -17,7 +17,7 @@ While out of all the political positions that make up their programme, the "defe
 
 If we insist so much on this point, it is because so many of the people frightened by the external signs of the illness have too much of a tendency to rest easy as soon as the outward signs seem to have disappeared. They forget that an illness that has been covered up is not the same as an illness cured. People like this are just as dangerous, just as much capable of spreading the disease, perhaps even more so, as those who sincerely believe that the illness has been fully cured.
 
-The "Workers Party" in the USA (a dissident Trotskyist organisation known by its leader Schachtman), the Munis tendency in Mexico, the Gallien and Chaulieu minorities in France, all the minority tendencies in the "IVth International", because they reject the traditional position of defence of Russia, think they are cured of the "opportunism" (as they put it) of the Trotskyist movement. In reality the changes are largely cosmetic and underneath they are still totally trapped by this ideology.
+The "Workers Party" in the USA (a dissident Trotskyist organisation known by its leader Shachtman), the Munis tendency in Mexico, the Gallien and Chaulieu minorities in France, all the minority tendencies in the "IVth International", because they reject the traditional position of defence of Russia, think they are cured of the "opportunism" (as they put it) of the Trotskyist movement. In reality the changes are largely cosmetic and underneath they are still totally trapped by this ideology.
 
 This is so much the case that for proof you only have to take the most burning question, the one which offers the least possibilities of evasion, which poses the most irreducibly the proletarian class position against that of the bourgeoisie, the question of the attitude to take in the face of imperialist war. What do we see?
 
@@ -27,7 +27,7 @@ We won't take the trouble to cite the verbal declarations of the Trotskyists aga
 
 For all of them it was a question of the "lesser evil" which led them to participate in the war or in the resistance, fighting for one imperialist bloc against another.
 
-The Party of Schachtman is quite right to reproach the official Trotskyists with supporting Russian imperialism which, for him, is no longer a "Workers' State"; but this doesn't make Schachtman a revolutionary because this reproach is not made on the basis of a proletarian class standpoint against imperialist war, but in virtue of the fact that Russia is a totalitarian country, that there is less democracy there than anywhere else, and that for this reason it was necessary to support Finland, which was less totalitarian and more democratic, against Russian aggression.
+The Party of Shachtman is quite right to reproach the official Trotskyists with supporting Russian imperialism which, for him, is no longer a "Workers' State"; but this doesn't make Shachtman a revolutionary because this reproach is not made on the basis of a proletarian class standpoint against imperialist war, but in virtue of the fact that Russia is a totalitarian country, that there is less democracy there than anywhere else, and that for this reason it was necessary to support Finland, which was less totalitarian and more democratic, against Russian aggression.
 
 To show the nature of its ideology, notably on the primordial question of imperialist war, Trotskyism has no need, as we have seen, for the position of the defence of the USSR. This defence of the USSR does enormously facilitate its position of participation in the war, enabling it to camouflage itself with a pseudo-revolutionary phraseology, but by itself it can obscure the real question and prevent us from clearly posing the problem of the nature of Trotskyist ideology.
 

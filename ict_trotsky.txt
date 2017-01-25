@@ -3,7 +3,7 @@ Author:		Internationalist Communist Tendency
 Description:	This is a pamphlet of the Internationalist Communist Tendency, available at their website at http://www.leftcom.org/en/articles/2000-10-01/trotsky-and-trotskysm. Slight fixes were made to typos and formatting
 Date:		2000
 Posted:		2016-02-01
-Modified:	2017-01-05
+Modified:	2017-01-27
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -283,7 +283,7 @@ but once again there was no explanation of why it had a reactionary policy excep
 
 >We must not lose sight for a single moment of the fact that the questioning of the Soviet bureaucracy is for us subordinate to the question of preserving state property in the means of production of the USSR; ... [and] is subordinate for us to the question of world proletarian revolution.
 
-It is not surprising that this led to splits in the Fourth International with CLR James, Burnham and Schachtman all coming up with different analyses of the nature of Russia.
+It is not surprising that this led to splits in the Fourth International with CLR James, Burnham and Shachtman all coming up with different analyses of the nature of Russia.
 
 Trotsky's writings in this debate were collected and published under the title _In Defence of Marxism_. Though inappropriately titled they do reveal the crisis of coherence that had now smitten him. His argument in this text - that if the war did not lead to proletarian revolution then Marxism would be refuted and there would never again be the possibility of socialism - was simply a more definite version of what he had already written in _The USSR and Socialism_ in 1939.
 
@@ -635,7 +635,7 @@ As can be seen in the pamphlet, our method is not to argue against Trotsky the m
 * **1935** Trotsky moved to Norway. _The Revolution Betrayed_ published.
 * **1936** The Spanish Civil War began. Trotsky arrived in Mexico.
 * **1937** Japan invaded China.
-* **1938** Leon Sedov, Trotsky's son, murdered in Paris by Stalin's agents. Trotsky wrote _The Death Agony of Capitalism and the Tasks of the Fourth International_ (now known as the _Transitional Programme_). James Burnham and Max Schachtman of the Socialist Workers' Party urged Trotsky to abandon the degenerated workers' state formula.
+* **1938** Leon Sedov, Trotsky's son, murdered in Paris by Stalin's agents. Trotsky wrote _The Death Agony of Capitalism and the Tasks of the Fourth International_ (now known as the _Transitional Programme_). James Burnham and Max Shachtman of the Socialist Workers' Party urged Trotsky to abandon the degenerated workers' state formula.
 * **1939** The Hitler-Stalin Pact and the invasion of Poland that began the second imperialist war.
 * **1940** The murder of Trotsky by a Stalinist agent. The Fourth International continued to defend the USSR as a "degenerated workers' state" even after the invasion of Finland.
 * **1943 May** Stalin dissolved the Comintern as part of the imperialist wartime deal with the USA and Britain.
