@@ -3,7 +3,7 @@ Author:		Antagonism
 Description:	Antagonism notes this was written by "an anonymous collective" in 2000-2001. It consists of a bibliography and an introduction to two texts on the relationship between class and party. One text is by Anton Pannekoek of the German-Dutch communist left, the other is by Amadeo Bordiga of the Italian communist left. It was originally posted at http://www.oocities.org/capitolhill/lobby/3909/bordiga/bvptoc.html
 Date:		2000-2001
 Posted:		2016-01-01
-Modified:	2016-10-14
+Modified:	2017-01-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -205,7 +205,7 @@ An examination of these two tendencies, amongst the most radical of the twentiet
 14. A. Bordiga, "Considerations on the party's organic activity when the general situation is historically unfavourable", 1965
 15. A. Bordiga, 1926, "_Intervento alla commissione politica per il congresso di Lione_". A slightly different translation of this passage appears in Gramsci, _Political Writings 1921-1926_.
 16. See Lenin's _What is to Be Done?_
-17. Pannekoek, "_Massenaktion und Revolution_", 1912, in Bricaner, p. 126
+17. Pannekoek, "_Massenaktion und Revolution_", 1912, in Bricianer, p. 126
 18. Marx to Freiligrath, 1860
 19. See for instance, "The Wilhelmshaven Revolt" for an insider account by a council communist of how a naval mutiny was organised in a strictly centralised fashion.
 20. The tendency associated with the journal _Race Traitor_ have carried out some important work. See _How the Irish Became White_, Ignatiev. Another interesting tendency is Wages for Housework, and especially the writings of S. James and Dalla Costa. These have similar strengths, in looking long and hard at the conflicts within the proletariat, but similar weaknesses in tending to over-emphasise their own special interest group.
@@ -217,7 +217,7 @@ An examination of these two tendencies, amongst the most radical of the twentiet
 26. The Communist Party daily paper
 27. Bordiga, "_Marxismo e Miseria_"
 28. Marx and Engels, _The German Ideology_
-29. Marx, Leter to Bracke, 1875
+29. Marx, Letter to Bracke, 1875
 
 ## Bibliography
 
@@ -275,8 +275,7 @@ Pannekoek, Anton, "From the Bottom Up, Three Texts by Anton Pannekoek", Collecti
 
 Rachleff, Peter, "Soviet and Factory Committees in the Russian Revolution", In _Radical America_ Vol 8 #6, November-December 1994
 
-Rubel, Maximillian and Crump, John, _Non-Market Socialism in the 19th and 20th Centuries_, Macmillan, 1987
-
+Rubel, Maximillian and Crump, John, _Non-Market Socialism in the 19th and 20th Centuries_, Macmillan, 1987 
 Ruehle, Otto, "From the Bourgeois to the Proletarian Revolution", www.oocities.com/~johngray/borpro.htm
 
 Smith, Chris, _Technical Workers: Class, Labour and Trade Unionism_, Macmillan, 1987
