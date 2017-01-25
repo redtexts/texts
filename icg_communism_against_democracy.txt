@@ -3,7 +3,7 @@ Author:		Internationalist Communist Group
 Description:	From issue 4 (Winter 1987-1988) of Communism, ICG's review. Initially published online at http://gci-icg.org/english/communism4.htm#communism_dem. Some misspellings and obvious grammatical errors have been fixed in this present version but it is still a rough read
 Date:		1987-1988
 Posted:		2016-01-01
-Modified:	2016-10-14
+Modified:	2017-01-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -21,7 +21,7 @@ The content of every bourgeois state (whatever its form) is therefore democracy,
 
 Through Marx, the whole filiation and invariance of communism asserts itself more and more clearly, breaking with bourgeois socialism, breaking with reformism, breaking with democracy. From time to time, however, communists under the heavy weight of bourgeois ideology, did fall back to democratic ground. That is what the Italian Abstentionist Communist Left criticized, when writing that:
 
->"Though they were the destroyers of the whole democratic bourgeois ideology, it cannot be denied that Marx and Engels still gave too much credit to democracy and thought that universal sufferage could bring about advantages which had not been discredited yet." - Avanti, "The Lessons from the New History," 1918.
+>"Though they were the destroyers of the whole democratic bourgeois ideology, it cannot be denied that Marx and Engels still gave too much credit to democracy and thought that universal suffrage could bring about advantages which had not been discredited yet." - Avanti, "The Lessons from the New History," 1918.
 
 Yet despite its mistakes the communist movement has always asserted its **anti-democratic** character more and more strongly, be it with Babeuf, Dejacque and Coeurderoy, be it with Blanqui (and his famous "London toast") and (at certain times) Lenin, be it with the Communist Lefts (from Italy, of course, with Bordiga and the Communist Left from Italy in exile; but also the KAPD - Gorter/Schroeder wing). The question is getting clearer and clearer: how to remove from the communist program all bourgeois leftovers, all concessions to bourgeois socialists, to democrats?
 
