@@ -3,7 +3,7 @@ Author:		Communist Effort
 Description:	From issue 2 of A Communist Effort, a British journal. A PDF of this issue is available at http://libcom.org/library/communist-effort-issues-1-2-4
 Date:		1984
 Posted:		2016-11-11
-Modified:	2016-11-11
+Modified:	2016-01-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -70,7 +70,7 @@ Communism can only exist on a world scale: proletarian revolution may start in a
 
 ## Communism
 
-Communism is a. society without money, wage-labour, State, commodity economy, exchange value, separation between productive enterprises and other forms of activity (games, ...), private or State property. It is a society of "From each according to his/her ability, to each according to her/his needs", understood in material and non-material senses. It is a society of world human community, where the world is a sensuous extension of human desires and the interplay of desires (which will clearly be more conscious of themselves because there will be no unnatural barriers to their realisation: it is not suggested for a moment that they all exist as well-formed desires under capitalism), where the "senses have become theoreticians in their practice" and where "nature has lost its mere utility in that its use has become human use), WHERE THE PLEASURE OF ONE IS INSEPARABLE FROM THE PLEASURE OF ALL. Communism is a society of the continuous and conscious transformation of life, where individuals recognise themselves in a world they have created -- a society which has abolished human prehistory and alienation and has replaced them with conscious history, the world-historical existence of individuals.
+Communism is a society without money, wage-labour, State, commodity economy, exchange value, separation between productive enterprises and other forms of activity (games, ...), private or State property. It is a society of "From each according to his/her ability, to each according to her/his needs", understood in material and non-material senses. It is a society of world human community, where the world is a sensuous extension of human desires and the interplay of desires (which will clearly be more conscious of themselves because there will be no unnatural barriers to their realisation: it is not suggested for a moment that they all exist as well-formed desires under capitalism), where the "senses have become theoreticians in their practice" and where "nature has lost its mere utility in that its use has become human use), WHERE THE PLEASURE OF ONE IS INSEPARABLE FROM THE PLEASURE OF ALL. Communism is a society of the continuous and conscious transformation of life, where individuals recognise themselves in a world they have created -- a society which has abolished human prehistory and alienation and has replaced them with conscious history, the world-historical existence of individuals.
 
 ## This Period of Capitalism
 
