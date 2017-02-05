@@ -3,7 +3,7 @@ Author:		L'Insecurite Sociale
 Description:	Originally published on the Practical History website (http://www.oocities.org/pract_history/). They included a note that stated "this essay discusses the meaning of communism with examples from Pierre Clastres, Gerrard Winstanley and Moses Hess. It was written, we believe, by 'M', a member of the French-based communist group L'Insecurite Sociale in the early 1980s." The French original is available at http://www.geocities.ws/hemeis2003/IS_85.html#_Toc111977878 and indicates that this is a transcript of a presentation delivered in 1985
 Date:		1985
 Posted:		2016-01-01
-Modified:	2016-03-24
+Modified:	2017-02-04
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -37,7 +37,7 @@ Starting from this definition, in what sense can one say that there has been a t
 
 Thus, in feudal society, this tendency developed a religious language or which today no longer has any meaning. In the same way today we tend to define communism by terms such as world without states, a world without frontiers, a world without money, which in the end comes down to saying only that communism is not capitalism.
 
-Therefore when one speaks of communism in different epochs, one must be aware of the fact that the definitions which are given to it are, to a certain degree, only a reflection of the world in which we ourselves live. A difficulty arises from this for us, who live today in capitalist society at a specific stage, in analysing this tendency in the past, since, like everyone, we tend to think about and describe things in capitalist categories. At this level, it is obvious that there have been many actions by human beings in the past which we have misunderstood. This is the case for example, with the the difficulty in understanding the idea of the 'chief' in certain primitive societies or the idea of the gift whether in primitive societies or in later societies up to feudal society. These ideas of the 'chief' and of the gift have had totally different meanings from the ones they have been given today.
+Therefore when one speaks of communism in different epochs, one must be aware of the fact that the definitions which are given to it are, to a certain degree, only a reflection of the world in which we ourselves live. A difficulty arises from this for us, who live today in capitalist society at a specific stage, in analysing this tendency in the past, since, like everyone, we tend to think about and describe things in capitalist categories. At this level, it is obvious that there have been many actions by human beings in the past which we have misunderstood. This is the case for example, with the difficulty in understanding the idea of the 'chief' in certain primitive societies or the idea of the gift whether in primitive societies or in later societies up to feudal society. These ideas of the 'chief' and of the gift have had totally different meanings from the ones they have been given today.
 
 ## Before the state
 

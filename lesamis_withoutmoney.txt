@@ -3,7 +3,7 @@ Author:		Les Amis de 4 Millions de Jeunes Travailleurs
 Description:	This text was originally published in French in 1975-1976. It was translated to Spanish (parts I and II) and Portugeuse (part III), from which it was translated into English and posted online at http://libcom.org/library/world-without-money-communism-les-amis-de-4-millions-de-jeunes-travailleurs
 Date:		1975-1976
 Posted:		2015-09-01
-Modified:	2017-01-05
+Modified:	2017-02-04
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -1773,7 +1773,7 @@ The modernists replace a bourgeoisified proletariat with new categories. The rev
 
 This highlighting of the role of this or that social group or category of age or sex, is carried out on the basis of the values of which these groups are allegedly the bearers. There will not be so much an alteration of the choice of revolutionary subject as an implicit recognition of reality as it is. Young people will be revolutionary as young people, women as women, and as for the proletariat, which includes young people and women, it is revolutionary to the extent that it ceases to be a proletariat. The proletariat is not a social group. It is a movement. It is that which is transforming itself. It exists by virtue of its possibilities for self-destruction.
 
-It is not that young people, women, sick people ... do not have specific interests or that they are incapable of transforming reality. It is just that, except as proletarians, they can hardly defend their interests as young people, women, sick people, within any given reality. The proletarian revolution provides them with the means, without denying their ideas, to go beyond their specific demands and to surpass them. It is the young people, the women, and sick people, who act, but but no longer for youth or femininity, or, on the other hand, for state subsidies and the respect of the citizens.
+It is not that young people, women, sick people ... do not have specific interests or that they are incapable of transforming reality. It is just that, except as proletarians, they can hardly defend their interests as young people, women, sick people, within any given reality. The proletarian revolution provides them with the means, without denying their ideas, to go beyond their specific demands and to surpass them. It is the young people, the women, and sick people, who act, but no longer for youth or femininity, or, on the other hand, for state subsidies and the respect of the citizens.
 
 And the intellectuals?
 
