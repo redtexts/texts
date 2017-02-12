@@ -3,7 +3,7 @@ Author:		Arthur Rosenberg
 Description:	Published in German in 1932 and English in 1934, this text was written by a figure on the very left of the German Communist Party (KPD). This basis for this edition of the text comes from https://www.marxists.org/archive/rosenberg/history-bolshevism/index.htm
 Date:		1934
 Posted:		2017-01-22
-Modified:	2017-01-22
+Modified:	2017-02-12
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -32,6 +32,21 @@ As far as possible I have used Bolshevik sources. At the same time I have not he
 *Arthur Rosenberg*
 
 Berlin-Zehlendorf, June 1932
+
+## Table of Contents
+
+[Chapter 01: Marx to Lenin, 1843-1893][]  
+[Chapter 02: Revolution in Russia, 1893-1914][]  
+[Chapter 03: The World War, August 1914 to February 1917][]  
+[Chapter 04: The Third International, August 1914 to February 1917][]  
+[Chapter 05: March to October 1917][]  
+[Chapter 06: The Bolshevik Revolution and Wartime Communism, 1917-1921][]  
+[Chapter 07: The Third International at the Height of its Revolutionary Power, 1919-1921][]  
+[Chapter 08: The Great Change: NEP and the Third World Congress, 1921][]  
+[Chapter 09: Lenin's Testament, 1922-1924][]  
+[Chapter 10: Stalin Versus Trotsky, 1924-1927][]  
+[Chapter 11: 'Socialism in a Single Land', 1927-1932][]  
+[Bibliography][]  
 
 ## Chapter 01: Marx to Lenin, 1843-1893
 
