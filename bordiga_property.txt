@@ -1,9 +1,9 @@
 Title:		The Revolutionary Program of Communist Society Eliminates All Forms of Ownership of Land, the Instruments of Production and the Products of Labor
-Author:		Amadeo Bordiga
+Author:		Bordiga, Amadeo
 Description:	Written by Bordiga as a member of the Partito Comunista Internazionale for publication in Il Programma Comunista no. 16, September 3-17, 1958. It was then translated into Spanish in 1981, and thence into English in 2013. Found in English at http://libcom.org/library/revolutionary-program-communist-society-eliminates-all-forms-ownership-land-instruments- Spanish available at http://sinistra.net/lib/upt/elproc/moqe/moqefkibus.html
 Date:		1958
 Posted:		2016-04-05
-Modified:	2016-10-14
+Modified:	2017-02-27
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 

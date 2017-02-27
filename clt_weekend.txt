@@ -1,9 +1,9 @@
 Title:		Weekend at Bernie's
-Author:		The Communist League of Tampa
+Author:		Communist League of Tampa
 Description:	Written by 'jurassic marx' for the Communist League of Tampa's blog, https://communistleaguetampa.org/2015/08/19/weekend-at-bernies/
 Date:		2015
 Posted:		2016-01-01
-Modified:	2016-03-24
+Modified:	2017-02-27
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 

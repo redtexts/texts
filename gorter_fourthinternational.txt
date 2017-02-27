@@ -1,9 +1,9 @@
 Title:		Why We Need the Fourth Communist Workers' International
-Author:		Herman Gorter
+Author:		Gorter, Herman
 Description:	Written in German in September 1921 and published in English in Workers' Dreadnought in October 1921. A Communist Workers' International was formed the next year. This red texts version is based on the MIA version, available at https://www.marxists.org/archive/gorter/1921/fourth-international.htm
 Date:		1921
 Posted:		2017-02-19
-Modified:	2017-02-24
+Modified:	2017-02-27
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 

@@ -1,9 +1,9 @@
 Title:		Our Antipolitics
-Author:		the Poor, the Bad and the Angry
+Author:		Poor, the Bad and the Angry
 Description:	Originally published at http://www.againstsleepandnightmare.net/ANTICAPL/PBA/welcome.html on the website of Against Sleep and Nightmare (http://www.againstsleepandnightmare.net/ASAN/welcome.html)
 Date:		1990s?
 Posted:		2015-09-01
-Modified:	2017-02-04
+Modified:	2017-02-27
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
