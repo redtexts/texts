@@ -3,7 +3,7 @@ Author:		Robin Goodfellow
 Description:	Presented as part one of a series on democracy and Marx and Engels. This red texts version has some very slight changes to formatting and spelling. The original was posted at http://www.robingoodfellow.info/pagesen/rubriques/marxdemoen1.htm. Strangely, this text's French edition is labeled as part two, while this English translation is labeled as part one
 Date:		2002
 Posted:		2016-06-02
-Modified:	2016-10-16
+Modified:	2017-02-26
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -126,7 +126,7 @@ It might be useful here to think about what, in the present functions of the sta
 
 ### 1891
 
-That year's "innovation," discovered by Texier, concerns the critique of plans for the Erfurt program. We can consider this "innovation" null and void, since it rests entirely on a translation error that consists in speaking of the democratic republic as an adequate form OF the dictatorship of the proletariat and not FOR the dictatorship of the proletariat. See our comments above on this. 
+That year's "innovation," discovered by Texier, concerns the critique of plans for the Erfurt program. We can consider this "innovation" null and void, since it rests entirely on a translation error that consists in speaking of the democratic republic as an adequate form OF the dictatorship of the proletariat and not FOR the dictatorship of the proletariat. See our comments above on this.
 
 We mentioned above the issue of the translation of one of Engels' phrases that served Texier's falsifying interests. This is an issue we'll come back to in future parts of this article, but which is useful to start dealing with now. In 1891, Engels wrote the following, in the critique of the Erfurt socialist program:
 
@@ -150,7 +150,7 @@ This point merits close consideration, because Engels' famous introduction is co
 
 The first is a "softening" of the text, demanded by the leaders of the social-democratic party because of Germany's domestic political situation, censorship and the futility of running certain needless risks. A series of corrections was proposed to Engels by Richard Rischer. Engels accepted most of these corrections, **but only up to a certain point**.
 
-In a letter from Engels to Fischer written in London on March 8, 1895, Engels specifies: 
+In a letter from Engels to Fischer written in London on March 8, 1895, Engels specifies:
 
 >You wish ... to make a temporary tactic into a permanent tactic, to make a relative tactic into a tactic valid in the absolute. I will not do it, I cannot do it without bringing eternal disgrace upon myself. ... Yes to legality for as long and to the extent we need, but no to legality at any price, even only in words.
 

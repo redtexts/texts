@@ -3,7 +3,7 @@ Author:		Reinvention of Everyday Life
 Description:	Published by an American group called The Reinvention of Everyday Life, then republished in the UK by Social Revolution (who were forced out of the SPGB, joined Solidarity, and later joined Wildcat. This red texts version comes from what was hosted on the Subversion website at http://www.oocities.org/athens/acropolis/8195/blasts/badolddays.htm
 Date:		1975
 Posted:		2017-02-25
-Modified:	2017-02-25
+Modified:	2017-02-26
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -43,7 +43,7 @@ And now, as world capitalism is falling apart, its spokesmen tell us that it's o
 
 But there is nothing mysterious about the present breakdown of social production. It is nothing other than the outcome of the contradiction between the forces of production [(1)][notes] and the social relations of production. Now capitalism has become a fetter on our existence and development as genuinely human beings. But capitalism is only the highest form of commodity [(2)][notes] (exchange-value) production. While for thousands of years the commodity form helped to develop the productive forces and thus to prepare the conditions for a really free society, it has now become a fetter (and in fact the last essential fetter) on our further development as human beings.
 
-Though this contradiction exists in every part of the world, it is first most visible in the most advanced and overdeveloped countries (especially the U.S.). Thus the active contradiction between use-value and exchange-value can be seen constantly in the most common acts of our daily life. Every time you stand in a line at a supermarket checkstand you do this not to accomplish any productive or socially useful function. The only reason you're waiting in line is to pay for the food, even though it would be every bit as good whether or not you pay for it. But unless you pay for it, it cannot be realized as a commodity, as exchange-value. In terms of its social use-value it would be much simpler and indeed more efficient, if you simply walked out with it. (But don't get caught trying!) 
+Though this contradiction exists in every part of the world, it is first most visible in the most advanced and overdeveloped countries (especially the U.S.). Thus the active contradiction between use-value and exchange-value can be seen constantly in the most common acts of our daily life. Every time you stand in a line at a supermarket checkstand you do this not to accomplish any productive or socially useful function. The only reason you're waiting in line is to pay for the food, even though it would be every bit as good whether or not you pay for it. But unless you pay for it, it cannot be realized as a commodity, as exchange-value. In terms of its social use-value it would be much simpler and indeed more efficient, if you simply walked out with it. (But don't get caught trying!)
 
 But exchange-value is not a mere accessory tacked on to an otherwise neutral reality. On the contrary, value is the motivating force of all production in capitalist society. Everything is produced as value and its use-value is shaped accordingly.
 

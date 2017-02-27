@@ -3,7 +3,7 @@ Author:		La Guerre Sociale
 Description:	This text originally appeared in French in La Guerre Sociale, no. 2, in March 1978. A translation to English was made in the early 80s, and was later revised and posted online -- with a substantial preface -- on the John Gray Website at http://www.oocities.org/~johngray/questat.htm
 Date:		1978
 Posted:		2017-01-22
-Modified:	2017-02-18
+Modified:	2017-02-26
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -131,7 +131,7 @@ The originality of the West is in having created, under the pressure of merchant
 
 Capitalism wasn't liberal at first, and then later monopolist and statist. Free trade was only a digression for a few decades (generally speaking between 1840 and 1870). Since the end of the 19th century, even England has preferred "fair trade" to free trade. But, even in its liberal phase, the State played a key role. The strong advance made by England over France in the area of industrial production was also due to the bourgeois State, which though monarchist, was able to provide capital, whilst France waited until 1830 and even beyond, until the Second Empire, to industrialise.
 
- There was no more a pure liberal phase of capital, with entrepreneurs doing as they liked and at their own initiative, than there is today a phase of "State capitalism" -- as if the State effectively controlled capital, and as if Russian State capitalism was a more advanced form prefiguring the future. Liberalism has always coexisted with State intervention, and the more bureaucratic countries are probably those which least master their economic process.
+There was no more a pure liberal phase of capital, with entrepreneurs doing as they liked and at their own initiative, than there is today a phase of "State capitalism" -- as if the State effectively controlled capital, and as if Russian State capitalism was a more advanced form prefiguring the future. Liberalism has always coexisted with State intervention, and the more bureaucratic countries are probably those which least master their economic process.
 
 In the younger capitalist States, the State alleviates the insolvency of the bourgeoisie. Capital was accumulated where there was a strong statist tradition: Bismarck's Germany, Japan in the Meiji era, Russia before 1917. In these three countries the bourgeoisie, socially weak, was excluded from political power but the State developed a capitalist economy.
 

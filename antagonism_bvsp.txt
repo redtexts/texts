@@ -3,7 +3,7 @@ Author:		Antagonism
 Description:	Antagonism notes this was written by "an anonymous collective" in 2000-2001. It consists of a bibliography and an introduction to two texts on the relationship between class and party. One text is by Anton Pannekoek of the German-Dutch communist left, the other is by Amadeo Bordiga of the Italian communist left. It was originally posted at http://www.oocities.org/capitolhill/lobby/3909/bordiga/bvptoc.html
 Date:		2000-2001
 Posted:		2016-01-01
-Modified:	2017-01-25
+Modified:	2017-02-26
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -275,7 +275,8 @@ Pannekoek, Anton, "From the Bottom Up, Three Texts by Anton Pannekoek", Collecti
 
 Rachleff, Peter, "Soviet and Factory Committees in the Russian Revolution", In _Radical America_ Vol 8 #6, November-December 1994
 
-Rubel, Maximillian and Crump, John, _Non-Market Socialism in the 19th and 20th Centuries_, Macmillan, 1987 
+Rubel, Maximillian and Crump, John, _Non-Market Socialism in the 19th and 20th Centuries_, Macmillan, 1987
+
 Ruehle, Otto, "From the Bourgeois to the Proletarian Revolution", www.oocities.com/~johngray/borpro.htm
 
 Smith, Chris, _Technical Workers: Class, Labour and Trade Unionism_, Macmillan, 1987
