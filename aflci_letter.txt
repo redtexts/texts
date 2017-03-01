@@ -3,7 +3,7 @@ Author:		American Fraction of the Left Communist International
 Description:	Written as an appeal to the Trotskyist group the Revolutionary Workers League, who published the letter, along with a fairly standard Trotskyist response, in the October 1937 issue of their publication 'The Fourth International.' Some typos have been fixed but a scan of this issue that can be found at https://archive.org/details/LCIvsRWL shows that the remaining errors below were present in the original text
 Date:		1937
 Posted:		2016-03-26
-Modified:	2016-04-03
+Modified:	2017-02-27
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -39,6 +39,6 @@ We are writing to you this letter for the reason that we believe it is our duty 
 
 Comradely yours,
 
-The New Your Group of the Italian Section of the International Left Fraction of Communism
+The New York Group of the Italian Section of the International Left Fraction of Communism
 
 {{../files/footer.txt}}
