@@ -3,7 +3,7 @@ Author:		Nicolaievsky, Boris and Otto Maenchen-Helfen
 Description:	Based on Archive.org's scan of the 1936 original British edition, available at https://archive.org/details/in.ernet.dli.2015.210638. The only intentional changes made to the original text are to indicate misspellings; to move English translations of German and French into the body of the text, rather than footnotes; and to exclude the index. It is believed that the original text is now in the public domain. This ebook is entered into the public domain
 Date:		1936
 Posted:		2015-08-01
-Modified:	2017-03-24
+Modified:	2017-04-01
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -469,7 +469,7 @@ The last number of the _Rheinische Zeitung_ appeared on March 31. It was so soug
 
 3: _Wir liessen kühn der Freiheit Fahne wehen  
 Und ernst tat jeder Schiffman seine Pflicht,  
-War d 'rum vergebens auch der Mannschaft Spähen:  
+War d'rum vergebens auch der Mannschaft Spähen:  
 Die Fahrt war schön and sie gereut uns nicht_.
 
 _Dass uns der Götter Zorn hat nachgetrachtet  
