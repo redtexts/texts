@@ -3,7 +3,7 @@ Author:		Gorter, Herman
 Description:	Apparently written in 1923 and published in English in Workers' Dreadnought in 1924. This red texts version is based on the MIA version, available at https://www.marxists.org/archive/gorter/1923/world-revolution.htm
 Date:		1923
 Posted:		2017-02-19
-Modified:	2017-02-27
+Modified:	2017-04-10
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -322,7 +322,8 @@ This slogan is the keystone of the Moscow tactics. It is the last word of the ca
 
 ## Notes
 
-1. Lenin and his colleagues have played a strange role. On the one hand they have shown the world proletariat the way to Communism, on the other they have helped to establish world capitalism in Russia and Asia (not to mention the peasants). For our part we shall always regard as more important the real communism towards which the English, German and North American workers are striving.
-2. When Karl Liebknecht in that historic hour in the Zirkus Busch fought with a small following against the fallacy of the United Front he saw in his mind's eye the cold rifle barrels, and the whole pack shouted 'Unity'. That is and was the slogan of the counter-revolution. But Karl Liebknecht's slogan was : First clearness, then Unity. Clearness as to the immediate tasks of the working class, which are: We want the factories! We want the land! Down with capitalist private property! All power to the Workers' Councils! The Dictatorship of the Proletariat! These are the slogans of the proletarian revolution. These are the only slogans of the working class.
+1: Lenin and his colleagues have played a strange role. On the one hand they have shown the world proletariat the way to Communism, on the other they have helped to establish world capitalism in Russia and Asia (not to mention the peasants). For our part we shall always regard as more important the real communism towards which the English, German and North American workers are striving.
+
+2: When Karl Liebknecht in that historic hour in the Zirkus Busch fought with a small following against the fallacy of the United Front he saw in his mind's eye the cold rifle barrels, and the whole pack shouted 'Unity'. That is and was the slogan of the counter-revolution. But Karl Liebknecht's slogan was: First clearness, then Unity. Clearness as to the immediate tasks of the working class, which are: We want the factories! We want the land! Down with capitalist private property! All power to the Workers' Councils! The Dictatorship of the Proletariat! These are the slogans of the proletarian revolution. These are the only slogans of the working class.
 
 {{../files/footer.txt}}

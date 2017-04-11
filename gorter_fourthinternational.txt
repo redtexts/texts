@@ -3,7 +3,7 @@ Author:		Gorter, Herman
 Description:	Written in German in September 1921 and published in English in Workers' Dreadnought in October 1921. A Communist Workers' International was formed the next year. This red texts version is based on the MIA version, available at https://www.marxists.org/archive/gorter/1921/fourth-international.htm
 Date:		1921
 Posted:		2017-02-19
-Modified:	2017-02-27
+Modified:	2017-04-10
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -47,6 +47,6 @@ The Conference of the Communist Workers' Party of Germany (the K.A.P.D.) has sho
 
 ## Notes
 
-1. In Britain, where the masses have long been politically backward, as compared with the Continent, the Labour Party, a later growth and a makeshift, replaced the Social Democratic Party as the political unit of the working class, side by side with it we had the small socialist societies [Workers' Dreadnought's note].
+1: In Britain, where the masses have long been politically backward, as compared with the Continent, the Labour Party, a later growth and a makeshift, replaced the Social Democratic Party as the political unit of the working class, side by side with it we had the small socialist societies [Workers' Dreadnought's note].
 
 {{../files/footer.txt}}

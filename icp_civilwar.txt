@@ -3,7 +3,7 @@ Author:		International Communist Party
 Description:	This text was published in four parts in the ICP's publication "Communist Left," starting in issue 21-22. Find all four parts at http://international-communist-party.org/CommLeft/CLIndex.htm
 Date:		2005-2009
 Posted:		2016-01-01
-Modified:	2017-02-04
+Modified:	2017-04-10
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -540,7 +540,8 @@ When all is said and done, this chapter in the history of the bourgeoisie, who a
 
 ## Notes
 
-1. Battilocchio -- the word comes from a "Filo del tempo" article in "il programma comunista", no. 7, 1953. Literally, someone who, passing by, makes you blink in admiration. It indicates the important person, the great leader, whom, according to idealists, is able, by sheer force of his own will power and capacity, to shape history. This, of course, is totally opposed to our view, according to which the more "important" a person is, the more he is determined in all his decisions and acts by forces beyond his control.
-2. Hannibal is at the Gates -- the enemy directly threatens.
+1: Battilocchio -- the word comes from a "Filo del tempo" article in "il programma comunista", no. 7, 1953. Literally, someone who, passing by, makes you blink in admiration. It indicates the important person, the great leader, whom, according to idealists, is able, by sheer force of his own will power and capacity, to shape history. This, of course, is totally opposed to our view, according to which the more "important" a person is, the more he is determined in all his decisions and acts by forces beyond his control.
+
+2: Hannibal is at the Gates -- the enemy directly threatens.
 
 {{../files/footer.txt}}

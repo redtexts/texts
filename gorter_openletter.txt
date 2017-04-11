@@ -3,7 +3,7 @@ Author:		Gorter, Herman
 Description:	Written in German in 1920 in German and published in English in 1921 in Workers' Dreadnought. Republished again by Wildcat in 1989, and then published online by Antagonism Press in 2004. This red texts version is based on the Marxists Internet Archive version at https://www.marxists.org/archive/gorter/1920/open-letter/index.htm, but incorporates the introductions and some corrections from the Antagonism Press version, available at http://www.oocities.org/capitolhill/lobby/3909/gorter/gortertoc.html
 Date:		1920
 Posted:		2017-03-05
-Modified:	2017-03-05
+Modified:	2017-04-10
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -145,7 +145,7 @@ September 1989
 
 ### Note to Wildcat introduction
 
-1. To some extent, Gorter's arguments have contributed to the emergence of the ideology known as "Councilism," whose basic positions can be roughly summarised as follows:  
+1: To some extent, Gorter's arguments have contributed to the emergence of the ideology known as "Councilism," whose basic positions can be roughly summarised as follows:  
 a. The Russian Revolution was inevitably capitalist due to the undeveloped nature of the country.  
 b. All political organisations are reactionary.  
 c. Elected workers' councils are the only organisations which can defend the interests of the working class.  
@@ -1175,45 +1175,84 @@ H. GORTER.
 
 ## Notes
 
-1. In _State and Revolution_, for instance, you write (page 67): "The greatest majority of the peasantry in every capitalist country that has any peasantry at all, is oppressed by the government, and so thirsting for the latter's overthrow, for 'cheap' government. The proletariat is called upon to carry this into execution ..." The trouble is, however, that the peasantry does not thirst for Communism.
-2. The Agrarian Theses of Moscow acknowledges this.
-3. I have no statistical data for Sweden and Spain.
-4. In the brochure, The World Revolution, I have emphatically pointed out this difference between Russia and Western Europe. The development of the German Revolution has proved that any judgment was even too optimistic. In Italy it is possible that the poor peasants will side with the proletariat.
-5. You, Comrade, will surely not try and win in an argument by taking the assertions of your opponent in too absolute a sense, as small minds do. My above remark, therefore, is meant for the latter.
-6. Of course I had to take the pre-war figures, and have made the increase in proletarians after the last census (of 1909) proportionate to that before.
-7. I do not touch here on the fact that through this other relation of numbers (20 million to 70 million in Germany!) the importance of the mass and the leaders, and the relation between mass, party and leaders, also in the course and at the close of the revolution here, will differ from those of Russia.
-8. So far, at least.
-9. It has struck me that in this controversy you almost invariably make use of private, and not public voices of the opposition.
-10. It has to be borne in mind, of course, that this new combination of individualism and centralism is not given right away in its completed form, but that it is only springing up now, and is a process, which will be developed only in the struggle itself, and thus perfected.
-11. With the sarcastic remark that also the Workers' Union cannot be faultless, you make little impression. It is right only in so far that the union must fight for reforms under capitalism. It is not right in so far as the union fights for the revolution.
-12. Shop Committees, Shop Stewards, and, especially in Wales, Industrial Unions.
-13. That this movement in Germany was made from above is slander.
-14. You, Comrade, and many with you, use here the argument that the Communists, by leaving the Trade Unions, lose touch with the masses. But is not the closest touch obtained in the workshops? And have not all workshops turned more than ever into debating halls? How can the Left Communists possibly lose touch, then?
-15. Already now the Trade Union question clearly demonstrates where the opportunist tactics of Moscow lead. The members of the Communist Parties are forced to enter the modern Trade Unions (see the thesis accepted on this point). They are forced, therefore, to become scabs and strike-breakers!!! At the same time they must openly support the Syndicalists!!! Instead of openly saying that neither of these organisations are any good, that new ones have to be formed, on the basis of the industries (the theses themselves declare elsewhere that this is what should be done), they adopt this ambiguous attitude. And why? To add masses to the Third International.
-16. Originally I considered this a minor point. The attitude of the Spartakus League, however, at the time of the Kapp putsch, and your opportunist brochure, opportunist even on this question, have convinced me that it is of great importance.
-17. This great influence, this entire ideology of the West of Europe, of the United States and the British colonies, is not understood in Eastern Europe, in Turkey, the Balkans, etc. (to say nothing of Asia, etc.).
-18. The example of Comrade Liebknecht is in itself a proof that our tactics are right. BEFORE the revolution, when imperialism was as yet at the summit of power, and suppressed every movement by martial law, he could exercise an enormous influence through his protests in parliament; DURING the revolution this was so no longer. As soon, therefore, as the workers have taken their lot into their own hands, we must let go of parliamentarism.
-19. It is true that England has no poor peasants to support capital. But the middle class is correspondingly greater, and is united with capitalism. By means of this advance guard the English proletariat shows how it wants to fight: alone, and against all classes of England and its colonies. And exactly like Germany again: by setting an example. By founding a Communist Party that rejects parliamentarism, and that calls out to the entire class in England: let go of parliament, the symbol of capitalist power. Form your own party and your own industrial organisations. Rely on your own strength exclusively.  
+1: In _State and Revolution_, for instance, you write (page 67): "The greatest majority of the peasantry in every capitalist country that has any peasantry at all, is oppressed by the government, and so thirsting for the latter's overthrow, for 'cheap' government. The proletariat is called upon to carry this into execution ..." The trouble is, however, that the peasantry does not thirst for Communism.
+
+2: The Agrarian Theses of Moscow acknowledges this.
+
+3: I have no statistical data for Sweden and Spain.
+
+4: In the brochure, The World Revolution, I have emphatically pointed out this difference between Russia and Western Europe. The development of the German Revolution has proved that any judgment was even too optimistic. In Italy it is possible that the poor peasants will side with the proletariat.
+
+5: You, Comrade, will surely not try and win in an argument by taking the assertions of your opponent in too absolute a sense, as small minds do. My above remark, therefore, is meant for the latter.
+
+6: Of course I had to take the pre-war figures, and have made the increase in proletarians after the last census (of 1909) proportionate to that before.
+
+7: I do not touch here on the fact that through this other relation of numbers (20 million to 70 million in Germany!) the importance of the mass and the leaders, and the relation between mass, party and leaders, also in the course and at the close of the revolution here, will differ from those of Russia.
+
+8: So far, at least.
+
+9: It has struck me that in this controversy you almost invariably make use of private, and not public voices of the opposition.
+
+10: It has to be borne in mind, of course, that this new combination of individualism and centralism is not given right away in its completed form, but that it is only springing up now, and is a process, which will be developed only in the struggle itself, and thus perfected.
+
+11: With the sarcastic remark that also the Workers' Union cannot be faultless, you make little impression. It is right only in so far that the union must fight for reforms under capitalism. It is not right in so far as the union fights for the revolution.
+
+12: Shop Committees, Shop Stewards, and, especially in Wales, Industrial Unions.
+
+13: That this movement in Germany was made from above is slander.
+
+14: You, Comrade, and many with you, use here the argument that the Communists, by leaving the Trade Unions, lose touch with the masses. But is not the closest touch obtained in the workshops? And have not all workshops turned more than ever into debating halls? How can the Left Communists possibly lose touch, then?
+
+15: Already now the Trade Union question clearly demonstrates where the opportunist tactics of Moscow lead. The members of the Communist Parties are forced to enter the modern Trade Unions (see the thesis accepted on this point). They are forced, therefore, to become scabs and strike-breakers!!! At the same time they must openly support the Syndicalists!!! Instead of openly saying that neither of these organisations are any good, that new ones have to be formed, on the basis of the industries (the theses themselves declare elsewhere that this is what should be done), they adopt this ambiguous attitude. And why? To add masses to the Third International.
+
+16: Originally I considered this a minor point. The attitude of the Spartakus League, however, at the time of the Kapp putsch, and your opportunist brochure, opportunist even on this question, have convinced me that it is of great importance.
+
+17: This great influence, this entire ideology of the West of Europe, of the United States and the British colonies, is not understood in Eastern Europe, in Turkey, the Balkans, etc. (to say nothing of Asia, etc.).
+
+18: The example of Comrade Liebknecht is in itself a proof that our tactics are right. BEFORE the revolution, when imperialism was as yet at the summit of power, and suppressed every movement by martial law, he could exercise an enormous influence through his protests in parliament; DURING the revolution this was so no longer. As soon, therefore, as the workers have taken their lot into their own hands, we must let go of parliamentarism.
+
+19. It is true that England has no poor peasants to support capital. But the middle class is correspondingly greater, and is united with capitalism. By means of this advance guard the English proletariat shows how it wants to fight: alone, and against all classes of England and its colonies. And exactly like Germany again: by setting an example. By founding a Communist Party that rejects parliamentarism, and that calls out to the entire class in England: let go of parliament, the symbol of capitalist power. Form your own party and your own industrial organisations. Rely on your own strength exclusively.
+
 This had to be so in England, Comrade; it had to come in the long run. This pride and courage, born out of the greatest capitalism. Now that it comes at last, it comes in full force at once.
-20. In England, more even than anywhere else, there is always a great danger of opportunism. Thus also our Comrade Sylvia Pankhurst, who from temperament, instinct and experience, not so much perhaps from deep study, but by mere chance, was such an excellent champion of Left Wing Communism, seems to have changed here views. She gives up anti-parliamentarism, and consequently the cornerstone of her fight against opportunism, for the sake of the immediate advantage of unity! By so doing she follows the road thousands of English Labour leaders have taken before her: the road towards submission to opportunism and all it leads to, and finally to the bourgeoisie. This is not to be wondered at. But that you, Comrade Lenin, should have induced her to do so, should have persuaded her, the only fearless leader of consequence in England, this is a blow for the Russian, for the world revolution.  
+
+20: In England, more even than anywhere else, there is always a great danger of opportunism. Thus also our Comrade Sylvia Pankhurst, who from temperament, instinct and experience, not so much perhaps from deep study, but by mere chance, was such an excellent champion of Left Wing Communism, seems to have changed here views. She gives up anti-parliamentarism, and consequently the cornerstone of her fight against opportunism, for the sake of the immediate advantage of unity! By so doing she follows the road thousands of English Labour leaders have taken before her: the road towards submission to opportunism and all it leads to, and finally to the bourgeoisie. This is not to be wondered at. But that you, Comrade Lenin, should have induced her to do so, should have persuaded her, the only fearless leader of consequence in England, this is a blow for the Russian, for the world revolution.
+
 One might ask why I defend anti-parliamentarism for England, whereas above I have recommended it only for those countries where the revolution has broken out. The answer must be that in the struggle it may often prove necessary to go one step so much to the Left. If, in a country so diseased with opportunism as England, the danger should arise of a young Communist Party falling back into the course of opportunism, through parliamentarism, it is a tactical necessity to defend anti-parliamentarism. And thus in many countries of Western Europe it may continue to be!
-21. It is true that through the war an infinitely greater number of various elements has come down to the ranks of the proletariat. All elements, though as good as any element that is not proletarian, cling desperately to capitalism, and if need be will defend it by armed force, being hostile to Communism.
-22. I lack the space here to point this out in detail. I have done it so at length in a brochure entitled _The Basis of Communism_.
-23. We Dutchmen know this only too well. We have seen the "rifts" disappear before our eyes, in our small, but, through our colonies, highly imperialist country. With us there are no longer democratic, Christian, or other parties. Even the Dutch can judge this better than a Russian, who, I regret to say, seems to judge Western Europe after Russia.
-24. It is yet the question whether these "pure" Labour governments will come here. Maybe that here again you let yourself be misled by the Russian example -- Kerensky. Later in this letter, I will point out why in this case, in the March days in Germany, this "pure" socialist government was not to be supported all the same.
-25. The Russian Communist Party at the time of Yudenitch's and Denikin's attacks, numbered 13,287 men, not one ten thousandth part of the population of 150 million. Through special weeks of propaganda the number, by January 1920, increased to 220,000. Now it is no more than 600,000, 52% of which are workers.
-26. The quotations are from Radek.
-27. I point out here the contradiction between this opinion and the effort of winning millions of wavering elements to the Third International. This contradiction is another proof of the opportunism of your tactics.
-28. A very strong proof of how the Board of the Third International judges all things from the Russian standpoint, is the following: after the German revolution had been beaten down, after the Bavarian and Hungarian revolutions had been crushed, Moscow said to the German and Hungarian proletariat:  
-"Be comforted, and bear up, for in March and July 1917, we were also defeated; but in November we won. As it went with us, it will go with you."  
-And to be sure, this time again Moscow is saying the same to the Czecho-Slovakian workers. But the Russians won in November exclusively because the poor peasants no longer supported Kerensky! Where, Executive Committee, are the millions of poor peasants in Germany, Bavaria, Hungary, and in Czecho-Slovakia? There are none. Your words are just utter nonsense. The perniciousness of these Moscow tactics, however, does not lie solely in that they console the workers by means of a false image, but more especially in the fact that they fail to draw the right conclusion from the defeat in Germany, Bavaria, Hungary and Czecho-Slovakia. The lesson they teach is this:  
-"Destroy your Trade Unions, and form industrial unions, thus rendering your Party and your class strong internally."  
+
+21: It is true that through the war an infinitely greater number of various elements has come down to the ranks of the proletariat. All elements, though as good as any element that is not proletarian, cling desperately to capitalism, and if need be will defend it by armed force, being hostile to Communism.
+
+22: I lack the space here to point this out in detail. I have done it so at length in a brochure entitled _The Basis of Communism_.
+
+23: We Dutchmen know this only too well. We have seen the "rifts" disappear before our eyes, in our small, but, through our colonies, highly imperialist country. With us there are no longer democratic, Christian, or other parties. Even the Dutch can judge this better than a Russian, who, I regret to say, seems to judge Western Europe after Russia.
+
+24: It is yet the question whether these "pure" Labour governments will come here. Maybe that here again you let yourself be misled by the Russian example -- Kerensky. Later in this letter, I will point out why in this case, in the March days in Germany, this "pure" socialist government was not to be supported all the same.
+
+25: The Russian Communist Party at the time of Yudenitch's and Denikin's attacks, numbered 13,287 men, not one ten thousandth part of the population of 150 million. Through special weeks of propaganda the number, by January 1920, increased to 220,000. Now it is no more than 600,000, 52% of which are workers.
+
+26: The quotations are from Radek.
+
+27: I point out here the contradiction between this opinion and the effort of winning millions of wavering elements to the Third International. This contradiction is another proof of the opportunism of your tactics.
+
+28: A very strong proof of how the Board of the Third International judges all things from the Russian standpoint, is the following: after the German revolution had been beaten down, after the Bavarian and Hungarian revolutions had been crushed, Moscow said to the German and Hungarian proletariat:
+
+"Be comforted, and bear up, for in March and July 1917, we were also defeated; but in November we won. As it went with us, it will go with you." 
+
+And to be sure, this time again Moscow is saying the same to the Czecho-Slovakian workers. But the Russians won in November exclusively because the poor peasants no longer supported Kerensky! Where, Executive Committee, are the millions of poor peasants in Germany, Bavaria, Hungary, and in Czecho-Slovakia? There are none. Your words are just utter nonsense. The perniciousness of these Moscow tactics, however, does not lie solely in that they console the workers by means of a false image, but more especially in the fact that they fail to draw the right conclusion from the defeat in Germany, Bavaria, Hungary and Czecho-Slovakia. The lesson they teach is this:
+
+"Destroy your Trade Unions, and form industrial unions, thus rendering your Party and your class strong internally."
+
 Instead of this lesson, however, we only hear: "It will go with you as it did with us!" Is it not high time that, against these Moscow tactics, there should arise, all over Western Europe, one firmly organised, iron opposition? It is a question of life and death for the world revolution itself. And also for the Russian revolution.
-29. With regard to this we must bear in mind that here we are always speaking of a disarmed proletariat. If through some reason or other, through a new war, or later on, in the course of the revolution, the proletariat should once more obtain arms, the above-mentioned conditions do not count.
-30. To deal with all these Russian examples would be too monotonous. I request the reader to read them all over. He will see that what I have said above is right.
-31. Personally I believe that in countries where the revolution is far off as yet, and the workers are not yet strong enough to make it, parliamentarism can still be used. The sharpest criticism of the parliamentary delegates is necessary in that case. Other comrades, I believe, are of a different opinion.
-32. In Halle, in one day alone, 500,000 new members came under leaders which only a short while before they themselves had recognised to be worse than the Scheidemann lot. And in Tours, three quarters of the French Socialist Party joined, which until quite recently were for the most part social patriots.
-33. Comrade Pannekoek, who thoroughly knows Germany, had predicted this. If the leaders of the Spartakus League were placed before the choice between Parliament and Revolution, they would choose Parliament.
-34. The English Communists for instance, with regard to the most important matter of affiliation to the Labour Party.
+
+29: With regard to this we must bear in mind that here we are always speaking of a disarmed proletariat. If through some reason or other, through a new war, or later on, in the course of the revolution, the proletariat should once more obtain arms, the above-mentioned conditions do not count.
+
+30: To deal with all these Russian examples would be too monotonous. I request the reader to read them all over. He will see that what I have said above is right.
+
+31: Personally I believe that in countries where the revolution is far off as yet, and the workers are not yet strong enough to make it, parliamentarism can still be used. The sharpest criticism of the parliamentary delegates is necessary in that case. Other comrades, I believe, are of a different opinion.
+
+32: In Halle, in one day alone, 500,000 new members came under leaders which only a short while before they themselves had recognised to be worse than the Scheidemann lot. And in Tours, three quarters of the French Socialist Party joined, which until quite recently were for the most part social patriots.
+
+33: Comrade Pannekoek, who thoroughly knows Germany, had predicted this. If the leaders of the Spartakus League were placed before the choice between Parliament and Revolution, they would choose Parliament.
+
+34: The English Communists for instance, with regard to the most important matter of affiliation to the Labour Party.
 
 {{../files/footer.txt}}

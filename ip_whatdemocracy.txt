@@ -3,7 +3,7 @@ Author:		Internationalist Perspective
 Description:	"IP Statement on the US Election," published November 2016 at http://internationalist-perspective.org/blog/2016/11/22/this-is-what-democracy-looks-like/
 Date:		2016
 Posted:		2016-11-22
-Modified:	2017-03-01
+Modified:	2017-04-10
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -71,8 +71,10 @@ INTERNATIONALIST PERSPECTIVE
 
 ## Notes
 
-1. See: http://www.cbsnews.com/news/80-percent-of-us-adults-face-near-poverty-unemployment-survey-finds/2/
-2. Similarly, "Occupy Wall Street", that is the leftists who still use the name of the movement, even though it is a mantle on a corpse, devoted at least 95% of its mailings in the past years to opposition to the TPP free trade-agreement.
-3. Nancy Isenberg: _WHITE TRASH: The 400-Year Untold History of Class in America_, Viking 2016
+1: See: http://www.cbsnews.com/news/80-percent-of-us-adults-face-near-poverty-unemployment-survey-finds/2/
+
+2: Similarly, "Occupy Wall Street", that is the leftists who still use the name of the movement, even though it is a mantle on a corpse, devoted at least 95% of its mailings in the past years to opposition to the TPP free trade-agreement.
+
+3: Nancy Isenberg: _WHITE TRASH: The 400-Year Untold History of Class in America_, Viking 2016
 
 {{../files/footer.txt}}

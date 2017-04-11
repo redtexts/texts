@@ -3,7 +3,7 @@ Author:		Internationalist Perspective
 Description:	Written by Sander and Mac Intosh in October 2014 for Internationalist Perspective 60. Available online at http://internationalist-perspective.org/IP/ip-archive/ip-archive.html
 Date:		2014
 Posted:		2016-08-04
-Modified:	2016-08-04
+Modified:	2017-04-10
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -83,11 +83,16 @@ October 2014
 
 ## Notes
 
-1. _International Council Correspondence_, Vol II, Number 8, July 1936, p.7.
-2. William Appleman Williams, _The Contours of American History_ (World Publishing Co., 1961), p.439.
-3. William Greider, _One World, Ready or Not_ (Simon & Shuster, 1997), p.12. Greider continues: "in fact, this machine has no wheel nor any internal governor to control the speed and direction. It is sustained by its own forward motion, guided by its own appetites."
-4. Thomas Piketty, _Capital in the Twenty-First Century_ (Harvard University Press, 2014).
-5. See: _Geneva Report warns record debt and slow growth point to crisis_. Financial Times, September 28, 2014.
-6. More on this in: Will China save capitalism? In Internationalist Perspective 55 http://internationalist-perspective.org/IP/ip-archive/ip_55_china.html
+1: _International Council Correspondence_, Vol II, Number 8, July 1936, p. 7.
+
+2: William Appleman Williams, _The Contours of American History_ (World Publishing Co., 1961), p. 439.
+
+3: William Greider, _One World, Ready or Not_ (Simon & Shuster, 1997), p.12. Greider continues: "in fact, this machine has no wheel nor any internal governor to control the speed and direction. It is sustained by its own forward motion, guided by its own appetites."
+
+4: Thomas Piketty, _Capital in the Twenty-First Century_ (Harvard University Press, 2014).
+
+5: See: _Geneva Report warns record debt and slow growth point to crisis_. Financial Times, September 28, 2014.
+
+6: More on this in: Will China save capitalism? In Internationalist Perspective 55 http://internationalist-perspective.org/IP/ip-archive/ip_55_china.html
 
 {{../files/footer.txt}}

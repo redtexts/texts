@@ -3,7 +3,7 @@ Author:		Robin Goodfellow
 Description:	A text produced by Robin Goodfellow, a group of authors writing primarily in French and formerly associated with the publication Communisme ou Civilisation. This text was posted online at http://www.robingoodfellow.info/pagesen/rubriques/meren.htm
 Date:		2013
 Posted:		2016-06-02
-Modified:	2017-01-05
+Modified:	2017-04-10
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -594,17 +594,28 @@ Although all the conditions needed to create a harmonious way of life for humani
 
 ## Notes
 
-1. Manufacture bringing together one or more workshops but without modifying them through the division of labour. This manufacture is at the origin of the manufacture specific to the manufacturing age.
-2. For a definition of this term, see 3.7.
-3. We will use "he or his", instead of the "politically correct" 20th century he/she or his/her formulas, concerning "Man", as a reference to humans, and not to "man" as a reference to males.
-4. In ancient Rome, the proletarians (proles) were those whose only wealth was their lineage.
-5. For further reading on these subjects, see "Aux fondements des crises. Le marxisme de la chaire et les crises", by Robin Goodfellow.
-6. From now on, more than half of the world's population has become urban (up from 5% in 1920), and the vast majority of this number is piled up in major urban centres.
-7. Mazoyer, Marcel. _Protecting Small Farmers and the Rural Poor in the Context of Globalization_. FAO, 2001.
-8. The international application of the law of value is fundamentally transformed in that, on world market, the most productive labour acquires a higher social value as long as competition does not force it to lower this value. This means one hour of labour in a more developed country can be exchanged for three hours of labour in a less developed country, for example. If these two countries have trade relations, the former exploits the latter. France and Brazil, for example, have comparable GDP's nowadays, but Brazil must employ an active population triple the size of France's, and therefore expend a total of three times more labour to obtain it, and this does not take into account the differences in annual labour-time and in the relative size of unproductive classes. This law is also used by multinational corporations to spread out production across the globe to best serve their interests. This also allows corporations get around State fiscal and social policies and, in doing so, put pressure on these policies.
-9. The automobile, for example, has not stopped evolving in terms of equipment and options. Its relative price has not so much dropped as it has remained steady, despite progresses in productivity and the substitution of certain materials (a phenomenon that might affect pricing either way).
-10. Marx never uses the term "reification", and even less as an autonomous concept as Lukacs or bourgeois philosophers will later do. He systematically qualifies he nature of the social processes that are converted into things and are dialectically confronted with their opposite: the personification of things. Indeed, on the original German text of the Capital, Marx says: "Personifizierung der Sachen und Versachlichung der Produktionsverhaltnisse", or "personification of things and thingification of the relations of production" (cf. The Trinity Formula - _Capital, vol. 3_). We have chosen to utter the somewhat unusual term "thingification", which immediately relates to "thing", instead of "reification" to avoid either the Lukacsian (or the bourgeois philosophers) a-dialectical reduction or even the petty-bourgeois logic that regrets the situation of being surrounded by too many "things".
-11. This is illustrated in the vulgar discourse of the bosses who talk about the "risk-taking" and the "responsibility" of entrepreneurs and others. The bosses tend to say that they "give the labour" when in fact it is the opposite, it is proletarians who freely give away a portion of the labour-time in which their labour power is used. When proletarians internalize this argument, they might say "who will give me labour if there are no bosses?" Engels clearly wrote: "We have seen at the very beginning that the so-called "productivity of capital" is nothing but the quality inherent in it (under present-day social relations, without which it would not be capital at all) of being able to appropriate the unpaid labour of wage workers" (_The Housing Question_).
-12. Marx alludes to Robinson Crusoe, the character of the famous novel by Daniel Defoe.
+1: Manufacture bringing together one or more workshops but without modifying them through the division of labour. This manufacture is at the origin of the manufacture specific to the manufacturing age.
+
+2: For a definition of this term, see 3.7.
+
+3: We will use "he or his", instead of the "politically correct" 20th century he/she or his/her formulas, concerning "Man", as a reference to humans, and not to "man" as a reference to males.
+
+4: In ancient Rome, the proletarians (proles) were those whose only wealth was their lineage.
+
+5: For further reading on these subjects, see "Aux fondements des crises. Le marxisme de la chaire et les crises", by Robin Goodfellow.
+
+6: From now on, more than half of the world's population has become urban (up from 5% in 1920), and the vast majority of this number is piled up in major urban centres.
+
+7: Mazoyer, Marcel. _Protecting Small Farmers and the Rural Poor in the Context of Globalization_. FAO, 2001.
+
+8: The international application of the law of value is fundamentally transformed in that, on world market, the most productive labour acquires a higher social value as long as competition does not force it to lower this value. This means one hour of labour in a more developed country can be exchanged for three hours of labour in a less developed country, for example. If these two countries have trade relations, the former exploits the latter. France and Brazil, for example, have comparable GDP's nowadays, but Brazil must employ an active population triple the size of France's, and therefore expend a total of three times more labour to obtain it, and this does not take into account the differences in annual labour-time and in the relative size of unproductive classes. This law is also used by multinational corporations to spread out production across the globe to best serve their interests. This also allows corporations get around State fiscal and social policies and, in doing so, put pressure on these policies.
+
+9: The automobile, for example, has not stopped evolving in terms of equipment and options. Its relative price has not so much dropped as it has remained steady, despite progresses in productivity and the substitution of certain materials (a phenomenon that might affect pricing either way).
+
+10: Marx never uses the term "reification", and even less as an autonomous concept as Lukacs or bourgeois philosophers will later do. He systematically qualifies he nature of the social processes that are converted into things and are dialectically confronted with their opposite: the personification of things. Indeed, on the original German text of the Capital, Marx says: "Personifizierung der Sachen und Versachlichung der Produktionsverhaltnisse", or "personification of things and thingification of the relations of production" (cf. The Trinity Formula - _Capital, vol. 3_). We have chosen to utter the somewhat unusual term "thingification", which immediately relates to "thing", instead of "reification" to avoid either the Lukacsian (or the bourgeois philosophers) a-dialectical reduction or even the petty-bourgeois logic that regrets the situation of being surrounded by too many "things".
+
+11: This is illustrated in the vulgar discourse of the bosses who talk about the "risk-taking" and the "responsibility" of entrepreneurs and others. The bosses tend to say that they "give the labour" when in fact it is the opposite, it is proletarians who freely give away a portion of the labour-time in which their labour power is used. When proletarians internalize this argument, they might say "who will give me labour if there are no bosses?" Engels clearly wrote: "We have seen at the very beginning that the so-called "productivity of capital" is nothing but the quality inherent in it (under present-day social relations, without which it would not be capital at all) of being able to appropriate the unpaid labour of wage workers" (_The Housing Question_).
+
+12: Marx alludes to Robinson Crusoe, the character of the famous novel by Daniel Defoe.
 
 {{../files/footer.txt}}

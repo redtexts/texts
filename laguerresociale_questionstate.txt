@@ -3,7 +3,7 @@ Author:		La Guerre Sociale
 Description:	This text originally appeared in French in La Guerre Sociale, no. 2, in March 1978. A translation to English was made in the early 80s, and was later revised and posted online -- with a substantial preface -- on the John Gray Website at http://www.oocities.org/~johngray/questat.htm
 Date:		1978
 Posted:		2017-01-22
-Modified:	2017-02-26
+Modified:	2017-04-10
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -361,15 +361,24 @@ The revolution does not want "power" but it needs to be able to carry out its me
 
 ## Notes
 
-1. Montesquieu, _The Spirit of the Law_.
-2. Rousseau, _The Social Contract_.
-3. A. de Tocqueville, _Democracy in America_.
-4. Elleinstein, _Le Parti communiste_.
-5. Bertrand de Jouvenal, _On Power_.
-6. M. Ragon, _L'Architecte, le Prince et la Démocratie_.
-7. M. Duverger, _L'Autre côté des choses_.
-8. Blanqui, "Le Communisme, avenir de la société", in _La Critique sociale_.
-9. Helmut Wagner "Anarchism and the Spanish Revolution", in _International Council Correspondence_, Vol III Nos 5&6, June 1937.
-10. Fourier, _Théorie de l'Unité universelle_.
+1: Montesquieu, _The Spirit of the Law_.
+
+2: Rousseau, _The Social Contract_.
+
+3: A. de Tocqueville, _Democracy in America_.
+
+4: Elleinstein, _Le Parti communiste_.
+
+5: Bertrand de Jouvenal, _On Power_.
+
+6: M. Ragon, _L'Architecte, le Prince et la Démocratie_.
+
+7: M. Duverger, _L'Autre côté des choses_.
+
+8: Blanqui, "Le Communisme, avenir de la société", in _La Critique sociale_.
+
+9: Helmut Wagner "Anarchism and the Spanish Revolution", in _International Council Correspondence_, Vol III Nos 5&6, June 1937.
+
+10: Fourier, _Théorie de l'Unité universelle_.
 
 {{../files/footer.txt}}

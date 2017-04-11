@@ -3,7 +3,7 @@ Author:		Buick, Adam
 Description:	Written as a chapter of the 1987 book 'Non-Market Socialism in the Nineteenth and Twentieth Centuries.' Buick is a member of the Socialist Party of Great Britain. This version is based on the original internet version, still available at http://www.oocities.org/capitolhill/lobby/3909/bordbuik.html
 Date:		1987
 Posted:		2016-03-15
-Modified:	2017-02-27
+Modified:	2017-04-10
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -263,54 +263,102 @@ The fact that the idea of such a society as the only solution to the problems cu
 
 ## Notes
 
-1. _Un Monde sans argent: le communisme_ (Paris: Les Amis de 4 Millions de Jeunes Travailleurs, 1975) pp. 1 and 8.
-2. For this period of Bordiga's political activity, see Andreina De Clementi, _Amadeo Bordiga_ (Turin: Einaudi, 1971). In English there is Earlene Craver, 'The Rediscovery of Amadeo Bordiga', _Survey_ XX (spring/summer 1974). Otherwise Bordiga is just a footnote reference in the many books on Gramsci. See also 'Bordiga and the Idea of Socialism', _Socialist Standard_, February 1982, and 'Notes on Trotsky, Pannekoek and Bordiga', in Jean Barrot and Francois Martin, _Eclipse and Re-emergence of the Communist Movement_ (Detroit: Black and Red, 1974) pp. 119-31. [Antagonism note: See Note on Pannekoek and Bordiga in the revised 1997 edition of "Eclipse...", published by Antagonism Press, BM Makhno, London WC1N 3XX]
-3. _Bilan_, the monthly theoretical bulletin of the Italian Left during the period 1933-8, continually referred to Russia as 'a degenerate Workers' State'. For a 'state capitalist' breakaway which occurred in 1933, see _La Gauche communiste d'Italie_ (Brussels: International Communist Current, 1983) p. 84. This pamphlet, based on a university thesis by one of the Belgian members of the ICC, is a good and generally objective history of the Italian Left. [Antagonism note: Now published by the ICC in English as _The Italian Communist Left 1926-45_]
-4. Karl Marx and Frederick Engels, _Collected Works_, vol. VI (London: Lawrence & Wishart, 1976) pp. 504-5.
-5. Amadeo Bordiga, 'Dialogue avec Staline' (1952), quoted in Jacques Camatte, _Bordiga et la passion du communisme: Textes essentiels de Bordiga et repères biographiques_ (Paris: Spartacus, 1974) pp. 18-19 (emphases in the original).
-6. Translated from the French, since French translations of Bordiga's writings are more readily available to me than the Italian originals. The date references after quotations refer to the Italian original, not the French translation.
-7. Amadeo Bordiga, 'Le Programme révolutionnaire de la société communiste élimine toute forme de propriété de la terre, des installations productives et des produits du travail', in Camatte, 1974, p. 54 (emphases in the original).
-8. Ibid, p. 54 (emphases in the original).
-9. _Bilan d'une révolution_. Special Number of _Programme Communiste_, 40-41-42 (Paris: International Communist Party, October 1967-June 1968) p. 78.
-10. Bordiga, 'Le Programme révolutionnaire', in Camatte, 1974, pp. 46-7
-11. Ibid, p. 60.
-12. Ibid, p. 50 (emphasis in the original).
-13. Amadeo Bordiga, _Structure économique et social de la Russie d'aujourd'hui_ (Paris: Editions de l'Oubli, 1975) p. 310.
-14. Amadeo Bordiga, 'Dictature prolétarienne et parti de classe', in _Textes fondamentaux de la gauche communiste_ in _La Révolution Communiste_, 3 (Brussels: 1984) pp. 67-8.
-15. Bordiga, 1975, p. 95 (emphasis in the original).
-16. Bordiga, 'Dictature prolétarienne', in _Textes fondamentaux_, 1984, p. 70.
-17. Extract from Amadeo Bordiga, _Propriété et Capital_ (1948), in _Socialisme prolétarien contre socialisme petit-bourgeois_. Supplement to _Le Prolétaire_, 312 (Paris: 1980) p. 24.
-18. Ibid, p. 24.
-19. Ibid, p. 22.
-20. Amadeo Bordiga, _Russie et révolution dans la théorie marxiste_ (Paris: Spartacus, 1978) p. 140.
-21. Bordiga, 1975, p. 315.
-22. Bordiga, 'Le Programme révolutionnaire', in Camatte, 1974, p. 69.
+1: _Un Monde sans argent: le communisme_ (Paris: Les Amis de 4 Millions de Jeunes Travailleurs, 1975) pp. 1 and 8.
+
+2: For this period of Bordiga's political activity, see Andreina De Clementi, _Amadeo Bordiga_ (Turin: Einaudi, 1971). In English there is Earlene Craver, 'The Rediscovery of Amadeo Bordiga', _Survey_ XX (spring/summer 1974). Otherwise Bordiga is just a footnote reference in the many books on Gramsci. See also 'Bordiga and the Idea of Socialism', _Socialist Standard_, February 1982, and 'Notes on Trotsky, Pannekoek and Bordiga', in Jean Barrot and Francois Martin, _Eclipse and Re-emergence of the Communist Movement_ (Detroit: Black and Red, 1974) pp. 119-31. [Antagonism note: See Note on Pannekoek and Bordiga in the revised 1997 edition of "Eclipse...", published by Antagonism Press, BM Makhno, London WC1N 3XX]
+
+3: _Bilan_, the monthly theoretical bulletin of the Italian Left during the period 1933-8, continually referred to Russia as 'a degenerate Workers' State'. For a 'state capitalist' breakaway which occurred in 1933, see _La Gauche communiste d'Italie_ (Brussels: International Communist Current, 1983) p. 84. This pamphlet, based on a university thesis by one of the Belgian members of the ICC, is a good and generally objective history of the Italian Left. [Antagonism note: Now published by the ICC in English as _The Italian Communist Left 1926-45_]
+
+4: Karl Marx and Frederick Engels, _Collected Works_, vol. VI (London: Lawrence & Wishart, 1976) pp. 504-5.
+
+5: Amadeo Bordiga, 'Dialogue avec Staline' (1952), quoted in Jacques Camatte, _Bordiga et la passion du communisme: Textes essentiels de Bordiga et repères biographiques_ (Paris: Spartacus, 1974) pp. 18-19 (emphases in the original).
+
+6: Translated from the French, since French translations of Bordiga's writings are more readily available to me than the Italian originals. The date references after quotations refer to the Italian original, not the French translation.
+
+7: Amadeo Bordiga, 'Le Programme révolutionnaire de la société communiste élimine toute forme de propriété de la terre, des installations productives et des produits du travail', in Camatte, 1974, p. 54 (emphases in the original).
+
+8: Ibid, p. 54 (emphases in the original).
+
+9: _Bilan d'une révolution_. Special Number of _Programme Communiste_, 40-41-42 (Paris: International Communist Party, October 1967-June 1968) p. 78.
+
+10: Bordiga, 'Le Programme révolutionnaire', in Camatte, 1974, pp. 46-7
+
+11: Ibid, p. 60.
+
+12: Ibid, p. 50 (emphasis in the original).
+
+13: Amadeo Bordiga, _Structure économique et social de la Russie d'aujourd'hui_ (Paris: Editions de l'Oubli, 1975) p. 310.
+
+14: Amadeo Bordiga, 'Dictature prolétarienne et parti de classe', in _Textes fondamentaux de la gauche communiste_ in _La Révolution Communiste_, 3 (Brussels: 1984) pp. 67-8.
+
+15: Bordiga, 1975, p. 95 (emphasis in the original).
+
+16: Bordiga, 'Dictature prolétarienne', in _Textes fondamentaux_, 1984, p. 70.
+
+17: Extract from Amadeo Bordiga, _Propriété et Capital_ (1948), in _Socialisme prolétarien contre socialisme petit-bourgeois_. Supplement to _Le Prolétaire_, 312 (Paris: 1980) p. 24.
+
+18: Ibid, p. 24.
+
+19: Ibid, p. 22.
+
+20: Amadeo Bordiga, _Russie et révolution dans la théorie marxiste_ (Paris: Spartacus, 1978) p. 140.
+
+21: Bordiga, 1975, p. 315.
+
+22: Bordiga, 'Le Programme révolutionnaire', in Camatte, 1974, p. 69.
+
 23. Amadeo Bordiga, 'Le Contenu original du programme communiste est l'abolition de l'individu comme sujet économique, détenteur de droits et acteur de l'histoire humaine', in Camatte, 1974, p. 104.
-24. Ibid, p. 105.
-25. Amadeo Bordiga, 'Commentaires des manuscrits de 1844', in Camatte, 1974, p. 134.
-26. Ibid, p. 130.
-27. Ibid, p. 134 (emphases in the original).
-28. Amadeo Bordiga, 'Tables immuables de la théorie communiste de parti', in Camatte, 1974, p. 179.
-29. _Bilan d'une révolution_, 1967-8, pp. 75-6.
-30. Bordiga, 1978, p. 172.
-31. Bordiga, 'Le Contenu original du programme communiste', in Camatte, 1974, p. 104.
-32. Bordiga, 'Socialisme prolétarien', p. 24.
-33. Bordiga, 1975, p. 202.
-34. Ibid, p. 203.
-35. Ibid, p. 140.
-36. Ibid, p. 205.
-37. Amadeo Bordiga, 'La Légende du Piave', quoted in Camatte, 1974, p. 23 (emphases in the original).
-38. Bordiga, 1975, p. 340.
-39. Ibid, p. 140.
-40. Ibid, pp. 191-2 (emphases in the original).
-41. Amadeo Bordiga in _Il programma comunista_, 20 (1957), quoted in Jacques Camatte, _Capital et Gemeinwesen_ (Paris: Spartacus, 1976) p. 213.
-42. Bordiga, 'Le Programme révolutionnaire', in Camatte, 1974, pp. 70-1.
-43. Bordiga, 1975, p. 192.
-44. Ibid, p. 166.
-45. Bordiga, 'Le Contenu original du programme communiste', in Camatte, 1974, pp. 87-8 (emphases in the original).
-46. Bordiga, 1975, p. 318.
-47. Ibid, p. 294.
-48. Ibid, p. 291.
-49. Bordiga, 'Le Contenu original du programme communiste', in Camatte, 1974, pp. 79-80 (emphasis in the original).
+
+24: Ibid, p. 105.
+
+25: Amadeo Bordiga, 'Commentaires des manuscrits de 1844', in Camatte, 1974, p. 134.
+
+26: Ibid, p. 130.
+
+27: Ibid, p. 134 (emphases in the original).
+
+28: Amadeo Bordiga, 'Tables immuables de la théorie communiste de parti', in Camatte, 1974, p. 179.
+
+29: _Bilan d'une révolution_, 1967-8, pp. 75-6.
+
+30: Bordiga, 1978, p. 172.
+
+31: Bordiga, 'Le Contenu original du programme communiste', in Camatte, 1974, p. 104.
+
+32: Bordiga, 'Socialisme prolétarien', p. 24.
+
+33: Bordiga, 1975, p. 202.
+
+34: Ibid, p. 203.
+
+35: Ibid, p. 140.
+
+36: Ibid, p. 205.
+
+37: Amadeo Bordiga, 'La Légende du Piave', quoted in Camatte, 1974, p. 23 (emphases in the original).
+
+38: Bordiga, 1975, p. 340.
+
+39: Ibid, p. 140.
+
+40: Ibid, pp. 191-2 (emphases in the original).
+
+41: Amadeo Bordiga in _Il programma comunista_, 20 (1957), quoted in Jacques Camatte, _Capital et Gemeinwesen_ (Paris: Spartacus, 1976) p. 213.
+
+42: Bordiga, 'Le Programme révolutionnaire', in Camatte, 1974, pp. 70-1.
+
+43: Bordiga, 1975, p. 192.
+
+44: Ibid, p. 166.
+
+45: Bordiga, 'Le Contenu original du programme communiste', in Camatte, 1974, pp. 87-8 (emphases in the original).
+
+46: Bordiga, 1975, p. 318.
+
+47: Ibid, p. 294.
+
+48: Ibid, p. 291.
+
+49: Bordiga, 'Le Contenu original du programme communiste', in Camatte, 1974, pp. 79-80 (emphasis in the original).
 
 {{../files/footer.txt}}

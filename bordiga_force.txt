@@ -3,7 +3,7 @@ Author:		Bordiga, Amadeo
 Description:	Apparently written by Bordiga in 1946-1948, and published in English in Communist Program from 1975-1979. This version from https://www.marxists.org/archive/bordiga/works/1946/violence.htm. It is also available at http://sinistra.net/lib/upt/compro/lipa/lipanbeboe.html
 Date:		1946
 Posted:		2016-08-04
-Modified:	2017-02-27
+Modified:	2017-04-10
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -544,8 +544,10 @@ The Left replaced the idiotic majoritary criterion, which is copied after bourge
 
 ## Notes
 
-1. The Christian-Democratic Prime Minister in 1947 -- Ed
-2. This expression refers to the left currents headed by Lenin and Rosa Luxemburg who struggled inside the Second International against revisionism and social-pacifism. During World War I and after the October revolution they were violently attacked by the social democrats and the centrists, notably Kautsky -- Ed.
-3. This refers to Engels' introduction to a reedition of Marx's "Class Struggles in France" in 1895. The leadership of the German Social Democratic Party censored Engels' introduction so that it appeared as an apology of legality at all costs and a demonstration that insurrection was impossible. In spite of the fact that Engels protested this in a letter to Kautsky, the latter did not publish the original introduction. Engels was to die some months later. The original text was discovered only in 1925 -- Ed.
+1: The Christian-Democratic Prime Minister in 1947 -- Ed
+
+2: This expression refers to the left currents headed by Lenin and Rosa Luxemburg who struggled inside the Second International against revisionism and social-pacifism. During World War I and after the October revolution they were violently attacked by the social democrats and the centrists, notably Kautsky -- Ed.
+
+3: This refers to Engels' introduction to a reedition of Marx's "Class Struggles in France" in 1895. The leadership of the German Social Democratic Party censored Engels' introduction so that it appeared as an apology of legality at all costs and a demonstration that insurrection was impossible. In spite of the fact that Engels protested this in a letter to Kautsky, the latter did not publish the original introduction. Engels was to die some months later. The original text was discovered only in 1925 -- Ed.
 
 {{../files/footer.txt}}

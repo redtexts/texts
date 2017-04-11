@@ -3,7 +3,7 @@ Author:		Ruhle, Otto
 Description:	Published in Die Aktion Volume 10, no 37/38, 18 September 1920. Translated by Mike Jones. Prepared for the Marxist Internet Archive by Paul Flewers. Available at https://www.marxists.org/archive/ruhle/1920/moscow-and-ourselves.htm
 Date:		1920
 Posted:		2017-02-25
-Modified:	2017-02-27
+Modified:	2017-04-10
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -89,6 +89,6 @@ The German proletariat will make its German revolution, like the Russian proleta
 
 ## Notes
 
-1. An allusion to the strict form of state mobilisation of society in Germany during the First World War, presided over by General Erich von Ludendorff. It was often known as "War Socialism." -- MIA
+1: An allusion to the strict form of state mobilisation of society in Germany during the First World War, presided over by General Erich von Ludendorff. It was often known as "War Socialism." -- MIA
 
 {{../files/footer.txt}}
