@@ -3,7 +3,7 @@ Author:		Gorter, Herman
 Description:	Originally published in 1918 in Dutch as De wereldrevolutie. It was written after the Russian Revolution but before the end of the First World War. Its arguments about the differences between the Western European and Russian revolutions anticipate Gorter's later Open Letter to Comrade Lenin. The English translation was made by Hugh McMillan and published in Glasgow by the Socialist Information and Research Bureau in 1920. In this red texts edition footnotes have been converted to numbered endnotes and the errata have been worked into the main body of the text. A scan of the pamphlet on which this version was based can be found at https://archive.org/details/worldrevolution00gort. Note that some words are illegible in the scan and are marked as such in this text
 Date:		1918
 Posted:		2017-04-10
-Modified:	2017-04-11
+Modified:	2017-04-16
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -222,7 +222,7 @@ On both sides subjection and slaughter of the working people of the world.
 
 Worker, choose! Both sides decoy you with their League of Nations. Both say: "We are not Imperialistic; it is the others who are!" But, indeed, both threaten you with subjection and destruction.
 
-If one should ask the workers which they would prefer-- the despotism, the brutality, the carnage of German Imperialism; or the brutality of the American, united with the refined exploitation of English Imperialism, through which the blood bath always comes -- the workers would reply: "We don't know: the results of both are alike frightful."
+If one should ask the workers which they would prefer -- the despotism, the brutality, the carnage of German Imperialism; or the brutality of the American, united with the refined exploitation of English Imperialism, through which the blood bath always comes -- the workers would reply: "We don't know: the results of both are alike frightful."
 
 So it is.
 
@@ -1131,7 +1131,7 @@ The working classes in Western Europe are threatened with a great danger -- a da
 
 The Capitalists, in order to escape the danger of bankruptcy through disorganisation of production and National Debts, will be forced after the war to nationalise many undertakings, or to put them under State control. They will then take away the right to strike, reduce wages, increase he [sic] working hours, and speed up work to the highest possible pitch. In short, the workers will be State slaves.
 
-The programme of the German, English, Italian, and French reformists, shows quite clearly that they will assist the Capitalists to do this. Their assistance will be given on condition that one part of the workers -- the members of the great Trade Unions-- get advantages over, and preferences greater than, the others -- such as higher wages, better conditions of labour, etc.
+The programme of the German, English, Italian, and French reformists, shows quite clearly that they will assist the Capitalists to do this. Their assistance will be given on condition that one part of the workers -- the members of the great Trade Unions -- get advantages over, and preferences greater than, the others -- such as higher wages, better conditions of labour, etc.
 
 The Capitalists would willingly buy at this price the social-patriots and a part of the proletariat.
 
