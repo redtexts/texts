@@ -3,7 +3,7 @@ Author:		Gorter, Herman
 Description:	Originally published in 1918 in Dutch as De wereldrevolutie. It was written after the Russian Revolution but before the end of the First World War. Its arguments about the differences between the Western European and Russian revolutions anticipate Gorter's later Open Letter to Comrade Lenin. The English translation was made by Hugh McMillan and published in Glasgow by the Socialist Information and Research Bureau in 1920. In this red texts edition footnotes have been converted to numbered endnotes and the errata have been worked into the main body of the text. A scan of the pamphlet on which this version was based can be found at https://archive.org/details/worldrevolution00gort. Note that some words are illegible in the scan and are marked as such in this text
 Date:		1918
 Posted:		2017-04-10
-Modified:	2017-04-16
+Modified:	2017-04-30
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -286,7 +286,7 @@ The world revolution is therefore a necessity."
 
 This that we said in the first chapter should be sufficient. It should be sufficient that all Imperialisms, that the Imperialisms of both groups of all nations, are alike terrible for the proletariat, and that therefore the proletariat of all nations ought to unite to destroy Imperialism.
 
-We should go on to prove that the destruction of Imperialism, the world revolution, is possible for the proletariat if the governments, the bourgeoisie, the social-patriots, and the pseudo-Marxists of all countries, the Majority and Minority in France and Italy, the Majority and the Independents of Germany, the Labour Party and the pacifist Socialists in England, and all the great Socialist parties of the United States. -- in short, all Capitalists and all Socialists in the world, with the exception of the real revolutionaries, had not made it appear to the workers that between Socialism and Imperialism there was still another way out.
+We should go on to prove that the destruction of Imperialism, the world revolution, is possible for the proletariat if the governments, the bourgeoisie, the social-patriots, and the pseudo-Marxists of all countries, the Majority and Minority in France and Italy, the Majority and the Independents of Germany, the Labour Party and the pacifist Socialists in England, and all the great Socialist parties of the United States -- in short, all Capitalists and all Socialists in the world, with the exception of the real revolutionaries, had not made it appear to the workers that between Socialism and Imperialism there was still another way out.
 
 They had told the workers that after the war Imperialism and Imperialistic Capitalism would bring about disarmament, compulsory arbitration, a League of Nations, and a general peace. The Capitalists, the social-patriots, the psuedo-Marxists [sic], the Labour Party and the pacifist Socialists in England, the Majority and the Independents in Germany, the Majority and the Minority in France and Italy, and the Socialists in the United States, said this in order to hold back the world proletariat from revolution.
 
