@@ -3,7 +3,7 @@ Author:		Wildcat
 Description:	From a talk given in 1993, and found on Wildcat's page at http://f.acetio.us/wildcat/democracy-talk.html
 Date:		1993
 Posted:		2015-07-01
-Modified:	2016-10-14
+Modified:	2017-05-20
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -37,7 +37,7 @@ In the same way that we don't grant rights to our enemies, nor do we ask for rig
 
 I think that, in general, demands for rights are an expression of the weakness of our class. Instead of saying to our enemies "if you lay a finger on us you'll get your fucking head kicked in", or even just kicking their heads in anyway, we tend to say "please respect our rights, we don't really mean you any harm". Of course, our class is in a weak position, and there's no magic answer to this. But I think one step we can take is to recognise that middle-class do-gooders who campaign for rights are not on our side -- even if some of them are nice lefty lawyers who sometimes get us out of a lot of trouble...
 
-What I've said so far probably isn't *that* controversial. What I have said so far concerns excluding certain categories of people. Wanting to exclude people from democracy is perfectly compatible with being a democrat -- it's amazing how many liberals will say that they unconditionally support freedom of speech and then suddenly change their minds when if someone says "well, what about fascists then?".
+What I've said so far probably isn't *that* controversial. What I have said so far concerns excluding certain categories of people. Wanting to exclude people from democracy is perfectly compatible with being a democrat -- it's amazing how many liberals will say that they unconditionally support freedom of speech and then suddenly change their minds when if someone says "well, what about fascists then?"
 
 More controversially, I now want to talk about democracy "within in our own ranks" -- that is, amongst proletarians in struggle. The usual "workers' democracy" argument, for example, will say "OK, we don't have democratic relations with the bourgeoisie but amongst ourselves there should be the most perfect equality and respect for rights." This is usually seen as a way of avoiding bureaucratisation and domination by small cliques and ensuring that as many people as possible are involved in a particular struggle. The idea is that if people are allowed the right to speak, the right to vote etc., then you can just go along to a meeting and immediately be part of this democratic collectivity and so immediately be involved.
 
@@ -61,7 +61,7 @@ There were also numerous examples of sabotage and destruction of Coal Board prop
 
 ## Community of Struggle
 
-A concept which I've already used here, and which I'm quite attached to, is "community of struggle". Obviously, a question which will be asked is: "If a community of struggle doesn't act democratically, then how *does* it act?". There is no simple answer to this, except to say that the basis of action will be the trust and solidarity between the people involved and not their supposed equality or rights. For example, if we want to send someone as an emissary (well, I don't like the word "delegate") to spread the struggle we wouldn't insist on them being voted for by at least 51% of the meeting or on them carrying a mobile phone so we can recall them at a moment's notice and replace them with someone else. We *would* insist on them being trustworthy and reliable -- one trusted comrade is worth a thousand revocable delegates! Of course, there would be a large political component to this trust -- we wouldn't send a member of the Labour Party because their political views would automatically lead them to act against the interests of the working class.
+A concept which I've already used here, and which I'm quite attached to, is "community of struggle". Obviously, a question which will be asked is: "If a community of struggle doesn't act democratically, then how *does* it act?" There is no simple answer to this, except to say that the basis of action will be the trust and solidarity between the people involved and not their supposed equality or rights. For example, if we want to send someone as an emissary (well, I don't like the word "delegate") to spread the struggle we wouldn't insist on them being voted for by at least 51% of the meeting or on them carrying a mobile phone so we can recall them at a moment's notice and replace them with someone else. We *would* insist on them being trustworthy and reliable -- one trusted comrade is worth a thousand revocable delegates! Of course, there would be a large political component to this trust -- we wouldn't send a member of the Labour Party because their political views would automatically lead them to act against the interests of the working class.
 
 ## Communist Society
 
