@@ -3,7 +3,7 @@ Author:		Internationalist Communist Group
 Description:	From issue 4 (Winter 1987-1988) of Communism, ICG's review. Initially published online at http://gci-icg.org/english/communism4.htm#communism_dem. Some misspellings and obvious grammatical errors have been fixed in this present version but it is still a rough read
 Date:		1987-1988
 Posted:		2016-01-01
-Modified:	2017-04-10
+Modified:	2017-05-27
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -212,10 +212,11 @@ What interests us is the destruction of the entire system whose positive poles -
 ## Notes
 
 1: We refer the reader interested by this question to Marx's classics (above all: "On the Jewish Question") as well as to Bordiga's work (especially: "The democratic Principle") -- of which we can send you an english copy -- continued by the Communist Left from Italy in exile, i.e. Bilan, Octobre, Prometheo and more recently by Camatte and the review Invariance (first series). As for ourselves, we have written and republished a series of texts on this question:
-	* "Fasciste ou anti-fasciste, la dictature du capital c'est la democratie" - in Le Communiste No.9.
-	* "Against the myth of democratic rights and liberties" - in Communism No.8.
-	* "L'Etat democratique" (Bilan No.12) - Le Communiste No.12.
-	* "La dictature du proletariat et la question de la violence" (Octobre No.5) - in Le Communiste No.17.
+
+* "Fasciste ou anti-fasciste, la dictature du capital c'est la democratie" - in Le Communiste No.9.
+* "Against the myth of democratic rights and liberties" - in Communism No.8.
+* "L'Etat democratique" (Bilan No.12) - Le Communiste No.12.
+* "La dictature du proletariat et la question de la violence" (Octobre No.5) - in Le Communiste No.17.
 
 2: The reader is referred to the text "Quelques lecons d'octobre" in Le Communiste No.10/11 (in French).
 
