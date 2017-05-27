@@ -3,7 +3,7 @@ Author:		Gorter, Herman
 Description:	Written in German in 1920 in German and published in English in 1921 in Workers' Dreadnought. Republished again by Wildcat in 1989, and then published online by Antagonism Press in 2004. This red texts version is based on the Marxists Internet Archive version at https://www.marxists.org/archive/gorter/1920/open-letter/index.htm, but incorporates the introductions and some corrections from the Antagonism Press version, available at http://www.oocities.org/capitolhill/lobby/3909/gorter/gortertoc.html
 Date:		1920
 Posted:		2017-03-05
-Modified:	2017-04-10
+Modified:	2017-05-27
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -524,7 +524,7 @@ And finally, reformism has brought the working class of Western Europe altogethe
 
 All these causes have made the worker the slave of Parliament, to which he leaves all action. He himself does not act any longer [(17)][notes].
 
-Then comes the revolution. Now he has to act _for _himself. Now the worker, alone with his class, must fight the gigantic enemy, must wage the most terrible fight that ever was. No tactics of the leaders can help him. Desperately the classes, all classes, oppose the workers, and not one class sides with them. On the contrary, if he should trust his leaders, or other classes in parliament, he runs a great risk of falling back into his old weakness of letting the leaders act for him, of trusting parliament, of persevering in the old notion that others can make the revolution for him, of pursuing illusions, of remaining in the old bourgeois ideology.
+Then comes the revolution. Now he has to act _for_ himself. Now the worker, alone with his class, must fight the gigantic enemy, must wage the most terrible fight that ever was. No tactics of the leaders can help him. Desperately the classes, all classes, oppose the workers, and not one class sides with them. On the contrary, if he should trust his leaders, or other classes in parliament, he runs a great risk of falling back into his old weakness of letting the leaders act for him, of trusting parliament, of persevering in the old notion that others can make the revolution for him, of pursuing illusions, of remaining in the old bourgeois ideology.
 
 This relationship of the masses to the leaders has also been excellently characterised by Comrade Pannekoek:
 
@@ -580,7 +580,7 @@ Comrade, on reading your argumentation from page 36 to 68, a recollection consta
 
 I saw myself once more at a congress of the old Social-Patriotic Party of Holland, listening to a speech of Troelstra's -- a speech in which he depicted to the workers the great advantages of the reformist policy, in which he spoke of the workers that were not social-democratic yet, and that were to be won by compromise; in which he spoke of the alliances that were to be made (only provisionally, of course!) with the parties of these workers, and of the "rifts" in and between the bourgeois parties, of which we were to make use. In just the same way, in almost, nay in absolutely the same words, you, Comrade Lenin, speak for us West Europeans!
 
-And I remember how we sat there, far back in the hall; we the Marxist Comrades, very few in number -- only four or five. Henriette Roland Holst, Pannekoek, and a few others. Troelstra spoke persuasively and convincingly, just as you do, Comrade. And I remember how, in the midst of the thundering applause, of the brilliant reformist expositions and the reviling of Marxism, the workers in the hall looked round at the "idiots" and "asses" and "childish fools," names that Troelstra called us at that time -- almost the same as you call us now. To all probability things have been practically the same at the Congress of the International in Moscow, when you spoke against the "Left" Marxists. And his words -- just like yours, Comrade -- were so convincing, so logical, within the compass of his method, that at times _I _myself thought, yes, he is right.
+And I remember how we sat there, far back in the hall; we the Marxist Comrades, very few in number -- only four or five. Henriette Roland Holst, Pannekoek, and a few others. Troelstra spoke persuasively and convincingly, just as you do, Comrade. And I remember how, in the midst of the thundering applause, of the brilliant reformist expositions and the reviling of Marxism, the workers in the hall looked round at the "idiots" and "asses" and "childish fools," names that Troelstra called us at that time -- almost the same as you call us now. To all probability things have been practically the same at the Congress of the International in Moscow, when you spoke against the "Left" Marxists. And his words -- just like yours, Comrade -- were so convincing, so logical, within the compass of his method, that at times _I_ myself thought, yes, he is right.
 
 Usually I was the one to speak for the opposition (in the years up to 1909, when we were expelled). Shall I tell you what I did, when I began to doubt about myself? I had a means that never failed: it was a sentence from the Party Programme:
 
