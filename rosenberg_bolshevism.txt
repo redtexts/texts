@@ -3,7 +3,7 @@ Author:		Rosenberg, Arthur
 Description:	Published in German in 1932 and English in 1934, this text was written by a figure on the very left of the German Communist Party (KPD). This basis for this edition of the text comes from https://www.marxists.org/archive/rosenberg/history-bolshevism/index.htm
 Date:		1934
 Posted:		2017-01-22
-Modified:	2017-02-27
+Modified:	2017-05-27
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -1275,7 +1275,7 @@ The historic deeds of the great Russian Revolution still fascinate some small se
 * On the subject of the savings banks in Russia, cf Nagler, _Die Finanzen und die Währung der Sowjet-Union_ (Rowohlt, Berlin, 1932), p 40; also the _Zeitschrift der Handelsvertretung_, Nr 16, 1930, pp 53ff.
 * The following works among others mentioned in the above bibliography are now available in English translations from the original Russian texts. All the translations mentioned below are published by Messrs Martin Lawrence Ltd, 33 Great James Street, London, WC1.
 * Lenin's _Collected Works_: an edition of thirty volumes based on the revised edition published by the Marx-Engels-Lenin Institute in Moscow.
-* Lenin, _Was tun? _translated under the title _What Is To Be Done?_.
+* Lenin, _Was tun?_, translated under the title _What Is To Be Done?_.
 * Lenin, _Die drohende Katastrophe_, translated under the title _The Threatening Catastrophe and How To Avert It_.
 * Lenin, _Staat und Revolution_, translated under the title _The State and Revolution_.
 * Lenin, _Rede über die Revolution von 1905_, translated under the title _The Revolution of 1905_.
