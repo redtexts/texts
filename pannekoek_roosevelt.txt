@@ -1,6 +1,6 @@
 Title:		Roosevelt
 Author:		Pannekoek, Anton
-Description:	An article on the class interests of American politcal parties in the early part of the 20th century. Published in New Review, volume 1, number 17, June 1913. Scans of of New Review are available at https://www.marxists.org/history/usa/pubs/newreview/1913/index.htm
+Description:	An article on the class interests of American politcal parties in the early part of the 20th century. Published in New Review, volume 1, number 17, June 1913. Scans of of New Review are available at https://www.marxists.org/history/usa/pubs/newreview/
 Date:		1913
 Posted:		2017-06-15
 Modified:	2017-06-15
@@ -26,7 +26,7 @@ If we seek the cause of this difference we are led at once to the different hist
 On the other hand, the American bourgeoisie has never had to carry on great class struggles.
 
 Amerika, du hast es besser  
-Als unser VVeltteil, der alte,  
+Als unser Weltteil, der alte,  
 Hast keine verfallene Schlösser  
 Und keine Basalte[(1)][notes].
 
