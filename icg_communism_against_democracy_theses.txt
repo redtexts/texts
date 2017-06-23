@@ -1,9 +1,9 @@
 Title:		Communism against Democracy: Theses
 Author:		Internationalist Communist Group
-Description:	Originally published online at the John Gray website (http://reocities.com/~johngray/gcitheses.htm) with a note that "these theses were first published in February 1984 in issue 19 of Le Communiste the french language journal of the Internationalist Communist Group. This translation has not been made by them"
+Description:	Originally published online at the John Gray website (http://oocities.org/~johngray/gcitheses.htm) with a note that "these theses were first published in February 1984 in issue 19 of Le Communiste the french language journal of the Internationalist Communist Group. This translation has not been made by them"
 Date:		1984
 Posted:		2016-01-01
-Modified:	2017-01-05
+Modified:	2017-06-23
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 

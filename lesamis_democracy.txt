@@ -1,9 +1,9 @@
 Title:		Democracy
 Author:		Les Amis de 4 Millions de Jeunes Travailleurs
-Description:	A section of the book 'A World Without Money' ('Un Monde Sans Argent: Le Communisme'), written in French in 1975-1976 and originally translated and posted online at http://reocities.com/~johngray/monde603.htm. Another translation of this section, with slightly different wording, is also available on redtexts as part of the full 'A World Without Money'
+Description:	A section of the book 'A World Without Money' ('Un Monde Sans Argent: Le Communisme'), written in French in 1975-1976 and originally translated and posted online at http://oocities.org/~johngray/monde603.htm. Another translation of this section, with slightly different wording, is also available on redtexts as part of the full 'A World Without Money'
 Date:		1975-1976
 Posted:		2016-01-01
-Modified:	2017-04-26
+Modified:	2017-06-23
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
