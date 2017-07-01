@@ -3,7 +3,7 @@ Author:		Souvarine, Boris
 Description:	This history of the degeneration of the Russian Revolution, and Stalin's role therein, was published in French in 1935 and published in English, as translated by C.L.R. James, in 1939. This red texts edition is based on the Marxists Internet Archive version, available here https://www.marxists.org/history/etol/writers/souvar/works/stalin/index.htm, as proofread carefully against a PDF version available at https://archive.org/details/in.ernet.dli.2015.525012
 Date:		1939
 Posted:		2017-02-12
-Modified:	2017-05-27
+Modified:	2017-07-01
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -926,7 +926,7 @@ He again explained his views to an audience composed of both Bolsheviks and Mens
 
 Stalin stood aloof, but Kamenev, on behalf of the Old Bolsheviks, tried to refute the _April Theses_, unacceptable because they sought to rush the transformation of the bourgeois revolution into the socialist revolution, and were contrary to the classic formulas of Bolshevism. Lenin replied by indicating the unforeseen circumstances of the situation, especially the duality of power in Russia and the international situation, and by advising revision of the old catchwords. "We are not Blanquists, partisans of the seizure of power by a minority." They had to fight for preponderance in the soviets, to strive to win over the toiling masses.
 
-In vain Kalinin, another supporter of the Kamenev-Stalin group, said shortly afterwards: "I belong to the old school of Leninist Bolsheviks, and I think that the Old Leninism has by no means shown itself inapplicable to the actual situation. I am astounded that Lenin should denounce the Old Bolsheviks as a hindrance to-day." Lenin did not hesitate to attack "_these 'Old Bolsheviks,' who more than once have played a sorry part in the history of our Party, stupidly repeating a formula learned by heart, instead of studying the peculiarities of new living reality _."
+In vain Kalinin, another supporter of the Kamenev-Stalin group, said shortly afterwards: "I belong to the old school of Leninist Bolsheviks, and I think that the Old Leninism has by no means shown itself inapplicable to the actual situation. I am astounded that Lenin should denounce the Old Bolsheviks as a hindrance to-day." Lenin did not hesitate to attack "_these 'Old Bolsheviks,' who more than once have played a sorry part in the history of our Party, stupidly repeating a formula learned by heart, instead of studying the peculiarities of new living reality_."
 
 This formula was "the dictatorship of the workers and peasants," long opposed by Bolsheviks to the "permanent revolution" and the "workers' government" of Trotsky, Parvus and Rosa Luxemburg. Without abjuring it after the event, Lenin thought the hour had come for a further advance: "Bolshevik ideas and slogans have been generally confirmed by history; but, as to the concrete situation, things have turned out to be different, more original, more unique, more multi-coloured than could have been anticipated by anyone."
 
