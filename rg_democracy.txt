@@ -3,7 +3,7 @@ Author:		Robin Goodfellow
 Description:	Presented as part one of a series on democracy and Marx and Engels. This red texts version has some very slight changes to formatting and spelling. The original was posted at http://www.robingoodfellow.info/pagesen/rubriques/marxdemoen1.htm. Strangely, this text's French edition is labeled as part two, while this English translation is labeled as part one
 Date:		2002
 Posted:		2016-06-02
-Modified:	2017-04-10
+Modified:	2017-07-04
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -192,15 +192,15 @@ Period: Regime: Form.
 
 7: Texier, p. 227.
 
-8: Translator's note: The Marx-Engels internet archive shows the title _Karl Marx Before the Cologne Jury_ as published in 1885 in the table of contents of the Collected Works, at http://www.marxists.org/archive/marx/works/cw/volume26/index.htm.
+8: Translator's note: The Marx-Engels internet archive shows the title _Karl Marx Before the Cologne Jury_ as published in 1885 in the table of contents of the Collected Works, at https://www.marxists.org/archive/marx/works/cw/volume26/index.htm.
 
 9: Translator's note: Not having access to a copy of this surely previously-translated quotation from Engels, I have translated it myself from the French in RGF's text.
 
 10: As an aside, we are reaching here the limits if Texier's "philological" approach. While it is useful to systematically place the writings in their context (for example, to look at the versions that commentators really had available to them), that can not be done to the detriment of an approach that considers theory as an organic whole. If philology favorizes a fragmentary approach, then down with philology!
 
-11: Compare this with the following passage from Lenin: "From the moment all members of society, or at least the vast majority, have learned to administer the state themselves, have taken this work into their own hands, have organized control over the insignificant capitalist minority, over the gentry who wish to preserve their capitalist habits and over the workers who have been thoroughly corrupted by capitalism -- from this moment the need for government of any kind begins to disappear altogether. The more complete the democracy, the nearer the moment when it becomes unnecessary. The more democratic the 'state' which consists of the armed workers, and which is 'no longer a state in the proper sense of the word', the more rapidly every form of state begins to wither away." Lenin, _State and Revolution_, as web-published at http://www.marxists.org/archive/lenin/works/1917/sep/staterev/ch05.htm - s4 .
+11: Compare this with the following passage from Lenin: "From the moment all members of society, or at least the vast majority, have learned to administer the state themselves, have taken this work into their own hands, have organized control over the insignificant capitalist minority, over the gentry who wish to preserve their capitalist habits and over the workers who have been thoroughly corrupted by capitalism -- from this moment the need for government of any kind begins to disappear altogether. The more complete the democracy, the nearer the moment when it becomes unnecessary. The more democratic the 'state' which consists of the armed workers, and which is 'no longer a state in the proper sense of the word', the more rapidly every form of state begins to wither away." Lenin, _State and Revolution_, as web-published at https://www.marxists.org/archive/lenin/works/1917/sep/staterev/ch05.htm - s4 .
 
-12: Translator's note: Joseph O'Malley's translation, _Critique of Hegel's Philosophy of Right_, Oxford University Press, 1970, as it appears on the Marx-Engels Internet Archive, at http://www.marxists.org/archive/marx/works/1843/critique-hpr/ch06.htm.
+12: Translator's note: Joseph O'Malley's translation, _Critique of Hegel's Philosophy of Right_, Oxford University Press, 1970, as it appears on the Marx-Engels Internet Archive, at https://www.marxists.org/archive/marx/works/1843/critique-hpr/ch06.htm.
 
 13: Translator's note: The _Communist_ Left?
 
