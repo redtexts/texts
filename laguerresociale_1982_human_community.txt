@@ -1,9 +1,9 @@
 Title:		Toward the Human Community
 Author:		La Guerre Sociale
-Description:	Written in French in 1982, translated into Spanish in 2013, and posted in English on Libcom shortly thereafter. This edition first available, with further publication details, at http://libcom.org/library/toward-human-community-la-guerre-sociale. For more information read the preface to their text On the Question of the State, also available on redtexts
+Description:	Written in French in 1982, translated into Spanish in 2013, and posted in English on Libcom shortly thereafter. This edition first available, with further publication details, at https://libcom.org/library/toward-human-community-la-guerre-sociale. For more information read the preface to their text On the Question of the State, also available on redtexts
 Date:		1982
 Posted:		2017-01-22
-Modified:	2017-01-22
+Modified:	2017-07-07
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 

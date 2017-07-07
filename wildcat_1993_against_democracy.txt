@@ -1,9 +1,9 @@
 Title:		Against Democracy
 Author:		Wildcat
-Description:	From a talk given in 1993, and found on Wildcat's page at http://f.acetio.us/wildcat/democracy-talk.html
+Description:	From a talk given in 1993, and found on Wildcat's page at http://wildcat.international/democracy-talk.html
 Date:		1993
 Posted:		2015-07-01
-Modified:	2017-05-20
+Modified:	2017-07-07
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
