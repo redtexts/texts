@@ -3,7 +3,7 @@ Author:		Gorter, Herman
 Description:	Apparently written in 1923 and published in English in Workers' Dreadnought in 1924. This red texts version is based on the MIA version, available at https://www.marxists.org/archive/gorter/1923/world-revolution.htm
 Date:		1923
 Posted:		2017-02-19
-Modified:	2017-04-10
+Modified:	2017-07-07
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -97,7 +97,7 @@ It could not have been otherwise in a land so largely agrarian. Having originate
 
 We are proud that Rosa Luxemburg in her voice from the grave has pointed out the nature of the party dictatorship and its effect on the revolution just as we have done. She says a few dozen party leaders of inexhaustible energy and endless idealism direct and rule. Amongst them are in reality one dozen eminent heads who lead and an elite of the workmen which is called from time to time to applaud the speeches of the leaders and to vote unanimously for the resolutions laid before them. At bottom, therefore, it is a clique arrangement -- a dictatorship it is true; but not a dictatorship of the proletariat, simply a dictatorship of a handful of politicians; in short a dictatorship in the bourgeois sense.
 
->'Yes: dictatorship . . . But this dictatorship must be the work of the class and not that of a leading minority in the name of the class; that is to say, it must, step by step, arise from the active participation of the class, remain under its direct influence, and be subordinated to the control of publicity and be the outcome of the political experience of the whole people'.
+>'Yes: dictatorship ... But this dictatorship must be the work of the class and not that of a leading minority in the name of the class; that is to say, it must, step by step, arise from the active participation of the class, remain under its direct influence, and be subordinated to the control of publicity and be the outcome of the political experience of the whole people'.
 
 The Communist Workers' Party and the Communist Workers' International can echo the words of Rosa Luxemburg, but instead of the 'whole people' we always read the proletariat.
 

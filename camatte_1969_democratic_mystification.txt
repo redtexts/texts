@@ -3,7 +3,7 @@ Author:		Camatte, Jacques
 Description:	Published in 1969 in French. This English translation was found at http://www.oocities.org/~johngray/demyst.htm. This was intended to form part of a longer work, which explains the numbering found in the text. More publication details can be found on the original page, linked above
 Date:		1969
 Posted:		2016-01-01
-Modified:	2017-02-27
+Modified:	2017-07-07
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -83,7 +83,7 @@ Society having found the being of its oppression (which abolishes the duality, t
 
 Only they did not understand that the proletariat not only had to destroy the old state machine, but also had to put another in its place. Many socialists believed that it was possible to conquer the state from inside and the anarchists believed that one could abolish it from one day to the next.
 
-Twentieth century theorists are corporatists because they think that it is only a matter of organising production and of humanising it to resolve all problems. They are immediatists. This is an indirect proof of the theory of the proletariat. To say that it is necessary to reconcile the proletariat with the economic movement, is to recognise that a solution can only emerge on this terrain . This immediatism arises from the fact that communist society is forever strengthening inside capitalism itself. It is not a question of reconciling the two, but of destroying the power of capital, its organised strength, the capitalist State, which maintains private monopoly when all economic mechanisms tend to make it disappear. The communist solution is mediate. Reality seems to evade the state, it is necessary to highlight it and, at the same time, to indicate the need for another transitory state: the dictatorship of the proletariat.
+Twentieth century theorists are corporatists because they think that it is only a matter of organising production and of humanising it to resolve all problems. They are immediatists. This is an indirect proof of the theory of the proletariat. To say that it is necessary to reconcile the proletariat with the economic movement, is to recognise that a solution can only emerge on this terrain. This immediatism arises from the fact that communist society is forever strengthening inside capitalism itself. It is not a question of reconciling the two, but of destroying the power of capital, its organised strength, the capitalist State, which maintains private monopoly when all economic mechanisms tend to make it disappear. The communist solution is mediate. Reality seems to evade the state, it is necessary to highlight it and, at the same time, to indicate the need for another transitory state: the dictatorship of the proletariat.
 
 5.1.16. The development towards social democracy was discounted from the start:
 
