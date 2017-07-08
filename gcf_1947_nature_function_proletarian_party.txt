@@ -3,7 +3,7 @@ Author:		Gauche Communiste de France
 Description:	Written in French in October 1948 for Internationalisme 38. This version is based on a translation, with introduction and footnotes, that the ICC published in International Review 153, which can found on the ICC website at https://en.internationalism.org/internationalreview/2014/10329/september/international-review-2nd-semester-2014
 Date:		1947
 Posted:		2017-07-07
-Modified:	2017-07-07
+Modified:	2017-07-08
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -207,7 +207,7 @@ Marco. June 1948.
 
 ## Notes
 
-1: Today we share all the key ideas presented in this text and in most cases can support them to the letter. This is especially true for its insistence on the fundamental and irreplaceable role of the political party of the proletariat for the victory of the revolution. However, the following expression in the text does not provide the best way of understanding the dynamic of the development of the class struggle and the relations between party and class: . "_Left to their own internal development, the workers' struggles against the conditions of capitalist exploitation can lead at most to the explosion of revolts_". In fact, historical experience has shown the revolutionary capacities of the class, in particular the fact that the combination of the economic with the political dimensions of the struggle can mutually dynamise each other. To be more precise about the role of revolutionaries, it is not to bring consciousness to the workers but to accelerate, to extend and deepen, the development of consciousness within the class. For more elements relating to our position on this subject, we refer readers to the following articles: "The mass strike opens the door to the proletarian revolution", _International Review_ 90 (part of the series on communism), and "Questions of organisation: have we become 'Leninists'?" in _IR_ 96 and 97.
+1: Today we share all the key ideas presented in this text and in most cases can support them to the letter. This is especially true for its insistence on the fundamental and irreplaceable role of the political party of the proletariat for the victory of the revolution. However, the following expression in the text does not provide the best way of understanding the dynamic of the development of the class struggle and the relations between party and class: "_Left to their own internal development, the workers' struggles against the conditions of capitalist exploitation can lead at most to the explosion of revolts_". In fact, historical experience has shown the revolutionary capacities of the class, in particular the fact that the combination of the economic with the political dimensions of the struggle can mutually dynamise each other. To be more precise about the role of revolutionaries, it is not to bring consciousness to the workers but to accelerate, to extend and deepen, the development of consciousness within the class. For more elements relating to our position on this subject, we refer readers to the following articles: "The mass strike opens the door to the proletarian revolution", _International Review_ 90 (part of the series on communism), and "Questions of organisation: have we become 'Leninists'?" in _IR_ 96 and 97.
 
 2: The same theoretical reflection underlies another article, "The tasks of the hour", published in _Internationalisme_ in 1946 and re-published in _IR_ 32.
 
