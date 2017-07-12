@@ -3,7 +3,7 @@ Author:		Mouvement Communiste
 Description:	Written in May 2007 and found online at http://www.mouvement-communiste.com
 Date:		2007
 Posted:		2016-04-08
-Modified:	2017-07-07
+Modified:	2017-07-11
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -141,13 +141,13 @@ Brussels-Paris, May 17th, 2007
 
 4: "To sum up, what is free trade, what is free trade under the present condition of society? It is freedom of capital. When you have overthrown the few national barriers which still restrict the progress of capital, you will merely have given it complete freedom of action. So long as you let the relation of wage labour to capital exist, it does not matter how favourable the conditions under which the exchange of commodities takes place, there will always be a class which will exploit and a class which will be exploited. It is really difficult to understand the claim of the free-traders who imagine that the more advantageous application of capital will abolish the antagonism between industrial capitalists and wage workers. On the contrary, the only result will be that the antagonism of these two classes will stand out still more clearly.
 
-"Let us assume for a moment that there are no more Corn Laws or national or local custom duties; in fact that all the accidental circumstances which today the worker may take to be the cause of his miserable condition have entirely vanished, and you will have removed so many curtains that hide from his eyes his true enemy. ... 
+"Let us assume for a moment that there are no more Corn Laws or national or local custom duties; in fact that all the accidental circumstances which today the worker may take to be the cause of his miserable condition have entirely vanished, and you will have removed so many curtains that hide from his eyes his true enemy. ...
 
-"He will see that capital become free will make him no less a slave than capital trammelled by customs duties. ... 
+"He will see that capital become free will make him no less a slave than capital trammelled by customs duties. ...
 
-"Do not imagine, gentlemen, that in criticizing freedom of trade we have the least intention of defending the system of protection. ... One may declare oneself an enemy of the constitutional regime without declaring oneself a friend of the _ancient regime_. ... 
+"Do not imagine, gentlemen, that in criticizing freedom of trade we have the least intention of defending the system of protection. ... One may declare oneself an enemy of the constitutional regime without declaring oneself a friend of the _ancient regime_. ...
 
-"Moreover, the protectionist system is nothing but a means of establishing large-scale industry in any given country, that is to say, of making it dependent upon the world market, and from the moment that dependence upon the world market is established, there is already more or less dependence upon free trade. Besides this, the protective system helps to develop free trade competition within a country. Hence we see that in countries where the bourgeoisie is beginning to make itself felt as a class, in Germany for example, it makes great efforts to obtain protective duties. They serve the bourgeoisie as weapons against feudalism and absolute government, as a means for the concentration of its own powers and for the realization of free trade within the same country. ... 
+"Moreover, the protectionist system is nothing but a means of establishing large-scale industry in any given country, that is to say, of making it dependent upon the world market, and from the moment that dependence upon the world market is established, there is already more or less dependence upon free trade. Besides this, the protective system helps to develop free trade competition within a country. Hence we see that in countries where the bourgeoisie is beginning to make itself felt as a class, in Germany for example, it makes great efforts to obtain protective duties. They serve the bourgeoisie as weapons against feudalism and absolute government, as a means for the concentration of its own powers and for the realization of free trade within the same country. ...
 
 "But, in general, the protective system of our day is conservative, while the free trade system is destructive. It breaks up old nationalities and pushes the antagonism of the proletariat and the bourgeoisie to the extreme point. In a word, the free trade system hastens the social revolution. It is in this revolutionary sense alone, gentlemen, that I vote in favour of free trade." (Marx, _On the Question of Free Trade_, 1847).
 

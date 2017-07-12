@@ -3,7 +3,7 @@ Author:		Antagonism and Practical History
 Description:	Written by Antagonism and Practical History. Taken from https://libcom.org/library/beasts-burden-antagonism-practical-history, with the original version also available at Antagonism's website at http://www.oocities.org/capitolhill/lobby/3909/beasts/index.html
 Date:		1999
 Posted:		2017-03-10
-Modified:	2017-07-07
+Modified:	2017-07-11
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -211,7 +211,7 @@ The animal industry continues to dominate land use in many parts of the world. I
 
 In Marxist terms, meat production represents the destruction of use-value to increase exchange-value. Food that could be used to feed people is instead fed to animals in order to increase profit. Most of the energy and nutrition this provides is (from an economic point of view) wasted in keeping the cattle alive, rather than directly transferred into muscle. Ten acres of land will support 61 people on a diet of soya beans, 24 on wheat, 10 on maize but only 2 on meat from cattle. Cattle are thus used by capitalism as a form of fixed capital, consuming living and dead labour in order to produce a product (meat) containing increased surplus value.
 
-McDonalds has become a totem of capitalist expansion, at the cutting edge of the development of low-waged, casualised work combined with the most advanced spectacular techniques of marketing. No part of the world is held to be completely subordinated to the global market until a McDonalds has opened there. The continuing enclosure of space, marked by deforestation and dispossession is as dependent on the animal industry as the earlier stages of primitive accumulation. Forests are still being cleared for animal grazing or to grow animal feed, peasants cleared from the land to make way for international agri-business. The dynamic of capitalism is towards more control over all life, human or animal. If things move in the opposite direction it will only be because capital has been forced to take a different turn or abolished altogether. 
+McDonalds has become a totem of capitalist expansion, at the cutting edge of the development of low-waged, casualised work combined with the most advanced spectacular techniques of marketing. No part of the world is held to be completely subordinated to the global market until a McDonalds has opened there. The continuing enclosure of space, marked by deforestation and dispossession is as dependent on the animal industry as the earlier stages of primitive accumulation. Forests are still being cleared for animal grazing or to grow animal feed, peasants cleared from the land to make way for international agri-business. The dynamic of capitalism is towards more control over all life, human or animal. If things move in the opposite direction it will only be because capital has been forced to take a different turn or abolished altogether.
 
 ## 2. Communism
 
@@ -333,7 +333,7 @@ As part of the factory system, factory farms would come to an end -- who would w
 
 Anthropocentric humanism has been detrimental to humans as well as animals: "The brutal confinement of animals ultimately serves only to separate men and women from their own potentialities" (Surrealist Group, cited in Law). What Camatte calls "the biological dimension of the revolution" will involve the rediscovery of those aspects of humanity, some labelled as "bestial", that have been underdeveloped by capital such as rhythm, imagination and wildness.
 
-One consequence of this would be that humans would no longer see themselves as always above and distinct from other animals: "Communism... is not domination of nature but reconciliation, and thus regeneration of nature: human beings no longer treat nature simply as an object for their development, as a useful thing, but as a subject... not separate from them if only because nature is in them" (Camatte). 
+One consequence of this would be that humans would no longer see themselves as always above and distinct from other animals: "Communism... is not domination of nature but reconciliation, and thus regeneration of nature: human beings no longer treat nature simply as an object for their development, as a useful thing, but as a subject... not separate from them if only because nature is in them" (Camatte).
 
 ## PostScript: Anarcho-punk, the ALF and the miners' strike -- a cautionary tale from the 1980s
 
