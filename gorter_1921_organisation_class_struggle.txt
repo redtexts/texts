@@ -3,7 +3,7 @@ Author:		Gorter, Herman
 Description:	Published by the KAPD in Berlin in 1921. Translated by D. A. Smart for his book Pannekoek and Gorter's Marxism. Smart calls this text Gorter's "last major attempt to win the working class to left communist tactics." It is in some ways a clear exposition of the themes developed in Gorter's Open Letter to Comrade Lenin
 Date:		1921
 Posted:		2017-04-29
-Modified:	2017-04-29
+Modified:	2017-07-11
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -108,7 +108,6 @@ The proletariat, the great majority of it, must become good communists, militant
 Once again, it is the conditions of production and class relations of our Western European and North American (not Russian) developed capitalist society, with its trusts, its bank capital and its imperialism, that will provide us with the answer!
 
 Never, let it be added in parenthesis, was historical materialism, that mighty weapon left us by Marx and Engels, of greater importance to us than it is now. The theory of surplus-value and class struggle no longer needs proving in times when the world is bankrupt because the workers are no longer producing value, in times when the classes are locked in armed combat. Yet historical materialism can still show us the way, every day and every hour, in Western Europe and North America. It will lead us to victory.
-
 
 The economic system, the conditions of production in our society, provide us with the answer when we ask what organisation we need.
 
