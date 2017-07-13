@@ -3,7 +3,7 @@ Author:		Gorter, Herman
 Description:	Originally published in 1918 in Dutch as De wereldrevolutie. It was written after the Russian Revolution but before the end of the First World War. Its arguments about the differences between the Western European and Russian revolutions anticipate Gorter's later Open Letter to Comrade Lenin. The English translation was made by Hugh McMillan and published in Glasgow by the Socialist Information and Research Bureau in 1920. In this red texts edition footnotes have been converted to numbered endnotes and the errata have been worked into the main body of the text. A scan of the pamphlet on which this version was based can be found at https://archive.org/details/worldrevolution00gort. Note that some words are illegible in the scan and are marked as such in this text
 Date:		1918
 Posted:		2017-04-10
-Modified:	2017-05-26
+Modified:	2017-07-12
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -36,7 +36,7 @@ To the foremost fighter of the world's proletariat, Vladimir Ulianoff (Lenin)
 
 Herman Gorter, the writer of this pamphlet, is a well known Dutch poet and social-revolutionary. He has long been a prominent figure in Socialist circles on the Continent, and quite recently has been made Professor of Moscow University. He well deserves the distinction that the Soviet Government has bestowed upon him. When so many Socialists lost themselves in opportunism and patriotism, he was one of the few whose vision was not blurred, and whose devotion to the cause of Socialism was never in doubt. He was one of the very few whose judgment was always founded on knowledge and inspired by love. The light that he has held up so constantly and devotedly is now reflected in the spirit of the advance guard of the Dutch proletariat. And the light that Gorter has held up is the same light that was held up by the Dutch poetess, Henriette Roland-Holst, and by that brilliant writer on Socialism, Professor Pannekoek.
 
-May these "neutrals" create among the workers of the world that atmosphere of confidence, the absence of which was one of the causes of the division of the world-proletariat into hostile camps -- a division that made war possible -- a war whose burden was, is, and unless they are united in revolution, will continue to be, thrown across the shoulders of the proletarians of all countries
+May these "neutrals" create among the workers of the world that atmosphere of confidence, the absence of which was one of the causes of the division of the world-proletariat into hostile camps -- a division that made war possible -- a war whose burden was, is, and unless they are united in revolution, will continue to be, thrown across the shoulders of the proletarians of all countries.
 
 With regard to the pamphlet itself, it is a continuation of the pamphlet "Imperialism, World War, and Social Democracy." The latter pamphlet, which has not yet appeared in English, proved the necessity of the unity of the world-proletariat in its struggle against world-Imperialism. This pamphlet shows that this struggle of the world-proletariat will be the proletarian revolution for Socialism. The first chapter, with the exception of a few sentences, was written in September, 1917. The last chapter was written in July, 1918.
 

@@ -3,7 +3,7 @@ Author:		Gorter, Herman
 Description:	Written in German in 1920 in German and published in English in 1921 in Workers' Dreadnought. Republished again by Wildcat in 1989, and then published online by Antagonism Press in 2004. This red texts version is based on the Marxists Internet Archive version at https://www.marxists.org/archive/gorter/1920/open-letter/index.htm, but incorporates the introductions and some corrections from the Antagonism Press version, available at http://www.oocities.org/capitolhill/lobby/3909/gorter/gortertoc.html
 Date:		1920
 Posted:		2017-03-05
-Modified:	2017-05-27
+Modified:	2017-07-12
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -490,7 +490,7 @@ By criticizing leader-tactics I do not mean to advocate politics without leaders
 
 But these politics, which you and the Executive are now following, will lead nowhere in Western Europe. Capitalism here is far too powerful as yet, and the proletariat is much too isolated. These politics will fail here, just as those of the Second International did.
 
-Here the workers themselves must become strong, and, through them, their leaders. Here the evil the leadership-policy, must be seized by the root
+Here the workers themselves must become strong, and, through them, their leaders. Here the evil the leadership-policy, must be seized by the root.
 
 Through these your tactics on the Trade Union question you and the Moscow Executive have proved, to my mind, that UNLESS YOU ALTER THESE TACTICS, YOU CANNOT CONDUCT THE REVOLUTION IN WESTERN EUROPE.
 
@@ -616,7 +616,7 @@ Often these speeches are utterly mutilated. With those, therefore, we achieve no
 
 We, however (I often speak in the name of the KAPD), get at them especially through action (in the time of the revolution of which we speak). In all bigger towns and villages they see us act. They see our strikes, our street fights our councils. They hear our watchwords. They see our lead. This is the best propaganda, the most convincing. This action, however, is not in parliament!
 
-The non-communist workers, therefore, the small peasants and bourgeois, can be reached quite well also without parliamentary action
+The non-communist workers, therefore, the small peasants and bourgeois, can be reached quite well also without parliamentary action.
 
 Here one part in particular from your brochure _Infantile Disorder_, must be refuted; it shows where opportunism is already leading you, Comrade.
 

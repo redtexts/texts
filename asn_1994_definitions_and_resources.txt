@@ -3,7 +3,7 @@ Author:		Against Sleep and Nightmare
 Description:	This text appeared as a box inside the article "Everything is True and Nothing is Permitted" in Against Sleep and Nightmare 6 (2000?), but mirrors almost exactly "Definitions and Resources" from Against Sleep and Nightmare 5 (1994?), both of which are available at http://www.againstsleepandnightmare.net/ASAN/welcome.html
 Date:		1994?
 Posted:		2017-03-12
-Modified:	2017-03-12
+Modified:	2017-07-12
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -27,7 +27,7 @@ Can be a variety of **leftism**. Activist ideologists tend to spread the despair
 
 **Democracy**: any system where the majority shapes the decisions that the government makes. See **Permanent War**, **Permanent Elections**.
 
-**Detourn** (de tôrn): v. [situationists Fr _detour_, change of direction (fig) evasion, trick] to arrange disparate elements of the dominant culture together to form a new work, esp. in a way that reveals the true meaning and function of the original elements. Detournment as revolutionary activity reverses the systematic fragmentation of specialists -- n.-ement (-mä) the act of detourning
+**Detourn** (de tôrn): v. [situationists Fr _detour_, change of direction (fig) evasion, trick] to arrange disparate elements of the dominant culture together to form a new work, esp. in a way that reveals the true meaning and function of the original elements. Detournment as revolutionary activity reverses the systematic fragmentation of specialists -- n.-ement (-mä) the act of detourning.
 
 **Exchange**: giving something of equal value in return for someone giving you an object. The more this sort of apparently simple act dominates the world, the more each person is a purely atomized unit and the more community cannot exist.
 

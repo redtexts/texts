@@ -3,7 +3,7 @@ Author:		Gauche Communiste de France
 Description:	This text was written by Marc (Chirik?) for the September 1947 issue of Internationalisme. It was published in English, along with footnotes and another GCF article on Trotskyism, under the title "What distinguishes revolutionaries from Trotskyism?" in the International Communist Current's International Review 139 in 4th quarter 2009
 Date:		1947
 Posted:		2016-09-23
-Modified:	2017-02-26
+Modified:	2017-07-12
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -105,7 +105,7 @@ This whole kind of politics is fundamentally based on a singular lack of confide
 
 A disaster. Each time a new supple strategy was put forward, there followed a greater, deeper defeat for the workers. To make up for a weakness that is attributed to the proletariat, to "strengthen" the working class, we were going to rely not only on extra-proletarian political forces (social democracy) but also on ultra-reactionary social forces: "revolutionary" peasant parties, international peasants' conferences, international conferences of the colonial peoples. The more catastrophes rained on the proletariat's head, the more the rage for alliances triumphed in the CI. Of course the origins of this whole policy must be sought in the existence of the Russian state, which began to find its reason for existence in itself, having by nature nothing in common with the socialist revolution, since the state is alien to the proletariat and its finality as a class.
 
-The state, in order to conserve and strengthen itself, has to look for and find allies in the "oppressed" bourgeoisies, in the "progressive" colonial peoples and countries, because these social categories are naturally called upon to build up a state themselves. It can speculate about divisions and conflicts between other states and capitalist groups, because it is of the same social and class nature as them
+The state, in order to conserve and strengthen itself, has to look for and find allies in the "oppressed" bourgeoisies, in the "progressive" colonial peoples and countries, because these social categories are naturally called upon to build up a state themselves. It can speculate about divisions and conflicts between other states and capitalist groups, because it is of the same social and class nature as them.
 
 In these conflicts, the weakening of one of its antagonists can become the condition for the strengthening of the state. It's not the same for the proletariat and its revolution. It cannot count on any one of these allies; it cannot rely on any of these forces. It is alone and what's more is placed in a situation of irreducible opposition to all these forces and elements who for their part are indivisibly united against it.
 

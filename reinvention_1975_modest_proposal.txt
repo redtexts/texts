@@ -3,7 +3,7 @@ Author:		Reinvention of Everyday Life
 Description:	Published by an American group called The Reinvention of Everyday Life, then republished in the UK by Social Revolution (who were forced out of the SPGB, joined Solidarity, and later joined Wildcat. This red texts version comes from what was hosted on the Subversion website at http://www.oocities.org/athens/acropolis/8195/blasts/badolddays.htm
 Date:		1975
 Posted:		2017-02-25
-Modified:	2017-04-10
+Modified:	2017-07-12
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -49,7 +49,7 @@ But exchange-value is not a mere accessory tacked on to an otherwise neutral rea
 
 Thus, it is no accident that everything is being designed to break down or be thrown away, that "education" is as shitty as it is, or that "culture," "art" and "entertainment" have become so uninspired. The entirety of the existing mode of production is specifically capitalist. While at work we experience no real freedom or self-expression of any kind. The only reason we work is to get paid. But when we get off work we still are alienated -- i.e., we still have little or no control over any of the conditions which determine how we spend our time.
 
-Thus "leisure" time -- or "free" time -- can be used for nothing but a repetition of the most meaningless and tedious trivialities -- such as shopping, watching boring television shows, etc. Even when we're eating and sleeping -- perfectly normal human activities -- we're really only recuperating to prepare ourselves for more alienated work
+Thus "leisure" time -- or "free" time -- can be used for nothing but a repetition of the most meaningless and tedious trivialities -- such as shopping, watching boring television shows, etc. Even when we're eating and sleeping -- perfectly normal human activities -- we're really only recuperating to prepare ourselves for more alienated work.
 
 As the contradiction grows more explicit we see the trend of contracting social reproduction. In many parts of the world capitalists are finding that now they can sell more (in dollar terms) by producing less -- hence the phony "shortages" of various sorts, as well as the rapidly rising prices. They are finding fewer profitable things in which to channel the labor force (hence "unemployment"). Capitalism's weakest elements are rapidly falling onto the historical scrapheap: more and more small shopkeepers are going under (just take a walk downtown and look at all the closing out sales), smaller firms are going bankrupt or being bought out.
 

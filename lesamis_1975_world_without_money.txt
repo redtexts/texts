@@ -3,7 +3,7 @@ Author:		Les Amis de 4 Millions de Jeunes Travailleurs
 Description:	This text was originally published in French in 1975-1976. It was translated to Spanish (parts I and II) and Portugeuse (part III), from which it was translated into English and posted online at https://libcom.org/library/world-without-money-communism-les-amis-de-4-millions-de-jeunes-travailleurs. Different translations of individual sections are also available on red texts
 Date:		1975-1976
 Posted:		2015-09-01
-Modified:	2017-07-07
+Modified:	2017-07-12
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -1599,7 +1599,7 @@ The councils will have to solve difficult problems but they will constitute the 
 
 To make possible and to support councilist organization it will be necessary for the active wing of the revolution to concentrate its forces at certain strategic points. It will either destroy or permit the survival or the recovery of the old system.
 
-The banking and financial system must be destroyed at their material foundations. We have to attack these institutions and burn their account books, their records and their archives. Everything that even looks like a means of payment will have to be destroyed. The state machinery will have to be paralyzed. This is not to say that there will have to be a frontal assault on the heart of the system, but rather that its multiple tentacles must be destroyed. The state has its fingers in every nook and cranny and this is both its strength as well as its weakness
+The banking and financial system must be destroyed at their material foundations. We have to attack these institutions and burn their account books, their records and their archives. Everything that even looks like a means of payment will have to be destroyed. The state machinery will have to be paralyzed. This is not to say that there will have to be a frontal assault on the heart of the system, but rather that its multiple tentacles must be destroyed. The state has its fingers in every nook and cranny and this is both its strength as well as its weakness.
 
 We have to attack everything that allows for the control of people and, first of all, identification documents of every kind. We will have to hunt down state and private archives. Apart from some documents of revolutionary or historical interest, all administrative archives and papers of every kind will have to be destroyed.
 
