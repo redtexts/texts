@@ -3,7 +3,7 @@ Author:		Mouvement Communiste
 Description:	Written in May 2007 and found online at http://www.mouvement-communiste.com
 Date:		2007
 Posted:		2016-04-08
-Modified:	2017-07-11
+Modified:	2017-07-15
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -69,9 +69,9 @@ The unequal exchange has nothing to do with the market prices of commodities. It
 
 ## Did you say imperialism? The reality of the international division of labour yesterday and today. Social labour productivity at the heart of the working class question.
 
-If we take this ideology literally, the highest point of imperialism was reached by the British Empire at its *apogee*. In 1880, the United Kingdom was the origin of 40% of total world exports of commodities. Ten years later, its commercial fleet's tonnage exceeded that of all the other competing fleets. Even in 1921, while the new capitalist dominant power, the United States, flexed its muscles, the Empire counted 458 million subjects, roughly a quarter of the world population of the time. A quarter of the Earth belonged to it.
+If we take this ideology literally, the highest point of imperialism was reached by the British Empire at its _apogee_. In 1880, the United Kingdom was the origin of 40% of total world exports of commodities. Ten years later, its commercial fleet's tonnage exceeded that of all the other competing fleets. Even in 1921, while the new capitalist dominant power, the United States, flexed its muscles, the Empire counted 458 million subjects, roughly a quarter of the world population of the time. A quarter of the Earth belonged to it.
 
-Today, however much the *alterglobalists*, blinded and saddened by the collapse of the Stalinist Empire, complain about American absolute power, the United States sits on a territory which represents 6.5% of the Earth's surface [(8)][notes] and their population reaches with difficulty 5% of the inhabitants of the planet. Of course it's true that their currency dominates the world as the pound did formerly, and its military expenditure is equal to 40-45% of the expenditure on armaments and troops of the 189 states of the world. However, their share in the world GDP is only about 20 to 25% of the total. The share of American exports in world trade is only 12% whereas the 15 European countries which have belonged to the European Union since 1995, reach 15.5%.
+Today, however much the _alterglobalists_, blinded and saddened by the collapse of the Stalinist Empire, complain about American absolute power, the United States sits on a territory which represents 6.5% of the Earth's surface [(8)][notes] and their population reaches with difficulty 5% of the inhabitants of the planet. Of course it's true that their currency dominates the world as the pound did formerly, and its military expenditure is equal to 40-45% of the expenditure on armaments and troops of the 189 states of the world. However, their share in the world GDP is only about 20 to 25% of the total. The share of American exports in world trade is only 12% whereas the 15 European countries which have belonged to the European Union since 1995, reach 15.5%.
 
 But the most astonishing data concerns the export of capital, a characteristic considered to be essential to the conception of imperialism according to the Third International. "In every land of advanced capitalist development there is therefore continually expanding a mass of superfluous capital which returns less profit than in comparatively backward countries. The larger the accumulation of superfluous capital in any country, the more vigorous are the endeavours to export capital, to invest it abroad", we may read in the ABC. The opposite counterpart of capital export for Bukharin would be the implementation of a vigorous policy of customs duties in order to protect against invested capital with profitabilities lower than in the "backward" countries.
 

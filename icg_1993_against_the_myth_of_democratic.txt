@@ -3,7 +3,7 @@ Author:		Internationalist Communist Group
 Description:	Published in 1993 in issue 8 of Communism, the ICG's English-language review. Available in its original electronic form at http://gci-icg.org/english/communism8.htm#mythdemo
 Date:		1993		
 Posted:		2015-06-01
-Modified:	2016-10-14
+Modified:	2017-07-15
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -11,7 +11,7 @@ HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.
 
 ### Note
 
-We are reproducing here an article that was first published 10 years ago, in November 1983, in the first issue of *Communism*, our central review in English. Two reasons have led us to republish this article on the "Myth of Democratic Rights and Liberties":
+We are reproducing here an article that was first published 10 years ago, in November 1983, in the first issue of _Communism_, our central review in English. Two reasons have led us to republish this article on the "Myth of Democratic Rights and Liberties":
 
 * the contents of the article that remains very crucial in all struggles today insofar as it denounces the democratic rights and liberties as they are systematically being used against the strength, the unity and the autonomous organisation of the proletariat;
 * the fact that this article, published in the first issue of Communism, was a rather bad translation of the original Spanish text, while today we can publish a much better version of it. As we explained in the introduction of Communism No.7 in April 1992, we depend nearly entirely on our contacts and sympathizers to help us with the translations of our texts into English. We are satisfied that today we can republish this article and we call upon our sympathizers to continue to contribute to the task of improving the quality of our reviews and of spreading important text of the communist movement.
@@ -38,7 +38,7 @@ The party of order, the general party of Capital, or in other words, all the bou
 
 But the reign of democracy as both "left" and "right" promise in the name of socialism and/or liberty, where there would be no classes but just citizens and free people, like any ideological form of the bourgeoisie does not come from nowhere and does not remain just as a pure idea outside the real world. On one hand, this world, "earthly paradise" of human rights, obeys a very precise material reality: the reign of the circulation of commodities from which all the defenders of Capital draw their principles and conclusions; on the other hand, all the mental forms, ideologies, which derives from this reign are accepted by society and are therefore objective. The dissolution of the working-class in the dead world of citizenship is nothing immaterial, even if it is based on the mystical world of commodities. One could think that the millions of pages written by marxologists and other capitalist lawyers, ... the capitalist State constitutions, the charts, the speeches, ... only passively serve the bourgeoisie, that it takes them into account or not according to circumstances. But this vision forgets that these very papers reflect and strengthen reality, that they belong to dominant ideology, which becomes **a material force** that reinforces and reproduces the whole social system. The laws and other official papers are just ideological products of capitalist dictatorship which have the task of defending it.
 
-In the sphere of circulating commodities there are no classes; everybody is a citizen, everybody appears as a buyer and seller of commodities, *equal, free, and owner*. **Even when we sell our labour-power, we are in the paradise of human rights and liberties. Each one is aiming at his own private interests in the reign of *equality, liberty, and private property***.
+In the sphere of circulating commodities there are no classes; everybody is a citizen, everybody appears as a buyer and seller of commodities, _equal, free, and owner_. **Even when we sell our labour-power, we are in the paradise of human rights and liberties. Each one is aiming at his own private interests in the reign of _equality, liberty, and private property_**.
 
 * **Liberty**: because the buyer and the seller of commodities (including labour-power) does not obey any rule than their own free will.
 * **Equality**: because in the world of commodities, everybody is a buyer and a seller, and everybody gets a value equal to the value contained in the commodities he is selling, exchanging equivalent against equivalent.

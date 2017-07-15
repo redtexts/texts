@@ -3,7 +3,7 @@ Author:		Les Amis de 4 Millions de Jeunes Travailleurs
 Description:	This text was originally published in French in 1975-1976. It was translated to Spanish (parts I and II) and Portugeuse (part III), from which it was translated into English and posted online at https://libcom.org/library/world-without-money-communism-les-amis-de-4-millions-de-jeunes-travailleurs. Different translations of individual sections are also available on red texts
 Date:		1975-1976
 Posted:		2015-09-01
-Modified:	2017-07-12
+Modified:	2017-07-15
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -1799,7 +1799,7 @@ Capital is, of course, an impersonal force. Everyone, to one degree or another, 
 
 Some people have, more than others, the possibility of remedying the effects of capital. Unlike the general living conditions, these possibilities are today quite manifold. The opportunities for product diversification, the development of trade, are making it possible for certain groups of the population to have a level of consumption and a quality of life that are very different from and higher than that of their contemporaries. Maybe the bourgeoisie are not the happiest people but at least they can choose to cease to be bourgeois. An analogous decision is not possible for the street sweeper. If the bourgeoisie are not content with their own lifestyle, this is all the more reason to abolish this class and its society.
 
-The bourgeoisie is not exhibitionist. It leaves exhibitionism to the *nouveaux riche*. Nor does it have any interest in showing off the life it leads in its *dachas* (Russian vacation homes in the country) and its private beaches. The proletarians have the habit of overestimating the wealth of the social classes with whom they associate in their everyday lives and underestimating the wealth of the real bourgeoisie.
+The bourgeoisie is not exhibitionist. It leaves exhibitionism to the _nouveaux riche_. Nor does it have any interest in showing off the life it leads in its _dachas_ (Russian vacation homes in the country) and its private beaches. The proletarians have the habit of overestimating the wealth of the social classes with whom they associate in their everyday lives and underestimating the wealth of the real bourgeoisie.
 
 Even if the bourgeoisie were to live a frugal and austere lifestyle, this would not make it disappear as a class. What counts is, above all else, its economic and social function. Their wealth is obviously connected with this function. A part of their consumption, even in western countries, is conflated with the expenses of doing business. They travel, they eat and they have sex on behalf of and at the expense of their companies.
 

@@ -3,7 +3,7 @@ Author:		Against Sleep and Nightmare
 Description:	Originally published in Against Sleep and Nightmare 5 in the mid-1990s and available online at http://www.againstsleepandnightmare.net/ASAN/ASAN5/democrcy.html
 Date:		Mid-1990s
 Posted:		2016-01-01
-Modified:	2016-03-24
+Modified:	2017-07-15
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -11,7 +11,7 @@ HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.
 
 ## ...And Democracy Continues Its March
 
->"Fetters and headsmen were the coarse instruments which tyranny formerly employed; but the civilization of our age has perfected despotism itself, though it seemed to have nothing to learn." - de Tocqueville, *Democracy in America* (pg.97)
+>"Fetters and headsmen were the coarse instruments which tyranny formerly employed; but the civilization of our age has perfected despotism itself, though it seemed to have nothing to learn." - de Tocqueville, _Democracy in America_ (pg.97)
 
 America really is entering a period of greater democracy. Bill Clinton's election campaign has never stopped. Polls are still being taken about his latest struggles. From the New Hampshire primary to the health care reform campaign, TV has tried to draw us into his endless fights with other mighty bureaucrats - from George Bush to Robert Dole to Saddam Hussein. Even more, we are expected to cheer Clinton in fights against us. "How well do you think that Clinton succeeded in communicating the need for sacrifice to the American people."
 

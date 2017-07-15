@@ -3,13 +3,13 @@ Author:		Monsieur Dupont
 Description:	Available from many places online, this was written in 2006 by a former member of the UK group Subversion
 Date:		2006
 Posted:		2016-01-01
-Modified:	2017-01-05
+Modified:	2017-07-15
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 {{../files/article_header.txt}}
 
-*Every time an anarchist says, "I believe in democracy," there is a little fairy somewhere that falls down dead.* - JM Barrie (Peter Pan 1928)
+_Every time an anarchist says, "I believe in democracy," there is a little fairy somewhere that falls down dead._ - JM Barrie (Peter Pan 1928)
 
 The guilt-ridden, double-checking tenets of democracy bother all fragments of radical opinion like a haze of late summer midges but the anarchist milieu seems especially prone to tolerating, even embracing, this maddening visitation...
 

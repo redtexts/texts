@@ -3,7 +3,7 @@ Author:		Mouvement Communiste
 Description:	Translated from French by Red and Black Notes, who note that this text was produced to be (but never was) distributed at the Summit of the Americas in Quebec in April 2001. Published online by Red and Black Notes at http://www.oocities.org/red_black_ca/Articles.htm
 Date:		2001
 Posted:		2016-01-01
-Modified:	2016-10-14
+Modified:	2017-07-15
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -49,7 +49,7 @@ How is it possible to imagine fighting an adversary without understanding its fu
 
 Contrary to what the anti-globalists say (Cf. Le Monde diplomatique), globalisation didn't begin with the fall of the Berlin Wall. Since the 16th Century, with the centralisation by finance and commercial capital of the gigantic masses of value which allowed the rapid development of industrial capital, the social relation based on exploitation set out from old Europe, to the Americas, to invade the planet.
 
-This irresistible movement was described in 1848 by Marx and Engels in the *Communist Manifesto*:
+This irresistible movement was described in 1848 by Marx and Engels in the _Communist Manifesto_:
 
 >"The bourgeoisie has, through its exploitation of the world market, given a cosmopolitan character to production and consumption in every country. (...) All old-established national industries have been destroyed or are daily being destroyed. They are dislodged by new industries, whose introduction becomes a life and death question for all civilized nations, by industries that no longer work up indigenous raw material, but raw material drawn from the remotest zones; industries whose products are consumed, not only at home, but in every quarter of the globe. (?) In place of the old local and national seclusion and self-sufficiency, we have intercourse in every direction, universal inter-dependence of nations."
 
@@ -65,6 +65,6 @@ While the trade unionists of the CGT in France and the AFL-CIO in the US moan ab
 
 Today there are two types of response to the deepening of the planetary domination of capital. The first response -- of the reformist type -- aims at regulating the impetuous course of the circulation of value by setting up crazy pseudo guarantees (the Tobin tax, protectionism, more secure frontiers, local democracy etc.) against some of its excesses. The second response -- the revolutionary communist one -- far from lamenting so-called "globalisation", salutes the potential which it unleashes for the struggle of the world proletariat and, far from the reactionary withdrawal into the nation, the region or Roquefort cheese, works for the international unity of the exploited for the abolition of wage labour and the disappearance of value.
 
->**"But, in general, the protective system of our day is conservative, while the free trade system is destructive. It breaks up old nationalities and pushes the antagonism of the proletariat and the bourgeoisie to the extreme point. In a word, the free trade system hastens the social revolution. It is in this revolutionary sense alone, gentlemen, that I vote in favour of free trade."** - Karl Marx, *On the Question of Free Trade* (1848)
+>**"But, in general, the protective system of our day is conservative, while the free trade system is destructive. It breaks up old nationalities and pushes the antagonism of the proletariat and the bourgeoisie to the extreme point. In a word, the free trade system hastens the social revolution. It is in this revolutionary sense alone, gentlemen, that I vote in favour of free trade."** - Karl Marx, _On the Question of Free Trade_ (1848)
 
 {{../files/footer.txt}}

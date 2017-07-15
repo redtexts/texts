@@ -3,7 +3,7 @@ Author:		Robin Goodfellow
 Description:	A text produced by Robin Goodfellow, a group of authors writing primarily in French and formerly associated with the publication Communisme ou Civilisation. This text was posted online at http://www.robingoodfellow.info/pagesen/rubriques/meren.htm
 Date:		2013
 Posted:		2016-06-02
-Modified:	2017-04-10
+Modified:	2017-07-15
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -292,7 +292,7 @@ Marx calls this phenomenon the _tendential fall in the rate of profit_. This is 
 Among these counteracting factors, Marx highlights:
 
 * The increase in the exploitation of the labour-power through the development of the productivity and intensity of labour;
-* The depreciation of the elements of constant capital: the calculation we have applied to the value of v also applies to c. Suppose that where before it took 50 hours to build a machine, now it only takes 25. This means that the portion of c represented by this machine has had its value cut in half. In the same way, if the rise in productivity overtakes the production of raw materials and intermediate products, the value of these items decreases. Capital has therefore succeeded in increasing the *technical composition* of capital while holding up the rise of the *value composition*. This is why that to define the organic composition of capital we say that it is the value composition, insofar as it reflects the technical composition.
+* The depreciation of the elements of constant capital: the calculation we have applied to the value of v also applies to c. Suppose that where before it took 50 hours to build a machine, now it only takes 25. This means that the portion of c represented by this machine has had its value cut in half. In the same way, if the rise in productivity overtakes the production of raw materials and intermediate products, the value of these items decreases. Capital has therefore succeeded in increasing the _technical composition_ of capital while holding up the rise of the _value composition_. This is why that to define the organic composition of capital we say that it is the value composition, insofar as it reflects the technical composition.
 * Relative surplus population. There exists in society an unemployed or underemployed population which carries weight to technical progress because capital may prefer to employ underpaid workers rather than invest in modernization. This is the case for luxury industries in general, and the tendency to develop luxury follows the development of capital, particularly when it comes to satisfying the needs of the upper middle-classes. Generally speaking, the development of branches which employ more than the average amount of living labour helps to counteract the tendential fall in the rate of profit.
 
 ### 2.11 The cycle of accumulation
