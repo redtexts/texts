@@ -1,9 +1,9 @@
 Title:		A Modest Proposal for How the Bad Old Days Will End
 Author:		Reinvention of Everyday Life
-Description:	Published by an American group called The Reinvention of Everyday Life, then republished in the UK by Social Revolution (who were forced out of the SPGB, joined Solidarity, and later joined Wildcat. This red texts version comes from what was hosted on the Subversion website at http://www.oocities.org/athens/acropolis/8195/blasts/badolddays.htm
+Description:	Published by an American group called The Reinvention of Everyday Life, then republished in the UK by Social Revolution (who were forced out of the SPGB, joined Solidarity, and later joined Wildcat). This red texts version comes from what was hosted on the Subversion website at http://www.oocities.org/athens/acropolis/8195/blasts/badolddays.htm
 Date:		1975
 Posted:		2017-02-25
-Modified:	2017-07-12
+Modified:	2017-07-15
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -53,7 +53,7 @@ Thus "leisure" time -- or "free" time -- can be used for nothing but a repetitio
 
 As the contradiction grows more explicit we see the trend of contracting social reproduction. In many parts of the world capitalists are finding that now they can sell more (in dollar terms) by producing less -- hence the phony "shortages" of various sorts, as well as the rapidly rising prices. They are finding fewer profitable things in which to channel the labor force (hence "unemployment"). Capitalism's weakest elements are rapidly falling onto the historical scrapheap: more and more small shopkeepers are going under (just take a walk downtown and look at all the closing out sales), smaller firms are going bankrupt or being bought out.
 
-Capitalism's most rugged form will, probably prove to be in countries where there is the most developed State rationalization of the capital accumulation process (e.g., China), i.e. the so-called "Socialist" and "Communist" countries.
+Capitalism's most rugged form will probably prove to be in countries where there is the most developed State rationalization of the capital accumulation process (e.g., China), i.e. the so-called "Socialist" and "Communist" countries.
 
 As the collapse becomes more evident each day, spokesmen for all the different factions of Capital rush to compete with their respective "explanations." And as though the "opposition" between "liberals" and "conservatives" weren't absurd enough, the circus has added the official "Left" as an even more comical sideshow.
 
@@ -69,7 +69,7 @@ All major decisions were made by the people themselves in workplaces and popular
 
 In March of 1921, after three and a half years, the workers' and sailors' revolution at Kronstadt was crushed. Its participants and sympathizers were either shot on sight, imprisoned, or forced to flee "revolutionary" Russia. But the final suppression of the Kronstadt Commune and the massacre of its people was not carried out by the "White Army" or by foreign imperialists. They were crushed militarily by the so-called "Red Army," with Leon Trotsky at its head and with explicit orders from Lenin and the rest of the top Leaders of the Russian "Communist" Party.
 
-None of this should be surprising, The workers' and sailors' revolution which broke out at Kronstadt was qualitatively different from and in direct opposition to the movement which was led by Lenin and the other top Leaders of the "Communist" Party. It was, though in a crude and embryonic form, a movement for a free and classless society -- the real movement I have been speaking of.
+None of this should be surprising. The workers' and sailors' revolution which broke out at Kronstadt was qualitatively different from and in direct opposition to the movement which was led by Lenin and the other top Leaders of the "Communist" Party. It was, though in a crude and embryonic form, a movement for a free and classless society -- the real movement I have been speaking of.
 
 For several decades now, the "Right" and "Left" have conspired to hide this movement from us or to falsify and distort its reality beyond recognition. Both the "Right" and the "Left" would like us to believe that totalitarian state-capitalism (which they call "Communism") is the only possible alternative to private corporate capitalism, and that shitheads like the "Symbionese Liberation Army" are revolutionaries. All these people have a stake in keeping things the same.
 
