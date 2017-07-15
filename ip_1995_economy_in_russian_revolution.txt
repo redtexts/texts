@@ -3,7 +3,7 @@ Author:		Internationalist Perspective
 Description:	Written by Rose in Internationalist Perspective 28. It was followed by a critical response by Sander. That issue is available at http://internationalistperspective.org/issue/
 Date:		1995
 Posted:		2016-12-16
-Modified:	2016-12-16
+Modified:	2017-12-16
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -17,7 +17,7 @@ It is in this perspective, of understanding the political lessons that we can dr
 
 Much has been written on the political meaning of October 1917 and on the political structures created by the proletariat. But the period following the revolution must pass through the fine comb of revolutionary understanding.
 
-Because the problem of the political organization of the class (workers' councils, party ... ) has been dealt with in other articles, it is the economic problem of post-revolutionary Russia that is the subject of this article. The economic questions are fundamental and must be raised at the very onset of the take-over by the proletariat. The period of transition must be a real destruction of the economic bases of capitalism. Without this destruction, even if it occurs gradually, communism, as a system in which the relations of production and the relations between people are totally new, will never be possible. The possibility of the creation of a new society depends on the period of transition.
+Because the problem of the political organization of the class (workers' councils, party ...) has been dealt with in other articles, it is the economic problem of post-revolutionary Russia that is the subject of this article. The economic questions are fundamental and must be raised at the very onset of the take-over by the proletariat. The period of transition must be a real destruction of the economic bases of capitalism. Without this destruction, even if it occurs gradually, communism, as a system in which the relations of production and the relations between people are totally new, will never be possible. The possibility of the creation of a new society depends on the period of transition.
 
 When we look at the Russian revolution, we see that the Bolsheviks took measures on two "levels". While on the level of the political organization of the proletariat, the measures taken went in the direction of a break with the old system -- to the advantage of proletarian structures (such as the Workers Councils) -- we can't say the same of their economic policy. On that level, the measures taken (as we shall see later), affected primarily the forms of capitalism, without touching its foundations. Several factors explain this: the economic backwardness of Russia at the time of the revolution; the impossibility of transforming a capitalist economy into a "communist" one while the rest of the world remains capitalist; particular phenomena such as the civil war; finally the lack of theoretical elaboration by the Bolsheviks of these questions. All this led to a situation in which, despite the proletarian nature of the revolution, the foundations of the capitalist system were never destroyed. Rosa Luxemburg drew the following lesson:
 
