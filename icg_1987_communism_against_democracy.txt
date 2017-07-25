@@ -3,9 +3,11 @@ Author:		Internationalist Communist Group
 Description:	From issue 4 (Winter 1987-1988) of Communism, ICG's review. Initially published online at http://gci-icg.org/english/communism4.htm#communism_dem. Some misspellings and obvious grammatical errors have been fixed in this present version but it is still a rough read
 Date:		1987-1988
 Posted:		2016-01-01
-Modified:	2017-05-27
+Atomdate:	2016-01-01T04:00:00Z
+Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom Feed">
 
 {{../files/article_header.txt}}
 

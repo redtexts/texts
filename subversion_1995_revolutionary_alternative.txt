@@ -3,9 +3,11 @@ Author:		Subversion
 Description:	Originally published in Subversion 16 in 1995 and available on the website of the Subversion group at http://www.oocities.org/athens/acropolis/8195/2ndbestof.html
 Date:		1995
 Posted:		2016-01-01
-Modified:	2017-07-15
+Atomdate:	2016-01-01T16:00:00Z
+Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom Feed">
 
 {{../files/article_header.txt}}
 

@@ -3,9 +3,11 @@ Author:		Mouvement Communiste
 Description:	Translated from French by Red and Black Notes, who note that this text was produced to be (but never was) distributed at the Summit of the Americas in Quebec in April 2001. Published online by Red and Black Notes at http://www.oocities.org/red_black_ca/Articles.htm
 Date:		2001
 Posted:		2016-01-01
-Modified:	2017-07-15
+Atomdate:	2016-01-01T12:00:00Z
+Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom Feed">
 
 {{../files/article_header.txt}}
 

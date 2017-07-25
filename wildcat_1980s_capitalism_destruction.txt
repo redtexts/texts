@@ -3,9 +3,11 @@ Author:		Wildcat
 Description:	Originally posted at the Subversion group's website (now archived at http://www.oocities.org/athens/acropolis/8195/). Question marks indicate places where the preceding word in the online text was unclear
 Date:		Mid-1980s
 Posted:		2015-07-01
-Modified:	2016-06-02
+Atomdate:	2015-07-01T00:00:00Z
+Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom Feed">
 
 {{../files/article_header.txt}}
 

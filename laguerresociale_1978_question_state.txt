@@ -3,9 +3,11 @@ Author:		La Guerre Sociale
 Description:	This text originally appeared in French in La Guerre Sociale, no. 2, in March 1978. A translation to English was made in the early 80s, and was later revised and posted online -- with a substantial preface -- on the John Gray Website at http://www.oocities.org/~johngray/questat.htm
 Date:		1978
 Posted:		2017-01-22
-Modified:	2017-04-10
+Atomdate:	2017-01-22T02:00:00Z
+Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom Feed">
 
 {{../files/article_header.txt}}
 

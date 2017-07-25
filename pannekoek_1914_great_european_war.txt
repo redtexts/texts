@@ -3,9 +3,11 @@ Author:		Pannekoek, Anton
 Description:	Published in International Socialist Review 15, no. 4, October 1914, and translated by Marcus Hitch. From https://www.marxists.org/archive/pannekoe/1914/10/great-european-war.htm
 Date:		1914
 Posted:		2017-06-16
-Modified:	2017-06-16
+Atomdate:	2017-06-16T00:00:00Z
+Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom Feed">
 
 {{../files/article_header.txt}}
 

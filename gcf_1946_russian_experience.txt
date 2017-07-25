@@ -3,9 +3,11 @@ Author:		Gauche Communiste de France
 Description:	Written in 1946 by Gauche Communiste de France. In 1990 the International Communist Current translated it into English and added an introduction and footnotes for International Review 61. This red texts version is based on the ICC's translation of the French original, available at http://en.internationalism.org/ir/062/the-russian-experience
 Date:		1946
 Posted:		2017-02-25
-Modified:	2017-02-25
+Atomdate:	2017-02-25T03:00:00Z
+Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom Feed">
 
 {{../files/article_header.txt}}
 

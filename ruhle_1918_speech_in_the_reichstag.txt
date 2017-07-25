@@ -3,9 +3,11 @@ Author:		Rühle, Otto
 Description:	Otto Ruhle delivered this speech to the German Reichstag on 25 October 1918. In it, he denounced the Kaiser, the German military, parliament, and -- prophetically -- the Social Democrats. Taken from https://www.marxists.org/archive/ruhle/1918/ruhle01.htm
 Date:		1918
 Posted:		2017-03-09
-Modified:	2017-07-05
+Atomdate:	2017-03-09T00:00:00Z
+Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom Feed">
 
 {{../files/article_header.txt}}
 

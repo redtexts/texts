@@ -3,9 +3,11 @@ Author:		Marx, Karl
 Description:	Marx is interviewed by R. Landor, a correspondent of the bourgeois New York World, just months after the slaughter of the Paris Commune. Taken from https://www.marxists.org/archive/marx/bio/media/marx/71_07_18.htm. This is apparently an abridged version of the interview; a full version can be found in Marx, K., Foner, P. S., and Landor, R. (1972). Two Neglected Interviews with Karl Marx. Science and Society, 3-28
 Date:		1871
 Posted:		2015-08-05
-Modified:	2017-02-27
+Atomdate:	2015-08-05T00:00:00Z
+Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom Feed">
 
 {{../files/article_header.txt}}
 

@@ -3,9 +3,11 @@ Author:		United Workers Party
 Description:	Written by "WT" (Wendelin Thomas) in the October 1935 (volume 1, issue 12) edition of International Council Correspondence, the journal of the United Workers Party, of which Paul Mattick, Sr., was a leading member. Many typos and mis-capitalizations have been corrected
 Date:		1935
 Posted:		2016-03-06
-Modified:	2016-07-31
+Atomdate:	2016-03-06T03:00:00Z
+Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom Feed">
 
 {{../files/article_header.txt}}
 

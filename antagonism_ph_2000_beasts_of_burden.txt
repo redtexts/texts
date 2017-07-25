@@ -3,9 +3,11 @@ Author:		Antagonism and Practical History
 Description:	Written by Antagonism and Practical History. Taken from https://libcom.org/library/beasts-burden-antagonism-practical-history, with the original version also available at Antagonism's website at http://www.oocities.org/capitolhill/lobby/3909/beasts/index.html
 Date:		1999
 Posted:		2017-03-10
-Modified:	2017-07-11
+Atomdate:	2017-03-10T00:00:00Z
+Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom Feed">
 
 {{../files/article_header.txt}}
 

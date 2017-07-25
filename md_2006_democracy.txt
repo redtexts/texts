@@ -3,9 +3,11 @@ Author:		Monsieur Dupont
 Description:	Available from many places online, this was written in 2006 by a former member of the UK group Subversion
 Date:		2006
 Posted:		2016-01-01
-Modified:	2017-07-15
+Atomdate:	2016-01-01T14:00:00Z
+Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom Feed">
 
 {{../files/article_header.txt}}
 

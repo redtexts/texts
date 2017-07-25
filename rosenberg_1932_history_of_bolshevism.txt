@@ -3,9 +3,11 @@ Author:		Rosenberg, Arthur
 Description:	Published in German in 1932 and English in 1934, this text was written by a figure on the very left of the German Communist Party (KPD). This basis for this edition of the text comes from https://www.marxists.org/archive/rosenberg/history-bolshevism/index.htm
 Date:		1932
 Posted:		2017-01-22
-Modified:	2017-07-15
+Atomdate:	2017-01-22T00:00:00Z
+Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom Feed">
 
 {{../files/article_header.txt}}
 

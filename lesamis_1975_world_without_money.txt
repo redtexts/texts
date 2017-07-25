@@ -3,9 +3,11 @@ Author:		Les Amis de 4 Millions de Jeunes Travailleurs
 Description:	This text was originally published in French in 1975-1976. It was translated to Spanish (parts I and II) and Portugeuse (part III), from which it was translated into English and posted online at https://libcom.org/library/world-without-money-communism-les-amis-de-4-millions-de-jeunes-travailleurs. Different translations of individual sections are also available on red texts
 Date:		1975-1976
 Posted:		2015-09-01
-Modified:	2017-07-15
+Atomdate:	2015-09-01T00:00:00Z
+Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom Feed">
 
 {{../files/article_header.txt}}
 

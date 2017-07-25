@@ -3,9 +3,11 @@ Author:		Robin Goodfellow
 Description:	A text produced by Robin Goodfellow, a group of authors writing primarily in French and formerly associated with the publication Communisme ou Civilisation. This text was posted online at http://www.robingoodfellow.info/pagesen/rubriques/meren.htm
 Date:		2013
 Posted:		2016-06-02
-Modified:	2017-07-15
+Atomdate:	2016-06-02T01:00:00Z
+Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom Feed">
 
 {{../files/article_header.txt}}
 

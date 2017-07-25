@@ -3,9 +3,11 @@ Author:		Gorter, Herman
 Description:	Apparently written in 1923 and published in English in Workers' Dreadnought in 1924. This red texts version is based on the MIA version, available at https://www.marxists.org/archive/gorter/1923/world-revolution.htm
 Date:		1923
 Posted:		2017-02-19
-Modified:	2017-07-07
+Atomdate:	2017-02-19T00:00:00Z
+Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom Feed">
 
 {{../files/article_header.txt}}
 

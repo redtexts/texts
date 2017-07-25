@@ -3,9 +3,11 @@ Author:		Internationalist Communist Tendency
 Description:	This document was written around 2009 by Jock for the International Bureau for the Revolutionary Party, now the Internationalist Communist Tendency, and can be found on their website at http://www.leftcom.org/en/articles/2009-07-01/the-italian-communist-left-a-brief-internationalist-history
 Date:		2009
 Posted:		2016-01-01
-Modified:	2017-04-10
+Atomdate:	2016-01-01T07:00:00Z
+Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom Feed">
 
 {{../files/article_header.txt}}
 

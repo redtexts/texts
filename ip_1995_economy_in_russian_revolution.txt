@@ -3,9 +3,11 @@ Author:		Internationalist Perspective
 Description:	Written by Rose in Internationalist Perspective 28. It was followed by a critical response by Sander. That issue is available at http://internationalistperspective.org/issue/
 Date:		1995
 Posted:		2016-12-16
-Modified:	2017-12-16
+Atomdate:	2016-12-16T00:00:00Z
+Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom Feed">
 
 {{../files/article_header.txt}}
 

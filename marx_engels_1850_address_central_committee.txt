@@ -3,9 +3,11 @@ Author:		Marx, Karl and Friedrich Engels
 Description:	Written in March of 1850, mere months before Marx gave up hope for an imminent revolution following the revolutions of 1848, the address describes the immediate tasks of the working class, first in tactical alliance with the bourgeois to destroy feudalism, then in outright class warfare with the bourgeoisie
 Date:		1850
 Posted:		2015-08-05
-Modified:	2017-07-15
+Atomdate:	2015-08-05T10:00:00Z
+Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom Feed">
 
 {{../files/article_header.txt}}
 
