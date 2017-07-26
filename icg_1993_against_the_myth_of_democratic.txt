@@ -3,11 +3,9 @@ Author:		Internationalist Communist Group
 Description:	Published in 1993 in issue 8 of Communism, the ICG's English-language review. Available in its original electronic form at http://gci-icg.org/english/communism8.htm#mythdemo
 Date:		1993		
 Posted:		2015-06-01
-Atomdate:	2015-06-01T00:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

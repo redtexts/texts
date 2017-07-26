@@ -3,11 +3,9 @@ Author:		Goldner, Loren
 Description:	A critical review of the Max Elbaum's "Revolution in the Air," a memoir by a participant in and champion of the U.S. New Left of the 60s and 70s. Taken, with some small corrections to punctuation, from http://breaktheirhaughtypower.org/review-revolution-in-the-air-by-max-elbaum/
 Date:		2003
 Posted:		2017-07-05
-Atomdate:	2017-07-05T00:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

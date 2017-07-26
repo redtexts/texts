@@ -3,11 +3,9 @@ Author:		American Fraction of the Left Communist International
 Description:	Written by D for the March-April 1949 issue of International Bulletin, the publication of the American Fraction of the Left Communist International. Punctuation errors in the text below were present in the original
 Date:		1949
 Posted:		2016-03-25
-Atomdate:	2016-03-25T00:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

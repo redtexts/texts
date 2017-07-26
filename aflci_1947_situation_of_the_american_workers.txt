@@ -3,11 +3,9 @@ Author:		American Fraction of the Left Communist International
 Description:	Anonymously written, (probably) in late 1947 or early 1948, for the first issue of International Bulletin. Only a few formatting corrections have been made to this red texts version. From a scanned PDF of the same, available at https://archive.org/details/InternationalBulletinNo1
 Date:		1947/1948
 Posted:		2017-02-19
-Atomdate:	2017-02-19T01:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

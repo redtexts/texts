@@ -3,11 +3,9 @@ Author:		Nicolaievsky, Boris and Otto Maenchen-Helfen
 Description:	Based on Archive.org's scan of the 1936 original British edition, available at https://archive.org/details/in.ernet.dli.2015.210638. The only intentional changes made to the original text are to indicate misspellings; to move English translations of German and French into the body of the text, rather than footnotes; and to exclude the index. It is believed that the original text is now in the public domain. This ebook is entered into the public domain
 Date:		1936
 Posted:		2015-08-01
-Atomdate:	2015-08-01T00:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

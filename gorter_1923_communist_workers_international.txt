@@ -3,11 +3,9 @@ Author:		Gorter, Herman
 Description:	This text was published in German in 1923. Supposedly poor English translations of sections 1, 2, 3, and 8 were published the Workers' Dreadnought in 1924. This translation, with an introduction by Carsten Juhl, was published as a pamphlet in London in 1977.
 Date:		1923
 Posted:		2017-05-26
-Atomdate:	2017-05-26T00:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

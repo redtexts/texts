@@ -3,11 +3,9 @@ Author:		American Fraction of the Left Communist International
 Description:	Written as an appeal to the Trotskyist group the Revolutionary Workers League, who published the letter, along with a fairly standard Trotskyist response, in the October 1937 issue of their publication 'The Fourth International.' Some typos have been fixed but a scan of this issue that can be found at https://archive.org/details/LCIvsRWL shows that the remaining errors below were present in the original text
 Date:		1937
 Posted:		2016-03-26
-Atomdate:	2016-03-26T00:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

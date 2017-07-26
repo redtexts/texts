@@ -3,11 +3,9 @@ Author:		Poor, the Bad and the Angry
 Description:	Taken from http://prole.info/texts/politicsofthefuture.html, but also published online, perhaps originally, at http://www.infoshop.org/myep/love1.html. Some sites credit this to Love and Treason, but the title makes it sound as if it was written by the Poor, the Bad and the Angry -- although the Poor, the Bad and the Angry seems to have been a journal that collected the writings of many groups. This text is almost identical to the text "Our Antipolitics," which we have also attributed to the Poor, the Bad and the Angry
 Date:		1990s?
 Posted:		2015-09-01
-Atomdate:	2015-09-01T02:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

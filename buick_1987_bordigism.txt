@@ -3,11 +3,9 @@ Author:		Buick, Adam
 Description:	Written as a chapter of the 1987 book 'Non-Market Socialism in the Nineteenth and Twentieth Centuries.' Buick is a member of the Socialist Party of Great Britain. This version is based on the original internet version, still available at http://www.oocities.org/capitolhill/lobby/3909/bordbuik.html
 Date:		1987
 Posted:		2016-03-15
-Atomdate:	2016-03-15T00:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

@@ -3,11 +3,9 @@ Author:		American Fraction of the Left Communist International
 Description:	Written by D.A. for the January-February 1949 issue of International Bulletin. This issue and others are available on archive.org. International Bulletin was a periodical put out by the so-called American Fraction of the Left Communist International. In this version we have cleaned up only minor punctuation and formatting issues. Any errors below are present in the original
 Date:		1949
 Posted:		2016-03-20
-Atomdate:	2016-03-20T01:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

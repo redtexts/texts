@@ -3,11 +3,9 @@ Author:		Gauche Communiste de France
 Description:	Written in French in October 1948 for Internationalisme 38. This version is based on a translation, with introduction and footnotes, that the ICC published in International Review 153, which can found on the ICC website at https://en.internationalism.org/internationalreview/2014/10329/september/international-review-2nd-semester-2014
 Date:		1947
 Posted:		2017-07-07
-Atomdate:	2017-07-07T00:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

@@ -3,11 +3,9 @@ Author:		Les Amis de 4 Millions de Jeunes Travailleurs
 Description:	A section of the book 'A World Without Money' ('Un Monde Sans Argent: Le Communisme'), written in French in 1975-1976 and originally translated and posted online at http://oocities.org/~johngray/monde603.htm. Another translation of this section, with slightly different wording, is also available on redtexts as part of the full 'A World Without Money'
 Date:		1975-1976
 Posted:		2016-01-01
-Atomdate:	2016-01-01T10:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

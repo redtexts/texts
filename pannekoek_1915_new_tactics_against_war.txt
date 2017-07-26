@@ -3,11 +3,9 @@ Author:		Pannekoek, Anton
 Description:	Published in English in 1915 in The New Review. Pannekoek argues that if in 1914 the working class was too weak to prevent the First Imperialist World War by way of revolution, it still could have and should have used revolutionary action rather than siding with the bourgeoisie in a war of "national defense." From https://www.marxists.org/archive/pannekoe/1915/02/new-tactics.htm
 Date:		1915
 Posted:		2017-06-29
-Atomdate:	2017-06-29T00:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

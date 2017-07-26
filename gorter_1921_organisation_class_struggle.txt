@@ -3,11 +3,9 @@ Author:		Gorter, Herman
 Description:	Published by the KAPD in Berlin in 1921. Translated by D. A. Smart for his book Pannekoek and Gorter's Marxism. Smart calls this text Gorter's "last major attempt to win the working class to left communist tactics." It is in some ways a clear exposition of the themes developed in Gorter's Open Letter to Comrade Lenin
 Date:		1921
 Posted:		2017-04-29
-Atomdate:	2017-04-29T00:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

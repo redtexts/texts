@@ -3,11 +3,9 @@ Author:		Against Sleep and Nightmare
 Description:	This text appeared as a box inside the article "Everything is True and Nothing is Permitted" in Against Sleep and Nightmare 6 (2000?), but mirrors almost exactly "Definitions and Resources" from Against Sleep and Nightmare 5 (1994?), both of which are available at http://www.againstsleepandnightmare.net/ASAN/welcome.html
 Date:		1994?
 Posted:		2017-03-12
-Atomdate:	2017-03-12T00:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

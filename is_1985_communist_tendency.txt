@@ -3,11 +3,9 @@ Author:		L'Insecurite Sociale
 Description:	Originally published on the Practical History website (http://www.oocities.org/pract_history/). They included a note that stated "this essay discusses the meaning of communism with examples from Pierre Clastres, Gerrard Winstanley and Moses Hess. It was written, we believe, by 'M', a member of the French-based communist group L'Insecurite Sociale in the early 1980s." The French original is available at http://www.geocities.ws/hemeis2003/IS_85.html#_Toc111977878 and indicates that this is a transcript of a presentation delivered in 1985
 Date:		1985
 Posted:		2016-01-01
-Atomdate:	2016-01-01T09:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

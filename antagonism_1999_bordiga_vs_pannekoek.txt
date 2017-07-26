@@ -3,11 +3,9 @@ Author:		Antagonism
 Description:	Antagonism notes this was written by "an anonymous collective" in 2000-2001. It consists of a bibliography and an introduction to two texts on the relationship between class and party. One text is by Anton Pannekoek of the German-Dutch communist left, the other is by Amadeo Bordiga of the Italian communist left. It was originally posted at http://www.oocities.org/capitolhill/lobby/3909/bordiga/bvptoc.html
 Date:		2000-2001
 Posted:		2016-01-01
-Atomdate:	2016-01-01T00:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

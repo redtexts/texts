@@ -3,11 +3,9 @@ Author:		Internationalist Perspective
 Description:	Written by Sander and Mac Intosh in October 2014 for Internationalist Perspective 60. Available online at http://internationalist-perspective.org/IP/ip-archive/ip-archive.html
 Date:		2014
 Posted:		2016-08-04
-Atomdate:	2016-08-04T01:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

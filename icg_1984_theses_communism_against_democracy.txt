@@ -3,11 +3,9 @@ Author:		Internationalist Communist Group
 Description:	Originally published online at the John Gray website (http://oocities.org/~johngray/gcitheses.htm) with a note that "these theses were first published in February 1984 in issue 19 of Le Communiste the french language journal of the Internationalist Communist Group. This translation has not been made by them"
 Date:		1984
 Posted:		2016-01-01
-Atomdate:	2016-01-01T03:01:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

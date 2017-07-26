@@ -3,11 +3,9 @@ Author:		Wildcat
 Description:	Further subtitled as a "Wildcat Discussion Text." The preface is of unspecified origin and date, but its mention of the intsdisctnet email list dates it as rather later than 1988. From http://wildcat.international/imperialism-discussion.html with some spelling fixes and formatting changes, mostly to the footnotes
 Date:		1988
 Posted:		2017-07-06
-Atomdate:	2017-07-06T00:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

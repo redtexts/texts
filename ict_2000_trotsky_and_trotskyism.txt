@@ -3,11 +3,9 @@ Author:		Internationalist Communist Tendency
 Description:	This is a pamphlet of the Internationalist Communist Tendency, available at their website at http://www.leftcom.org/en/articles/2000-10-01/trotsky-and-trotskysm. Slight fixes were made to typos and formatting
 Date:		2000
 Posted:		2016-02-01
-Atomdate:	2016-02-01T00:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

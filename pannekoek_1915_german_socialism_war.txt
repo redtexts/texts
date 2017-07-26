@@ -3,11 +3,9 @@ Author:		Pannekoek, Anton
 Description:	Published in International Socialist Review, vol. 15, no. 8, in February 1915. From Marxists Internet Archive at https://www.marxists.org/archive/pannekoe/1915/02/german-socialism.htm
 Date:		1915
 Posted:		2017-06-16
-Atomdate:	2017-06-16T01:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

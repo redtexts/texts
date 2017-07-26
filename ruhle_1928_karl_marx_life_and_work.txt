@@ -3,11 +3,9 @@ Author:		Rühle, Otto
 Description:	Published in German in 1928, in English in 1929. In contrast to other biographies, such as that of Nicolaievsky and Maenchen-Helfen, Rühle is more critical of Marx and more sympathetic to Bakunin, etc. The work is also marked by Rühle's interest in psychology. From https://www.marxists.org/archive/ruhle/1928/marx/index.htm and https://archive.org/details/in.ernet.dli.2015.58873
 Date:		1928
 Posted:		2017-03-23
-Atomdate:	2017-03-23T00:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

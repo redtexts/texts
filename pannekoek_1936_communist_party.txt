@@ -3,11 +3,9 @@ Author:		Pannekoek, Anton
 Description:	Published in the June 1936 issue of International Council Correspondence under the pseudonym J. Harper. From https://www.marxists.org/archive/pannekoe/1936/06/communist-party.htm. The errors present in the original published version and noted in the MIA version are retained here
 Date:		1936
 Posted:		2017-07-20
-Atomdate:	2017-07-20T00:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

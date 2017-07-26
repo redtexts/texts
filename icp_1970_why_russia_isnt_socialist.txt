@@ -3,11 +3,9 @@ Author:		International Communist Party
 Description:	Originally published in 1970 in Il Programma Comunista and later posted online at http://www.sinistra.net/lib/pro/whyrusnsoc.html. This version changes some of the original's formatting
 Date:		1970
 Posted:		2016-01-01
-Atomdate:	2016-01-01T05:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 

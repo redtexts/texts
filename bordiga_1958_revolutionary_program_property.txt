@@ -3,11 +3,9 @@ Author:		Bordiga, Amadeo
 Description:	Written by Bordiga as a member of the Partito Comunista Internazionale for publication in Il Programma Comunista no. 16, September 3-17, 1958. It was then translated into Spanish in 1981, and thence into English in 2013. Found in English at https://libcom.org/library/revolutionary-program-communist-society-eliminates-all-forms-ownership-land-instruments- Spanish available at http://sinistra.net/lib/upt/elproc/moqe/moqefkibus.html
 Date:		1958
 Posted:		2016-04-05
-Atomdate:	2016-04-05T01:00:00Z
 Modified:	2017-07-25
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="/files/atom.xml" type="application/atom+xml" rel="alternate" title="red texts atom feed">
 
 {{../files/article_header.txt}}
 
