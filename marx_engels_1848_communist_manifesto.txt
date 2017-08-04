@@ -3,7 +3,7 @@ Author:		Marx, Karl and Friedrich Engels
 Description:	Based on the 1888 English translation by Samuel Moore. From https://www.gutenberg.org/ebooks/61. Engels's preface to this edition, along with other prefaces to the Manifesto, can be found at https://www.marxists.org/archive/marx/works/1848/communist-manifesto/preface.htm
 Date:		1848
 Posted:		2017-07-08
-Modified:	2017-07-25
+Modified:	2017-08-03
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 

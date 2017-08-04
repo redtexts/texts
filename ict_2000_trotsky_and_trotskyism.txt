@@ -3,7 +3,7 @@ Author:		Internationalist Communist Tendency
 Description:	This is a pamphlet of the Internationalist Communist Tendency, available at their website at http://www.leftcom.org/en/articles/2000-10-01/trotsky-and-trotskysm. Slight fixes were made to typos and formatting
 Date:		2000
 Posted:		2016-02-01
-Modified:	2017-07-25
+Modified:	2017-08-03
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -575,8 +575,8 @@ I know very well how often you repeat that you are criticising Stalinism and fig
 
 In the message sent me from the recent convention of the SWP you write that Trotsky's ideas continue to be your guide. I must tell you that I read these words with great bitterness. As you observe from what I have written above, I do not see his ideas in your politics. I have confidence in these ideas. I remain convinced that the only way out of the present situation is the social revolution, the self-emancipation of the proletariat of the world.
 
-_-- Natalya Sedova Trotsky
-Mexico, D.F. 9 May 1951_
+-- Natalya Sedova Trotsky
+Mexico, D.F. 9 May 1951
 
 ## Appendix B: Trotsky and Trotskyism: the chronology (1879-1943)
 
