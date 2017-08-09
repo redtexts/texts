@@ -1,6 +1,6 @@
 Title:		Wage Labour and Capital
 Author:		Marx, Karl
-Description:	First delivered as a speech in 1847, then printed in 1849, and finally in 1891 revised by Engels for republication. Marx scholar Robert C. Tucker calls this document "the future argument of Capital in embryo." From https://www.marxists.org/archive/marx/works/1847/wage-labour/index.htm but without MIA's added notes. Note that the MIA version presumably comes from the Progress Publishers translation, and differs in some small respects from the versions in Tucker's Marx-Engels Reader and in volumes 9 and 27 of the Marx and Engels Collected Works
+Description:	First delivered as a speech in 1847, then printed in 1849, and finally in 1891 revised by Engels for republication. Marx scholar Robert C. Tucker calls this document "the future argument of Capital in embryo." From https://www.marxists.org/archive/marx/works/1847/wage-labour/index.htm but without MIA's added notes. Note that the MIA version presumably comes from the 1902 translation by Harriet E. Lothrop, available here https://archive.org/details/wagelaborcapital00marx, and differs in some small respects from the versions in Tucker's Marx-Engels Reader and in volumes 9 and 27 of the Marx and Engels Collected Works
 Date:		1847
 Posted:		2017-07-30
 Modified:	2017-07-30
@@ -73,13 +73,13 @@ But now, after our readers have seen the class struggle of the year 1848 develop
 
 We shall present the subject in three great divisions:
 
-* The Relation of Wage-labour to Capital, the Slavery of the Worker, the Rule of the Capitalist.
-* The Inevitable Ruin of the Middle Classes and the so-called Commons under the present system.
-* The Commercial Subjugation and Exploitation of the Bourgeois classes of the various European nations by the Despot of the World Market -- England.
+* The relation of wage-labour to capital, the slavery of the worker, the rule of the capitalist.
+* The inevitable ruin of the middle classes and the so-called commons under the present system.
+* The commercial subjugation and exploitation of the bourgeois classes of the various European nations by the despot of the world market -- England.
 
 We shall seek to portray this as simply and popularly as possible, and shall not presuppose a knowledge of even the most elementary notions of political economy. We wish to be understood by the workers. And, moreover, there prevails in Germany the most remarkable ignorance and confusion of ideas in regard to the simplest economic relations, from the patented defenders of existing conditions, down to the socialist wonder-workers and the unrecognized political geniuses, in which divided Germany is even richer than in duodecimo princelings. We therefore proceed to the consideration of the first problem.
 
-## What are wages? How are they determined?
+## What are wages?
 
 If several workmen were to be asked: "How much wages do you get?", one would reply, "I get two shillings a day", and so on. According to the different branches of industry in which they are employed, they would mention different sums of money that they receive from their respective employers for the completion of a certain task; for example, for weaving a yard of linen, or for setting a page of type. Despite the variety of their statements, they would all agree upon one point: that wages are the amount of money which the capitalist pays for a certain period of work or for a certain amount of work.
 
