@@ -3,7 +3,7 @@ Author:		Camatte, Jacques
 Description:	Published in 1969 in French. This English translation was found at http://www.oocities.org/~johngray/demyst.htm. This was intended to form part of a longer work, which explains the numbering found in the text. More publication details can be found on the original page, linked above
 Date:		1969
 Posted:		2016-01-01
-Modified:	2017-07-25
+Modified:	2017-08-10
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -11,7 +11,7 @@ HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.
 
 The proletariat's assault on the citadels of capital only has a chance of success on condition that the proletarian revolutionary movement finishes with democracy once and for all. Democracy is the last refuge of all disavowals and betrayals, because it is the first hope of those who believe in purifying and re-invigorating the current movement which is rotten to its core.
 
-5.1 The General historical phenomenon
+## 5.1. The General historical phenomenon
 
 >"Social life is essentially practical. All mysteries which misled theory into mysticism find their rational solution in human practice and in the comprehension of this practice." (Marx, Eighth thesis on Feuerbach)
 
