@@ -3,7 +3,7 @@ Author:		Goldner, Loren
 Description:	This red texts version is based on what is available on Goldner's website at http://breaktheirhaughtypower.org/communism-is-the-material-human-community-amadeo-bordiga-today/. It has been proofread against the text as it appears in the journal Critique, a PDF of which can be found at https://libcom.org/files/goldner1995(1).pdf
 Date:		1991
 Posted:		2017-08-15
-Modified:	2017-08-15
+Modified:	2017-08-17
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -173,6 +173,6 @@ Much information on Bordiga in his period of greatest mass influence is in the q
 
 37: Cf. the pamphlet of the French group Negation _LIP and the Self-Managed Counter-Revolution_ (English trans. by Black and Red, Detroit, 1975).
 
-38: Rita di Leo, I operaie e il sistema sovietcio_ (Bari, 1970), Ch. 1, provides a good discussion of the Soviet use of Vol. 1 of _Capital_ as a "manual" from which the categories of the planning process were developed. [Endnote 38 is not flagged in the body of the text -- red texts.]
+38: Rita di Leo, _I operaie e il sistema sovietcio_ (Bari, 1970), Ch. 1, provides a good discussion of the Soviet use of Vol. 1 of _Capital_ as a "manual" from which the categories of the planning process were developed. [Endnote 38 is not flagged in the body of the text -- red texts.]
 
 {{../files/footer.txt}}
