@@ -3,7 +3,7 @@ Author:		Goldner, Loren
 Description:	This red texts version is based on what is available on Goldner's website at http://breaktheirhaughtypower.org/communism-is-the-material-human-community-amadeo-bordiga-today/. It has been proofread against the text as it appears in the journal Critique, a PDF of which can be found at https://libcom.org/files/goldner1995(1).pdf
 Date:		1991
 Posted:		2017-08-15
-Modified:	2017-08-17
+Modified:	2017-08-27
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -87,7 +87,7 @@ We, in the West today, unlike the revolutionaries of 1910, live in a totally cap
 
 One objective of this article was to make the person and ideas of Bordiga better known in the English-speaking world. Unfortunately, many of the sources upon which the article draws were published only in Italian or French, by obscure left-wing publishers, many of which no longer exist. They are thus, aside from the writings of Bordiga himself, virtually impossible to obtain. Readers who wish to acquire the available writings of Bordiga, in various languages, can contact the Partito Comunista Internazionale, Via Mazzini 30, Schio, Italy.
 
-The important writings of Bordiga are as follows. _Struttura economica e sociale della Russia d'oggi_ (Edizioni il programma comunista, 1976) is his major work on the Russian economy. A large part of it was published in French under the title _Russie et révolution dans la théorie marxist_ (Ed. Spartacus, 1975). 
+The important writings of Bordiga are as follows. _Struttura economica e sociale della Russia d'oggi_ (Edizioni il programma comunista, 1976) is his major work on the Russian economy. A large part of it was published in French under the title _Russie et révolution dans la théorie marxist_ (Ed. Spartacus, 1975).
 
 This was followed by a complete translation, _Structure economique et sociale de la Russie d'aujourd'hui_ (Editions de l'oubli, 1976, 2 vols.) The _Storia della sinistra comunista_ (Ed. il programma comunista), the history of Bordiga's faction from 1912 to 1921, appeared in 3 successive volumes beginning in 1964. Shorter but fundamental theoretical statements are _Proprieta e capitale_ (Ed. Iskra, Florence 1980) and _Mai la merce sfamera l'uomo : la questione agraria e la teoria della rendita fondiaria secondo marx_ (Ed. Iskra, 1979) A French collection of some of Bordiga's shorter texts, including his commentaries of Marx's _1844 Manuscripts_, were edited with a preface by Jacques Camatte in _Bordiga et la passion du communisme_ (Ed. Spartacus, 1974).
 
@@ -105,9 +105,9 @@ Much information on Bordiga in his period of greatest mass influence is in the q
 
 3: A. Gershenkron. _Economic Backwardness in Historical Perspective_, (Boston, 1962).
 
-4: E. Preobrazhensky, _The New Economics_, (Oxford, 1965), Ch. II. 
+4: E. Preobrazhensky, _The New Economics_, (Oxford, 1965), Ch. II.
 
-5. Cf. bibliographical notes above. 
+5. Cf. bibliographical notes above.
 
 6. Ibid.
 
@@ -141,7 +141,7 @@ Much information on Bordiga in his period of greatest mass influence is in the q
 
 21: Cf. Bordiga, _Russie et révolution dans la théorie marxist_, pp. 226-297, for a discussion of the evolution of Marx's thought on the Russian commune and Russia's lost "historical chance" to skip the capitalist phase.
 
-22: On Marx's deep involvement with the problem of Russian agriculture in the last decade of his life, cf. Teodor Shanin's essay "Late Marx" in T. Shanin, ed. _Late Marx and the Russian Road_, New York, 1983. Also J. Camatte, _Bordiga et la révolution russe..._,pp. 15-23.
+22: On Marx's deep involvement with the problem of Russian agriculture in the last decade of his life, cf. Teodor Shanin's essay "Late Marx" in T. Shanin, ed. _Late Marx and the Russian Road_, New York, 1983. Also J. Camatte, _Bordiga et la révolution russe..._, pp. 15-23.
 
 23: Marx's letter of November 1877 is published in German in Maximilien Rubel, ed. _Marx-Engels: Die russische Kommune_ (1972), pp. 49-53. (Our translation in text).
 
