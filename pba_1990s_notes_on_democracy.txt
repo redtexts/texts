@@ -1,9 +1,9 @@
 Title:		Notes on Democracy
 Author:		Poor, the Bad and the Angry
 Description:	Originally published at http://www.againstsleepandnightmare.net/ANTICAPL/PBA/DEMO_NTS.html on the Against Sleep and Nightmare website, specifically in the subsection devoted to the Poor, the Bad and the Angry group/publication. I therefore attribute it to them
-Date:		1990s?
+Date:		1990s
 Posted:		2015-09-01
-Modified:	2017-07-25
+Modified:	2017-08-27
 CSS:		../files/style.css
 HTML Header:	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
