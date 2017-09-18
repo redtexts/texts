@@ -1,0 +1,18 @@
+These are the text files used to create and maintain a *red texts*
+mirror. To create your own archive, use the [redtext mirror
+tools](https://github.com/xatasan/rt-mirror).
+
+All files ending with `.md` (and only `.md`, hence the unusual
+extension for this README) within the root directory of this
+repository will be processed into texts for the archive. These are all
+written with [pandoc's
+markdown](http://pandoc.org/MANUAL.html#pandocs-markdown), as in
+comparison to Multimarkdown used on
+[redtexts.org](https://redtexts.org) (see
+[comparison](https://github.com/jgm/pandoc/wiki/Pandoc-vs-Multimarkdown)
+to understand pandoc's benefits). Metadata is stored using [YAML
+metadata
+blocks](http://pandoc.org/MANUAL.html#extension-yaml_metadata_block),
+usually placed at the beginning of a file. 
+
+Any contributions are welcome, from new texts to typo fixes.
