@@ -163,7 +163,7 @@ Nobody can be in any doubt about this.
 
 This also means that even if the majority of the proletariat were to organise itself in factory organisations, these weaknesses would still affect a large part of this majority. For a long time.
 
-What would --- and will -- be the consequences of this for the factory organisation and the section of the proletariat organised in it?
+What would -- and will -- be the consequences of this for the factory organisation and the section of the proletariat organised in it?
 
 This proletarian class condition will have many very harmful effects upon the factory organisation. Many dangers.
 
@@ -177,7 +177,7 @@ Secondly, there is a great danger of individualism in the factory organisations.
 
 A third danger also threatens, that of utopianism. The section of the proletariat that is organised in the union overestimates its power through being insufficiently acquainted with reality. Important sections of the work-force, the miners, imagine that they, by themselves, can achieve the revolution which in Western Europe and North America can only be achieved by the entire proletariat.
 
-And finally --- and this is the most powerful reason why factory organisations and union are not sufficient -- large sections of the proletariat are not sufficiently well-informed. They are not sufficiently acquainted with economics and politics, with national and international political and economic events, their connection with and significance for the revolution. They cannot be acquainted with these because of their class situation. Therefore, they do not know the right time to act. They act when they ought not to and do not act when they ought to. They will often make mistakes.
+And finally -- and this is the most powerful reason why factory organisations and union are not sufficient -- large sections of the proletariat are not sufficiently well-informed. They are not sufficiently acquainted with economics and politics, with national and international political and economic events, their connection with and significance for the revolution. They cannot be acquainted with these because of their class situation. Therefore, they do not know the right time to act. They act when they ought not to and do not act when they ought to. They will often make mistakes.
 
 All these weaknesses in the proletariat are consequences of its class situation. Our tactics _must_ reckon with them. If they do not do so, they will lead to the most terrible defeats.
 
@@ -392,24 +392,3 @@ Workers of Germany, England, Western Europe and North America, unite in the KAPD
 	The tactics of Russia are merely being aped, and what was correct in Russia is being imposed on Western Europe and North America.
 
 	With catastrophic results, of course. The German proletariat is already bleeding to death, parties like the VKPD are already being split by the Russian tactics, which have no basis in the reality of Western Europe.
-
-2: 
-
-3: 
-
-4: 
-
-5: 
-
-6: 
-
-7: 
-
-8: 
-
-9: 
-
-10: 
-
-11: 
-
