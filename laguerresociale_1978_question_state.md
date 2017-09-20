@@ -97,9 +97,9 @@ We are astonished by the things men believed of gods, as regulators of their exi
 
 The problem of the bourgeois revolution has always been to create a social contract, since it does not so much build a new economy -- the basis of which already exists -- as build a State which allows it to develop. It sets up a social organisation reuniting individuals who have been atomised, both by the dissolution of the old feudal social frameworks (Orders, corporations, estates and local interdependencies), and by the shitty capitalist mode of production, dominated by individual rivalry and competition.
 
-Hobbes, the theoretician of the English bourgeois revolution of the 16th century, considered that individualism and competition formed part of the fundamental traits of human psychology, absolute submission thus being in the interest of each individual. But this is a simple rationalisation of emergent bourgeois competition: "The desire which Hobbes first gives to man to subjugate one another is not reasonable. The idea of the empire and of domination is so composite, and depends on so many other ideas, that it would not be this which he would arrive at first" [(1)][notes].
+Hobbes, the theoretician of the English bourgeois revolution of the 16th century, considered that individualism and competition formed part of the fundamental traits of human psychology, absolute submission thus being in the interest of each individual. But this is a simple rationalisation of emergent bourgeois competition: "The desire which Hobbes first gives to man to subjugate one another is not reasonable. The idea of the empire and of domination is so composite, and depends on so many other ideas, that it would not be this which he would arrive at first"^[Montesquieu, _The Spirit of the Law_.].
 
-Political organisation is thus defined by a contract: Men must forego their social power in favour of the State: "Good social institutions are those which know how to pervert man, to remove his absolute existence to give him a relative one, and transport the ego into the common unity, in such a manner that each particular no longer thinks itself one, but a part of the unity, and no longer is perceptible except in the whole" [(2)][notes].
+Political organisation is thus defined by a contract: Men must forego their social power in favour of the State: "Good social institutions are those which know how to pervert man, to remove his absolute existence to give him a relative one, and transport the ego into the common unity, in such a manner that each particular no longer thinks itself one, but a part of the unity, and no longer is perceptible except in the whole"^[Rousseau, _The Social Contract_.].
 
 Tocqueville a century later feared the effects of what Rousseau wished: "Despotism seems to me particularly to be feared in democratic ages. In the centuries of equality, each individual is naturally isolated. He is easily set apart, and easily trampled underfoot" [(3)][notes]. The monarchists themselves affirmed that the loss of an hierarchic order would provoke an isolation of individuals such that only an implacable State would be able to reunite society. Burke, the English counter-revolutionary philosopher says of France in 1795: "The State is supreme. Everything is subordinated to the production of force." The counter-revolutionaries were however mistaken in believing that despotism would manifest itself as the deeds of dictators, when it has mainly assumed an impersonal countenance.
 
@@ -111,7 +111,7 @@ Since its origin, the State has not been merely the instrument of the domination
 
 The modern State fulfils the function of mediator all the more, as capitalism isolates individuals and deprives them of the means of life. Each individual is alienated from his activity and from the object of his activity, from the world which surrounds him and the individuals with whom he is in competition. The justification for, and the strength of the modern State lies in unifying this separation.
 
-Simple acts and relations become administrative acts or market relations. The worst of it is not that the State forbids and constrains, but that it is always there to perform elementary functions wherever advanced capitalism creates a problem. The State rises above mankind: "It gladly works for their happiness; but it wants to be for them the unique agent and sole arbitrator; it provides for their safety, foresees and secures their needs, facilitates their pleasures, directs their main business, directs their industry, regulates succession, divides inheritances; why can it not entirely take away from them the trouble of thinking and the pain of life" [(3)][notes]?
+Simple acts and relations become administrative acts or market relations. The worst of it is not that the State forbids and constrains, but that it is always there to perform elementary functions wherever advanced capitalism creates a problem. The State rises above mankind: "It gladly works for their happiness; but it wants to be for them the unique agent and sole arbitrator; it provides for their safety, foresees and secures their needs, facilitates their pleasures, directs their main business, directs their industry, regulates succession, divides inheritances; why can it not entirely take away from them the trouble of thinking and the pain of life"^[A. de Tocqueville, _Democracy in America_.]?
 
 It only oppresses because in doing this it acquires for itself power and because a whole series of formerly natural activities like providing heating, lighting or lending a helping hand in case of fire have become "public services". Social divisions are only made indispensable by the inability of people to satisfy their vital needs for themselves.
 
@@ -201,7 +201,7 @@ Wanting to "restore" Marx's thought in 1917, Lenin separated the revolution into
 
 The positions of Bernstein, Kautsky and Lenin are the models of all the variants which have been put forward since, and which are still expressed in the arguments within Stalinist and socialist parties and all the leftist groups. Today these positions have been fused to the point where it is impossible to disentangle them.
 
-For the Left, the State is always preferable to private capital, since it can influence the mechanisms of the State more easily than those of the private economy. Thus it will denounce the "bosses' stranglehold" in this or that sector, calling for the State alone to assume responsibility. It only reproaches the State for keeping out of things. For example, the Stalinist Elleinstein recognises the growing power of the State, but concludes that it must be democratised [(4)][notes]. Since the State has penetrated the whole of society, and thus social struggles also unfold within its bosom, he deduces that the State is no longer an apparatus to be fought against but rather a place to be occupied. It is no longer "the instrument of the ruling class" but a social space where, at all costs, we must intervene.
+For the Left, the State is always preferable to private capital, since it can influence the mechanisms of the State more easily than those of the private economy. Thus it will denounce the "bosses' stranglehold" in this or that sector, calling for the State alone to assume responsibility. It only reproaches the State for keeping out of things. For example, the Stalinist Elleinstein recognises the growing power of the State, but concludes that it must be democratised^[Elleinstein, _Le Parti communiste_.]. Since the State has penetrated the whole of society, and thus social struggles also unfold within its bosom, he deduces that the State is no longer an apparatus to be fought against but rather a place to be occupied. It is no longer "the instrument of the ruling class" but a social space where, at all costs, we must intervene.
 
 ## 13
 
@@ -219,7 +219,7 @@ The workers' movement has expected everything of the State and has remained the 
 
 Having defined capitalism as a process of ever more menacing "fascisation", and socialism as a democratic liberalisation, the left glorifies democracy, side-steps the critique of the State, and reduces the social problem to the purely political level. The question of social relations, of the nature of productive activity, of the content of life, is diluted in the demand for ever more numerous "rights": we must be allowed to do this, that and the other... But he who talks of "right" also talks of the power that grants it, limits it and punishes its non-observance. The idea of right implies that of duty: so it is also a multiplication of duties that is being demanded.
 
-So that we can be free, the State must more and more intervene in all aspects of life. Avowed totalitarianism and the democratic movement both become the champions of the State, the first that it may be strong, the second that it may protect us, which comes down to the same thing: "We can no more, alas! believe that in breaking Hitler and his regime we strike evil at its source. At the same time, we form plans for the post-war which would make the State responsible for all individual fates and which, would necessarily put into the hands of the Power means adequate to the immensity of its task" [(5)][notes].
+So that we can be free, the State must more and more intervene in all aspects of life. Avowed totalitarianism and the democratic movement both become the champions of the State, the first that it may be strong, the second that it may protect us, which comes down to the same thing: "We can no more, alas! believe that in breaking Hitler and his regime we strike evil at its source. At the same time, we form plans for the post-war which would make the State responsible for all individual fates and which, would necessarily put into the hands of the Power means adequate to the immensity of its task"^[Bertrand de Jouvenal, _On Power_.].
 
 It is the whole of society which capital wants to involve in the democratic totalitarianism of a society of illusory uniformity, each person being his or her own representative, obliged to conform to their particular interest, which itself conforms to the general interest.
 
@@ -229,11 +229,11 @@ The principle of democracy is to be able to leave initiative to individuals and 
 
 ## 15
 
-The programme of the left anticipates compensating for State power through mass organisations in which individuals are mobilised on the basis of their work, their home-life, their interests as consumers and users... De Gaulle's "participation" appeared paltry in 1968 in the face of the thoroughgoing democratic wave and the lyricism of self-management: "You can also see youths building their youth clubs, workers doing up their workplaces, adults setting up old people's homes, consumers conceiving and organising commercial zones" [(6)][notes]. That each might participate in the life of the city and of the nation, demand and militate for an expansion of the scope of their particular organisation: this is what changing life is all about!
+The programme of the left anticipates compensating for State power through mass organisations in which individuals are mobilised on the basis of their work, their home-life, their interests as consumers and users... De Gaulle's "participation" appeared paltry in 1968 in the face of the thoroughgoing democratic wave and the lyricism of self-management: "You can also see youths building their youth clubs, workers doing up their workplaces, adults setting up old people's homes, consumers conceiving and organising commercial zones"^[M. Ragon, _L'Architecte, le Prince et la Démocratie_.]. That each might participate in the life of the city and of the nation, demand and militate for an expansion of the scope of their particular organisation: this is what changing life is all about!
 
 It is here that the left is totalitarian, through this generalised participation, more than in the Russian Gulag or any other stew of the same flavour. The dictatorship of capital doesn't lie in the existence of the F.B.I. or the K.G.B. It lies in the attempt to give everyone an illusory power, to make them participate in making decisions which, have already been taken in any case, because they are inscribed in the logic of capital, now so omnipresent in material structures and human relations that it has also penetrated behaviour and mind.
 
-Words are employed to avoid a real questioning: it is a liberation in language, a surrogate for a real emancipation. Capital knows so well how to transform revolt into discourse. For of course this heap of shit lives off the aspirations for a social upheaval: "The explosion of May 1968 was realistic in the search for means which would allow the reintroduction of play, of heat, of life in the functioning of large organisations. All, even the communist party, the catholic church, felt the repercussions of May, which had disturbed their regular hum, perhaps opening in them the way to a happy transformation" [(7)][notes]. Capital, which overcomes everything which tends to destroy social revolution, still has the better of us: impotent revolution nourishes counter-revolution.
+Words are employed to avoid a real questioning: it is a liberation in language, a surrogate for a real emancipation. Capital knows so well how to transform revolt into discourse. For of course this heap of shit lives off the aspirations for a social upheaval: "The explosion of May 1968 was realistic in the search for means which would allow the reintroduction of play, of heat, of life in the functioning of large organisations. All, even the communist party, the catholic church, felt the repercussions of May, which had disturbed their regular hum, perhaps opening in them the way to a happy transformation"^[M. Duverger, _L'Autre côté des choses_.]. Capital, which overcomes everything which tends to destroy social revolution, still has the better of us: impotent revolution nourishes counter-revolution.
 
 Although it creates them itself, capital fears dictatorial forms, because it is then deprived of the active intervention of people in its functioning. Dictatorship tends to make wage labourers passive whilst democracy rests, in principle, on their capacity to actively reorganise at least a part of their activity.
 
@@ -267,7 +267,7 @@ The crisis of the State in the epoch of fascism was overcome by the all-embracin
 
 It is no longer a matter of liquidating the middle classes or troublesome workers organisations, but of resolving the growing contradiction between the ever increasing influence of the State and its continuing inability to solve social and economic problems: at the social level it isn't succeeding in creating a new organisation of life, purely capitalist and market oriented, unburdened by the old customs and institutions. Within the economy, the State, by its very nature blocks the free development of capitalist laws. It only softens the squeeze on profitability by aggravating it elsewhere.
 
-"We are witnessing a curious spectacle. Before our eyes are unfolding the preliminaries to communality" [(8)][notes]. The question of the appearance of communism -- of the destruction of the obstacles to its functioning -- is thus posed: the insoluble situation created by capitalism requires the transformation of human activity and of the whole of social life.
+"We are witnessing a curious spectacle. Before our eyes are unfolding the preliminaries to communality"^[Blanqui, "Le Communisme, avenir de la société", in _La Critique sociale_.]. The question of the appearance of communism -- of the destruction of the obstacles to its functioning -- is thus posed: the insoluble situation created by capitalism requires the transformation of human activity and of the whole of social life.
 
 ## 18
 
@@ -285,7 +285,7 @@ Paradoxically, the current most set against the State argues that in Spain in 19
 
 ## 19
 
-In spite of its critique of anarchism on the economic level, where it tries to define communism as going beyond the law of value, councillism retains divisions in its administrative and territorial vision: "the anarcho-syndicalists recognise the necessity for planning economic life and think that this is unrealisable without a centralisation of accounting implying a statistical census of productive factors and social needs. However, they omit to give an effective base to this statistical necessity" [(9)][notes].
+In spite of its critique of anarchism on the economic level, where it tries to define communism as going beyond the law of value, councillism retains divisions in its administrative and territorial vision: "the anarcho-syndicalists recognise the necessity for planning economic life and think that this is unrealisable without a centralisation of accounting implying a statistical census of productive factors and social needs. However, they omit to give an effective base to this statistical necessity"^[Helmut Wagner "Anarchism and the Spanish Revolution", in _International Council Correspondence_, Vol III Nos 5&6, June 1937.].
 
 The conscious calculation of the average labour time socially necessary to the production of goods, and the democratic system of councils, both have as their objective the management of a particular zone, to organise factories, associated groups of producers and their mutual association.
 
@@ -309,7 +309,7 @@ On the contrary, it is in order to realise their human needs that the proletaria
 
 In a division of labour which is freely consented to and ruled by the members of society, no-one has an exclusive sphere of activity, but can perfect himself in whatever field he chooses. Society regulates general production, which creates for me the possibility of doing today one thing tomorrow another, fishing in the morning, offset printing in the afternoon, carpentry in the evening, writing criticism after dinner, according to my own convenience, without ever becoming a fisherman, printer, carpenter, or critic.
 
-The relationship with nature is itself changed, and man can at last emerge from the stunted deformity of his faculties and all the other industrial pathologies inseparable from our class societies. "In the civilised order in which work is repugnant, in which the people are too poor to have a share in the consumption of delicacies, and in which the gastronome is not a cultivator his gluttony lacks a direct link with nature; it is only simple and ignoble sensuality, as with all who do not attain the composite process, or the influence of production and consumption acting on the same individual" [(10)][notes].
+The relationship with nature is itself changed, and man can at last emerge from the stunted deformity of his faculties and all the other industrial pathologies inseparable from our class societies. "In the civilised order in which work is repugnant, in which the people are too poor to have a share in the consumption of delicacies, and in which the gastronome is not a cultivator his gluttony lacks a direct link with nature; it is only simple and ignoble sensuality, as with all who do not attain the composite process, or the influence of production and consumption acting on the same individual"^[Fourier, _Théorie de l'Unité universelle_.].
 
 The State has no place in a world where gluttony is in composite form.
 
@@ -354,26 +354,3 @@ It is in effect impossible to destroy the State first and only then transform so
 No new life will start on the margins of the State, for in making a rupture with capitalism, it will clash violently with the State. There is not on the one hand the problem of a "new way of living" and on the other "the question of the State". The destruction of the State, and principally of its armed force, is not a means at the service of some end external to it. The revolution is also a different way of going about things in its military aspects.
 
 The revolution does not want "power" but it needs to be able to carry out its measures, without which it would once again be mere ideology, "the phrase outflanking the content". It therefore has no fear of appointing for itself authorities and officials: these will only become a new power if the members of this society do not appropriate their own conditions of existence. All authority is not statist. The communist revolution is a "dictatorship" in so far as it imposes itself on a part of society, but a dictatorship which only succeeds by pushing towards everybody's realisation of practical human activity, and which stakes its destiny on that.
-
-## Notes
-
-1: Montesquieu, _The Spirit of the Law_.
-
-2: Rousseau, _The Social Contract_.
-
-3: A. de Tocqueville, _Democracy in America_.
-
-4: Elleinstein, _Le Parti communiste_.
-
-5: Bertrand de Jouvenal, _On Power_.
-
-6: M. Ragon, _L'Architecte, le Prince et la Démocratie_.
-
-7: M. Duverger, _L'Autre côté des choses_.
-
-8: Blanqui, "Le Communisme, avenir de la société", in _La Critique sociale_.
-
-9: Helmut Wagner "Anarchism and the Spanish Revolution", in _International Council Correspondence_, Vol III Nos 5&6, June 1937.
-
-10: Fourier, _Théorie de l'Unité universelle_.
-

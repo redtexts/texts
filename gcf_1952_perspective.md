@@ -13,7 +13,7 @@ What is particularly important to point out is that the perspective contained in
 
 For this reason, and in the somber atmosphere of the cold war between the USA and the USSR, _Internationalisme_ only saw the possibility of a proletarian resurgence during and after a third world war. Today there are still revolutionaries who share this view. However, the crisis which has of necessity followed the period of reconstruction -- which saw many mystifications begin to wear out -- has led to a renewal of working class struggle; despite the aggravation of its internal contradictions, this forces world capitalism to deal first and foremost with its class enemy.
 
-If the perspective of an inevitable third world war was understandable in the context of the 1950's, and based on a real possibility, we have no reason to maintain this perspective today. Capitalism can still use local wars as a temporary outlet for its contradictions and antagonisms but it can't launch a generalized war as long as it hasn't succeeded in immobilizing the proletariat. Our perspective today looks to a major class confrontation, and this is what we must be preparing ourselves for. Nothing indicates that we should predict an unfavorable outcome to this confrontation. With all their struggle, revolutionaries must work and hope for the victory of their class [(1)][notes].
+If the perspective of an inevitable third world war was understandable in the context of the 1950's, and based on a real possibility, we have no reason to maintain this perspective today. Capitalism can still use local wars as a temporary outlet for its contradictions and antagonisms but it can't launch a generalized war as long as it hasn't succeeded in immobilizing the proletariat. Our perspective today looks to a major class confrontation, and this is what we must be preparing ourselves for. Nothing indicates that we should predict an unfavorable outcome to this confrontation. With all their struggle, revolutionaries must work and hope for the victory of their class^[Extract from the introduction to the republication of the text in the _Bulletin d'études et de discussion_ of _Révolution Internationale_, no. 8, July 1974. [ICC note.]].
 
 ## GCF introduction
 
@@ -95,7 +95,7 @@ The theorem that Grossman's theory must demonstrate, then, would be the followin
 
 ### Rosa Luxemburg's theory of accumulation
 
-As with the preceding theories we will only give a very incomplete summary of Rosa's thesis [(2)][notes]. As is known, Rosa Luxemburg concluded, after profound study of the Marxist schemas of reproduction, that the capitalists could not realize all their surplus value on their own market. In order to continue accumulating, the capitalists were compelled to sell a part of their commodities in the extra-capitalist milieux: producers owning their own means of production (artisans, peasants, colonies or semi-colonies). It was the existence of these extra-capitalist milieux which determined the rhythm of capitalist accumulation. This extra-capitalist milieux was shrinking and capitalism was plunging into crisis. The different sectors of world capitalism were fighting each other over the exploitation of these extra-capitalist regions.
+As with the preceding theories we will only give a very incomplete summary of Rosa's thesis^[This summary has been done by Lucien Laurat (_L'Accumulation du Capital d'après Rosa Luxembourg_, Paris 1930). See also J. Buret _Le Marxisme et les Crises_, Paris 1933; Léon Sarbre _La Théorie Marxiste des Crises_, 1934 - and that's the whole French language bibliography on the subject.]. As is known, Rosa Luxemburg concluded, after profound study of the Marxist schemas of reproduction, that the capitalists could not realize all their surplus value on their own market. In order to continue accumulating, the capitalists were compelled to sell a part of their commodities in the extra-capitalist milieux: producers owning their own means of production (artisans, peasants, colonies or semi-colonies). It was the existence of these extra-capitalist milieux which determined the rhythm of capitalist accumulation. This extra-capitalist milieux was shrinking and capitalism was plunging into crisis. The different sectors of world capitalism were fighting each other over the exploitation of these extra-capitalist regions.
 
 The disappearance of extra-capitalist markets was thus leading to a permanent crisis of capitalism. Rosa Luxemburg also showed that this crisis was opening up well before this disappearance had become absolute. In order to compensate for the disappearance of these markets, capitalism was developing a parasitic form of production, by its very nature unproductive: the production of the means of destruction. The decadent character of capitalism was confirmed by the fact that it was becoming incapable of maintaining the production of social values (objects of consumption). War became capitalism's way of life: wars between states or coalitions of states in which each one tries to survive by pillaging or subjugating its victims. Whereas in previous periods war led to the expansion of production in one or other of the protagonists, it now led, in varying degrees, to the ruin of both. This ruin was expressed both by the fall in the living standards of the population and by the increasingly unproductive character (in terms of value) of production.
 
@@ -197,7 +197,7 @@ The state maintains the forms of workers' organizations (the trade unions) the b
 
 ## Agrarian reform and the organization of distribution: the co-operatives
 
-In order to obtain the maximum output from labor in the best conditions, state capitalism has to organize and centralize agricultural production and cut down on parasitism at the level of distribution. The same goes for the artisan sectors. These different branches are grouped together in cooperatives whose aim is to eliminate commercial capital, reduce the distance between production and consumption, and integrate agricultural production into the state [(3)][notes].
+In order to obtain the maximum output from labor in the best conditions, state capitalism has to organize and centralize agricultural production and cut down on parasitism at the level of distribution. The same goes for the artisan sectors. These different branches are grouped together in cooperatives whose aim is to eliminate commercial capital, reduce the distance between production and consumption, and integrate agricultural production into the state^[Our comrade Morel has given an expose on this question, which can be found in _Internationalisme_ no. 43.].
 
 ## Social security
 
@@ -238,12 +238,3 @@ Up to this point, the proletariat cannot affirm itself as a historic class with 
 In the present conditions of capital, generalized war is inevitable. But this doesn't mean that the revolution is inevitable, and still less the victory of the revolution. The revolution only represents one pole of the alternative which historical development has set before humanity. If the proletariat doesn't achieve a socialist consciousness, the course will be opened to the kind of barbarism of which we can see some aspects today.
 
 May 1952
-
-## Notes
-
-1: Extract from the introduction to the republication of the text in the _Bulletin d'études et de discussion_ of _Révolution Internationale_, no. 8, July 1974. [ICC note.]
-
-2: This summary has been done by Lucien Laurat (_L'Accumulation du Capital d'après Rosa Luxembourg_, Paris 1930). See also J. Buret _Le Marxisme et les Crises_, Paris 1933; Léon Sarbre _La Théorie Marxiste des Crises_, 1934 - and that's the whole French language bibliography on the subject.
-
-3: Our comrade Morel has given an expose on this question, which can be found in _Internationalisme_ no. 43.
-

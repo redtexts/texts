@@ -71,7 +71,7 @@ A KPD Zentrale in the superlative.
 
 ## VI
 
-There is no possibility of realising for a second time in Germany the Ludendorff system [(1)][notes], even were it to be in the uniform of Bolshevism.
+There is no possibility of realising for a second time in Germany the Ludendorff system^[An allusion to the strict form of state mobilisation of society in Germany during the First World War, presided over by General Erich von Ludendorff. It was often known as "War Socialism." -- MIA], even were it to be in the uniform of Bolshevism.
 
 The Russian methods of revolution and socialism is out of the question for Germany, for the German proletariat.
 
@@ -82,8 +82,3 @@ Therefore we want -- are able -- ought to have nothing in common with an Interna
 We must preserve our complete freedom and independence.
 
 The German proletariat will make its German revolution, like the Russian proletariat has made the Russian revolution. It has arrived later at the revolution. It has to struggle harder. Because of that it will arrive earlier and more surely at communism.
-
-## Notes
-
-1: An allusion to the strict form of state mobilisation of society in Germany during the First World War, presided over by General Erich von Ludendorff. It was often known as "War Socialism." -- MIA
-

@@ -12,16 +12,6 @@ Translated by Hugh McMillan.
 
 To the foremost fighter of the world's proletariat, Vladimir Ulianoff (Lenin)
 
-## Contents
-
-[Errata][]  
-[Foreword][]  
-[Chapter 1: The Need for a World Revolution][]  
-[Chapter 2: No Other Way out for the World's Proletariat][]  
-[Chapter 3: The Feasability of the Revolution][]  
-[Chapter 4: The Example of the Russian Revolution][]  
-[Chapter 5: Summing up][]
-
 ## Errata
 
 * Page 42, line 9. -- For "reconstruct" read "defend."
@@ -120,7 +110,7 @@ The question arises: Is that exactly true? Or is it simply a contention? Perhaps
 
 Now let us examine this for a moment. Because if the Imperialism of one power be more dangerous to the international proletariat than the Imperialism of another, then the proletariat ought to desire the defeat of the first and oppose it with all its strength. Then could the welfare of the proletariat be ensured by the victory of one. Then would the revolution perhaps be almost impossible or unnecessary.
 
-In order to ascertain clearly whether the victory of one Imperialism would bring greater disadvantage to the working class than other, we must picture to ourselves what would be the result of a complete victory of the one, and then of the other [(1)][notes].
+In order to ascertain clearly whether the victory of one Imperialism would bring greater disadvantage to the working class than other, we must picture to ourselves what would be the result of a complete victory of the one, and then of the other^[In order to know how a thing operates we must examine it scientifically. We must do this here with both Imperialisms, and therefore must regard both as in possession of full power.].
 
 If Germany is victorious that means that she can impose her own conditions. She will hold Belgium in her power; she will seize a still larger part of the coal-mining district of France; she will retain possession of Lithuania, Esthonia, Livonia, Courland, and Poland, and perhaps Finland. She will make Serbia, Albania, Montenegro and Rumania, and perhaps Greece, into dependencies of Austria. She will give Turkey territory up to the Persian Gulf. She will split Russia up into parts, making them German dependencies. She will rule the Balkans and Turkey; she will force France and Italy into an alliance with her; she will take back her Colonies, and some of the Colonies of the others.
 
@@ -180,7 +170,7 @@ But the United States, England and Japan, do not trust one another, and apart fr
 
 There are always powerful coalitions to be feared, and people begin immediately to prepare for the new world war.
 
-And this is the "League of Nations" and the "world peace" of the United States and England, for which President Wilson, Asquith and Lloyd George made so much propaganda; and in which Germany, as soon as she became democratised will also have a place! And for this purpose they want the self-determination of the peoples of Europe (but not of those of Asia nor of Africa) -- the self-determination that those peoples make who are not strong but weak; and which merely serves to prevent strong Coalitions under Germany's leadership, and enables them to rule Europe themselves [(2)][notes].
+And this is the "League of Nations" and the "world peace" of the United States and England, for which President Wilson, Asquith and Lloyd George made so much propaganda; and in which Germany, as soon as she became democratised will also have a place! And for this purpose they want the self-determination of the peoples of Europe (but not of those of Asia nor of Africa) -- the self-determination that those peoples make who are not strong but weak; and which merely serves to prevent strong Coalitions under Germany's leadership, and enables them to rule Europe themselves[^note-2].
 
 It is true, then, that the German spirit of naked brutality will not rule. German Imperialism has become powerless.
 
@@ -324,7 +314,7 @@ These three giants rise out of the struggle of all Capitalist nations.
 
 And two of them, England -- and by this name we mean the British World Empire, England with her Colonies and dominions -- and the United States have combined, perhaps for a long time, perhaps for a short time, perhaps for ever, in order to strive for the domination of the world.
 
-And as in the economic struggle, the most powerful syndicates ultimately absorb the smaller companies, so also these three great powers unite all the lesser ones in two groups in order to carry on the world struggle [(3)][notes].
+And as in the economic struggle, the most powerful syndicates ultimately absorb the smaller companies, so also these three great powers unite all the lesser ones in two groups in order to carry on the world struggle^[With the intention of making the problem of the world war and disarmament perfectly clear, we have tried to simplify the struggle by confining it to the three greatest nations. As a matter of fact, the struggle is much more complex: it embraces all the nations of the world; and on that account the settlement of the problem by peaceful means makes it still more impossible. In the pamphlet, "Imperialism, the World War and Social Democracy" (pages 119-142) we have made this perfectly clear. There also we have shown the economic causes that make a world peace and a League of Nations impossible. If in the future England and the United States should become separated that would not alter the fact that we are now subject to World-Imperialism. Each of these States would then try to obtain world domination; each would set about forming new groups and would arrange new alliances (for example, say with Germany or Japan). They would then do just as they are doing now.].
 
 The development of Capitalism has reached its highest point. Only a few gladiators remain in the arena.
 
@@ -610,7 +600,7 @@ Capitalism itself has developed the necessary basis for the victory.
 
 How different everything has turned out from what our great master, Marx, expected. Just as he had underestimated the power of Capitalism to expand into monopoly and Imperialism, so had he underestimated the mental, moral and material power that the workers would have to use in order to destroy Capitalism. Neither did he see the new causes of war.
 
-He believed that Capitalism would break down through an economic crisis, and be displaced by the proletariat. Indeed, capital in its spread over the world does come up against political obstacles [(4)][notes], which it will only be able to overcome by curtailing its own power. This will bring frightful sufferings to the workers, and these will lead to the revolution -- to the overthrow of Capitalism.
+He believed that Capitalism would break down through an economic crisis, and be displaced by the proletariat. Indeed, capital in its spread over the world does come up against political obstacles^[Really through economic causes, through over-production of capital and the existence of rich countries with weak populations to which capital is exported, forcing colonial or imperial politics and so dragging them into war.], which it will only be able to overcome by curtailing its own power. This will bring frightful sufferings to the workers, and these will lead to the revolution -- to the overthrow of Capitalism.
 
 Everything is now at hand and in alphabetical order that is necessary for the revolution. There are many things here which make the revolution feasible. Men and means -- material and spritual [sic] power for its realisation, and the hunger need, the first and greatest -- indeed, the one and only maker of revolution -- are here.
 
@@ -638,13 +628,13 @@ In speaking about the feasibility of the revolution, we would remark that there 
 
 In all countries the revolutionary proletariat must rise against their own Governments, and demand and enforce immediate peace. Secondly, they must have an international understanding, and to have this they must establish a new International.
 
-If the representatives of the revolutionary workers in all countries could meet together, and call a general strike in the munition factories, and demand that the soldiers cease fighting [(5)][notes] against the external enemy -- then, indeed, the revolution would be an accomplished fact.
+If the representatives of the revolutionary workers in all countries could meet together, and call a general strike in the munition factories, and demand that the soldiers cease fighting^[This was done in 1917 by the Zimmerwaldians in Stockholm.] against the external enemy -- then, indeed, the revolution would be an accomplished fact.
 
 When we speak of the World Revolution, though we mean all countries in the world, we have England and Germany especially in mind, for there the material conditions are most ripe for Socialism. In other countries the revolution will break out and conquer; but it is certain if the revolution in England and Germany wins, the victory will be made easier for the rest of the world.
 
 And, thirdly, it should be said here that we do not prophecy the duration of the revolution or its character; for it is possible that the fight which Socialism will have to wage against Capitalism, Militarism, and Imperialism, may last for years. It is also possible that Socialism may win speedily. The power of the contending classes is great, and the incentive strong; but as to the duration of the fight we will say nothing, simply calling the whole struggle the revolution. As to the method of the revolution there is nothing positive to say.
 
-Karl Marx presumed it possible for the revolution to take place without force in England. Who does not heartily wish this could be so everywhere? Who would not hope that an end could be put to all strife and suffering without the spilling of a drop of blood? But in all countries, England included, the opposing classes are armed, and a forcible revolution seems inevitable everywhere [(6)][notes].
+Karl Marx presumed it possible for the revolution to take place without force in England. Who does not heartily wish this could be so everywhere? Who would not hope that an end could be put to all strife and suffering without the spilling of a drop of blood? But in all countries, England included, the opposing classes are armed, and a forcible revolution seems inevitable everywhere^[However, if the English proletariat wished, and rose like one man in revolt, it would at least be possible to establish the Revolution without a long or bitter struggle.].
 
 We speak, then, of the revolution in a general sense, including peaceable and forcible methods, of long or short duration, during or after the war.
 
@@ -732,7 +722,7 @@ Men like Scheidemann, Legien, Henderson, Vandervelde, Thomas, Turati, Kautsky, w
 
 For Capitalism there is only one way -- the way of increased exploitation.
 
-The new surplus wealth can have only one source -- the already over-burdened workers. They will be urged, indeed forced, to toil harder than ever before [(7)][notes]. They will be inadequately paid; the soldiers who remain in the armies will be also underpaid, and the unemployed will starve. All will be heavily burdened with taxation.
+The new surplus wealth can have only one source -- the already over-burdened workers. They will be urged, indeed forced, to toil harder than ever before^[For example, through the Taylor system and other speeding-up methods camouflaged as "welfare" systems.]. They will be inadequately paid; the soldiers who remain in the armies will be also underpaid, and the unemployed will starve. All will be heavily burdened with taxation.
 
 By what means can the Capitalists enforce their will on the workers? By the State.
 
@@ -744,7 +734,7 @@ It will regulate production in the interests of Capitalism.
 
 It will retain conscription.
 
-It will take industry under its protection -- making the proletariat State workers, industrial soldiers. It will turn them into slaves of the companies, syndicates and trusts. The State will be a house of correction. State Socialism will be introduced in the interests of Capitalism, in which State Capitalism will be all-powerful, and the workers reduced to complete slavery [(8)][notes].
+It will take industry under its protection -- making the proletariat State workers, industrial soldiers. It will turn them into slaves of the companies, syndicates and trusts. The State will be a house of correction. State Socialism will be introduced in the interests of Capitalism, in which State Capitalism will be all-powerful, and the workers reduced to complete slavery^[By State Socialism we understand a system of society in which the State operates many businesses for the Capitalists, and protects the Capitalists by laws and regulations against the workers.].
 
 The State will become the most relentless of exploiters; the strike will be made impossible.
 
@@ -802,7 +792,7 @@ The Revolution could only be won by the Bolsheviks with the aid of the poor peas
 
 England and Germany have a preponderance of industrial workers. The Russian Revolution serves as an example to Western Europe. It is a symbol, a teacher, a forerunner. It has shown the way. It has drawn up a programme that the proletariat of Western Europe must adopt as their own.
 
-In the second place, we might say that the Revolutions in the Ukraine and Finland were only partly destroyed because the Western European workers did not rise. If they had risen, then the Socialist Soviet would still be standing there victorious [(9)][notes].
+In the second place, we might say that the Revolutions in the Ukraine and Finland were only partly destroyed because the Western European workers did not rise. If they had risen, then the Socialist Soviet would still be standing there victorious^[In the fourth chapter we will deal more extensively with the difference between the Russian and the Western European Revolutions.].
 
 But the Western workers will revolt during or after the war, and with the help of the Russian proletariat will achieve complete victory. But it may be objected that real revolutionaries amongst the Western proletariat are very few in number, and therefore will not be able to win. Again, let us turn to Russia. The Maximalists there during the war and before the Revolution were in a minority. Famine conditions converted them into a majority. The same causes will operate to bring" about the same result in other countries.
 
@@ -913,7 +903,7 @@ In order that they may benefit by the example of the Russian proletariat in its 
 
 The Russian Revolution is, for the European and American workers, who have it still before them, a splendid and clear example. This example is itself the result of the development of Imperialism, from which the West European workers can learn how they have to act, how they can attain unity and win the victory.
 
-We will deal with the Russian Revolution in order that the proletariat may see how far it can follow the same path, and where it must take its own course [(10)][notes].
+We will deal with the Russian Revolution in order that the proletariat may see how far it can follow the same path, and where it must take its own course^[The Russian Revolution is the first revolution to be undertaken by Marxists, and in accordance with the Marxican [sic] theory. The teachings of the Anarchist, the syndicalist, the Reformist, and the pseudo-Marxist (e.g., Kautsky), were proved in the Revolution to be useless.].
 
 The Russian industrial proletariat is very small in proportion to the whole population of the gigantic Empire.
 
@@ -951,7 +941,7 @@ They gave the right to vote and the right to be elected only to proletarians and
 
 They divided Russia into districts, whose Workers' Councils (Soviets) elected the District Workers' Councils. These District Workers' Councils elected the Central Council [of?] the Empire, and the congress of the Councils elected the Executive Committee.
 
-All members of the Local, District, and Central Councils, and also all officials and employees, are elected for a short period only, and are always liable to be called to account for their actions [(11)][notes].
+All members of the Local, District, and Central Councils, and also all officials and employees, are elected for a short period only, and are always liable to be called to account for their actions^[This is to prevent the formation of a new bureaucracy, or a new independent power, being raised above the workers.].
 
 As in general all officials have a low salary, and as all the Councils have to meet regularly and often, there will be formed a flexible body as the first Socialist Government in the world.
 
@@ -1275,55 +1265,33 @@ Already we see the International Workers' Council, the forerunner of the new, fr
 
 THE END.
 
-## Notes
+[^note-2]: This problem is a most serious one, and it is fraught with great danger. The national proletariat who are led by the Reformists trust the Liberals and Democrats, and the international proletariat trust the Imperialism of the Great citizen democracies.
 
-1: In order to know how a thing operates we must examine it scientifically. We must do this here with both Imperialisms, and therefore must regard both as in possession of full power.
+	And so long as this trust continues, so long as the French, English, American, Belgian, etc., workers believe that the English-American Imperialism is one whit better than the German; so long will there be no unity of the proletariats, no new International, and no enthusiastic fight by the world proletariat for the world revolution.
 
-2: This problem is a most serious one, and it is fraught with great danger. The national proletariat who are led by the Reformists trust the Liberals and Democrats, and the international proletariat trust the Imperialism of the Great citizen democracies.
+	Therefore another word or two about this.
 
-And so long as this trust continues, so long as the French, English, American, Belgian, etc., workers believe that the English-American Imperialism is one whit better than the German; so long will there be no unity of the proletariats, no new International, and no enthusiastic fight by the world proletariat for the world revolution.
+	Wilson's aim: the independence and self-determination of all European nations and a League of Nations, is impossible. For the interests of all those nations are different; and there are some strong ones and some weak ones among them. This must, under Capitalism (divided into national Capitalisms as it still is) lead to dictation and oppression.
 
-Therefore another word or two about this.
+	It cannot be otherwise.
 
-Wilson's aim: the independence and self-determination of all European nations and a League of Nations, is impossible. For the interests of all those nations are different; and there are some strong ones and some weak ones among them. This must, under Capitalism (divided into national Capitalisms as it still is) lead to dictation and oppression.
+	It is extremely hypocritical on the part of England and America, after destroying the power of Germany, to grant independence to all European nations. For the interests of England and America make it necessary that no single Power on the Continent shall grow strong. Therefore this independence is only an appearance. It is merely a means to gain their end, and that is to make the European nations political and economic vassals of both Anglo-Saxon nations.
 
-It cannot be otherwise.
+	The truth is this: there can be no independence under Imperialism. Should Germany win there would be set up a League of Nations in which the nations would not be independent, but simply subjects of Germany. Should the Allies win they would set up a League of Nations in which all would be weak except England and America; and their weakness would force them to submit to these two.
 
-It is extremely hypocritical on the part of England and America, after destroying the power of Germany, to grant independence to all European nations. For the interests of England and America make it necessary that no single Power on the Continent shall grow strong. Therefore this independence is only an appearance. It is merely a means to gain their end, and that is to make the European nations political and economic vassals of both Anglo-Saxon nations.
+	The aim of both Imperialisms is the same: the subjection of the nations, command of the world, world-power, world-domination.
 
-The truth is this: there can be no independence under Imperialism. Should Germany win there would be set up a League of Nations in which the nations would not be independent, but simply subjects of Germany. Should the Allies win they would set up a League of Nations in which all would be weak except England and America; and their weakness would force them to submit to these two.
+	Germany murders independence openly and cruelly; England and America allow it to exist in appearance, but kill it in reality.
 
-The aim of both Imperialisms is the same: the subjection of the nations, command of the world, world-power, world-domination.
+	The difference is only apparent, not real.
 
-Germany murders independence openly and cruelly; England and America allow it to exist in appearance, but kill it in reality.
+	The difference between German and Anglo-American Imperialism is the same as that between Conservatism and Liberalism, between Absolution and Republicanism, between Aristocracy and Democracy.
 
-The difference is only apparent, not real.
+	There is only one difference between the Imperialism of a reactionary absolutist autocracy and the Imperialism of Liberal republican democracy, and that is in appearance; in reality they are alike.
 
-The difference between German and Anglo-American Imperialism is the same as that between Conservatism and Liberalism, between Absolution and Republicanism, between Aristocracy and Democracy.
+	Real independence cannot be attained under Capitalism, whether it be an autocracy or a democracy. Capitalism and Imperialism tend inevitably to the subjection of the nations.
 
-There is only one difference between the Imperialism of a reactionary absolutist autocracy and the Imperialism of Liberal republican democracy, and that is in appearance; in reality they are alike.
+	The reason is that the monopolistic banking interests in Germany, England, and the United States, are all-powerful, and rule the whole world. It is characteristic that, in regard to this matter, Capitalism is in a blind alley.
 
-Real independence cannot be attained under Capitalism, whether it be an autocracy or a democracy. Capitalism and Imperialism tend inevitably to the subjection of the nations.
-
-The reason is that the monopolistic banking interests in Germany, England, and the United States, are all-powerful, and rule the whole world. It is characteristic that, in regard to this matter, Capitalism is in a blind alley.
-
-This question, as so many others, can only be solved by Socialism.
-
-3: With the intention of making the problem of the world war and disarmament perfectly clear, we have tried to simplify the struggle by confining it to the three greatest nations. As a matter of fact, the struggle is much more complex: it embraces all the nations of the world; and on that account the settlement of the problem by peaceful means makes it still more impossible. In the pamphlet, "Imperialism, the World War and Social Democracy" (pages 119-142) we have made this perfectly clear. There also we have shown the economic causes that make a world peace and a League of Nations impossible. If in the future England and the United States should become separated that would not alter the fact that we are now subject to World-Imperialism. Each of these States would then try to obtain world domination; each would set about forming new groups and would arrange new alliances (for example, say with Germany or Japan). They would then do just as they are doing now.
-
-4: Really through economic causes, through over-production of capital and the existence of rich countries with weak populations to which capital is exported, forcing colonial or imperial politics and so dragging them into war.
-
-5: This was done in 1917 by the Zimmerwaldians in Stockholm.
-
-6: However, if the English proletariat wished, and rose like one man in revolt, it would at least be possible to establish the Revolution without a long or bitter struggle.
-
-7: For example, through the Taylor system and other speeding-up methods camouflaged as "welfare" systems.
-
-8: By State Socialism we understand a system of society in which the State operates many businesses for the Capitalists, and protects the Capitalists by laws and regulations against the workers.
-
-9: In the fourth chapter we will deal more extensively with the difference between the Russian and the Western European Revolutions.
-
-10: The Russian Revolution is the first revolution to be undertaken by Marxists, and in accordance with the Marxican [sic] theory. The teachings of the Anarchist, the syndicalist, the Reformist, and the pseudo-Marxist (e.g., Kautsky), were proved in the Revolution to be useless.
-
-11: This is to prevent the formation of a new bureaucracy, or a new independent power, being raised above the workers.
+	This question, as so many others, can only be solved by Socialism.
 

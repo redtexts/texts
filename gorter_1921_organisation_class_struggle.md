@@ -27,7 +27,7 @@ For how can we achieve victory without tactics based on class relations, on hist
 
 In the text that follows I shall demonstrate on the basis of historical materialism, that is to say by reference to the conditions of production and the class relations of Western Europe and North America, that a communist party like the KAPD and tactics like those of the KAPD are necessary in Western Europe and North America.
 
-For only the tactics of the KAPD are determined by the conditions of production and the class relations of Western Europe and North America, and all others, those of the VKPD and the Third International, for example, are not based on these factors and can therefore never succeed [(1)][notes].
+For only the tactics of the KAPD are determined by the conditions of production and the class relations of Western Europe and North America, and all others, those of the VKPD and the Third International, for example, are not based on these factors and can therefore never succeed[^note-1].
 
 It is only when tactics are based on scientific, historical-materialist foundations that they can bring progress.
 
@@ -111,7 +111,7 @@ They say that the trade unions cannot accomplish the task. For in the first plac
 
 And secondly, they do not make the proletariat, proletarians, the millions and millions of workers, into the uninhibited militants, the conscious communists that the proletariat needs. For the entire structure of these organisations, which were the right ones for the period of peaceful development, makes the workers into the slaves of a clique of leaders and of trade-union relations. Uninhibited, courageous militants are still stifled in the trade unions, they cannot exist in them.
 
-For these reasons it was the representatives of the workers who _necessarily_ obtained complete power in those times of world economic expansion. For only they were able and obliged to _negotiate_ in parliament and with the employers. This gave them complete power. It meant that all organisations, parties and trade unions, were structured to suit them, to secure their authority. This had to happen in the period of evolution. And it was good that this was the case. But matters are different in the period of revolution! What was formerly good now becomes bad. And even _before_ the revolution, the trade unions could no longer even conduct the struggle against the trusts and the state! Even then they were obsolete weapons, fit to be thrown in the lumber-room, as far as Western Europe and North America were concerned. Now they are powerless against the trusts and the state, the white guards, the Stinnes and Orgesches [(2)][notes].
+For these reasons it was the representatives of the workers who _necessarily_ obtained complete power in those times of world economic expansion. For only they were able and obliged to _negotiate_ in parliament and with the employers. This gave them complete power. It meant that all organisations, parties and trade unions, were structured to suit them, to secure their authority. This had to happen in the period of evolution. And it was good that this was the case. But matters are different in the period of revolution! What was formerly good now becomes bad. And even _before_ the revolution, the trade unions could no longer even conduct the struggle against the trusts and the state! Even then they were obsolete weapons, fit to be thrown in the lumber-room, as far as Western Europe and North America were concerned. Now they are powerless against the trusts and the state, the white guards, the Stinnes and Orgesches^[Hugo Stinnes was the industrialist who signed the 'Arbeitsgemeinschaft' agreement with Legien in November 1918. 'Orgesch' was an armed, strike-breaking fascist organisation. -- Translator's note.].
 
 So historical materialism shows that the trade unions are not the organisations which the proletariat needs to achieve victory. What are, then?
 
@@ -121,7 +121,7 @@ In the modern world of Western Europe and North America, with its trusts, its ba
 
 The organisation of Stinnes and the like is, as Rathenau says, no longer merely horizontal, but also vertical. What does this mean?
 
-Various different sectors of production are all organised together. Mines, metallurgical factories, machine-tool works, power stations, railways, shipyards and clocks are all integrated. And this is no longer done in terms of trades. Large sectors of the same profession are left out, outside the combine, ignored. Only the _factories_ that are required are taken. The strength of capitalism now lies in the factories [(3)][notes]. The conditions of production demonstrate this. This is particularly the case in the bankrupt German state and in bankrupt countries in general. There, capital is forming a new state behind the bankrupt one. In the factories, in the enormous new complexes of factories. This is what capital is basing itself upon now. It hopes to survive in this way, although its state is bankrupt. This indicates to the proletariat the means which it must use.
+Various different sectors of production are all organised together. Mines, metallurgical factories, machine-tool works, power stations, railways, shipyards and clocks are all integrated. And this is no longer done in terms of trades. Large sectors of the same profession are left out, outside the combine, ignored. Only the _factories_ that are required are taken. The strength of capitalism now lies in the factories^[This tendency was already in evidence before the war, but has now developed enormously.]. The conditions of production demonstrate this. This is particularly the case in the bankrupt German state and in bankrupt countries in general. There, capital is forming a new state behind the bankrupt one. In the factories, in the enormous new complexes of factories. This is what capital is basing itself upon now. It hopes to survive in this way, although its state is bankrupt. This indicates to the proletariat the means which it must use.
 
 But the revolution itself teaches us this. Was it trade-unionists who did the fighting? Did the proletariat go into battle organised according to their trade unions? In 1918, 1919, 1920 and 1921? No, a thousand times no. They fought in the factories and organised by factories.
 
@@ -137,7 +137,7 @@ While the trade union stifles the militant, stifles the free person in every pro
 
 This is the answer which theory gives us, the theory that is the only way to attain the truth of practice.
 
-It goes without saying that the factory organisations of a locality, a municipality, a district, a region must unite. It will also be useful to make further sub-divisions according to industries. We need not go into these details here. Nor do we need to go into the consideration that soviets will readily arise out of these factory organisations [(4)][notes].
+It goes without saying that the factory organisations of a locality, a municipality, a district, a region must unite. It will also be useful to make further sub-divisions according to industries. We need not go into these details here. Nor do we need to go into the consideration that soviets will readily arise out of these factory organisations^[On this question, and on the question of the union in general, one should read the pamphlet _Die Allgemeine Arbeiter-Union_, published by the Greater Berlin economic area organisation of the AAUD, Berlin, 1921.].
 
 So, destruction of the trade unions, these seed-beds of slavery, and in their stead the establishment of factory organisations, industrial federations based upon these, and taking in the whole, a union like the General Workers' Union of Germany, the AAUD, and finally the unification of the unions of every country in an international league -- this is the way to revolution, to victory.
 
@@ -197,7 +197,7 @@ And this organisation is the communist political party, if it is the genuinely r
 
 For _it_ is familiar with economic and political factors, both on a national and an international level. _It_ is not opportunistic, nor individualistic, nor utopian. _It_ is revolutionary, not only in heart, but also in mind. It can therefore take the lead in word and deed. It takes the lead in both if it is the true party.
 
-This is not of course to say that the same broad understanding and good qualities are not present in one section of the factory organisation, of the union, as in the party. All party members are after all members of the union as well. It only means that these elements can always be outvoted in the union by other sections which are not so advanced. The best elements can easily become isolated and atomised in the union and thus exercise little power. They only gain power and expand it by being organised together [(5)][notes].
+This is not of course to say that the same broad understanding and good qualities are not present in one section of the factory organisation, of the union, as in the party. All party members are after all members of the union as well. It only means that these elements can always be outvoted in the union by other sections which are not so advanced. The best elements can easily become isolated and atomised in the union and thus exercise little power. They only gain power and expand it by being organised together^[It has been suggested that instead of parties, fractions should be formed within the union. This would lead to chaos and condemn the union to impotence.].
 
 Those who reject all that we have said about the proletariat and the factory organisation either do not know the proletariat, or do not take matters seriously.
 
@@ -223,7 +223,7 @@ Here it seeks to create a united entity consisting of itself, the factory organi
 
 What should a party of this kind be like, a party which serves the proletariat by word and deed in the revolution?
 
-In the first place, it should not be a parliamentary party. For parliamentarianism was a good weapon in the period of evolution (1860-1910 or even a few years earlier), when the proletariat's cause was being managed by leaders. Now that the proletariat must act for itself, its disadvantages far outweigh its advantages [(6)][notes].
+In the first place, it should not be a parliamentary party. For parliamentarianism was a good weapon in the period of evolution (1860-1910 or even a few years earlier), when the proletariat's cause was being managed by leaders. Now that the proletariat must act for itself, its disadvantages far outweigh its advantages^[I refer the reader to my _Letter to Comrade Lenin_, in which I prove this.].
 
 For here the weakness of the proletariat lies in the fact that it believes others can act on its behalf and that it does not then need to act itself. Parliamentarianism increases this weakness.
 
@@ -245,7 +245,7 @@ Nor is this the dream, the chimera, the fantasy of a 'left-wing' worker!
 
 It follows directly from the class condition, which, as you all know, prevents a very large number of proletarians from gaining broad and deep understanding.
 
-Therefore, a small party everywhere [(7)][notes].
+Therefore, a small party everywhere^[The opportunism of the Third International is also evident in its desire to form mass communist parties. It is obliged to pursue this by the very fact that it rejects factory organisation and that its cell tactics are failing to conquer the trade unions, so that it can only gain organised masses within the party. The March action showed what the consequences of this are. I have pointed out sufficiently often that a small party was only able to control its adversaries and the proletariat in Russia because it had the assistance of the poor peasants. But there too we can now see how terrible the consequences are if the whole proletarian class does not exercise dictatorship. Just consider Kronstadt! For ultimately it is only the proletarians, and not the peasants who are a sure source of support.].
 
 Can this one small party simultaneously rule this mighty adversary, massively armed capitalism, and the mighty proletariat? Can it be the dictator, the despotic ruler, or both, of adversary and proletariat? The very numbers involved rule it out.
 
@@ -269,9 +269,9 @@ They want cells and trade unions, although these are completely out-dated and st
 
 Their tactics are unscientific, they are at odds with the real conditions, and _must_ therefore lead to failure.
 
-Compare these two courses, workers, and you will choose the right one [(8)][notes].
+Compare these two courses, workers, and you will choose the right one^[The fact that the Russians, Lenin for example, are so wrong in their judgement comes from their not knowing Western Europe sufficiently well. Their thinking may well be historical-materialist, but they are unable to apply historical materialism in this case because they are not familiar with the conditions.].
 
-And compare the idiocies of the anarchists, syndicalists and those members of the union who don't want a party [(9)][notes].
+And compare the idiocies of the anarchists, syndicalists and those members of the union who don't want a party^[Like the East Saxony districts of the union, like Otto Rühle and Pfemfert.].
 
 Can they deny that the class condition of the proletariat enables only a small section of the proletariat to develop broad and deep understanding? Can they deny that large sections within the factory organisation will therefore always be opportunistic, individualistic, utopian and insufficiently developed? No. And that therefore the factory organisation can never make and lead the revolution alone? No.
 
@@ -303,7 +303,7 @@ And on the other hand we have said that the party cannot exercise dictatorship. 
 
 Our opponents are exploiting this apparent difficulty in order to prove to us that we do not know how to attain victory, how to attain communism.
 
-This is the criticism made, for example, by Zinoviev in his comments on the 21 conditions (see _International_ 11 and 12), where, in his polemic against syndicalism, the IWW in the United States, etc. he includes us (or rather pretends not to know that the 'left-wingers' are something quite different to the syndicalists, the IWW, etc [(10)][notes].)
+This is the criticism made, for example, by Zinoviev in his comments on the 21 conditions (see _International_ 11 and 12), where, in his polemic against syndicalism, the IWW in the United States, etc. he includes us (or rather pretends not to know that the 'left-wingers' are something quite different to the syndicalists, the IWW, etc^[The syndicalists and members of the union who reject the party do not in fact know how communism is to be attained. For the syndicalists, the IWW, the factory organisation alone, can never achieve it, for the very reason that they reject the party.].)
 
 But this difficulty is an illusion.
 
@@ -355,7 +355,7 @@ And so when Zinoviev and the Third International ask us 'left-wingers' (in his e
 
 And when they ask us what is the overall plan for the organisation of the revolution and the way to communism, and mock and insult us because they believe we have no such plan, we reply that it is their fault if they do not understand us. They see everything in _such_ obscurity that they believe only the Russian way is possible. But we have a clear plan and a clear way forward: unity of party and union -- that is to say the proletariat -- and dictatorship by the proletariat. We will add just one thing more for the benefit of our Russian friends.
 
-Now that the proletariat in Kronstadt [(11)][notes] has risen up against you, the communist party, now that you have had to declare a state of emergency in Petrograd against the proletariat (things which, like all your tactics, were necessary in the conditions you face), has the thought still not occurred to you, even now, that dictatorship by the proletariat really is preferable to dictatorship by the party? Or that it would perhaps really be preferable if class- and not party-dictatorship were to develop in Western Europe and North America? Or that perhaps the 'left-wingers' here are in the right?
+Now that the proletariat in Kronstadt^[The KAPD felt obliged to explain publicly that although Gorter understood the motives of the Kronstadt insurgents, he did not side with them. -- Translator's note.] has risen up against you, the communist party, now that you have had to declare a state of emergency in Petrograd against the proletariat (things which, like all your tactics, were necessary in the conditions you face), has the thought still not occurred to you, even now, that dictatorship by the proletariat really is preferable to dictatorship by the party? Or that it would perhaps really be preferable if class- and not party-dictatorship were to develop in Western Europe and North America? Or that perhaps the 'left-wingers' here are in the right?
 
 Perhaps this idea has occurred to you; but even if it has, you have still not completely understood the issue. For the dictatorship of the class is not only preferable here, it is absolutely necessary.
 
@@ -383,33 +383,33 @@ Workers of Germany, England, Western Europe and North America, unite in the KAPD
 
 ## Notes
 
-01: The greatness of Lenin lies not least in his having derived the Russian revolution and its tactics entirely from the conditions of production and the class relations prevailing in Russia, in particular the agrarian conditions, and that long before the revolution itself.
+[^note-1]: The greatness of Lenin lies not least in his having derived the Russian revolution and its tactics entirely from the conditions of production and the class relations prevailing in Russia, in particular the agrarian conditions, and that long before the revolution itself.
 
-It is therefore to be regretted that he and all the Russians and the entire Third International with him completely disregarded the conditions of production and class relations prevailing in Western Europe and the United States in fixing tactics for the latter continents.
+	It is therefore to be regretted that he and all the Russians and the entire Third International with him completely disregarded the conditions of production and class relations prevailing in Western Europe and the United States in fixing tactics for the latter continents.
 
-There is no trace of historical materialism in the 21 conditions of Moscow. The class relations of Western Europe, so different from those of Russia, are not even mentioned!
+	There is no trace of historical materialism in the 21 conditions of Moscow. The class relations of Western Europe, so different from those of Russia, are not even mentioned!
 
-The tactics of Russia are merely being aped, and what was correct in Russia is being imposed on Western Europe and North America.
+	The tactics of Russia are merely being aped, and what was correct in Russia is being imposed on Western Europe and North America.
 
-With catastrophic results, of course. The German proletariat is already bleeding to death, parties like the VKPD are already being split by the Russian tactics, which have no basis in the reality of Western Europe.
+	With catastrophic results, of course. The German proletariat is already bleeding to death, parties like the VKPD are already being split by the Russian tactics, which have no basis in the reality of Western Europe.
 
-02: Hugo Stinnes was the industrialist who signed the 'Arbeitsgemeinschaft' agreement with Legien in November 1918. 'Orgesch' was an armed, strike-breaking fascist organisation. -- Translator's note.
+2: 
 
-03: This tendency was already in evidence before the war, but has now developed enormously.
+3: 
 
-04: On this question, and on the question of the union in general, one should read the pamphlet _Die Allgemeine Arbeiter-Union_, published by the Greater Berlin economic area organisation of the AAUD, Berlin, 1921.
+4: 
 
-05: It has been suggested that instead of parties, fractions should be formed within the union. This would lead to chaos and condemn the union to impotence.
+5: 
 
-06: I refer the reader to my _Letter to Comrade Lenin_, in which I prove this.
+6: 
 
-07: The opportunism of the Third International is also evident in its desire to form mass communist parties. It is obliged to pursue this by the very fact that it rejects factory organisation and that its cell tactics are failing to conquer the trade unions, so that it can only gain organised masses within the party. The March action showed what the consequences of this are. I have pointed out sufficiently often that a small party was only able to control its adversaries and the proletariat in Russia because it had the assistance of the poor peasants. But there too we can now see how terrible the consequences are if the whole proletarian class does not exercise dictatorship. Just consider Kronstadt! For ultimately it is only the proletarians, and not the peasants who are a sure source of support.
+7: 
 
-08: The fact that the Russians, Lenin for example, are so wrong in their judgement comes from their not knowing Western Europe sufficiently well. Their thinking may well be historical-materialist, but they are unable to apply historical materialism in this case because they are not familiar with the conditions.
+8: 
 
-09: Like the East Saxony districts of the union, like Otto Rühle and Pfemfert.
+9: 
 
-10: The syndicalists and members of the union who reject the party do not in fact know how communism is to be attained. For the syndicalists, the IWW, the factory organisation alone, can never achieve it, for the very reason that they reject the party.
+10: 
 
-11: The KAPD felt obliged to explain publicly that although Gorter understood the motives of the Kronstadt insurgents, he did not side with them. -- Translator's note.
+11: 
 
