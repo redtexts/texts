@@ -2,7 +2,7 @@
 title: The World Revolution
 author: Gorter, Herman
 date: 1918
-description: Originally published in 1918 in Dutch as De wereldrevolutie. It was written after the Russian Revolution but before the end of the First World War. Its arguments about the differences between the Western European and Russian revolutions anticipate Gorter's later Open Letter to Comrade Lenin. The English translation was made by Hugh McMillan and published in Glasgow by the Socialist Information and Research Bureau in 1920. In this red texts edition footnotes have been converted to numbered endnotes and the errata have been worked into the main body of the text. A scan of the pamphlet on which this version was based can be found at https://archive.org/details/worldrevolution00gort. Note that some words are illegible in the scan and are marked as such in this text
+description: Originally published in 1918 in Dutch as De wereldrevolutie. It was written after the Russian Revolution but before the end of the First World War. Its arguments about the differences between the Western European and Russian revolutions anticipate Gorter's later Open Letter to Comrade Lenin. The English translation was made by Hugh McMillan and published in Glasgow by the Socialist Information and Research Bureau in 1920. In this red texts edition footnotes have been converted to numbered endnotes and the errata have been worked into the main body of the text. A scan of the pamphlet on which this version was based can be found at <https://archive.org/details/worldrevolution00gort>. Note that some words are illegible in the scan and are marked as such in this text
 ...
 
 By Dr. Herman Gorter.  

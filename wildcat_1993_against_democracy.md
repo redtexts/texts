@@ -2,7 +2,7 @@
 title: Against Democracy
 author: Wildcat
 date: 1993
-description: From a talk given in 1993, and found on Wildcat's page at http://wildcat.international/democracy-talk.html
+description: From a talk given in 1993, and found on Wildcat's page at <http://wildcat.international/democracy-talk.html>
 ...
 
 [This is the text of a introductory talk which was given to two discussion meetings held in London and Brighton in 1993. It's been typed up and made available to the communist public due to massive popular demand...]

@@ -2,7 +2,7 @@
 title: The Russian Experience
 author: Gauche Communiste de France
 date: 1946
-description: Written in 1946 by Gauche Communiste de France. In 1990 the International Communist Current translated it into English and added an introduction and footnotes for International Review 61. This red texts version is based on the ICC's translation of the French original, available at http://en.internationalism.org/ir/062/the-russian-experience
+description: Written in 1946 by Gauche Communiste de France. In 1990 the International Communist Current translated it into English and added an introduction and footnotes for International Review 61. This red texts version is based on the ICC's translation of the French original, available at <http://en.internationalism.org/ir/062/the-russian-experience>
 ...
 
 There's no doubt any more: the first experience of the proletarian revolution, both in its positive acquisitions, and even more in the negative lessons that can be drawn from it, is today at the base of the whole modern workers' movement. As long as the balance sheet of this experience hasn't been made, as long as its lessons haven't been brought to light and assimilated, the working class and the revolutionary vanguard will be condemned to running on the spot.

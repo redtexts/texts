@@ -2,7 +2,7 @@
 title: The Economy in the Russian Revolution
 author: Internationalist Perspective
 date: 1995
-description: Written by Rose in Internationalist Perspective 28. It was followed by a critical response by Sander. That issue is available at http://internationalistperspective.org/issue/
+description: Written by Rose in Internationalist Perspective 28. It was followed by a critical response by Sander. That issue is available at <http://internationalistperspective.org/issue/>
 ...
 
 In November, thousands of Russians, nostalgic for the old regime, commemorate the October Revolution. For revolutionaries, the issue is not to celebrate an anniversary but to return incessantly to the understanding of the strengths and weaknesses of this proletarian revolution, unique in history.

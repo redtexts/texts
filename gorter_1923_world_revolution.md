@@ -2,7 +2,7 @@
 title: The World Revolution
 author: Gorter, Herman
 date: 1923
-description: Apparently written in 1923 and published in English in Workers' Dreadnought in 1924. This red texts version is based on the MIA version, available at https://www.marxists.org/archive/gorter/1923/world-revolution.htm
+description: Apparently written in 1923 and published in English in Workers' Dreadnought in 1924. This red texts version is based on the MIA version, available at <https://www.marxists.org/archive/gorter/1923/world-revolution.htm>
 ...
 
 In forming the Communist Workers' International, it is important to explain clearly the revolutionary battle of the proletariat, which is revealed in quite a new light by the Russian and German revolutions.

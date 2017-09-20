@@ -2,7 +2,7 @@
 title: The Italian Communist Left - A Brief Internationalist History
 author: Internationalist Communist Tendency
 date: 2009
-description: This document was written around 2009 by Jock for the International Bureau for the Revolutionary Party, now the Internationalist Communist Tendency, and can be found on their website at http://www.leftcom.org/en/articles/2009-07-01/the-italian-communist-left-a-brief-internationalist-history
+description: This document was written around 2009 by Jock for the International Bureau for the Revolutionary Party, now the Internationalist Communist Tendency, and can be found on their website at <http://www.leftcom.org/en/articles/2009-07-01/the-italian-communist-left-a-brief-internationalist-history>
 ...
 
 _Text presented to the comrades of the EKS (International Communist Left) in Turkey on March 5th, 2009 [(1)][notes]._

@@ -2,7 +2,7 @@
 title: The Communist Manifesto
 author: Marx, Karl and Friedrich Engels
 date: 1848
-description: Based on the 1888 English translation by Samuel Moore. From https://www.gutenberg.org/ebooks/61. Engels's preface to this edition, along with other prefaces to the Manifesto, can be found at https://www.marxists.org/archive/marx/works/1848/communist-manifesto/preface.htm
+description: Based on the 1888 English translation by Samuel Moore. From <https://www.gutenberg.org/ebooks/61>. Engels's preface to this edition, along with other prefaces to the Manifesto, can be found at <https://www.marxists.org/archive/marx/works/1848/communist-manifesto/preface.htm>
 ...
 
 ## Preamble

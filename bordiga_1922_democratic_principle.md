@@ -2,7 +2,7 @@
 title: The Democratic Principle
 author: Bordiga, Amadeo
 date: 1922
-description: Originally published in Rassegna Comunista in February 1922, republished in Communist Program (the ICP journal) in 1982, and finally posted online on Antagonism's site at http://www.oocities.org/CapitolHill/Lobby/3909/bordiga0.html
+description: Originally published in Rassegna Comunista in February 1922, republished in Communist Program (the ICP journal) in 1982, and finally posted online on Antagonism's site at <http://www.oocities.org/CapitolHill/Lobby/3909/bordiga0.html>
 ...
 
 The use of certain terms in the exposition of the problems of communism very often engenders ambiguities because of the different meanings these terms may be given. Such is the case with the words _democracy_ and _democratic_. In its statements of principle, Marxist communism presents itself as a critique and a negation of democracy; yet communists often defend the democratic character of proletarian organizations (the state system of workers' councils, trade unions and the party) and the application of democracy within them. There is certainly no contradiction in this, and no objection can be made to the use of the dilemma, "either bourgeois democracy or proletarian democracy" as a perfect equivalent to the formula "bourgeois democracy or proletarian dictatorship".

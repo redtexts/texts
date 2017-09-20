@@ -2,7 +2,7 @@
 title: The Revolutionary Alternative to Left-Wing Politics
 author: Subversion
 date: 1995
-description: Originally published in Subversion 16 in 1995 and available on the website of the Subversion group at http://www.oocities.org/athens/acropolis/8195/2ndbestof.html
+description: Originally published in Subversion 16 in 1995 and available on the website of the Subversion group at <http://www.oocities.org/athens/acropolis/8195/2ndbestof.html>
 ...
 
 The Left has not failed. And that is one of the greatest disasters ever to befall the working class.

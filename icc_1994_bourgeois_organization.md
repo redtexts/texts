@@ -2,7 +2,7 @@
 title: "Bourgeois Organization: The Lie of the 'Democratic' State"
 author: International Communist Current
 date: 1994
-description: "Writen by 'JJ' for International Review 76, in 1994. Available online at https://en.internationalism.org/ir/076_index.html"
+description: "Writen by 'JJ' for International Review 76, in 1994. Available online at <https://en.internationalism.org/ir/076_index.html>"
 ...
 
 The sudden collapse of the Eastern bloc automatically gave a new lease of life to its old Western rival's propaganda. For decades, the world has lived in the shadow of a double lie: the lie of the existence of communism in the East, identified with a merciless Stalinist dictatorship and opposed to the reign of democratic freedom in the West. This ideological combat was the expression, at the level of propaganda, of the imperialist rivalries between East and West, and it was the 'democratic' illusion which emerged the victor. Already, the camp of liberal democracy has proven victorious in the two world wars which have ravaged the planet since the beginning of the century, and in each case this has further strengthened the democratic ideology.

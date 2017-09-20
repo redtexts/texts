@@ -2,7 +2,7 @@
 title: The Great European War and Socialism
 author: Pannekoek, Anton
 date: 1914
-description: Published in International Socialist Review 15, no. 4, October 1914, and translated by Marcus Hitch. From https://www.marxists.org/archive/pannekoe/1914/10/great-european-war.htm
+description: Published in International Socialist Review 15, no. 4, October 1914, and translated by Marcus Hitch. From <https://www.marxists.org/archive/pannekoe/1914/10/great-european-war.htm>
 ...
 
 Suddenly, like a meteor from the sky or an earthquake, the world-war has broken out over the unsuspecting and terrified nations of Europe. No one thought of war, no one really wanted it, princes and cabinet members were traveling or at bathing places--out came the ultimatum of Austria to the Servian government, and after a week of strenuous efforts to preserve peace the nations one after the other slid down into the abyss as if drawn by an irresistible fate.

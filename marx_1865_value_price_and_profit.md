@@ -2,7 +2,7 @@
 title: Value, Price and Profit
 author: Marx, Karl
 date: 1865
-description: A speech delivered to the General Council of the International Workingmen's Association in 1865. A transcript was discovered after Marx's death and published in 1898. This version is from the 1969 International Publishers version, by way of https://www.marxists.org/archive/marx/works/1865/value-price-profit/index.htm. The publisher's introduction and editor's footnotes are omitted from this red texts version
+description: A speech delivered to the General Council of the International Workingmen's Association in 1865. A transcript was discovered after Marx's death and published in 1898. This version is from the 1969 International Publishers version, by way of <https://www.marxists.org/archive/marx/works/1865/value-price-profit/index.htm>. The publisher's introduction and editor's footnotes are omitted from this red texts version
 ...
 
 ## Preface by Edward Aveling

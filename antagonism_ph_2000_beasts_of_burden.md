@@ -2,7 +2,7 @@
 title: "Beasts of Burden: Capitalism, Animals, Communism"
 author: Antagonism and Practical History
 date: 1999
-description: Written by Antagonism and Practical History. Taken from https://libcom.org/library/beasts-burden-antagonism-practical-history, with the original version also available at Antagonism's website at http://www.oocities.org/capitolhill/lobby/3909/beasts/index.html
+description: Written by Antagonism and Practical History. Taken from <https://libcom.org/library/beasts-burden-antagonism-practical-history>, with the original version also available at Antagonism's website at <http://www.oocities.org/capitolhill/lobby/3909/beasts/index.html>
 ...
 
 This is a text which, we hope, faces in two directions. On the one hand we hope that it will be read by people interested in animal liberation who want to consider why animal exploitation exists, as well as how. On the other hand, by those who define themselves as anarchists or communists who either dismiss animal liberation altogether or personally sympathise with it but don't see how it relates to their broader political stance.

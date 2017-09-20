@@ -3,7 +3,6 @@ title: Aspects of the Russian Question
 author: American Fraction of the Left Communist International
 date: 1949
 description: Written by D for the March-April 1949 issue of International Bulletin, the publication of the American Fraction of the Left Communist International. Punctuation errors in the text below were present in the original
-language: en-US
 ...
 
 Leon Trotsky wrote, "The attempt to represent the Soviet bureaucracy as a class of 'State Capitalists' will obviously not withstand criticism. The bureaucracy has neither stocks nor bonds. It is recruited, supplemented and renewed in the manner of an administrative hierarchy, independently of any special property relations of its own. The individual bureaucrat cannot transmit to his heirs his rights in the exploitation of the State apparatus. The bureaucracy enjoys its privileges under the form of an abuse of power. It conceals its income; it pretends that as a special group it does not even exist. Is appropriation of a vast share of the national income has the character of social parasitism. All this makes the position of the commanding Soviet stratum in the highest degree contradictory, equivocal and undignified, notwithstanding the completeness of its power and the smoke screen of flattery that conceals it" (The Revolution Betrayed, 1937).

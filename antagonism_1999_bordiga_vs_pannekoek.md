@@ -2,7 +2,7 @@
 title: Bordiga versus Pannekoek
 author: Antagonism
 date: 2000-2001
-description: Antagonism notes this was written by "an anonymous collective" in 2000-2001. It consists of a bibliography and an introduction to two texts on the relationship between class and party. One text is by Anton Pannekoek of the German-Dutch communist left, the other is by Amadeo Bordiga of the Italian communist left. It was originally posted at http://www.oocities.org/capitolhill/lobby/3909/bordiga/bvptoc.html
+description: Antagonism notes this was written by "an anonymous collective" in 2000-2001. It consists of a bibliography and an introduction to two texts on the relationship between class and party. One text is by Anton Pannekoek of the German-Dutch communist left, the other is by Amadeo Bordiga of the Italian communist left. It was originally posted at <http://www.oocities.org/capitolhill/lobby/3909/bordiga/bvptoc.html>
 ...
 
 ## Introduction

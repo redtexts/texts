@@ -2,7 +2,7 @@
 title: Notes on Democracy
 author: Poor, the Bad and the Angry
 date: 1990s
-description: Originally published at http://www.againstsleepandnightmare.net/ANTICAPL/PBA/DEMO_NTS.html on the Against Sleep and Nightmare website, specifically in the subsection devoted to the Poor, the Bad and the Angry group/publication. I therefore attribute it to them
+description: Originally published at <http://www.againstsleepandnightmare.net/ANTICAPL/PBA/DEMO_NTS.html> on the Against Sleep and Nightmare website, specifically in the subsection devoted to the Poor, the Bad and the Angry group/publication. I therefore attribute it to them
 ...
 
 Democratic ideology essentially contains two sort of the illusions:

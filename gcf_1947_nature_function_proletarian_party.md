@@ -2,7 +2,7 @@
 title: Nature and Function of the Proletarian Party
 author: Gauche Communiste de France
 date: 1947
-description: Written in French in October 1948 for Internationalisme 38. This version is based on a translation, with introduction and footnotes, that the ICC published in International Review 153, which can found on the ICC website at https://en.internationalism.org/internationalreview/2014/10329/september/international-review-2nd-semester-2014
+description: Written in French in October 1948 for Internationalisme 38. This version is based on a translation, with introduction and footnotes, that the ICC published in International Review 153, which can found on the ICC website at <https://en.internationalism.org/internationalreview/2014/10329/september/international-review-2nd-semester-2014>
 ...
 
 ## ICC Introduction

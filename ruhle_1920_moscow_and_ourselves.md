@@ -2,7 +2,7 @@
 title: Moscow and Ourselves
 author: Rühle, Otto
 date: 1920
-description: Published in Die Aktion Volume 10, no 37/38, 18 September 1920. Translated by Mike Jones. Prepared for the Marxist Internet Archive by Paul Flewers. Available at https://www.marxists.org/archive/ruhle/1920/moscow-and-ourselves.htm
+description: Published in Die Aktion Volume 10, no 37/38, 18 September 1920. Translated by Mike Jones. Prepared for the Marxist Internet Archive by Paul Flewers. Available at <https://www.marxists.org/archive/ruhle/1920/moscow-and-ourselves.htm>
 ...
 
 ## I

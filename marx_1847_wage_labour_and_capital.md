@@ -2,7 +2,7 @@
 title: Wage Labour and Capital
 author: Marx, Karl
 date: 1847
-description: First delivered as a speech in 1847, then printed in 1849, and finally in 1891 revised by Engels for republication. Marx scholar Robert C. Tucker calls this document "the future argument of Capital in embryo." From https://www.marxists.org/archive/marx/works/1847/wage-labour/index.htm but without MIA's added notes. Note that the MIA version presumably comes from the 1902 translation by Harriet E. Lothrop, available here https://archive.org/details/wagelaborcapital00marx, and differs in some small respects from the versions in Tucker's Marx-Engels Reader and in volumes 9 and 27 of the Marx and Engels Collected Works
+description: First delivered as a speech in 1847, then printed in 1849, and finally in 1891 revised by Engels for republication. Marx scholar Robert C. Tucker calls this document "the future argument of Capital in embryo." From <https://www.marxists.org/archive/marx/works/1847/wage-labour/index.htm> but without MIA's added notes. Note that the MIA version presumably comes from the 1902 translation by Harriet E. Lothrop, available here <https://archive.org/details/wagelaborcapital00marx>, and differs in some small respects from the versions in Tucker's Marx-Engels Reader and in volumes 9 and 27 of the Marx and Engels Collected Works
 ...
 
 ## Introduction by Friedrich Engels (1891)

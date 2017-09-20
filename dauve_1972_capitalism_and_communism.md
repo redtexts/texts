@@ -2,9 +2,7 @@
 title: Capitalism and Communism
 author: Dauvé, Gilles 
 date: 1972
-description: The first 1972 version of this essay underwent various changes in 1997. It has been considerably modified again for this new (2015) edition. From https://libcom.org/library/capitalism-communism-gilles-dauve
-rights: Public Domain
-language: en-US
+description: The first 1972 version of this essay underwent various changes in 1997. It has been considerably modified again for this new (2015) edition. From <https://libcom.org/library/capitalism-communism-gilles-dauve>
 ...
 
 Communism is not a programme one puts into practice or makes others put into practice, but a social movement. Apart from perhaps a clearer understanding, those who develop and defend theoretical communism are moved by the same practical personal need for communism as those who are not especially concerned by theory. They have no privilege whatsoever: they do not carry the knowledge that will set the revolution in motion. On the other hand, they have no fear of taking initiatives. Like every other revolution, the communist revolution is the product of real living conditions and desires. The points made in this text are born out of social contradictions and practical struggles which help us discern the possibilities of a new society amidst and against the monstrosity and fascination of the old.

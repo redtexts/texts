@@ -2,7 +2,7 @@
 title: On Authority
 author: Engels, Friedrich
 date: 1872
-description: Written in 1872. This version comes from https://www.marxists.org/archive/marx/works/1872/10/authority.htm
+description: Written in 1872. This version comes from <https://www.marxists.org/archive/marx/works/1872/10/authority.htm>
 ...
 
 A number of Socialists have latterly launched a regular crusade against what they call the _principle of authority_. It suffices to tell them that this or that act is _authoritarian_ for it to be condemned. This summary mode of procedure is being abused to such an extent that it has become necessary to look into the matter somewhat more closely.

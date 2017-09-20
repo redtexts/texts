@@ -2,7 +2,7 @@
 title: Our Antipolitics
 author: Poor, the Bad and the Angry
 date: 1990s
-description: Originally published at http://www.againstsleepandnightmare.net/ANTICAPL/PBA/welcome.html on the website of Against Sleep and Nightmare (http://www.againstsleepandnightmare.net/ASAN/welcome.html)
+description: Originally published at <http://www.againstsleepandnightmare.net/ANTICAPL/PBA/welcome.html> on [the website of Against Sleep and Nightmare](http://www.againstsleepandnightmare.net/ASAN/welcome.html)
 ...
 
 We live on a planet devastated by social relations based on money and market exchange. Regardless of the rhetorical or physical violence they offer one another in their fight for power, regardless of leftist or populist verbiage, every government and government-to-be, every politician and police force on this planet exists to defend and maintain this system. Different politicians and parties propose different management strategies for capital, but regardless of their jargon Yeltsin and Mandela, Time-Warner and MTV, Fidel Castro, the ecology lobby and the most bedraggled college campus socialist groups are all in agreement on this: the world of wage labor is to be maintained at any cost, and what capitalism is never to be identified in clinically specific, clear terms. Seemingly normal and inevitable facts -- that an individual has nothing but her or his labor power, they must sell it to an enterprise to be able to live, that everything exists to be bought or sold, that social relations revolve around money and commodity exchange -- are the result of a long and violent process.

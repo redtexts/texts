@@ -2,7 +2,7 @@
 title: "Capitalist Development and the American Civil War: the Civil War as the key moment in the subjugation of the black and white proletariat to the requirements of a rapacious bourgeoisie"
 author: International Communist Party
 date: 2005-2009
-description: This text was published in four parts in the ICP's publication "Communist Left," starting in issue 21-22. Find all four parts at http://international-communist-party.org/CommLeft/CLIndex.htm
+description: This text was published in four parts in the ICP's publication "Communist Left," starting in issue 21-22. Find all four parts at <http://international-communist-party.org/CommLeft/CLIndex.htm>
 ...
 
 ## The United States in the mid Nineteenth Century

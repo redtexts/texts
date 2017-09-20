@@ -2,7 +2,7 @@
 title: Trotsky and Trotskyism
 author: Internationalist Communist Tendency
 date: 2000
-description: This is a pamphlet of the Internationalist Communist Tendency, available at their website at http://www.leftcom.org/en/articles/2000-10-01/trotsky-and-trotskysm. Slight fixes were made to typos and formatting
+description: This is a pamphlet of the Internationalist Communist Tendency, available at their website at <http://www.leftcom.org/en/articles/2000-10-01/trotsky-and-trotskysm>. Slight fixes were made to typos and formatting
 ...
 
 ## Introduction

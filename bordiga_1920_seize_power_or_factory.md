@@ -2,7 +2,7 @@
 title: Seize Power or Seize the Factory?
 author: Bordiga, Amadeo
 date: 1920
-description: From https://www.marxists.org/archive/bordiga/works/1920/seize-power.htm
+description: From <https://www.marxists.org/archive/bordiga/works/1920/seize-power.htm>
 ...
 
 The working-class disturbances of the past few days in Liguria have seen yet another example of a phenomenon that for some time now has been repeated with some frequency, and that deserves to be examined as a symptom of a new level of consciousness among the working masses.
