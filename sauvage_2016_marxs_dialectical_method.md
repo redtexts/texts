@@ -45,6 +45,18 @@ All that most people have learned about dialectics from school is thesis-antithe
 
 There are more misconceptions of dialectics to debunk. Most proponents of Orthodox "Marxism" (Mainly Kautskyists, Marxist-Leninists, Trotskyists, Hoxhaists, and Maoists) make some if not all of the following claims about Marx’s dialectics and "philosophy":
 
+
+- Marx was a philosopher.
+- Marx created the philosophy of dialectical materialism (Or materialist dialectics, if you prefer), which consisted of the basic scientifically-verifiable laws of development of nature and human society.
+- Marx’s dialectical materialism consisted of a set of formulas, laws, and axioms that were universally applicable.
+- Marx’s application of dialectical materialism to the study of human history created the science of historical materialism.
+- Engels had exactly the same views on dialectics as Marx.
+- After Marx and Engels’s deaths, Karl Kautsky and Georgi Plekhanov of the 2nd International preserved and transmitted Marx and Engels’s philosophy of dialectical materialism to a new generation of radicals, including Vladimir Lenin.
+- Lenin later innovated upon Marx’s materialism in his work *Materialism and Empirio-Criticism*.
+- Either Josef Stalin or Leon Trotsky (depending on the specific tendency of said Orthodox “Marxist”) preserved Marx’s philosophy of dialectical materialism in either *Dialectical and Historical Materialism* (Stalin) or the *ABC of Materialist Dialectics* (Trotsky) and for the most part transmitted it in a concise and accurate way to the next generation of radicals.
+- For Hoxhaists, Stalin had no errors in his philosophy and was a great Marxist thinker and dialectician.
+- For Maoists, Stalin made the two mistakes in his dialectics of (a) assuming that there were not any contradictions within the socialist USSR and (b) interpreting dialectical materialism sometimes in mechanical ways. However, on the whole, Stalin was a great Marxist thinker and dialectician in the face of the challenges faced by an isolated and backwards Soviet Union. On the other hand, Mao Zedong made significant contributions to philosophy in his four main philosophical essays: *On Practice*, *On Contradiction*, *Where Do Correct Ideas Come From?*, and *On the Correct Handling of Contradictions Among the People*.
+
 **Every single one of these statements is wrong.** I do not have time at the moment for a full refutation of all of these claims, but in light of my brash claim that all the Orthodox "Marxists" misunderstood Marx’s dialectics and that Engels had a different conception of dialectics than Marx, try not to read the conception of dialectics of any of the Orthodox "Marxists" or Engels into Marx’s dialectical method. Marx is hard enough to read even without the weight of a thousand misconceptions.
 
 Well, if you are really curious, read Chino’s *Bloom and Contend: A Critique of Maoism* and Raya Dunayevskaya’s *Mao Perverts Lenin* for a critique of Mao’s philosophy; Cyril Smith’s *Marx at the Millennium*, *Karl Marx and the Future of the Human*, and his various essays on the Marxist Internet Archive or Libcom for a critique of Stalin, Lenin, Trotsky, Kautsky, and Plekhanov’s philosophies; and Pannekoek’s *Lenin as Philosopher* for a critique of Lenin’s reductive materialism. You can check out the other works in the "Philosophy" section of my [reading list](https://edensauvage.wordpress.com/2016/07/25/reading-list-for-aspiring-ultra-lefts/), some of which are also relevant for a critique of orthodox "Marxism".
