@@ -3,6 +3,7 @@ title: Synopsis of Capital
 author: Engels, Friedrich
 date: 1868
 description: Marx requested Engels to write a summary, due to lack of time. The resulting synopsis summarized the first four chapters of Volume I of Capital. From <https://www.marxists.org/archive/marx/works/1867-c1/1868-syn/>, w/o page numbers, chapters 1-3
+keywords: Political Economy
 ...
 
 # The Process of Capitalist Production

@@ -3,6 +3,7 @@ title: This is What Democracy Looks Like
 author: Internationalist Perspective
 date: 2016
 description: \"IP Statement on the US Election,\" published November 2016 at <http://internationalist-perspective.org/blog/2016/11/22/this-is-what-democracy-looks-like/>
+keywords: Democracy
 ...
 
 A few questions linger after these elections. Such as: is the new US president a psychopath or is he a sociopath?

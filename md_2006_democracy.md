@@ -3,6 +3,7 @@ title: Democracy
 author: Monsieur Dupont
 date: 2006
 description: Available from many places online, this was written in 2006 by a former member of the UK group Subversion
+keywords: Democracy
 ...
 
 _Every time an anarchist says, "I believe in democracy," there is a little fairy somewhere that falls down dead._ - JM Barrie (Peter Pan 1928)

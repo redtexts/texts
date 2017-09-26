@@ -3,6 +3,7 @@ title: Marx-Engels and Democracy (Part One)
 author: Robin Goodfellow
 date: 2002
 description: Presented as part one of a series on democracy and Marx and Engels. This red texts version has some very slight changes to formatting and spelling. The original was posted at <http://www.robingoodfellow.info/pagesen/rubriques/marxdemoen1.htm>. Strangely, this text's French edition is labeled as part two, while this English translation is labeled as part one
+keywords: Democracy
 ...
 
 The issue of the communist movement's attitude toward democracy is made all the more important because:

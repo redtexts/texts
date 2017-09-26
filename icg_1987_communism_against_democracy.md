@@ -3,6 +3,7 @@ title: Communism against Democracy
 author: Internationalist Communist Group
 date: 1987-1988
 description: From issue 4 (Winter 1987-1988) of Communism, ICG's review. Initially published online at <http://gci-icg.org/english/communism4.htm#communism_dem>. Some misspellings and obvious grammatical errors have been fixed in this present version but it is still a rough read
+keywords: Democracy
 ...
 
 ## Introduction

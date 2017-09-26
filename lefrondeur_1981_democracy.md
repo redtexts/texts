@@ -3,6 +3,7 @@ title: Democracy
 author: Le Frondeur
 date: 1981
 description: Originally published online at the [John Gray website](http://oocities.org/~johngray/frondeur.htm) with a note that "this text appeared in the journal Le Frondeur (No. 7, Spring 1981) published in Vitry"
+keywords: Democracy
 ...
 
 This text doesn't pretend to deal with the topic of democracy in an exhaustive way. It is only an outline which we hope will provoke a fruitful debate.

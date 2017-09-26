@@ -3,6 +3,7 @@ title: Trotskyism and the Labor Party
 author: American Fraction of the Left Communist International
 date: 1949
 description: Written by D.A. for the January-February 1949 issue of International Bulletin. This issue and others are available on archive.org. International Bulletin was a periodical put out by the so-called American Fraction of the Left Communist International. In this version we have cleaned up only minor punctuation and formatting issues. Any errors below are present in the original
+keywords: Trotsky
 ...
 
 Leon Trotsky wrote in 1938, "The Fourth International is now the only international organization which not only takes clearly into account the driving forces of the imperialist epoch but is armed with a system of transitional demands which are capable of uniting the masses for a revolutionary struggle for power" (from the foreword to "The Agony of Capitalism and the Tasks of the Fourth International.")

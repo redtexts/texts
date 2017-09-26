@@ -3,6 +3,7 @@ title: The Spectator of Democracy
 author: Against Sleep and Nightmare
 date: Mid-1990s
 description: Originally published in Against Sleep and Nightmare 5 in the mid-1990s and available online at <http://www.againstsleepandnightmare.net/ASAN/ASAN5/democrcy.html>
+keywords: Democracy
 ...
 
 ## ...And Democracy Continues Its March

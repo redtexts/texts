@@ -3,6 +3,7 @@ title: Introduction to Political Economy
 author: Luxemburg, Rosa
 date: 1925
 description: This document has a complicated history. In Rosa Luxemburg Speaks, which collects sections 1.1, 1.5, and 1.6 as "What Is Economics?", editor Mary-Alice Waters writes that Rosa Luxemburg began lecturing on economics at the SPD party school in 1907. At this point she started on a manuscript for a comprehensive introduction to economics, but broke off work in 1912 (to work on the book The Accumulation of Capital, according to Hudis). While imprisoned during World War I she returned to this manuscript, but was not able to finish it before she was murdered by counter-revolutionaries in 1919. Parts of the manuscript may have been lost when her apartment was ransacked by these counter-revolutionaries. Paul Levi then worked to edit what was left of the manuscript and published it in 1925. This version of Introduction to Political Economy comes from the Complete Works of Rosa Luxemburg, Volume 1, edited by Peter Hudis, but omits the copious detailed notes and numbers chapters strictly sequentially (rather than using Luxemburg's original numbering, which, owing to the text's unfinished state, numbered the chapters chapters 1, 3, 4, 3, 4, 7)
+keywords: Political Economy
 ...
 
 ## 1. What is political economy?

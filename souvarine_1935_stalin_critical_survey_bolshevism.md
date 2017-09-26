@@ -3,6 +3,7 @@ title: "Stalin: A Critical Survey of Bolshevism"
 author: Souvarine, Boris
 date: 1935
 description: This history of the degeneration of the Russian Revolution, and Stalin's role therein, was published in French in 1935 and published in English, as translated by C.L.R. James, in 1939. This red texts edition is based on the Marxists Internet Archive version, available here <https://www.marxists.org/history/etol/writers/souvar/works/stalin/index.htm>, as proofread carefully against a PDF version available at <https://archive.org/details/in.ernet.dli.2015.525012>
+keywords: USSR
 ...
 
 ## Table of Contents

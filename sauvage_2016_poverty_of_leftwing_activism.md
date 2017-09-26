@@ -3,6 +3,7 @@ title: The Poverty of Left-Wing Activism
 author: Sauvage, Eden 
 date: 2016
 description: Sauvage presents a critique of left-wing (ie. left of capital) activism. From <https://edensauvage.wordpress.com/2016/11/16/the-poverty-of-left-wing-activism/>
+keywords: Activism
 ...
 
 >It is all the more clear what we have to accomplish at present: I am referring to ruthless criticism of all that exists, ruthless both in the sense of not being afraid of the results it arrives at and in the sense of being just as little afraid of conflict with the powers that be. (Marx to Ruge Letter (1843))

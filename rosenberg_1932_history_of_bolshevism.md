@@ -3,6 +3,7 @@ title: "A History of Bolshevism: From Marx to the First Five-Year Plan"
 author: Rosenberg, Arthur
 date: 1932
 description: Published in German in 1932 and English in 1934, this text was written by a figure on the very left of the German Communist Party (KPD). This basis for this edition of the text comes from <https://www.marxists.org/archive/rosenberg/history-bolshevism/index.htm>
+keywords: USSR
 ...
 
 ## Preface to the English Translation
