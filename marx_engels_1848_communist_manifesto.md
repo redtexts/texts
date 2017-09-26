@@ -1,8 +1,8 @@
 ---
 title: The Communist Manifesto
 author: 
-- Marx, Karl 
-- Friedrich Engels
+- Marx, Karl
+- Engels, Friedrich
 date: 1848
 description: Based on the 1888 English translation by Samuel Moore. From <https://www.gutenberg.org/ebooks/61>. Engels's preface to this edition, along with other prefaces to the Manifesto, can be found at <https://www.marxists.org/archive/marx/works/1848/communist-manifesto/preface.htm>
 ...
@@ -16,7 +16,6 @@ Where is the party in opposition that has not been decried as Communistic by its
 Two things result from this fact.
 
 I. Communism is already acknowledged by all European Powers to be itself a Power.
-
 II. It is high time that Communists should openly, in the face of the whole world, publish their views, their aims, their tendencies, and meet this nursery tale of the Spectre of Communism with a Manifesto of the party itself.
 
 To this end, Communists of various nationalities have assembled in London, and sketched the following Manifesto, to be published in the English, French, German, Italian, Flemish and Danish languages.
