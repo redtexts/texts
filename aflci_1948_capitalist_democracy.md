@@ -1,6 +1,6 @@
 ---
 title: "Capitalist Democracy: A Contrast Between the Position of Lenin and That of Trotsky"
-author:	American Fraction of the Left Communist International
+author: American Fraction of the Left Communist International
 date: 1948
 description: "Written by \"G.S.\" in the March 1948 issue of International Bulletin, a publication of the so-called American Fraction of the Left Communist International"
 ...
