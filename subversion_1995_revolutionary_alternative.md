@@ -93,5 +93,3 @@ We believe that, despite the obstacles put in its way by both Right and Left, th
 This society, which we call Communism or Socialism or Anarchism interchangeably, will be the first truly free society ever to exist.
 
 The social movement that will create this society will grow from the existing struggles of the working class. As part of this process, our class must surmount the barriers put in its way by bourgeois ideology, **including** left wing ideology. Our task in SUBVERSION is not to be leaders (see above), but to be part of the process of creation of a revolutionary working class movement that will put an end to our world's long history of oppression and exploitation, and begin the long history of the free, world human community to come.
-
-

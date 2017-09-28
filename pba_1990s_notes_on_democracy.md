@@ -26,5 +26,3 @@ The different modes of living are easier to describe using Marxian terminology s
 All forms of democratic ideology appeal to a model of human behavior that implies each person is wholly separate social agent that only affects others in fixed, definable ways. This is the language of "common sense" in a world where people's senses are controlled by capitalism. It defends the right, for example, for a man to shout cat-calls at woman who has previously been raped because that man's actions are simply "free speech" not connected to any social action.
 
 Communist positions see a social web which to not reducible to a fixed number to definable relations. Communists do not say that without capitalism we can guarantee that humans will create a human community. It says with capitalism, humans cannot create a human community. It sees that any movement for a human community will oppose capitalist social order and social relationships all along the way. The motivating force will not come with a communist blue-print but from the process of living of proletarians creating a new social relation.
-
-
