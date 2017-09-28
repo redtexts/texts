@@ -79,5 +79,3 @@ As this society reduces life to a machine-like order, its rulers become bureaucr
 * _The Situationist Anthology_, Bureau of Public Secrets P.O. Box 1044, Berkeley, CA 94701
 * Vaneigem, Raoul: _The Revolution of Everyday Life_, Aldgate Press 84b Whitechapel High St London E1, 1983
 * **Note**: Marx, Mumford, and Nietzsche are important and widely available. The work by Richard Bandler and John Grinder together constitute the basic texts of NLP.
-
-
