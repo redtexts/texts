@@ -59,7 +59,7 @@ For a society in which commodity production prevails, Christianity, particularly
 
 A commodity proves that it is a commodity in exchange. The owners of two commodities must be willing to exchange their respective commodities and, therefore, to recognise each other as private owners. This legal relation, the form of which is the contract, is only a relation of wills, reflecting the economic relation. Its content is given by the economic relation itself.
 
-A commodity is a use-value for its non-owner, a non-use-value for its owner.  Hence, the need for exchange.  But, every commodity owner wants to get in exchange specific use-values that he needs, to that extent, the exchange is an individual process.  On the other hand, he wants to realise his commodity as value, that is, in any commodity, whether or not *his* commodity is use-value to the owner of the other commodity.  To that extent, the exchange is for him a generally social process.  But, one and the same process cannot be simultaneously both individual and generally social for all commodity owners.  Every commodity owner considers his own commodity as the universal equivalent, while all other commodities are so many particular equivalents of his own.  Since all commodity owners do the same, no commodity is the universal equivalent, and, hence, no commodities posses a general relative form of value, in which they are equated as values and compared as magnitudes of value.  Therefore, they do not confront each other at all as commodities, but only as products.
+A commodity is a use-value for its non-owner, a non-use-value for its owner. Hence, the need for exchange. But, every commodity owner wants to get in exchange specific use-values that he needs, to that extent, the exchange is an individual process. On the other hand, he wants to realise his commodity as value, that is, in any commodity, whether or not *his* commodity is use-value to the owner of the other commodity. To that extent, the exchange is for him a generally social process. But, one and the same process cannot be simultaneously both individual and generally social for all commodity owners. Every commodity owner considers his own commodity as the universal equivalent, while all other commodities are so many particular equivalents of his own. Since all commodity owners do the same, no commodity is the universal equivalent, and, hence, no commodities posses a general relative form of value, in which they are equated as values and compared as magnitudes of value. Therefore, they do not confront each other at all as commodities, but only as products.
 
 Commodities can be related as values and, hence, as commodities only by comparison with some other commodity as the universal equivalent. But only the social act can make a particular commodity the universal equivalent --- money.
 
@@ -214,7 +214,7 @@ If, in commodity circulation, the exchange-value attains at most a form independ
 
 $M \to C \to M^\prime$ appears, indeed, to be a form peculiar to merchant's capital alone. But, industrial capital, too, is money which is converted into commodities, and by the latter's sale reconverted into more money. Acts that take place between purchase and sale, outside the sphere of circulation, effect no change in this. Lastly, in interest-bearing capital, the process appears as $M \to M^\prime$ without any intermediary, value that is, as it were, greater than itself.
 
-##  Contradictions in the general formula
+## Contradictions in the general formula
 
 The form of circulation by which money becomes capital contradicts all previous laws bearing on the nature of commodities, of value, of money and of circulation itself. Can the purely formal differences of inverted order of succession cause this?
 
@@ -264,7 +264,7 @@ The process of consuming labour-power is at the same time the process of produci
 
 # The Production of Absolute Surplus Value
 
-##  The labor process and the process of producing surplus-value
+## The labor process and the process of producing surplus-value
 
 The purchaser of labor-power consumes it by setting its seller to work. This labor-to-produce-commodities at first turns out use-values, and in this property it is independent of the specific relation between capitalist and labourer... Description of the labor process as such.
 
@@ -342,7 +342,7 @@ Let the value of *all* the machinery be 1,054.
 
 If this were entered as a *whole*, we would get 1,410 for $c$ on both sides of our calculation; the surplus-value would remain 90 as before.
 
-Since the value of $c$ merely re-appears in the product, the value of the product we get differs from the value created in the process; the latter, therefore, equals not $c  v  s$, but $v  s$. Hence, the magnitude of $c$ is immaterial to the process of creating surplus-value --- i.e., $c = 0$. This also takes place in practice in commercial accounting --- e.g., in calculating a country's profit from its industry, imported raw material is deducted.  Cf. Vol.III for the ratio of surplus-value to total capital.
+Since the value of $c$ merely re-appears in the product, the value of the product we get differs from the value created in the process; the latter, therefore, equals not $c  v  s$, but $v  s$. Hence, the magnitude of $c$ is immaterial to the process of creating surplus-value --- i.e., $c = 0$. This also takes place in practice in commercial accounting --- e.g., in calculating a country's profit from its industry, imported raw material is deducted. Cf. Vol.III for the ratio of surplus-value to total capital.
 
 Hence: the rate of surplus-value is $s$:$v$, in the above case 90:90 = 100%.
 
@@ -362,7 +362,7 @@ The English Factory Acts are negative expression of the greed for surplus-labor,
 
 THE FACTORY ACTS. That of 1850. 10.5 hours and 7.5 on Saturdays = 60 hours per week. Mill-owners' profit through evasion.
 
-Exploitation in unrestricted, or only later-restricted, branches:  lace industry, potteries, lucifer matches, wall-paper, baking, railway employees, seamstresses, blacksmiths, day and night workers in shifts: (a) metallurgy and the metal industry
+Exploitation in unrestricted, or only later-restricted, branches: lace industry, potteries, lucifer matches, wall-paper, baking, railway employees, seamstresses, blacksmiths, day and night workers in shifts: (a) metallurgy and the metal industry
 
 These facts prove that capital regards the labourer as nothing else than labor-power, all of whose time is labor-time as far as this is at all possible at a given moment, and that the length of life of labor-power is immaterial to the capitalists. But is this not against the interests of the capitalist? What about the replacement of what is rapidly worn out? The organized slave trade in the interior of the United States has raised the rapid wearing out of slaves to an economic principle, exactly like the supply of labourers from the rural districts in Europe, etc. Poorhouse supply (labor-power provided by poorhouses). The capitalist sees only the continuously available surplus-population and wears it out. Whether the race perishes --- apres moi le deluge. Capital is reckless of the health or length of life of the labourer, unless under compulsion from society... and free competition brings out the inherent laws of capitalist production in the shape of external coercive laws having power over every individual capitalist.
 
