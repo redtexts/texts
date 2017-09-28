@@ -1,6 +1,6 @@
 ---
 title: Capitalism and Communism
-author: Dauvé, Gilles 
+author: Dauvé, Gilles
 date: 1972
 description: The first 1972 version of this essay underwent various changes in 1997. It has been considerably modified again for this new (2015) edition. From <https://libcom.org/library/capitalism-communism-gilles-dauve>
 keywords:
@@ -204,7 +204,7 @@ Theories of "workers' government" or "workers' power" only propose alternative s
 
 # States and How to Get Rid of Them
 
-Marx's early works suggested a critique of politics, and opposed "political" to "social" revolution: the former rearranges links between individuals and groups without much change in what they actually do; the latter acts upon how people reproduce their means of existence, their way of life, their real condition, at the same time transforming how they relate to each other.^[Especially in The King of Prussia and Social Reform, also in The Jewish Question, and in his analysis of Jacobinism as the paroxysm of the political over the social spirit. In the 1840s, Marx immersed himself extensively in the French Revolution, and many of his notes and comments can be now read as an implicit but direct critique of Bolshevik policy after 1917.] 
+Marx's early works suggested a critique of politics, and opposed "political" to "social" revolution: the former rearranges links between individuals and groups without much change in what they actually do; the latter acts upon how people reproduce their means of existence, their way of life, their real condition, at the same time transforming how they relate to each other.^[Especially in The King of Prussia and Social Reform, also in The Jewish Question, and in his analysis of Jacobinism as the paroxysm of the political over the social spirit. In the 1840s, Marx immersed himself extensively in the French Revolution, and many of his notes and comments can be now read as an implicit but direct critique of Bolshevik policy after 1917.]
 
 One of our first spontaneous rebellious gestures is to revolt against control over our lives from above, by a teacher, a boss, a policeman, a social worker, a union leader, a statesman... Then politics walks in and reduces aspirations and desires to a problem of power--be it handed to a party, or shared by everyone. But what we really lack is the power to produce our life. A world where all electricity comes to us from mammoth (coal, fuel-oil, or nuclear) power stations, will always remain out of our reach. Only the political mind thinks revolution is primarily a question of power seizure or redistribution.
 
