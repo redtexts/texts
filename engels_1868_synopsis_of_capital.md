@@ -161,14 +161,14 @@ Hoarding serves as a conduit for supplying or withdrawing circulating money with
 
 **b. Means of**
 
-With the development of commodity circulation, new conditions appear: the alienation of a commodity can be separated in time from the realization of its price. Commodities require different periods of time for their production; they are produced in different seasons; some must be sent to distant markets, etc. Hence, A can be a seller before B, the buyer, is able to .
+With the development of commodity circulation, new conditions appear: the alienation of a commodity can be separated in time from the realization of its price. Commodities require different periods of time for their production; they are produced in different seasons; some must be sent to distant markets, etc. Hence, A can be a seller before B, the buyer, is able to.
 
 In this relation, money functions:
 
 1. as the measure of value in the determination of the price of the commodity sold;
 2. as an ideal means of purchase.
 
-In the hoard, money was withdrawn from circulation; here, being a means of ment, money enters circulation, but only after the commodity has left it. The indebted buyer sells in order to be able to *pay*, or he will be put up for auction. Therefore, money now becomes the sale's end in itself through a social necessity arising out of the relations of the very circulation process.
+In the hoard, money was withdrawn from circulation; here, being a means of payment, money enters circulation, but only after the commodity has left it. The indebted buyer sells in order to be able to *pay*, or he will be put up for auction. Therefore, money now becomes the sale's end in itself through a social necessity arising out of the relations of the very circulation process.
 
 The lack of simultaneity of purchases and sales, which gives rise to the function of money as a means of payment, at the same time effects an economy of the circulation media, payments being concentrated at a definite place. The virements (remittance by draft from own account to another) in Lyons in the Middle Ages --- a sort of clearing-house, where only the net balance of the mutual claims is paid.
 
@@ -226,7 +226,7 @@ Abstractly considered, only a change in form of the commodity takes places in si
 
 Hence, the error of all endeavors to derive surplus-value from commodity circulation. Condillac, Newman.
 
-But let us assume that the exchange does not take place in a pure form, that non-equivalents are exchanged. Let us assume that each seller sells his commodity at 10 per cent above its value. everything remains the same; what each one gains as a seller, he loses in turn as a buyer. Just as if the value of money had changed by 10 per cent. Likewise, if the buyers bought everything at 10 per cent below value.
+But let us assume that the exchange does not take place in a pure form, that non-equivalents are exchanged. Let us assume that each seller sells his commodity at 10 per cent above its value. Everything remains the same; what each one gains as a seller, he loses in turn as a buyer. Just as if the value of money had changed by 10 per cent. Likewise, if the buyers bought everything at 10 per cent below value.
 
 The assumption that surplus-value arises from a rise in prices presupposes that a class exists which buys and does not sell --- i.e., consumers and does not produce, which constantly receives money gratis. To sell commodities above their value to this class means merely to get back, by cheating, part of the money given away gratis. (Asia Minor and Rome.) Yet, the seller always remains the cheated one and cannot grow richer, cannot form surplus-value thereby.
 
@@ -258,7 +258,7 @@ Labour-power has an exchange-value which is determined, like that of all other c
 
 The minimum limit of the value of labour-power is the value of the physically indispensable means of subsistence. If the price of labour-power falls to this minimum, it falls below its value, since the latter presupposes normal, not stunted, quality of labour-power.
 
-The nature of labour implies that labour-power is consumed only after conclusion of the contract, and, as money is usually the means of payment for such commodities in all countries with the capitalist mode of production, the labour-power is paid for only after it is consumed. everywhere, therefore, the labourer gives credit to the capitalist.
+The nature of labour implies that labour-power is consumed only after conclusion of the contract, and, as money is usually the means of payment for such commodities in all countries with the capitalist mode of production, the labour-power is paid for only after it is consumed. Everywhere, therefore, the labourer gives credit to the capitalist.
 
 The process of consuming labour-power is at the same time the process of producing commodities and surplus-value and this consumption takes place outside the sphere of circulation.
 
@@ -379,7 +379,6 @@ Only with modern large-scale industry was this, and more, achieved; it broke dow
 >The five acts of 1802-33 were only nominal, since there were no inspectors. Only the Act of 18833 created a normal working-day in the four textile industries: from 5:30 a.m. to 8:30 p.m., during which time young persons from 13 to 18 years of age could be employed only 12 hours with 1.5 hours' pauses, children from 9 to 13 years of age only 8 hours, while night work of children and juveniles was prohibited.
 
 The relay system and its abuse for purposes of evasion.
-
 
 - Finally, the Act of 1844 --- which put women of all ages on the same basis as juveniles. Children limited to 6.5 hours; the relay system curbed. On the other hand, children permitted from 8 years on.
 - At last, in 1847, the tens-hours bill forced through for women and juveniles. The capitalists' efforts against it. A flaw in the Act of 1847 led to the compromise Act of 1850, which fixes the working day for juveniles and women --- 5 days of 10.5 hours, 1 day of 7.5 = 60 hours per week, and that between 6 a.m. and 6 p.m. Otherwise, Act of 1847 in force for children. The exception for the silk industry.
