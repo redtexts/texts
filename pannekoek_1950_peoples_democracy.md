@@ -1,8 +1,8 @@
 ---
-title:		People's Democracy
-author:		Pannekoek, Anton
-date:		1950
-description:	From Left no. 156, May 1950. From <https://www.marxists.org/archive/pannekoe/1950/05/peoples-democracy.htm>
+title: People's Democracy
+author: Pannekoek, Anton
+date: 1950
+description: From Left no. 156, May 1950. From <https://www.marxists.org/archive/pannekoe/1950/05/peoples-democracy.htm>
 ...
 
 ## 1

@@ -1,8 +1,8 @@
 ---
-title:		"Present Problems of the Workers' Movement: \"Discipline, the Principle Strength\""
-author:		Gauche Communiste de France
-date:		1947
-description:	"This text was published in French in Internationalisme 25 in August 1947, with another text, as part of a larger article (itself part of a series) titled \"Current Problems of the Workers' Movement.\" This French text is available at <http://archivesautonomies.org/spip.php?article1821>. The International Communist Current republished this text in English, with an introduction, in International Review 34, available online at <http://en.internationalism.org/node/2959>"
+title: "Present Problems of the Workers' Movement: \"Discipline, the Principle Strength\""
+author: Gauche Communiste de France
+date: 1947
+description: "This text was published in French in Internationalisme 25 in August 1947, with another text, as part of a larger article (itself part of a series) titled \"Current Problems of the Workers' Movement.\" This French text is available at <http://archivesautonomies.org/spip.php?article1821>. The International Communist Current republished this text in English, with an introduction, in International Review 34, available online at <http://en.internationalism.org/node/2959>"
 ...
 
 ## ICC Preface
