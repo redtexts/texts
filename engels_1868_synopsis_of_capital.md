@@ -1,4 +1,4 @@
---
+---
 title: Synopsis of Capital
 author: Engels, Friedrich
 date: 1868

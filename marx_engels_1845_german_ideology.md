@@ -1,4 +1,4 @@
---
+---
 title: The German Ideology, Part I
 author:
 - Marx, Karl
