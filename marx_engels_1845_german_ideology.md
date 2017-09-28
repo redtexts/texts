@@ -292,7 +292,9 @@ To the "community" as it appears in the ancient state, in feudalism and in the a
 
 #### *Why the ideologists turn everything upside-down.*
 
-Clerics, jurists, politicians. jurists, politicians (statesmen in general), moralists, clerics.
+Clerics, jurists, politicians.
+
+Jurists, politicians (statesmen in general), moralists, clerics.
 
 For this ideological subdivision within a class: 1) *The occupation assumes an independent existence owing to division of labour.* Everyone believes his craft to be the true one. Illusions regarding the connection between their craft and reality are the more likely to be cherished by them because of the very nature of the craft. In consciousness --- in jurisprudence, politics, etc. --- relations become concepts; since they do not go beyond these relations, the concepts of the relations also become fixed concepts in their mind. The judge, for example, applies the code, he therefore regards legislation as the real, active driving force. Respect for their goods, because their craft deals with general matters.
 
