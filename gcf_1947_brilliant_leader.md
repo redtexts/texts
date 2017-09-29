@@ -1,5 +1,5 @@
 ---
-title: "Present Problems of the Workers' Movement: Against the Concept of the "Brilliant Leader""
+title: "Present Problems of the Workers' Movement: Against the Concept of the \"Brilliant Leader\""
 author: Gauche Communiste de France
 date: 1947
 description: This text was published in French in Internationalisme 25 in August 1947, with other texts, as part of a larger article (itself part of a series) titled "Present Problems of the Workers' Movement." The International Communist Current republished this text in English in International Review 33, available online at <http://en.internationalism.org/ir/033/concept-of-brilliant-leader>. French original at <http://archivesautonomies.org/spip.php?article1821>
