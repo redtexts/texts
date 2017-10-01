@@ -524,7 +524,7 @@ And once again all this must be, not because it is so beautiful, or good, or her
 
 For this higher motive, and because the opposite tactics, parliamentary action, can but harm this higher cause, infinitely higher than the petty profit of parliamentary propaganda, for this higher motive the Left Wing rejects parliamentarism.
 
-You say that Comrade Liebknecht, if he yet lived, might work wonders in the Reichstag. We deny it. Politically he could not manoeuvre there, because all the bourgeois parties oppose us in one united front. And he could win the workers no better in parliament than outside it. On the other hand, the masses, to a very great extent, would leave everything to be done through his speeches, so that his parliamentary action would have a harmful effect^[The example of Comrade Liebknecht is in itself a proof that our tactics are right. BEFORE the revolution, when imperialism was as yet at the summit of power, and suppressed every movement by martial law, he could exercise an enormous influence through his protests in parliament; DURING the revolution this was so no longer. As soon , therefore, as the workers have taken their lot into their own hands, we must let go of parliamentarism.].
+You say that Comrade Liebknecht, if he yet lived, might work wonders in the Reichstag. We deny it. Politically he could not manoeuvre there, because all the bourgeois parties oppose us in one united front. And he could win the workers no better in parliament than outside it. On the other hand, the masses, to a very great extent, would leave everything to be done through his speeches, so that his parliamentary action would have a harmful effect^[The example of Comrade Liebknecht is in itself a proof that our tactics are right. BEFORE the revolution, when imperialism was as yet at the summit of power, and suppressed every movement by martial law, he could exercise an enormous influence through his protests in parliament; DURING the revolution this was so no longer. As soon, therefore, as the workers have taken their lot into their own hands, we must let go of parliamentarism.].
 
 ## Big Numbers of no Avail.
 
@@ -1173,4 +1173,4 @@ H. GORTER.
 
 	>"Destroy your Trade Unions, and form industrial unions, thus rendering your Party and your class strong internally".
 
-	Instead of this lesson, however, we only hear: "It will go with you as it did with us!". Is it not high time that, against these Moscow tactics , there should arise, all over Western Europe, one firmly organised, iron opposition? It is a question of life and death for the world revolution itself. And also for the Russian revolution.
+	Instead of this lesson, however, we only hear: "It will go with you as it did with us!". Is it not high time that, against these Moscow tactics, there should arise, all over Western Europe, one firmly organised, iron opposition? It is a question of life and death for the world revolution itself. And also for the Russian revolution.
