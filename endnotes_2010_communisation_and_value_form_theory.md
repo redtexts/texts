@@ -1,9 +1,8 @@
 ---
-title: Communisation and Value-Form Theory 
+title: Communisation and Value-Form Theory
 author: Endnotes
 date: 2010
-description: 
-keywords: "An article from the second issue of the Endnotes journal, elaborating on the background, emergence and connection between *Communisation* and *Value-Form Theory*, found [here](https://endnotes.org.uk/issues/2/en/endnotes-communisation-and-value-form-theory)."
+description: "An article from the second issue of the Endnotes journal, elaborating on the background, emergence and connection between communisation and value-form theory, found [here](https://endnotes.org.uk/issues/2/en/endnotes-communisation-and-value-form-theory)."
 keywords:
 - Communisation
 - Value-Form
