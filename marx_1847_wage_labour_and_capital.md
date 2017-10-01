@@ -337,4 +337,3 @@ Finally, in the same measure in which the capitalists are compelled, by the move
 But capital not only lives upon labour. Like a master, at once distinguished and barbarous, it drags with it into its grave the corpses of its slaves, whole hecatombs of workers, who perish in the crises.
 
 We thus see that if capital grows rapidly, competition among the workers grows with even greater rapidity -- i.e., the means of employment and subsistence for the working class decrease in proportion even more rapidly; but, this notwithstanding, the rapid growth of capital is the most favorable condition for wage-labour.
-

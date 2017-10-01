@@ -16,4 +16,3 @@ This development also renders the controversy of the parliamentarians in the mov
 The name **Council Communism** has been adopted by some groups and is used extensively in our literature. It should be used by all left communist groups who adhere to the international council communist movement. This new movement growing up in the new historical period in which we live, holds that the proletarian revolution is a class question and it devotes its efforts to aiding the working class to carry through its historical revolutionary role, a task in which the old labor movement failed.
 
 In contra-distinction to the old party form of organization, universally common to the parliamentary politicians in the old labor movement, the new labor movement holds that the soviets, the workers' councils are the real fighting organizations of the working class.
-

@@ -28,4 +28,3 @@ Again, Trotsky is at odds with Lenin. Bourgeois democracy, which Lenin termed th
 You see, the line is to overthrow bourgeois democracy, so claims Trotsky. And in order to overthrow it, the tactic employed is to defend it!!! Lenin, if he were alive, would laugh in his famous way of loud laughter. But aside from laughing, the workers must expose such Trotskyist reactionary formulas.
 
 G.S.
-

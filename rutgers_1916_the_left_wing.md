@@ -344,4 +344,3 @@ Freedom of speech and of criticism is the very fundamental democracy, and we hav
 There now is a beginning of action, however small as yet. Some of you may not like it at this moment, others perhaps would have preferred it in some other form. Don't bother about smaller details. Act; join; participate in discussions, in meetings, in demonstrations; give your backing, give your personality, and this will gradually develop into a strong group, an organized power capable not only to disorganize the government of the capitalist class, but to build up the organized "New World" of the workers. It is worth while to join and to try.
 
 Send $1.00 to P.O. Box 23, Roxbury, Boston, Mass, for a yearly subscription to the new paper, _The Internationalist Weekly_, and join the League.
-

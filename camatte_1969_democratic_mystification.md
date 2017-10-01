@@ -123,4 +123,3 @@ The democratic principle in reality is only the acceptance of a given fact: the 
 This thesis often appears in the form: proletarian democracy is not bourgeois democracy, and one will talk of direct democracy to show that while the second needs a break, a duality (delegation of powers), the first denies this. The future society is thus defined as being the realisation of direct democracy.
 
 This is only a negative negation of bourgeois society, and not its positive negation. It still wants to define communism as a mode of organisation that would be more adequate to various human manifestations. But communism is the affirmation of a being, the true Gemeinwesen of man. Direct democracy appears to be a means for achieving communism. However communism does not need such a mediation. It is not a question of having or of doing, but of being.
-

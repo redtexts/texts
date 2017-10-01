@@ -19,4 +19,3 @@ This text doesn't pretend to deal with the topic of democracy in an exhaustive w
 The communist movement, the movement of self-dissolution of the proletariat, and consequently of all classes, is the negation in action of democracy, politics and the state.
 
 The human community, the reconciliation of human beings with their activity, and hence with themselves and others makes all these mediations useless.
-

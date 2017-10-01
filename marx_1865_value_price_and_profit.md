@@ -325,4 +325,3 @@ After this very long and, I fear, tedious exposition, which I was obliged to ent
 * _Firstly_. A general rise in the rate of wages would result in a fall of the general rate of profit, but, broadly speaking, not affect the prices of commodities.
 * _Secondly_. The general tendency of capitalist production is not to raise, but to sink the average standard of wages.
 * _Thirdly_. Trades Unions work well as centers of resistance against the encroachments of capital. They fail partially from an injudicious use of their power. They fail generally from limiting themselves to a guerilla war against the effects of the existing system, instead of simultaneously trying to change it, instead of using their organized forces as a lever for the final emancipation of the working class that is to say the ultimate abolition of the wages system.
-

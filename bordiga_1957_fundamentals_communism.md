@@ -586,4 +586,3 @@ In the 1891 programme, in a passage which must have been dictated by Engels, it 
 The time is ripe for the monstrous productive forces of capitalism to be prostrated before the dictatorial control of production and consumption. It is merely a question of revolutionary force for that class which, even when its living standards are rising (which Marx, as we have shown above, never denied) is constantly weighed down by insecurity and uncertainty about the future. It is an uncertainty which looms over the whole of society as well, and a few decades from now it will manifest as an alternative between global crisis and war -- or international communist revolution.
 
 The proletarian class will need to equip itself with the necessary force to carry out their historic task. First, it will involve a reconstruction -- a reinstating -- of revolutionary theory, then it will be a matter of rebuilding a Communist Party on an international basis; a party without frontiers.
-

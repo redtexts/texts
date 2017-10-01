@@ -97,4 +97,3 @@ JJ.
 * ICC pamphlet _The Decadence of Capitalism_.
 * _International Review_ no 31: "Machiavellianism, the consciousness and unity of the bourgeoisie."
 * _International Review_ no 66: "The massacres and crimes of the 'great democracies.'"
-

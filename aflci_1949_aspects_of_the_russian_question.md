@@ -67,4 +67,3 @@ What Lenin and the Bolsheviks imagined has com [sic] to pass.
 The Russian State under Stalin expands by export of capital, military conquests, land grabbing and propaganda pressure. It builds mixed capitalist corporations thruout [sic] Europe i.e., with Russian state bank representatives and native boards of directors. Russia employs her military occupation and communist parties to reenforce [sic] her state capitalist rule in order to produce the capital goods on which depend her imperial position.
 
 The revival of revolutionary communism on an international scale demands an understand [sic] of all the essential aspects of the Russian question. The princeples [sic] flowing from that understanding will eventually unite all revolutionary elements of society on the platform of revolutionary communism.
-

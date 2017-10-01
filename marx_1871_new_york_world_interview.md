@@ -68,4 +68,3 @@ The professor laughed, chuckled a little I fancied, at the thought that we were 
 **Dr. M.**: I am not so sanguine on that point as you. The English middle class has always shown itself willing enough to accept the verdict of the majority, so long as it enjoyed the monopoly of the voting power. But, mark me, as soon as it finds itself outvoted on what it considers vital questions, we shall see here a new slaveowners's war.
 
 I have given you, as well as I can remember them, the heads of my conversation with this remarkable man. I shall leave you to form your own conclusions. Whatever may be said for or against the probability of its complicity with the movement of the Commune, we may be assured that in the International Association, the civilized world has a new power in its midst, with which it must soon come to a reckoning for good or ill.
-

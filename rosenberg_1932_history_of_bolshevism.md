@@ -1277,4 +1277,3 @@ _Translator's Note_: In his bibliography Professor Rosenberg refers to German tr
 * Lenin, _Staat und Revolution_, translated under the title _The State and Revolution_.
 * Lenin, _Rede über die Revolution von 1905_, translated under the title _The Revolution of 1905_.
 * N Krupskaya, _Erinnerungen an Lenin_, translated under the title _Memories of Lenin_.
-

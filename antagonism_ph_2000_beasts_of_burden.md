@@ -412,4 +412,3 @@ Animal liberation may have been written out of the personal biographies and poli
 * Wangford, Hank (1995) The Lost Cowboys.
 * Wright, Steve (1996), Negri's Class Analysis: Italian Autonomist Theory in the Seventies in Reconstruction 8, Winter/Spring 1996.
 * Zerzan, John (1994), Future primitive and other essays.
-

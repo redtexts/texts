@@ -16,4 +16,3 @@ description: A platform for the so-called American Fraction of the Left Communis
 9. The defeat of the bourgeoisie, on a world scale, accomplished through the civil war of the proletariat, under the guidance and leadership of the Revolutionary International Party, will be the beginning of the Socialist Reorganization of Society under the Dictatorship of the Proletariat.
 10. The Dictatorship of the Proletariat, will serve as the transition to the classless society of Socialism, where the State will cease to exist, and Government and Tyranny, the history of the past.
 11. The Dictatorship of the Proletariat is not to be understood as a defense of the Soviet Union. On the contrary, the Dictatorship of the Proletariat will arise in Russia, which is now an Imperialist State, through Socialist Revolution.
-

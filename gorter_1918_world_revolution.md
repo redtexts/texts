@@ -1294,4 +1294,3 @@ THE END.
 	The reason is that the monopolistic banking interests in Germany, England, and the United States, are all-powerful, and rule the whole world. It is characteristic that, in regard to this matter, Capitalism is in a blind alley.
 
 	This question, as so many others, can only be solved by Socialism.
-

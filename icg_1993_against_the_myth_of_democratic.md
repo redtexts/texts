@@ -184,4 +184,3 @@ Each time the bourgeoisie faces a difficult situation, far away from its democra
 In this remodelled democracy (even if it has been rotten for a long time) the liberal democrats, the syndicalists, the Stalinists, the Trotskyists, the Maoists, the socialists will have the opportunity to meet and congratulate each other on the parliament lobbies: "The rights of citizenship have been saved... The workers can return to their work and they will soon enjoy their civil rights."
 
 One need not reach a situation of total political crisis of bourgeois society to understand all this. Nevertheless, it is in such extreme situation that the proletariat will dramatically face the alternative: either accept democracy and counterrevolutionary disaster, or throw away democracy as it has been done in only one historical but limited example: the insurrection of October 1917 in Russia.
-

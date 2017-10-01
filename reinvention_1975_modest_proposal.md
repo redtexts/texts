@@ -186,4 +186,3 @@ Charles Lutwidge, October 1975
 ## Social Revolution afterword
 
 We are reproducing "A Modest Proposal..." because as far as we know it has become unavailable -- in this country at least. The article describes some social and political perspectives which we generally agree with: the alienation which pervades all social activity today, even that of revolutionary groups; commodity production and its destructive effects socially; the necessity of useless bureaucracy to a system where profitable uselessness comes before unprofitable necessity; the presence of "The Left" and their contribution to the perpetuation of capitalism by encouraging trends towards the centralisation of control in the hands of the state; how the communist movement showed itself in the past, how it was crushed and how it has reappeared; the importance of authoritarian conditioning; and an outline of how the Bad Old Days might end.
-

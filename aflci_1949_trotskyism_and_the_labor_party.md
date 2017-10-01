@@ -37,4 +37,3 @@ In other words, they spread the lie that counter-revolution can be _reformed_ in
 We must characterize Trotskyism (both of the Cannon and Shactman varieties) as an obstacle on the Road to Proletarian Revolution, because it advocates a political instrument whose only aim is to save a dying system, capitalism; because it does not paint the instrumentality of the Labor Party in its true light; because it (Trotskyism) is well informed on the treacherous role of labor parties; yet, because of a fatal political weakness (lack of understanding of the role of a revolutionary party and consequent fear of the tasks involved) fears isolation and passes to the opposite extreme, the policy of liquidation into the camp of the Capitalist Labor Front.
 
 The program by contrast, of International Left Communism, is the only base upon which a revolutionary party and International can be constructed.
-

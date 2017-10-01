@@ -36,4 +36,3 @@ We are writing to you this letter for the reason that we believe it is our duty 
 Comradely yours,
 
 The New York Group of the Italian Section of the International Left Fraction of Communism
-

@@ -2199,4 +2199,3 @@ His name, and his work, will re-echo down the centuries.
 1: '_Sous cette forme l'ouvrage sera plus accessible à la classe ouvrière et pour moi cette considération l'emporte sur toute autre_.'
 
 2: '_Ce qu'il y a de certain, c'est que moi je ne suis pas Marxiste_.'
-

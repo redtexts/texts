@@ -116,4 +116,3 @@ True, large numbers became members of the Socialist party, because they looked u
 Of course, this will not last forever. Government and bourgeoisie are now so friendly to the workers only because they need them badly, because in so dangerous a war they must rely on the good opinion of the masses. Soon enough this condition will change and when the necessities of the government are past, the persecutions will begin again. But when that comes the party cannot simply turn back again to its old ways. The scars of this unnatural war compact will remain.
 
 It is not impossible that a portion of the party will abandon permanently the class struggle and that sharp inner conflicts and divisions will arise out of it. But what course the labor movement will take in the future cannot be determined until the results of the present war are clearly seen.
-

@@ -50,4 +50,3 @@ We must gird our loins for the continuing class struggle and take measures to in
 In this period such a party would strengthen and guide the fighting fractions in the unions and mass organizations, uniting tenants and consumers groups with the workers at the point of production. The party would arouse the farmworkers to the need for unity with the city workers on a program of revolutionary Socialism.
 
 This is the road upon which the American workers can free themselves from the four fears; unemployment, war, depression and Fascism.
-

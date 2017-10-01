@@ -2130,4 +2130,3 @@ If everything rests on the immediate activity of the proletariat, why do we have
 Not everything is in the immediate activity of the proletariat, it is just that everything must be connected to it, that everything must be put into perspective and in resonance. Immediate activity is only communist by virtue of its capacity to go beyond itself.
 
 The communist program is a necessity, even if it is momentarily separated from the proletariat as a whole. It is not outside of its movement but without an anticipation, a guide. Its truth resides in its ability to be dissolved, that is, realized by the class. It is merely the program of proletarian activity.
-

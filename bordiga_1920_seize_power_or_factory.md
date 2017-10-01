@@ -22,4 +22,3 @@ It is rumoured that factory councils, where they were in existence, functioned b
 It would be better if these endless and useless adventures that are daily exhausting the working masses were all channelled, merged and organized into one great, comprehensive upsurge aimed directly at the heart of the enemy bourgeoisie.
 
 Only a communist party should and would be able to carry out such an undertaking. At this time, such a party should and would have no other task than that of directing all its activity towards making the working masses increasingly conscious of the need for this grand political attack -- the only more or less direct route to the take-over of the factory, which if any other route is taken may never fall into their hands at all.
-

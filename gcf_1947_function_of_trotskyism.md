@@ -113,4 +113,3 @@ But trying to get round the difficulty by trying to find possible allies, even t
 This is effectively the function of the Trotskyist movement today.
 
 Marc
-
