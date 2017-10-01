@@ -204,7 +204,6 @@ On the purely political level, May 1937 gave rise to what, a few months before, 
 
 # War Devours The Revolution
 
-
 Power does not come any more from the barrel of a gun than it comes from a ballot box. No revolution is peaceful, but its "military" dimension is never central. The question is not whether the proles finally decide to break into the armouries, but whether they unleash what they are: commodified beings who no longer can and no longer want to exist as commodities, and whose revolt explodes capitalist logic. Barricades and machine guns flow from this "weapon". The greater the change in social life, the less guns will be needed, and the less casualties there will be. A communist revolution will never resemble a slaughter: not from any non-violent principle, but because revolution subverts more (soldiers included) than it actually destroys.
 
 To imagine a proletarian front facing off a bourgeois front is to conceive the proletariat in bourgeois terms, on the model of a political revolution or a war (seizing someone's power, occupying their territory). In so doing, one reintroduces everything that the insurrectionary movement had overwhelmed: hierarchy, a respect for specialists, for knowledge that Knows, and for techniques to solve problems -- in short for everything that plays down the role of the common man. In Spain, from the fall of 1936 onward, the revolution dissolved into the war effort and into a kind of combat typical of states: a war of fronts. Soon the working-class "militia man" evolved into a "soldier".
