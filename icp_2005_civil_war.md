@@ -202,11 +202,11 @@ In the first place, the two camps entered into the war unprepared: the regular a
 
 The actual number of soldiers deployed by the two sides during the war is a matter of some disagreement, but the following figures are probably near enough:
 
-| Date      | North    | South   |
----------------------------------|
-1861, July  | 186,000  | 150,000 |
-1862, June  | 918,000  | 675,000 |
-1865, March | 990,000  | 175,000 |
+Date         North    South
+----         -----    -----
+1861, July   186,000  150,000
+1862, June   918,000  675,000
+1865, March  990,000  175,000
 
 According to these figures the North's numerical superiority was, at the start, fairly narrow, and was more than counter-balanced by other factors. First and foremost there was the fact that the South was fighting a defensive war, with shorter lines of communication and the possibility of moving forces through internal borders; it also had better knowledge of the terrain; and there was the fact that the Southerner, who lived in the countryside, was better at improvising as a soldier than the worker, who didn't know how to shoot or ride a horse (although the North took advantage of a large number of immigrants, mainly Germans, who were refugees from the revolutions of 1848-9). Furthermore the Southerners were initially better led, thanks to an entrenched military tradition in the South, and they would find excellent commanders right from the start (Lee, Johnston, Jackson and Forrest, etc). The North, on the other hand, had to try out, and then get rid of, several commanders-in-chief before finding the winning team in Grant, Sherman and Sheridan.
 

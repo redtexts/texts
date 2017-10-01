@@ -178,51 +178,51 @@ Besides, anyone must be struck at first glance in the table above by the fact th
 
 In 1913 [Germany imported and exported as follows -- red texts]
 
-Category                  | Imported (million marks) | Expor. (million marks) |
-------------------------------------------------------------------------------|
-Aniline, other dyestuffs  | --                       | 142                    |
-Barley                    | 390                      | --                     |
-Calf skins                | 95                       | --                     |
-Cattle hides              | 322                      | --                     |
-Cattle skins              | --                       | 81                     |
-Chilean nitre             | 172                      | --                     |
-Clothing                  | --                       | 132                    |
-Coal                      | --                       | 516                    |
-Coke                      | --                       | 147                    |
-Copper goods              | --                       | 130                    |
-Copper ore                | 335                      | --                     |
-Cotton goods              | 72                       | 446                    |
-Cotton, raw               | 607                      | --                     |
-Cotton yarn               | 116                      | 61                     |
-Eggs                      | 194                      | --                     |
-Iron ingots               | --                       | 205                    |
-Iron ore                  | 227                      | --                     |
-Iron products             | --                       | 652                    |
-Iron tubing               | --                       | 84                     |
-Iron wire                 | --                       | 76                     |
-Jute                      | 94                       | --                     |
-Lamb, sheep, goat skins   | 73                       | --                     |
-Leather goods             | --                       | 114                    |
-Leather uppers            | --                       | 114                    |
-Lignite                   | 69                       | --                     |
-Machines of all kinds     | 80                       | 680                    |
-Paper, paper products     | --                       | 263                    |
-Pig iron                  | --                       | 65                     |
-Pine planks               | 135                      | --                     |
-Pine, raw                 | 97                       | --                     |
-Rails, etc                | --                       | 73                     |
-Raw silk                  | 158                      | --                     |
-Rubber                    | 147                      | --                     |
-Rubber goods              | --                       | 57                     |
-Sheet iron                | --                       | 102                    |
-Silk goods                | --                       | 202                    |
-Skins for fur             | 188                      | 225                    |
-Toys                      | --                       | 103                    |
-Wheat                     | 117                      | --                     |
-Wool, combed              | 61                       | --                     |
-Woolen goods              | 43                       | 271                    |
-Woolen yarn               | 108                      | 91                     |
-Wool, raw                 | 413                      | --                     |
+Category                 Imported (million marks) Exported (million marks)
+--------                 ------------------------ ------------------------
+Aniline, other dyestuffs --                       142
+Barley                   390                      --
+Calf skins               95                       --
+Cattle hides             322                      --
+Cattle skins             --                       81
+Chilean nitre            172                      --
+Clothing                 --                       132
+Coal                     --                       516
+Coke                     --                       147
+Copper goods             --                       130
+Copper ore               335                      --
+Cotton goods             72                       446
+Cotton, raw              607                      --
+Cotton yarn              116                      61
+Eggs                     194                      --
+Iron ingots              --                       205
+Iron ore                 227                      --
+Iron products            --                       652
+Iron tubing              --                       84
+Iron wire                --                       76
+Jute                     94                       --
+Lamb, sheep, goat skins  73                       --
+Leather goods            --                       114
+Leather uppers           --                       114
+Lignite                  69                       --
+Machines of all kinds    80                       680
+Paper, paper products    --                       263
+Pig iron                 --                       65
+Pine planks              135                      --
+Pine, raw                97                       --
+Rails, etc               --                       73
+Raw silk                 158                      --
+Rubber                   147                      --
+Rubber goods             --                       57
+Sheet iron               --                       102
+Silk goods               --                       202
+Skins for fur            188                      225
+Toys                     --                       103
+Wheat                    117                      --
+Wool, combed             61                       --
+Woolen goods             43                       271
+Woolen yarn              108                      91
+Wool, raw                413                      --
 
 But let us examine this "microcosm" rather more closely, in its "ever more perfect" self-satisfaction. Let us imagine that by some kind of social and political catastrophe the German "national economy" were actually cut off from the rest of the world and left to its own devices. What picture would this then present?
 
@@ -1084,4 +1084,3 @@ In this way, one continent after another comes inextricably under the rule of ca
 At the same time, the development of the world economy also leads to other important phenomena, important even for capitalist production itself. As we said, there are two stages in the intrusion of the rule of European capital into non-European countries: first the entry of trade, with the indigenous people being drawn into commodity exchange, and to some degree also the transformation of the existing forms of production of the indigenous peoples into commodity production; then the expropriation of these peoples from their land, in one form or another, i.e. from their means of production. These means of production are transformed into capital in the hands of the Europeans, while the indigenous peoples are transformed into proletarians. These two steps, however, are sooner or later followed by a third: the founding of capitalist production in the colonial country itself, either by emigrant Europeans or by enriched indigenous individuals. The United States of America, which was only populated by English and other European emigrants once the native redskins had been exterminated in a long war, first formed an agricultural hinterland of capitalist Europe, supplying raw materials such as cotton and grain for English industry, and customers for industrial products of every kind from Europe. In the second half of the nineteenth century, however, the United States developed its own industry, which not only displaced imports from Europe, but soon presented a tough competition to European capitalism in Europe itself, as well as on other continents. In India, English capitalism has similarly been faced with dangerous competition from an indigenous textile industry and others. Australia has embarked on the same path of development from a colonial country into a country of capitalist industry. In Japan, an indigenous industry developed already with the first step -- under the impulse of foreign trade -- and preserved Japan from partition as a European colony. In China the process of fragmentation and plundering of the country by European capitalism has been complicated by China's effort, with the aid of Japan, to found its own capitalist production as a defence against the European, though this attempt also leads to increased and complicated sufferings for its population. In this way, not only does the rule and command of capital spread over the whole earth by the creation of a world market, but the capitalist mode of production itself spreads steadily across the whole earth. This however means that the need of production to expand comes into an ever more unhappy relationship with its terrain of expansion, its outlet opportunities. It is the innermost need of capitalist production, as we have seen, the very law of its existence, that it should have the possibility of not remaining stable but extending ever more widely and ever more rapidly, i.e. producing ever greater masses of commodities, in ever larger factories, and ever more rapidly, with ever better technical means. This expansion possibility of capitalist production knows no inherent limits, since there are no limits to technological progress and hence to the productive powers of the earth. But this need for expansion does come up against quite particular limits, i.e. those of the interest of capitalist profit. Production and its expansion only have a sense if they yield at least the "customary" average profit. Whether this is the case depends on the market, i.e. on the relationship between effective demand on the part of consumers, and the amount of commodities produced along with their prices. The interest of capitalist profit requires on the one hand an ever more rapid and greater production, thereby creating of itself at each step market limitations that stand in the way of the impetuous expansive pressure of production. The result of this, as we have seen, is the unavoidability of industrial and trade crises, which periodically balance the relationship between the inherently unbounded, limitless capitalist pressure of production and the barriers to capitalist consumption, and make possible the continued existence of capitalism and its further development.
 
 Yet the more countries develop a capitalist industry of their own, the greater is the need and possibility for expansion of production, while the smaller in relation to this is the possibility of expansion due to market barriers. If we compare the leaps by which English industry grew in the 1860s and 70s, when England was still the leading capitalist country on the world market, with its growth in the last two decades, since Germany and the United States have significantly displaced England on the world market, it is clear that growth has become much more slow in relation to the previous period. But what was the particular fate of English industry unavoidably faces German and North American industry too, and eventually the industry of the whole world. Incessantly, with each step of its own further development, capitalist production is approaching the time when its expansion and development will be increasingly slow and difficult. Of course, capitalist development still has a good way to go, as the capitalist mode of production proper still represents only a very small fraction of total production on earth. Even in the oldest industrial countries of Europe, there are still alongside large industrial firms very many small and backward artisanal workshops, and above all, much the greater part of agricultural production is not capitalist but still pursued along peasant lines. There are also whole countries in Europe in which large-scale industry is hardly developed, local production still bearing a principally peasant and artisanal character. And finally, in the other continents, with the exception of the northern part of America, capitalist production sites are only small and scattered points, while whole immense expanses of land have in part not even made the transition to simple commodity production. Of course, the economic life of all these strata of society and countries that do not produce capitalistically, both in Europe and elsewhere, is dominated by capitalism. The European peasant may still conduct the most primitive economy on his holding, but he is dependent at every turn on the big-capitalist economy, on the world market, with which he has been brought into contact by trade and by the tax policy of the large capitalist states. In the same way, the most primitive countries outside of Europe have been brought by world trade and colonial policy under the sway of European and North American capitalism. The capitalist mode of production is still able to achieve powerful expansion by everywhere suppressing all more backward forms of production. In generally, the movement, as we have seen, is in this direction. But precisely through this development capitalism becomes caught in a fundamental contradiction. The more that capitalist production takes the place of more backward forms, the more tightly the limits placed on the market by the interest of profit constrict the need of already existing capitalist firms to expand. The matter becomes clear if we imagine for a moment that the development of capitalism has proceeded so far that on the whole earth everything that people produce is produced capitalistically, i.e. only by private capitalist entrepreneurs in large firms with modern wage-workers. Then the impossibility of capitalism clearly appears.
-
