@@ -1563,7 +1563,7 @@ The members of the teaching profession, in order to assure their own well-being,
 
 Religion: Some of those "of little faith" claim that the communist revolution will make religion disappear. Even the Lord's ability to look after his own affairs is begrudged to him. As for us, we will let Him look after His own affairs.
 
-## Rupture	
+## Rupture
 
 There will be no transitional stage between capitalism and communism, but rather a stage of rupture in which revolutionaries must seek to implement irreversible measures.
 

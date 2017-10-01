@@ -209,7 +209,7 @@ Among the other matters which Bordiga saw the central administration of world so
 
 ### Free Distribution and Social Consumption
 
-In socialism, said Bordiga, the central administration, acting on behalf of and in the best interest of human society as a whole, would not only decide what should be produced; it would also decide how what had been produced should be used. Those at workplace level who had produced goods would thus have no say as to how those goods should be used - since if they did, this would mean they would have a property right over them and then society would not be socialism -	but would immediately make them available to society to use as it decided:
+In socialism, said Bordiga, the central administration, acting on behalf of and in the best interest of human society as a whole, would not only decide what should be produced; it would also decide how what had been produced should be used. Those at workplace level who had produced goods would thus have no say as to how those goods should be used -- since if they did, this would mean they would have a property right over them and then society would not be socialism -- but would immediately make them available to society to use as it decided:
 
 >Society is immediately the owner of any product of labour supplied by each of its components, who have no right over what they have produced (1956-7)^[Ibid, p. 166.].
 
