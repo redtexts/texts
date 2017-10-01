@@ -40,7 +40,7 @@ More controversially, I now want to talk about democracy "within in our own rank
 
 What does democratising a struggle mean in practice? It means things like:
 
-1. **Majoritarianism** - Nothing can be done unless a majority agree to it.
+1. **Majoritarianism** -- Nothing can be done unless a majority agree to it.
 2. **Separation between decision making and action** -- Nothing can be done until everybody has had a chance to discuss it. This can be seen as analogous to the separation between the legislative and executive arms of a democratic state. It's no coincidence that discussions within democratic organisations often resemble parliamentary debate!
 3. **Embodiment of the view that no one can be trusted** -- Democratic structures take the "war of all against all" for granted, and institutionalise it. Delegates always have to be revocable so they won't pursue their own hidden agenda which, of course, everyone has.
 

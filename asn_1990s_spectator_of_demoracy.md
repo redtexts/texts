@@ -10,13 +10,13 @@ keywords: Democracy
 
 >"Fetters and headsmen were the coarse instruments which tyranny formerly employed; but the civilization of our age has perfected despotism itself, though it seemed to have nothing to learn." - de Tocqueville, _Democracy in America_ (pg.97)
 
-America really is entering a period of greater democracy. Bill Clinton's election campaign has never stopped. Polls are still being taken about his latest struggles. From the New Hampshire primary to the health care reform campaign, TV has tried to draw us into his endless fights with other mighty bureaucrats - from George Bush to Robert Dole to Saddam Hussein. Even more, we are expected to cheer Clinton in fights against us. "How well do you think that Clinton succeeded in communicating the need for sacrifice to the American people."
+America really is entering a period of greater democracy. Bill Clinton's election campaign has never stopped. Polls are still being taken about his latest struggles. From the New Hampshire primary to the health care reform campaign, TV has tried to draw us into his endless fights with other mighty bureaucrats -- from George Bush to Robert Dole to Saddam Hussein. Even more, we are expected to cheer Clinton in fights against us. "How well do you think that Clinton succeeded in communicating the need for sacrifice to the American people."
 
 The 1992 elections had the biggest turnout of a presidential election in twenty years. From elections to polls to talk-radio to the "internet," never has the average citizen had so many chances for a voice in their government. But this hasn't helped the hapless citizen. The average, passive voter probably is poorer and has less control over his or her life than ever before.
 
 To understand how people lose this game, we have to look at how the game is really played.
 
-In pro basketball, fouling is part of the game. Some teams play with a little more finesse, other use a little more brute strength. The honest fan doesn't look down on the player who fouls, only the player who gets caught. So the player is allowed to do anything - except to question the real rules of the game. If Kurt Rambus (a "physical player" from a few years back) said at a press conference "Yes, I intend to foul people, that's my job," he could be expelled from the league.
+In pro basketball, fouling is part of the game. Some teams play with a little more finesse, other use a little more brute strength. The honest fan doesn't look down on the player who fouls, only the player who gets caught. So the player is allowed to do anything -- except to question the real rules of the game. If Kurt Rambus (a "physical player" from a few years back) said at a press conference "Yes, I intend to foul people, that's my job," he could be expelled from the league.
 
 American Democracy works the same way. If we play the game, we can question everything except the real rules of the game. But here the game is something that dominates our lives.
 
@@ -28,7 +28,7 @@ Poll takers constantly ask about OJ Simpson's murder trial, the best way to make
 
 We attack democracy as such, we don't want "real democracy" instead of "fake democracy." Today's system of vacuum-packed choices is the flip-side of the market perfecting itself. The progress of exchange, of capital, is also the creation of capital's own model of thinking.
 
-All forms of democratic ideology appeal to a model of human behavior that implies each person is wholly separate social agent who only affects others in fixed, definable ways. Perfect democracy - constant polling, an almost permanent election campaign - merely weighs each impulse in the market place of ideas.
+All forms of democratic ideology appeal to a model of human behavior that implies each person is wholly separate social agent who only affects others in fixed, definable ways. Perfect democracy -- constant polling, an almost permanent election campaign -- merely weighs each impulse in the market place of ideas.
 
 Democracy is the language of "common sense" in a world where capitalism controls people's senses. It defends the right, for example, for a man to shout cat-calls at a woman because that man's actions are simply "free speech" not connected to any social action.
 
@@ -48,7 +48,7 @@ But this is because the marketplace of ideas works against us. But is this becau
 
 The game of letting the ruled participate in their own exploitation not new. The present subtle switch from George Bush's upper-class style to Bill Clinton's democratic style is a counter-part to the rise of the mega-capitalists. The eighties ended with stock market crashes that heralded the end of junk bonds as a strategy for total capital to expand. The economy could no longer be artificially expanded by the easy-money financial manipulations of Michael Milken, George Bush, Paul Volker and Company.
 
-Instead of artificially expanding, it is now sucking all resources into it's empty center. The faction of capitalists at the very top are the billionaires - financiers like Adnan Khoshaggi, entrepreneurs like Bill Gates and a host of invisible characters. This small group had their wealth and power tremendously increased by the expansion of financial manipulations and electronic world markets. Currency and "derivative" speculation had expanded until today they involve trillions of dollars changing hands on a weekly basis. This game uses and expands the power of this ultra-rich class.
+Instead of artificially expanding, it is now sucking all resources into it's empty center. The faction of capitalists at the very top are the billionaires -- financiers like Adnan Khoshaggi, entrepreneurs like Bill Gates and a host of invisible characters. This small group had their wealth and power tremendously increased by the expansion of financial manipulations and electronic world markets. Currency and "derivative" speculation had expanded until today they involve trillions of dollars changing hands on a weekly basis. This game uses and expands the power of this ultra-rich class.
 
 As today's crisis system moves to marshal every possible force in its defense, uses our choices about how best to be exploited against us. This system is the dictatorship of the commodity, the world market and of the billionaires. But simultaneously it is the rule of democracy. Once all action and every person can be translated into empty choices, those choices can be exchanged with each other like dollars or spectacular images.
 
@@ -58,7 +58,7 @@ Democracy became the dominant ideology right after "tight-money"/slow growth bec
 
 The financial capitalists' power depends on the expansion of an abstract chunk of money. So democracy is an ideal strategy. The financial capitalist don't care whether they invest in defense contracting, prisons, computers to track drug-offenders, or for-profit hospitals.
 
-Thus the ruling party switched from the party of corruption - the republicans under Bush, to the party of participation - the Democrats under Clinton. But naturally democracy implies many more switches after this.
+Thus the ruling party switched from the party of corruption -- the republicans under Bush, to the party of participation -- the Democrats under Clinton. But naturally democracy implies many more switches after this.
 
 ## Historical Democracy
 
@@ -114,7 +114,6 @@ Workers must seize control of their workplace or their neighborhood. Not to mana
 
 The passive of today accept democracy more than ever. This weakness may be partially offset by the tremendous willingness of the system's propagandists to rely on raw democracy to accomplish its goals. Freedom of choice is no longer only given as a concession but is pushed constantly as a weapon.
 
-At the point when revolutionaries realize that they have nothing to lose from the destruction of this society, they may realize the mirage of it's democracy. The LA riots were the most undemocratic action imaginable - absolutely no permission was ever asked by those who looted, either from authorities or from unions or from workers councils. Still there was no conscious critique of democracy in that short time in LA.
+At the point when revolutionaries realize that they have nothing to lose from the destruction of this society, they may realize the mirage of it's democracy. The LA riots were the most undemocratic action imaginable -- absolutely no permission was ever asked by those who looted, either from authorities or from unions or from workers councils. Still there was no conscious critique of democracy in that short time in LA.
 
 So we can imagine many more insurrections, like Paris 68, where masses with many democratic and other bourgeois illusions act in a practically communist manner. Here, if the word "democracy" is used by people to describe reconquering their own lives, self-conscious communists wouldn't mindlessly attack it. Rather, an anti-democratic minority would spell-out the practical actions that are necessary to achieve a new society and show how little formal democracy has to do with them. In those conditions, an anti-democratic minority is in a good position to fight the mystifications that have served as breaks on the earlier movements.
-
