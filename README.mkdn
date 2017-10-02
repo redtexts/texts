@@ -44,8 +44,8 @@ following "defects":
 - All headings should by [ATX headings](http://spec.commonmark.org/0.28/#atx-headings)
   (ie. starting with one or more '#''s, instread of being underlined).
 - All documents should be proofread for
-- typos/[scannos](https://en.wiktionary.org/wiki/scanno), broken
-- lines, strange capitalization, etc.
+  typos/[scannos](https://en.wiktionary.org/wiki/scanno), broken lines,
+  strange capitalization, etc.
 - YAML Metadata blocks should always be placed at the top of the files, 
   and contain at least the fields `title`, `author`, `data` and `description`. The `keywords`
   field is optional. `author` and `keywords` can contain more than one
