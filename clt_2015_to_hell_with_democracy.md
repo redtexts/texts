@@ -2,7 +2,7 @@
 title: To Hell with Democracy?
 author: Communist League of Tampa
 date: 2015
-description: Written by Donald Parkinson for the Communist League of Tampa's blog, <https://communistleaguetampa.org/2015/08/28/to-hell-with-democracy/>
+description: Written by Donald Parkinson for the Communist League of Tampa's blog, <https://communistleaguetampa.org/2015/08/28/to-hell-with-democracy/>.
 keywords: Democracy
 ...
 

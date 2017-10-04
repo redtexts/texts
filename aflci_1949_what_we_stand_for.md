@@ -2,7 +2,7 @@
 title: What We Stand For
 author: American Fraction of the Left Communist International
 date: 1949
-description: A platform for the so-called American Fraction of the Left Communist International. It was written by D.A. and appeared in the January-February 1949 issue of International Bulletin. This issue and others (which also contain this platform) are available on archive.org
+description: A platform for the so-called American Fraction of the Left Communist International. It was written by D.A. and appeared in the January-February 1949 issue of International Bulletin. This issue and others (which also contain this platform) are available on archive.org.
 ...
 
 1. Our conception of the world and the society proper to it is that of Marx's scientific socialism.

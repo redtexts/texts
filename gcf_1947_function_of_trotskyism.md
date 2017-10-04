@@ -2,7 +2,7 @@
 title: The Function of Trotskyism
 author: Gauche Communiste de France
 date: 1947
-description: This text was written by Marc (Chirik?) for the September 1947 issue of Internationalisme. It was published in English, along with footnotes and another GCF article on Trotskyism, under the title "What distinguishes revolutionaries from Trotskyism?" in the International Communist Current's International Review 139 in 4th quarter 2009
+description: This text was written by Marc (Chirik?) for the September 1947 issue of Internationalisme. It was published in English, along with footnotes and another GCF article on Trotskyism, under the title "What distinguishes revolutionaries from Trotskyism?" in the International Communist Current's International Review 139 in 4th quarter 2009.
 keywords: Trotsky
 ...
 

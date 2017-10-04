@@ -2,7 +2,7 @@
 title: "Capitalist Democracy: A Contrast Between the Position of Lenin and That of Trotsky"
 author: American Fraction of the Left Communist International
 date: 1948
-description: "Written by \"G.S.\" in the March 1948 issue of International Bulletin, a publication of the so-called American Fraction of the Left Communist International"
+description: "Written by \"G.S.\" in the March 1948 issue of International Bulletin, a publication of the so-called American Fraction of the Left Communist International."
 ...
 
 Without fail, all the corrupt "labor" leaders and hirelings of the bourgeoisie justify their treachery by invoking the names of Marx, Lenin or other dead revolutionary leaders. This is made possible because the valiant fighters for the cause of the working class are not able to rise from the grave and shout: Messieurs Blums, Stalins, Trotskys, you lie!!! But whereas the tongues of the leaders of socialism remain silent, their writings (if only there be found people willing and capable to uncover the material) speak out with greatest indignation against the policies and practices of the shameless opportunists.

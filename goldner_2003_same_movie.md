@@ -2,7 +2,7 @@
 title: "Didn't See the Same Movie: Review of Max Elbaum, Revolution in the Air: Sixties Radicals Turn to Lenin, Mao, and Che"
 author: Goldner, Loren
 date: 2003
-description: A critical review of the Max Elbaum's "Revolution in the Air," a memoir by a participant in and champion of the U.S. New Left of the 60s and 70s. Taken, with some small corrections to punctuation, from <http://breaktheirhaughtypower.org/review-revolution-in-the-air-by-max-elbaum/>
+description: A critical review of the Max Elbaum's "Revolution in the Air," a memoir by a participant in and champion of the U.S. New Left of the 60s and 70s. Taken, with some small corrections to punctuation, from <http://breaktheirhaughtypower.org/review-revolution-in-the-air-by-max-elbaum/>.
 ...
 
 Without exactly setting out to do so, Max Elbaum in his book _Revolution In The Air_, has managed to demonstrate the existence of progress in human history, namely in the decline and disappearance of the grotesque Stalinist-Maoist-"Third World Marxist" and Marxist-Leninist groups and ideologies he presents, under the rubric New Communist Movement, as the creations of pretty much the "best and the brightest" coming out of the American 1960's.

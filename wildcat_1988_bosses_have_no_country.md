@@ -2,7 +2,7 @@
 title: "The Bosses Have No Country: Marxists and the So-Called Problem of Imperialism"
 author: Wildcat
 date: 1988
-description: Further subtitled as a \"Wildcat Discussion Text.\" The preface is of unspecified origin and date, but its mention of the intsdisctnet email list dates it as rather later than 1988. From <http://wildcat.international/imperialism-discussion.html> with some spelling fixes and formatting changes, mostly to the footnotes
+description: Further subtitled as a \"Wildcat Discussion Text.\" The preface is of unspecified origin and date, but its mention of the intsdisctnet email list dates it as rather later than 1988. From <http://wildcat.international/imperialism-discussion.html> with some spelling fixes and formatting changes, mostly to the footnotes.
 ...
 
 ## Preface

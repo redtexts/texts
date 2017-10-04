@@ -2,7 +2,7 @@
 title: On the Communist Party
 author: Pannekoek, Anton
 date: 1936
-description: Published in the June 1936 issue of International Council Correspondence under the pseudonym J. Harper. From <https://www.marxists.org/archive/pannekoe/1936/06/communist-party.htm>. The errors present in the original published version and noted in the MIA version are retained here
+description: Published in the June 1936 issue of International Council Correspondence under the pseudonym J. Harper. From <https://www.marxists.org/archive/pannekoe/1936/06/communist-party.htm>. The errors present in the original published version and noted in the MIA version are retained here.
 ...
 
 ## I.

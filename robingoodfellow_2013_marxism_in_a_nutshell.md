@@ -2,7 +2,7 @@
 title: "Marxism in a Nutshell: From the Criticism of Capitalism to a Classless Society"
 author: Robin Goodfellow
 date: 2013
-description: A text produced by Robin Goodfellow, a group of authors writing primarily in French and formerly associated with the publication Communisme ou Civilisation. This text was posted online at <http://www.robingoodfellow.info/pagesen/rubriques/meren.htm>
+description: A text produced by Robin Goodfellow, a group of authors writing primarily in French and formerly associated with the publication Communisme ou Civilisation. This text was posted online at <http://www.robingoodfellow.info/pagesen/rubriques/meren.htm>.
 ...
 
 ## Foreword

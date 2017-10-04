@@ -2,7 +2,7 @@
 title: Anti-Parliamentarism and Council Communism
 author: United Workers Party
 date: 1935
-description: An unsigned piece in the October 1935 (volume 1, issue 12) edition of International Council Correspondence, the journal of the United Workers Party, of which Paul Mattick, Sr., was a leading member
+description: An unsigned piece in the October 1935 (volume 1, issue 12) edition of International Council Correspondence, the journal of the United Workers Party, of which Paul Mattick, Sr., was a leading member.
 ...
 
 For many years the left communist groups have been referred to as the Anti-Parliamentarians because they were opposed to parliamentary participation and parliamentary activity. They are still designated by that name and even refer to themselves as the Anti-parliamentary movement. During the reformist era of capitalism this was correct as it differentiated them from the parliamentary socialists in the labor movement. The controversy between these two sections raged about the question as to which was most effective in getting reforms -- legislative action in parliaments or direct action and strikes on the economic field. The struggle between the opposing ideas and tactics dates back to the first international, and even before.

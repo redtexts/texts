@@ -2,7 +2,7 @@
 title: New Tactics Against War Basis of New International
 author: Pannekoek, Anton
 date: 1915
-description: Published in English in 1915 in The New Review. Pannekoek argues that if in 1914 the working class was too weak to prevent the First Imperialist World War by way of revolution, it still could have and should have used revolutionary action rather than siding with the bourgeoisie in a war of "national defense." From <https://www.marxists.org/archive/pannekoe/1915/02/new-tactics.htm>
+description: Published in English in 1915 in The New Review. Pannekoek argues that if in 1914 the working class was too weak to prevent the First Imperialist World War by way of revolution, it still could have and should have used revolutionary action rather than siding with the bourgeoisie in a war of "national defense." From <https://www.marxists.org/archive/pannekoe/1915/02/new-tactics.htm>.
 ...
 
 More than a conference of delegates from the Socialist parties of the neutral nations is needed to re-organize the International. Such a conference cannot even be an instrument for peace, for now that all the high-sounding resolutions of the Social-Democracy have become mere empty talk, no one feels any respect for its power.

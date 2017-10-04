@@ -2,7 +2,7 @@
 title: Socialism and Religion
 author: Pannekoek, Anton
 date: 1907
-description: Translated by Ernest Untermann for International Socialist Review, April 1907. From <https://www.marxists.org/archive/pannekoe/socialism-religion.htm>
+description: Translated by Ernest Untermann for International Socialist Review, April 1907. From <https://www.marxists.org/archive/pannekoe/socialism-religion.htm>.
 ...
 
 ## I

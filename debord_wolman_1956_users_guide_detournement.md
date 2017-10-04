@@ -4,7 +4,7 @@ author:
 - Debord, Guy
 - Wolman, Gil J.
 date: 1956
-description: Debord and Wolman's text on *Détournement*, explaining what it is and how it's done, published in *Les Lèvres Nues*. This version is from <http://www.bopsecrets.org/SI/detourn.htm>, translated from the original [French article](http://sami.is.free.fr/Oeuvres/debord_wolman_mode_emploi_detournement.html). An alternative translation can be found [here](http://www.cddc.vt.edu/sionline/presitu/usersguide.html). All footnotes were added by *Bureau of Public Secrets*.
+description: Debord and Wolman's text on *Détournement*, explaining what it is and how it's done, published in *Les Lèvres Nues*. This version is from <http://www.bopsecrets.org/SI/detourn.htm>, translated from the original [French article](http://sami.is.free.fr/Oeuvres/debord_wolman_mode_emploi_detournement.html). An alternative translation can be found [here](http://www.cddc.vt.edu/sionline/presitu/usersguide.html). All footnotes were added by Bureau of Public Secrets.
 keywords: Détournement
 ...
 

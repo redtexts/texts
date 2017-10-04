@@ -2,7 +2,7 @@
 title: Marx's Dialectical Method
 author: Sauvage, Eden
 date: 2016
-description: This work elaborates on many of the misunderstandings of "dialectics" and of Hegel/Marx in leftist discourse, while trying to compensate for the Marx's unfortunate inability to finish his work "Logic". Revised version From <https://edensauvage.wordpress.com/2016/12/09/marxs-dialectical-method/>
+description: This work elaborates on many of the misunderstandings of "dialectics" and of Hegel/Marx in leftist discourse, while trying to compensate for the Marx's unfortunate inability to finish his work "Logic". Revised version From <https://edensauvage.wordpress.com/2016/12/09/marxs-dialectical-method/>.
 keywords: Philosopy
 ...
 

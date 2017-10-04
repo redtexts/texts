@@ -2,7 +2,7 @@
 title: Communism and Religion
 author: Pannekoek, Anton
 date: 1936
-description: Published in International Council Correspondence, vol. 6, no. 2, in May 1936. This text was unattributed to any author, but bibliographies confirm that Pannekoek wrote it. It certainly reflects Pannekoek's interest in the history of materialist philosophy. From <https://www.marxists.org/archive/pannekoe/1936/05/communism-religion.htm>. As with the MIA text, corrections to capitalization and spelling have not been made
+description: Published in International Council Correspondence, vol. 6, no. 2, in May 1936. This text was unattributed to any author, but bibliographies confirm that Pannekoek wrote it. It certainly reflects Pannekoek's interest in the history of materialist philosophy. From <https://www.marxists.org/archive/pannekoe/1936/05/communism-religion.htm>. As with the MIA text, corrections to capitalization and spelling have not been made.
 ...
 
 ## I.

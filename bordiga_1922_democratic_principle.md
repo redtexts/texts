@@ -2,7 +2,7 @@
 title: The Democratic Principle
 author: Bordiga, Amadeo
 date: 1922
-description: Originally published in Rassegna Comunista in February 1922, republished in Communist Program (the ICP journal) in 1982, and finally posted online on Antagonism's site at <http://www.oocities.org/CapitolHill/Lobby/3909/bordiga0.html>
+description: Originally published in Rassegna Comunista in February 1922, republished in Communist Program (the ICP journal) in 1982, and finally posted online on Antagonism's site at <http://www.oocities.org/CapitolHill/Lobby/3909/bordiga0.html>.
 keywords: Democracy
 ...
 

@@ -2,7 +2,7 @@
 title: The Poverty of Left-Wing Activism
 author: Sauvage, Eden
 date: 2016
-description: Sauvage presents a critique of left-wing (ie. left of capital) activism. From <https://edensauvage.wordpress.com/2016/11/16/the-poverty-of-left-wing-activism/>
+description: Sauvage presents a critique of left-wing (ie. left of capital) activism. From <https://edensauvage.wordpress.com/2016/11/16/the-poverty-of-left-wing-activism/>.
 keywords: Activism
 ...
 

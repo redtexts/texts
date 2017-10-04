@@ -2,7 +2,7 @@
 title: Why Russia Isn't Socialist
 author: International Communist Party
 date: 1970
-description: Originally published in 1970 in Il Programma Comunista and later posted online at <http://www.sinistra.net/lib/pro/whyrusnsoc.html>. This version changes some of the original's formatting
+description: Originally published in 1970 in Il Programma Comunista and later posted online at <http://www.sinistra.net/lib/pro/whyrusnsoc.html>. This version changes some of the original's formatting.
 keywords: USSR
 ...
 

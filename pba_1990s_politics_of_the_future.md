@@ -2,7 +2,7 @@
 title: A Contribution to the Politics of the Future -- The Basic Perspectives of the Poor, the Bad and the Angry
 author: Poor, the Bad and the Angry
 date: 1990s
-description: Taken from <http://prole.info/texts/politicsofthefuture.html>, but also published online, perhaps originally, at <http://www.infoshop.org/myep/love1.html>. Some sites credit this to Love and Treason, but the title makes it sound as if it was written by the Poor, the Bad and the Angry -- although the Poor, the Bad and the Angry seems to have been a journal that collected the writings of many groups. This text is almost identical to the text "Our Antipolitics," which we have also attributed to the Poor, the Bad and the Angry
+description: Taken from <http://prole.info/texts/politicsofthefuture.html>, but also published online, perhaps originally, at <http://www.infoshop.org/myep/love1.html>. Some sites credit this to Love and Treason, but the title makes it sound as if it was written by the Poor, the Bad and the Angry -- although the Poor, the Bad and the Angry seems to have been a journal that collected the writings of many groups. This text is almost identical to the text "Our Antipolitics," which we have also attributed to the Poor, the Bad and the Angry.
 ...
 
 ## The World We Must Leave

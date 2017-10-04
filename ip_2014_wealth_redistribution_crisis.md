@@ -2,7 +2,7 @@
 title: Why Wealth Redistribution Cannot Solve Capitalism's Crisis
 author: Internationalist Perspective
 date: 2014
-description: Written by Sander and Mac Intosh in October 2014 for Internationalist Perspective 60. Available online at <http://internationalist-perspective.org/IP/ip-archive/ip-archive.html>
+description: Written by Sander and Mac Intosh in October 2014 for Internationalist Perspective 60. Available online at <http://internationalist-perspective.org/IP/ip-archive/ip-archive.html>.
 keywords: Capitalism
 ...
 

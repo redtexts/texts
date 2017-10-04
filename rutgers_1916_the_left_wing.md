@@ -2,7 +2,7 @@
 title: The Left Wing
 author: Rutgers, S.J.
 date: 1916
-description: The following is a collection of six articles the Dutch communist and comrade of Gorter and Pannekoek wrote for International Socialist Review, the journal of the revolutionary wing of the Socialist Party of America. The first part, "The Battle Cry of a New International," is not by title an installment of the "The Left Wing" series, but was regarded as such by the editors
+description: The following is a collection of six articles the Dutch communist and comrade of Gorter and Pannekoek wrote for International Socialist Review, the journal of the revolutionary wing of the Socialist Party of America. The first part, "The Battle Cry of a New International," is not by title an installment of the "The Left Wing" series, but was regarded as such by the editors.
 ...
 
 ## The Battle Cry of a New International (May 1916)

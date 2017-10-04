@@ -2,7 +2,7 @@
 title: Weekend at Bernie's
 author: Communist League of Tampa
 date: 2015
-description: Written by 'jurassic marx' for the Communist League of Tampa's blog, <https://communistleaguetampa.org/2015/08/19/weekend-at-bernies/>
+description: Written by 'jurassic marx' for the Communist League of Tampa's blog, <https://communistleaguetampa.org/2015/08/19/weekend-at-bernies/>.
 ...
 
 _However fed up they may claim to be, a certain portion of the Left in the United States remains sympathetic if not outright loyal to the Democratic Party. Many of these people are coming to support the candidacy of Bernie Sanders, and for them, the legacy of the postwar American economy looms large. When not focusing on identity politics and fear of republicans, Keynesian economic policy tends to be the ideological basis of the left wing of the Democratic Party. However, that same institution is incapable of bringing forth such reforms, not only due to the capitalist nature of the organization, but also because the leadership understands, at least unconsciously, that such reforms are impossible in the current historical moment._

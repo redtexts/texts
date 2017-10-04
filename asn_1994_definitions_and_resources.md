@@ -2,7 +2,7 @@
 title: Definitions and Resources
 author: Against Sleep and Nightmare
 date: 1994?
-description: This text appeared as a box inside the article "Everything is True and Nothing is Permitted" in Against Sleep and Nightmare 6 (2000?), but mirrors almost exactly "Definitions and Resources" from Against Sleep and Nightmare 5 (1994?), both of which are available at <http://www.againstsleepandnightmare.net/ASAN/welcome.html>
+description: This text appeared as a box inside the article "Everything is True and Nothing is Permitted" in Against Sleep and Nightmare 6 (2000?), but mirrors almost exactly "Definitions and Resources" from Against Sleep and Nightmare 5 (1994?), both of which are available at <http://www.againstsleepandnightmare.net/ASAN/welcome.html>.
 ...
 
 ## Definitions

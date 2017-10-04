@@ -2,7 +2,7 @@
 title: Democracy
 author: Monsieur Dupont
 date: 2006
-description: Available from many places online, this was written in 2006 by a former member of the UK group Subversion
+description: Available from many places online, this was written in 2006 by a former member of the UK group Subversion.
 keywords: Democracy
 ...
 

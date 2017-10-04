@@ -2,7 +2,7 @@
 title: Against the Myth of Democratic Rights and Liberties
 author: Internationalist Communist Group
 date: 1993
-description: Published in 1993 in issue 8 of Communism, the ICG's English-language review. Available in its original electronic form at <http://gci-icg.org/english/communism8.htm#mythdemo>
+description: Published in 1993 in issue 8 of Communism, the ICG's English-language review. Available in its original electronic form at <http://gci-icg.org/english/communism8.htm#mythdemo>.
 keywords: Democracy
 ...
 

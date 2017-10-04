@@ -2,7 +2,7 @@
 title: The Organisation of the Proletariat's Class Struggle
 author: Gorter, Herman
 date: 1921
-description: Published by the KAPD in Berlin in 1921. Translated by D. A. Smart for his book Pannekoek and Gorter's Marxism. Smart calls this text Gorter's "last major attempt to win the working class to left communist tactics." It is in some ways a clear exposition of the themes developed in Gorter's Open Letter to Comrade Lenin
+description: Published by the KAPD in Berlin in 1921. Translated by D. A. Smart for his book Pannekoek and Gorter's Marxism. Smart calls this text Gorter's "last major attempt to win the working class to left communist tactics." It is in some ways a clear exposition of the themes developed in Gorter's Open Letter to Comrade Lenin.
 ...
 
 ## 1. The Factory Organisation: the General Union of Workers

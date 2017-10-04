@@ -2,7 +2,7 @@
 title: An Open Letter to the Comrades of the Revolutionary Workers League
 author: American Fraction of the Left Communist International
 date: 1937
-description: Written as an appeal to the Trotskyist group the Revolutionary Workers League, who published the letter, along with a fairly standard Trotskyist response, in the October 1937 issue of their publication 'The Fourth International.' Some typos have been fixed but a scan of this issue that can be found at <https://archive.org/details/LCIvsRWL> shows that the remaining errors below were present in the original text
+description: Written as an appeal to the Trotskyist group the Revolutionary Workers League, who published the letter, along with a fairly standard Trotskyist response, in the October 1937 issue of their publication 'The Fourth International.' Some typos have been fixed but a scan of this issue that can be found at <https://archive.org/details/LCIvsRWL> shows that the remaining errors below were present in the original text.
 ...
 
 Dear comrades:

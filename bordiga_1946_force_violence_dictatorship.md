@@ -2,7 +2,7 @@
 title: Force, Violence and Dictatorship in the Class Struggle
 author: Bordiga, Amadeo
 date: 1946
-description: Apparently written by Bordiga in 1946-1948, and published in English in Communist Program from 1975-1979. This version from <https://www.marxists.org/archive/bordiga/works/1946/violence.htm>. It is also available at <http://sinistra.net/lib/upt/compro/lipa/lipanbeboe.html>
+description: Apparently written by Bordiga in 1946-1948, and published in English in Communist Program from 1975-1979. This version from <https://www.marxists.org/archive/bordiga/works/1946/violence.htm>. It is also available at <http://sinistra.net/lib/upt/compro/lipa/lipanbeboe.html>.
 ...
 
 ## I. Actual and Potential Violence

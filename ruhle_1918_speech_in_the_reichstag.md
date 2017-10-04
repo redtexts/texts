@@ -2,7 +2,7 @@
 title: Speech in the Reichstag
 author: Rühle, Otto
 date: 1918
-description: Otto Ruhle delivered this speech to the German Reichstag on 25 October 1918. In it, he denounced the Kaiser, the German military, parliament, and -- prophetically -- the Social Democrats. Taken from <https://www.marxists.org/archive/ruhle/1918/ruhle01.htm>
+description: Otto Ruhle delivered this speech to the German Reichstag on 25 October 1918. In it, he denounced the Kaiser, the German military, parliament, and -- prophetically -- the Social Democrats. Taken from <https://www.marxists.org/archive/ruhle/1918/ruhle01.htm>.
 ...
 
 In the name of those social democratic workers and soldiers who attach themselves neither to the "governmental" socialists party nor to the Independent Social Democrats, and who are nevertheless numbered in thousands and thousands, in the name of these men who demand the right to make this tribunal listen, and to have their say in an important political and historical situation, I want, very briefly, to give our point of view on the problems which have been at the centre of the discussion for the last few days.

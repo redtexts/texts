@@ -2,7 +2,7 @@
 title: The Evolution of Capitalism and the New Perspective
 author: Gauche Communiste de France
 date: 1952
-description: From the last issue of Internationalisme, number 46 from 1952. The ICC says that this document is "in some ways a condensed summary of the positions and political orientation" of the GCF. Translated and introduced by the ICC. From <https://en.internationalism.org/ir/21/internationalisme-1952> with slight fixes from the French original at <http://www.collectif-smolny.org/article.php3?id_article=523>
+description: From the last issue of Internationalisme, number 46 from 1952. The ICC says that this document is "in some ways a condensed summary of the positions and political orientation" of the GCF. Translated and introduced by the ICC. From <https://en.internationalism.org/ir/21/internationalisme-1952> with slight fixes from the French original at <http://www.collectif-smolny.org/article.php3?id_article=523>.
 ...
 
 ## ICC preface

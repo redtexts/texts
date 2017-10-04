@@ -2,7 +2,7 @@
 title: The Democratic Mystification
 author: Camatte, Jacques
 date: 1969
-description: Published in 1969 in French. This English translation was found at <http://www.oocities.org/~johngray/demyst.htm>. This was intended to form part of a longer work, which explains the numbering found in the text. More publication details can be found on the original page, linked above
+description: Published in 1969 in French. This English translation was found at <http://www.oocities.org/~johngray/demyst.htm>. This was intended to form part of a longer work, which explains the numbering found in the text. More publication details can be found on the original page, linked above.
 keywords: Democracy
 ...
 

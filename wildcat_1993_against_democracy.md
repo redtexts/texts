@@ -2,7 +2,7 @@
 title: Against Democracy
 author: Wildcat
 date: 1993
-description: From a talk given in 1993, and found on Wildcat's page at <http://wildcat.international/democracy-talk.html>
+description: From a talk given in 1993, and found on Wildcat's page at <http://wildcat.international/democracy-talk.html>.
 keywords: Democracy
 ...
 

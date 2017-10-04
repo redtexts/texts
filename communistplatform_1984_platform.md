@@ -2,7 +2,7 @@
 title: Platform
 author: Communist Effort
 date: 1984
-description: From issue 2 of A Communist Effort, a British journal. A PDF of this issue is available at <https://libcom.org/library/communist-effort-issues-1-2-4>
+description: From issue 2 of A Communist Effort, a British journal. A PDF of this issue is available at <https://libcom.org/library/communist-effort-issues-1-2-4>.
 ...
 
 ## World Capitalism

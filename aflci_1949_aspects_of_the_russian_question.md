@@ -2,7 +2,7 @@
 title: Aspects of the Russian Question
 author: American Fraction of the Left Communist International
 date: 1949
-description: Written by D for the March-April 1949 issue of International Bulletin, the publication of the American Fraction of the Left Communist International. Punctuation errors in the text below were present in the original
+description: Written by D for the March-April 1949 issue of International Bulletin, the publication of the American Fraction of the Left Communist International. Punctuation errors in the text below were present in the original.
 keywords: USSR
 ...
 

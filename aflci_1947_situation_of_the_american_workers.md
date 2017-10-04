@@ -2,7 +2,7 @@
 title: Situation of the American Workers
 author: American Fraction of the Left Communist International
 date: 1947/1948
-description: Anonymously written, (probably) in late 1947 or early 1948, for the first issue of International Bulletin. Only a few formatting corrections have been made to this red texts version. From a scanned PDF of the same, available at <https://archive.org/details/InternationalBulletinNo1>
+description: Anonymously written, (probably) in late 1947 or early 1948, for the first issue of International Bulletin. Only a few formatting corrections have been made to this red texts version. From a scanned PDF of the same, available at <https://archive.org/details/InternationalBulletinNo1>.
 ...
 
 American Imperialism is seeking to perpetuate world capitalism. It is implementing the Truman doctrine and the Marshall plan for that purpose. We cannot help but recall the Dawes Plan after World War I, initiated by the U.S., and the result [sic] defeat of the proletarian revolution in Europe following upon the workers victory in Russia of October, 1917. Then, the U.S. imperialists came into conflict with revolutionary soviets. Today, the conflict is between Imperialist America and Imperialist Russia, foreshadowing World War III.

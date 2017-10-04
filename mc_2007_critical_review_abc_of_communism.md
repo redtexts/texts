@@ -2,7 +2,7 @@
 title: "Critical Review of \"The ABC of Communism\" 90 Years Later: The Bankruptcy of the Analysis of Capitalism Made by the Communist International"
 author: Mouvement Communiste
 date: 2007
-description: Written in May 2007 and found online at <http://www.mouvement-communiste.com>
+description: Written in May 2007 and found online at <http://www.mouvement-communiste.com>.
 ...
 
 The ABC of Communism is still a useful text today. Conceived in order to join together in one work most of the convictions and analyses of the communist movement of its epoch, it corresponds perfectly to this requirement. Its plan already reveals the force and the importance of the document. Everything that makes up the theoretical and political specificity of the Third International is treated with sufficient depth: its vision of capitalism and the historical trajectory towards Communism, finishing up with the criticism of the social democratic Second International.

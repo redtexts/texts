@@ -2,7 +2,7 @@
 title: Roosevelt
 author: Pannekoek, Anton
 date: 1913
-description: An article on the class interests of American politcal parties in the early part of the 20th century. Published in New Review, volume 1, number 17, June 1913. Scans of of New Review are available at <https://www.marxists.org/history/usa/pubs/newreview/>
+description: An article on the class interests of American politcal parties in the early part of the 20th century. Published in New Review, volume 1, number 17, June 1913. Scans of of New Review are available at <https://www.marxists.org/history/usa/pubs/newreview/>.
 ...
 
 Many attempts have been made to explain the causes of Roosevelt's reappearance upon the political stage and the formation of the Progressive party. In these attempts emphasis has mostly been laid upon the increasing resistance of the lower strata of the bourgeoisie to the rule of the Trusts, as well as upon the necessity of catching the workers with social reforms; but it must be plain to everyone that the characterization of the new party as "petty-capitalistic" is inadequate. In the formation of this new party we have to do not only with a split of the old historic parties--for similar tendencies are found in the Democratic party as well--but also with a new orientation of thought, at first hesitant and vague, which, rising from the instinctive feeling of the bourgeoisie itself, is now beginning to appear in politics. It indicates that social conditions in America have undergone a radical transformation, and at the same time it ushers in a new political era. The nature of this transformation cannot be understood by means of ideas derived from earlier party struggles; a comparison with European politics may be helpful.

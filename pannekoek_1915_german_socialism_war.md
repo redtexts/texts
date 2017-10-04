@@ -2,7 +2,7 @@
 title: German Socialism in the War
 author: Pannekoek, Anton
 date: 1915
-description: Published in International Socialist Review, vol. 15, no. 8, in February 1915. From Marxists Internet Archive at <https://www.marxists.org/archive/pannekoe/1915/02/german-socialism.htm>
+description: Published in International Socialist Review, vol. 15, no. 8, in February 1915. From Marxists Internet Archive at <https://www.marxists.org/archive/pannekoe/1915/02/german-socialism.htm>.
 ...
 
 A terrible breakdown of the German social democracy--and of the Socialist movement in the other countries--came when the European war broke out. Before that German socialism seemed full size and full strength, admired by the Socialists of the world as an example no other country had been able to equal; those who knew how things were on the inside, however, were aware that not everything was as good and strong as it seemed. Now all socialism seems suddenly to have disappeared; now it is commonly believed in foreign countries that the entire party, filled with enthusiasm for the kaiser, has fallen into the worst kind of chauvinism. But appearances are deceptive in this case also. Socialism is not completely dead, and it has already been made clear more than once, by bringing together evidence from the newspapers and other periodicals, that a part of the party still stands by the old flag. It is of the greatest importance for the American comrades to find out and to understand what is going on in the German Socialist movement in wartime.

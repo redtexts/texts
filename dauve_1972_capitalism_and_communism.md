@@ -2,7 +2,7 @@
 title: Capitalism and Communism
 author: Dauvé, Gilles
 date: 1972
-description: The first 1972 version of this essay underwent various changes in 1997. It has been considerably modified again for this new (2015) edition. From <https://libcom.org/library/capitalism-communism-gilles-dauve>
+description: The first 1972 version of this essay underwent various changes in 1997. It has been considerably modified again for this new (2015) edition. From <https://libcom.org/library/capitalism-communism-gilles-dauve>.
 keywords:
 - Capitalism
 - Communisation

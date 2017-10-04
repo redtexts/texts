@@ -2,7 +2,7 @@
 title: "Present Problems of the Workers' Movement: Against the Concept of the \"Brilliant Leader\""
 author: Gauche Communiste de France
 date: 1947
-description: This text was published in French in Internationalisme 25 in August 1947, with other texts, as part of a larger article (itself part of a series) titled "Present Problems of the Workers' Movement." The International Communist Current republished this text in English in International Review 33, available online at <http://en.internationalism.org/ir/033/concept-of-brilliant-leader>. French original at <http://archivesautonomies.org/spip.php?article1821>
+description: This text was published in French in Internationalisme 25 in August 1947, with other texts, as part of a larger article (itself part of a series) titled "Present Problems of the Workers' Movement." The International Communist Current republished this text in English in International Review 33, available online at <http://en.internationalism.org/ir/033/concept-of-brilliant-leader>. French original at <http://archivesautonomies.org/spip.php?article1821>.
 ...
 
 In politics, there's nothing new in a group radically changing its way of seeing and acting once it has become a big organisation, a mass party. One could cite several examples of such metamorphoses. One could to some extent apply it to the Bolshevik party after the revolution. But what's striking about the International Communist Party of Italy is the surprising rapidity with which its main leaders have undergone such a change. And this is all the more surprising in that the Italian Party, both numerically and functionally, is in essence an enlarged fraction.
