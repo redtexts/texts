@@ -8,7 +8,7 @@ keywords:
 - Value-Form
 ...
 
-# Introduction^[[*Endnotes*:] We are indebted to German comrades for their helpful comments in drafting this article, particularly DD and Felix from *Kosmoprolet*.]
+# Introduction
 
 >The value-form of the product of labour is the most abstract, but also the most universal form of the bourgeois mode of production; by that fact it stamps the bourgeois mode of production as a particular kind of social production of a historical and transitory character.^[Marx, *Capital*, vol.1 (MECW 35), pp.91-2 n. 2 (Fowkes translation).]
 
