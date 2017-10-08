@@ -26,6 +26,7 @@ The publication of the *Neue Rheinische Zeitung* in 1848 and 1849, and the event
 This account of the course of my studies in political economy is simply to prove that my views, whatever one may think of them, and no matter how little they agree with the interested prejudices of the ruling classes, are the result of many years of conscientious research. At the entrance to science, however, the same requirement must be put as at the entrance to hell:
 
 >*Qui si convien lasciare ogni sospetto*
+>
 >*Ogni viltà convien che qui sia morta.*
 
 Karl Marx
