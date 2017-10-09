@@ -193,7 +193,6 @@ As pointed out in a recent article by C Derrick Varn on the blog Symptomatic Com
 
 C D Ward
 
-
 [^fn-1]: ["In the aftermath of World War Two: debates on how the workers will hold power after the revolution"](http://en.internationalism.org/internationalreview/201403/9523/aftermath-world-war-two-debates-how-workers-will-hold-power-after-re).
 
 [^fn-2]: ["The post-war boom did not reverse the decline of capitalism"](http://en.internationalism.org/internationalreview/201111/4596/post-war-boom-did-not-reverse-decline-capitalism).

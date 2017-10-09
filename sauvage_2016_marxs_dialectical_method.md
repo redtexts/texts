@@ -117,15 +117,15 @@ So far Marx has explained his method but he has not used the word "dialectics". 
 
 We can list out 14 key characteristics of Marx's method identified in this work:
 
-1.  It is **the ruthless criticism of all reality** (which necessarily includes self-criticism as the critic is embedded inside their reality), without fear of the conclusions such criticism might draw or retribution from the powers that be.
-2.  It seeks to criticize the old world to find the new world.
-3.  Yet it does not seek to fabricate the new world itself, because no reformer in fact can tell what the future should be like.
-4.  Philosophical consciousness itself has been drawn into the struggles of the world and cannot return back to its speculative, abstract origins.
-5.  Criticism must focus on the human being, both in its practical existence and its theoretical existence, including on the current sorry state of both modes of its existence. In other words, such a criticism is necessarily a humanism.
-6.  Marx's method is the search for the truth, the real world, which has always existed, but up to now hidden inside the integument of its appearance as illogical unreality.
-7.  It is a criticism that seeks to draw out and exacerbate the internal contradictions within the particular manifestations that reality takes so as to draw out the truth of the world.
-8.  The world of politics, of real needs, is the starting point of our criticism.
-9.  Criticisms need to identify with the real struggles of the people.
+1. It is **the ruthless criticism of all reality** (which necessarily includes self-criticism as the critic is embedded inside their reality), without fear of the conclusions such criticism might draw or retribution from the powers that be.
+2. It seeks to criticize the old world to find the new world.
+3. Yet it does not seek to fabricate the new world itself, because no reformer in fact can tell what the future should be like.
+4. Philosophical consciousness itself has been drawn into the struggles of the world and cannot return back to its speculative, abstract origins.
+5. Criticism must focus on the human being, both in its practical existence and its theoretical existence, including on the current sorry state of both modes of its existence. In other words, such a criticism is necessarily a humanism.
+6. Marx's method is the search for the truth, the real world, which has always existed, but up to now hidden inside the integument of its appearance as illogical unreality.
+7. It is a criticism that seeks to draw out and exacerbate the internal contradictions within the particular manifestations that reality takes so as to draw out the truth of the world.
+8. The world of politics, of real needs, is the starting point of our criticism.
+9. Criticisms need to identify with the real struggles of the people.
 10. Criticisms should not be the dogmatic impositions of a new principle but rather a development of the principles already held by the people.
 11. Our purpose as critics is to show the world what it is already fighting for, to give light to existing struggles.
 12. The purpose of our criticism is to demystify the way in which consciousness becomes unintelligible to itself, to therefore make clear religious, political, and philosophical questions, which are merely alienated forms of real consciousness.
@@ -162,9 +162,9 @@ We can list out 3 key characteristics of Marx's dialectical method identified in
 
 We can also 3 list out key characteristics of his critique of speculative philosophy:
 
-1.  The starting point of the estranged speculative philosophers is abstracted away from the real world of real people and as a result all speculative philosophy ends up still estranged from the real world.
-2.  As a result, **speculative philosophy alienates itself from the human essence**, "the ensemble of the social relations".
-3.  Speculative philosophy reifies the abstracted and self-estranged world of ideal forms as an alien subject above and beyond the human being, even though ultimately the abstracted and self-estranged world of ideal forms is a creation of real human beings. It therefore cannot break the spell of mystification, but in fact engenders it.
+1. The starting point of the estranged speculative philosophers is abstracted away from the real world of real people and as a result all speculative philosophy ends up still estranged from the real world.
+2. As a result, **speculative philosophy alienates itself from the human essence**, "the ensemble of the social relations".
+3. Speculative philosophy reifies the abstracted and self-estranged world of ideal forms as an alien subject above and beyond the human being, even though ultimately the abstracted and self-estranged world of ideal forms is a creation of real human beings. It therefore cannot break the spell of mystification, but in fact engenders it.
 
 As we can see, through his criticism of speculative philosophy, he implicitly describes his dialectical method in relation to it!
 
