@@ -1,8 +1,8 @@
 ---
-Title: "The 1950s and 60s: Damen, Bordiga, and the Passion for Communism"
-Author: International Communist Current
-Date: 2016
-Description: Published in International Review 158, Spring 2017. Online at <https://en.internationalism.org/international-review/201609/14092/1950s-and-60s-damen-bordiga-and-passion-communism>. This red texts version has slight changes to the formatting (e.g., capitalization, punctuation).
+title: "The 1950s and 60s: Damen, Bordiga, and the Passion for Communism"
+author: International Communist Current
+date: 2016
+description: Published in International Review 158, Spring 2017. Online at <https://en.internationalism.org/international-review/201609/14092/1950s-and-60s-damen-bordiga-and-passion-communism>. This red texts version has slight changes to the formatting (e.g., capitalization, punctuation).
 ...
 
 Prior to our excursion into the attempts of Spanish anarchism to establish "libertarian communism" during the war in Spain of 1936-39, we had published the contribution of the Gauche Communiste de France on the state in the period of transition[^fn-1], a text based on the theoretical advances of the Italian and Belgian left fractions in the 1930s, while already advancing beyond their conceptions in several respects. The GCF was part of a certain resurgence of proletarian political organisations in the wake of the Second World War, but by the early 1950s, the proletarian milieu was facing a serious crisis as it became increasingly evident that the profound defeat suffered by the working class had not been dispersed by the war -- on the contrary, the victory of democracy over fascism had further exacerbated the disorientation of the proletariat. The end of the counter-revolution which had begun in the 1920s was still a long way ahead.
