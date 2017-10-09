@@ -431,7 +431,7 @@ In texts which were kept hidden away for 15 years, Marx, and Engels as well, tor
 
 Almost suffocated as we are today by all these damn "questions of structure", "problems to be solved" and "ways to be paved", let us breath in some vital oxygen from those pages left to grow yellow in Bebel's desk drawer.
 
-"The existing class struggle is discarded in favour of the hack phrase of a newspaper scribbler -- "_the social question_", for the solution of which one 'paves the way'. Instead of being the result of the revolutionary process of social transformation in society, the 'socialist organisation of the total labour' (in a previous passage, Marx had already pulverised another idiotic expression still much used today -- "emancipation of labour " -- whereas he always talks of the working class) 'arises' from 'state aid'".
+"The existing class struggle is discarded in favour of the hack phrase of a newspaper scribbler -- "_the social question_", for the solution of which one 'paves the way'. Instead of being the result of the revolutionary process of social transformation in society, the 'socialist organisation of the total labour' (in a previous passage, Marx had already pulverised another idiotic expression still much used today -- "emancipation of labour" -- whereas he always talks of the working class) 'arises' from 'state aid'".
 
 A few lines on, Marx derides the formula of democratic control of the working people "a working people which in presenting the State with demands such as these is expressing full awareness of the fact that it neither rules nor is mature enough to rule!".
 

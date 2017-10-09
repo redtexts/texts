@@ -566,7 +566,7 @@ _But_ "the land is not the most valuable possession of the nomad. His greatest w
 
 Finally we have the lower agriculturalists. Here, it is true for the first time that the kinship group is admitted to be a completely communist economic community.
 
-_But_ -- and here this "but" follows hard on the heels -- here too "industry undermines social equality" (when Grosse talks of industry he naturally means commodity production, being unable to differentiate the one from the other), "creating a movable individual property, which prevails over the common property in land and destroys this.' " And despite the community of land, "the separation between rich and poor already exists here." Communism is thus reduced to a brief interval of economic history, which moreover begins with private property and ends with private property. _Quod erat demonstrandum_.
+_But_ -- and here this "but" follows hard on the heels -- here too "industry undermines social equality" (when Grosse talks of industry he naturally means commodity production, being unable to differentiate the one from the other), "creating a movable individual property, which prevails over the common property in land and destroys this.'" And despite the community of land, "the separation between rich and poor already exists here." Communism is thus reduced to a brief interval of economic history, which moreover begins with private property and ends with private property. _Quod erat demonstrandum_.
 
 ### 2.3
 
