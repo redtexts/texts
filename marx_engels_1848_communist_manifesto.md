@@ -1,6 +1,6 @@
 ---
 title: The Communist Manifesto
-author: 
+author:
 - Marx, Karl
 - Engels, Friedrich
 date: 1848

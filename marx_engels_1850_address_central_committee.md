@@ -1,7 +1,7 @@
 ---
 title: Address of the Central Committee to the Communist League
-author: 
-- Marx, Karl 
+author:
+- Marx, Karl
 - Engels, Friedrich
 date: 1850
 description: Written in March of 1850, mere months before Marx gave up hope for an imminent revolution following the revolutions of 1848, the address describes the immediate tasks of the working class, first in tactical alliance with the bourgeois to destroy feudalism, then in outright class warfare with the bourgeoisie.
