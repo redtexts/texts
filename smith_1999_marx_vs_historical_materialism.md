@@ -1,6 +1,6 @@
 ---
 title: Marx versus Historical Materialism
-author: Cyril Smith
+author: Smith, Cyril
 date: 1999
 description: An article written for the *Historical Materialism* journal, but remained unpublished for two years. From <https://www.marxists.org/reference/archive/smith-cyril/works/articles/cyril_01.htm>.
 keywords: History
