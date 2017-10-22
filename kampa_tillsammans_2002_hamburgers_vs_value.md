@@ -1,8 +1,13 @@
 ---
 title: Hamburgers vs Value
-author: Kämpa Tillsammans
+author:
+- Kämpa Tillsammans
+- Dauvé, Gilles
 date: 2002
-description: Written by Kämpa Tillsammans member Marcel. Four paragraphs at the end jointly written by Marcel and French communist Gillés Dauve. From <https://libcom.org/library/hamburgers-vs-value-riff-raff-group>.
+description: Written by Kämpa Tillsammans member Marcel. Four paragraphs at the end jointly written by Marcel and French communist Gilles Dauvé. From <https://libcom.org/library/hamburgers-vs-value-riff-raff-group>.
+keywords:
+- Communisation
+- Capitalism
 ...
 
 This text has two goals. The first is to try to create an interest in the daily ongoing class struggle that is waged everyday in every workplace. I will try to show that something as completely unglamorous and ordinary as working at a restaurant, or rather the small hidden struggles that are waged against wage labour there, is part of the communist movement [^fn-1]. The other goal is to show that theoretical notions like capital, communism, use value and exchange value are not something abstract and academic, but rather something concrete that influence our lives and which we in turn influence.
@@ -67,7 +72,7 @@ The conditions of capital are simply that humanity's activity has been separated
 
 If capital is passivity where our activities don't belong to us and where people don't believe that they can change their own situation, then communism is activity and movement. A movement and tendency that is present in the class struggle, in the old society, that tries to abolish it and an activity that will mean the end of separations and mediations and therefore the destruction of value, economy and work. This is a world without money and profit. Which doesn't mean some earthly paradise or that men will have been turned to angels. It only means a world where humanity's activity belongs to humanity itself, something that will for sure create new and unforeseen problems, conflicts and contradictions.
 
-## We are the contradiction, by Marcel and Gillés Dauve
+## We are the contradiction, by Marcel and Gilles Dauvé
 
 Work is our activity separated from us, turned into something that fuels the economy and dominates us. And this process can be changed because we are the ones that feed it. We are the contradiction. No work is only imposed from outside. It supposes some cooperation from the rank and file, as the Renault worker Daniel Mothé showed in his Socialisme ou Barbarie articles in the 1950s. What we've described as petty theft, small scale sabotage and fun (all of which imply self-organization) is also what makes the restaurant tolerable. Resistance to work is a way of retrieving some "humanity" that work deprives us of: it therefore makes our workday less alienating. Denying this is to misunderstand how capitalism functions, and why it carries on in spite of its numerous horrors. The self-organization of the work life (and of its struggles) is paradoxically also a condition for a possible revolution.
 
