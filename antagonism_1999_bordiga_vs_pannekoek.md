@@ -229,7 +229,7 @@ International Communist Party, "The Democratic Principle", In _Communist Program
 
 International Communist Party, Party and Class, ICP, sinistra.net
 
-McLellan, David, _Karl Marx: Selected Writings, Oxford University Press_, 1977
+McLellan, David, _Karl Marx: Selected Writings_, Oxford University Press, 1977
 
 McLellan, David, _The Thought of Karl Marx_, Macmillan, 1980
 
