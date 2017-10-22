@@ -1,8 +1,8 @@
 ---
 title: Hamburgers vs Value
 author: Kämpa Tillsammans
-date:2002
-description:Written by Kämpa Tillsammans member Marcel. Four paragraphs at the end jointly written by Marcel and French communist Gillés Dauve. From <https://libcom.org/library/hamburgers-vs-value-riff-raff-group>.
+date: 2002
+description: Written by Kämpa Tillsammans member Marcel. Four paragraphs at the end jointly written by Marcel and French communist Gillés Dauve. From <https://libcom.org/library/hamburgers-vs-value-riff-raff-group>.
 ...
 
 This text has two goals. The first is to try to create an interest in the daily ongoing class struggle that is waged everyday in every workplace. I will try to show that something as completely unglamorous and ordinary as working at a restaurant, or rather the small hidden struggles that are waged against wage labour there, is part of the communist movement [^fn-1]. The other goal is to show that theoretical notions like capital, communism, use value and exchange value are not something abstract and academic, but rather something concrete that influence our lives and which we in turn influence.
