@@ -426,7 +426,7 @@ And why not?
 
 Because you want to have the big parties, and the big Trade Unions, in the Third International.
 
-To us this looks like opportunism, opportunism of the very worst kind [(15])[notes].
+To us this looks like opportunism, opportunism of the very worst kind^[Already now the Trade Union question clearly demonstrates where the opportunist tactics of Moscow lead. The members of the Communist Parties are forced to enter the modern Trade Unions (see the thesis accepted on this point). They are forced, therefore, to become scabs and strike-breakers!!! At the same time they must openly support the Syndicalists!!! Instead of openly saying that neither of these organisations are any good, that new ones have to be formed, on the basis of the industries (the theses themselves declare elsewhere that this is what should be done), they adopt this ambiguous attitude. And why? To add masses to the Third International.].
 
 Today, in the International, your actions differ widely from what they were in the Maximalist party. This was kept very "pure" (and is so to this day, perhaps). In the International, all elements are to be accepted right away, no matter how poorly communistic they are.
 
