@@ -2,7 +2,7 @@
 title: "Marxism in a Nutshell: From the Criticism of Capitalism to a Classless Society"
 author: Robin Goodfellow
 date: 2013
-description: A text produced by Robin Goodfellow, a group of authors writing primarily in French and formerly associated with the publication Communisme ou Civilisation. This text was posted online at <http://www.robingoodfellow.info/pagesen/rubriques/meren.htm>.
+description: A text produced by Robin Goodfellow, a group of authors writing primarily in French and formerly associated with the publication Communisme ou Civilisation. This text was posted online at <https://www.robingoodfellow.info/pagesen/rubriques/meren.htm>.
 ...
 
 ## Foreword
@@ -17,7 +17,7 @@ Socialism has become a science, and should be studied as such. The only school i
 
 We have attempted here the difficult task of "vulgarizing" a complex scientific theory. Revolutionary socialism is scientific in the sense that it explains reality and militant in that it passionately defends the need of the revolution. "Vulgarization" obviously runs the risk of limiting complex demonstrations by oversimplifying certain concepts and phenomena.
 
-Readers who wish to explore certain aspects presented in this book in more detail can refer to our more theoretical works, which are available on our website in several languages at www.robingoodfellow.info, and of course by returning to the original source texts. Nowadays, a number of websites ease the access to these kinds of source texts (although not always to the best translations).
+Readers who wish to explore certain aspects presented in this book in more detail can refer to our more theoretical works, which are available on our website in several languages at <https://www.robingoodfellow.info>, and of course by returning to the original source texts. Nowadays, a number of websites ease the access to these kinds of source texts (although not always to the best translations).
 
 To make for smoother reading, we have tried to keep our quotation of Marx and Engels to a minimum besides a few instances where we felt it would be impossible to improve upon the clarity of the original formulations.
 

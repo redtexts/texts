@@ -121,7 +121,7 @@ description: This text appeared as a box inside the article "Everything is True 
 
 ## Bibliography
 
-* Dauve, Gilles (originally writing as Jean Barrot): _Eclipse and Re-emergence of The Communist Movement_, Antagonism Press, BM Makhno London WC1N 3XX Britain
+* Dauvé, Gilles (originally writing as Jean Barrot): _Eclipse and Re-emergence of The Communist Movement_, Antagonism Press, BM Makhno London WC1N 3XX Britain
 * Debord, Guy: _Society of the Spectacle_, Black & Red Box 9546 Detroit, Michigan 48202
 * Duesberg, Peter H: _Inventing The Aids Virus_, Regnery Publishing, Washington D.C.
 * F. Matthias Alexander: _The Alexander Technique_, Lyle Stuart New York

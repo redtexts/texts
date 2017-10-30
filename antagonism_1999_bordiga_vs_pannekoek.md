@@ -81,7 +81,7 @@ The real highpoints of class struggle are where workers _break out_ of enterpris
 
 The Third International argued that the workers movement had developed from a division into party, trade union, and co-operative into a division "which we are approaching everywhere" of party, soviets, and trade unions. The real movement in fact developed in a different way in the countries where the movement was most advanced, Russia and Germany. The actual form of the movement was a division into party, soviets and factory organisations. The factory organisations took on the form of factory committees in Russia, factory councils in Italy, and _Betriebsraete_, and later _Unionen_ in Germany. The distinction between factory organisations on the one hand, and workers' councils on the other was sometimes blurred both in fact and in theory, but was stated most clearly in Bordiga's polemic against Gramsci. Gramsci had thrown himself enthusiastically into support of the factory council movement in Turin, identifying it as the beginning of a movement of soviets. Bordiga underlined the difference between factory councils, based in particular enterprises, and workers' councils, which grouped all proletarians territorially. He correctly saw that factory organisations could not play the same radical role as soviets, that they could not transform the whole of society. Bordiga saw that they had some of the same weaknesses as trade unions, such as sectionalism, and workerism, and so, wrongly, dismissed them as being essentially a new form of union. This dismissal is more understandable in the Italian context where factory councils were only allowed to elect trade union members as delegates. In Germany, where the communists in the factory organisations called for workers to leave the trade unions, such a dismissal would be much harder to make.
 
-The council communists, like Gramsci, tended to confuse factory organisations with workers' councils. In fact at their worst, they adopted an extreme form of workerism that denied the existence of the proletariat outside of the factory. "Only in the factory is the worker of today a real proletarian... Outside the factory he is a petty-bourgeois..."^[O. Rühle, "From the Bourgeois to the Proletarian Revolution."]. On the other hand, the post WWI revolutionary movement in Britain called for _social soviets_, partly as a result of rising unemployment which expelled revolutionaries from the workplace. This may have influenced the position held by Sylvia Pankhurst who called for a system of soviets, which would group all proletarians, including those outside the enterprises, such as housewives ^[B. Winslow, _Syliva Pankhurst, Sexual Politics and Political Activism_]. In contrast to widespread confusion about the soviets, this represented an important recognition that they were _social_ and _proletarian_, and not simply _workers_ organisations.
+The council communists, like Gramsci, tended to confuse factory organisations with workers' councils. In fact at their worst, they adopted an extreme form of workerism that denied the existence of the proletariat outside of the factory. "Only in the factory is the worker of today a real proletarian... Outside the factory he is a petty-bourgeois..."^[O. Rühle, "From the Bourgeois to the Proletarian Revolution."]. On the other hand, the post WWI revolutionary movement in Britain called for _social soviets_, partly as a result of rising unemployment which expelled revolutionaries from the workplace. This may have influenced the position held by Sylvia Pankhurst who called for a system of soviets, which would group all proletarians, including those outside the enterprises, such as housewives ^[B. Winslow, _Sylvia Pankhurst, Sexual Politics and Political Activism_]. In contrast to widespread confusion about the soviets, this represented an important recognition that they were _social_ and _proletarian_, and not simply _workers_ organisations.
 
 ### Class composition
 
@@ -189,21 +189,21 @@ Here are some of the books that we have found useful in researching the introduc
 
 Answeiler, Oskar, _The Soviets: The Russian Workers, Peasants, and Soldiers Councils 1905-1921_, Pantheon, 1974
 
-Bologna, S., "Class Composition and the Theory of the Party at the Origins of the Worker's Council Movement", www.oocities.com/cordobakaf/bologna.html
+Bologna, S., "Class Composition and the Theory of the Party at the Origins of the Worker's Council Movement", <http://www.oocities.com/cordobakaf/bologna.html>
 
 Bricianer, Serge, _Pannekoek and the Workers' Councils_, Telos Press, 1978
 
-Camatte, Jacques, "Community and Communism in Russia", www.oocities.com/~johngray/comrus01.htm
+Camatte, Jacques, "Community and Communism in Russia", <http://www.oocities.com/~johngray/comrus01.htm>
 
 Camatte, Jacques, _This World We Must Leave_, Autonomedia, 1995
 
 Camatte, Jacques and Collu, Gianni, "Origin and Function of the Party Form", 1997
 
-Dauve, Gilles and Martin, Francois, _The Eclipse and Re-emergence of the Communist Movement_, Antagonism Press, 1997, www.oocities.com/antagonism1/etoc.html
+Dauvé, Gilles and Martin, Francois, _The Eclipse and Re-emergence of the Communist Movement_, Antagonism Press, 1997, <http://www.oocities.com/antagonism1/etoc.html>
 
 Dodd, Kathryn, _A Sylvia Pankhurst Reader_, 1993
 
-Goldner, Loren, "Communism is the Material Human Community: Amadeo Bordiga Today", Collective Action Notes, 1997, www.oocities.com/CapitolHill/Lobby/2379/gold62.htm
+Goldner, Loren, "Communism is the Material Human Community: Amadeo Bordiga Today", Collective Action Notes, 1997, <http://www.oocities.com/CapitolHill/Lobby/2379/gold62.htm>
 
 Gombin, Richard, _The Origins of Modern Leftism_, Pelican, 1975
 
@@ -211,9 +211,9 @@ Gramsci, Antonio, _Selections from Political Writings 1910-1920_, Lawrence and W
 
 Gramsci, Antonio, _Selections from Political Writings 1921-1926_, Lawrence and Wishart, 1978
 
-Gregoire, Roger and Perlman, Fredy, "Worker-Student Action Committees, France May 1969", Red and Black, 1969, www.oocities.com/~johngray/peractil.htm
+Gregoire, Roger and Perlman, Fredy, "Worker-Student Action Committees, France May 1969", Red and Black, 1969, <http://www.oocities.com/~johngray/peractil.htm>
 
-Icarus, "The Wilhelmshaven Revolt", Simian, 1975, kurasje.tripod.com/arkiv/3100f.htm
+Icarus, "The Wilhelmshaven Revolt", Simian, 1975, <https://web.archive.org/web/20040707164303/http://kurasje.tripod.com/arkiv/3100f.htm>
 
 Ignatiev, Noel, _How the Irish Became White_, Routledge, 1995
 
@@ -225,7 +225,7 @@ International Communist Current, "Communist Organisations and Class Consciousnes
 
 International Communist Party, "Revolution and Counter-Revolution in Russia", ICP, 1991
 
-International Communist Party, "The Democratic Principle", In _Communist Program_ #7, 1981, www.geocities.com/antagonism1/bordtdp.html
+International Communist Party, "The Democratic Principle", In _Communist Program_ #7, 1981, <http://www.geocities.com/antagonism1/bordtdp.html>
 
 International Communist Party, Party and Class, ICP, sinistra.net
 
@@ -233,21 +233,21 @@ McLellan, David, _Karl Marx: Selected Writings_, Oxford University Press, 1977
 
 McLellan, David, _The Thought of Karl Marx_, Macmillan, 1980
 
-Negation, "LIP and the self-managed counter-revolution", Black and Red, 1975, www.oocities.com/~johngray/lip.htm
+Negation, "LIP and the self-managed counter-revolution", Black and Red, 1975, <http://www.oocities.com/~johngray/lip.htm>
 
-Pannekoek, Anton, "From the Bottom Up, Three Texts by Anton Pannekoek", Collective Action, 1996, www.oocities.com/CapitolHill/Lobby/2379/
+Pannekoek, Anton, "From the Bottom Up, Three Texts by Anton Pannekoek", Collective Action, 1996, <http://www.oocities.com/CapitolHill/Lobby/2379/>
 
 Rachleff, Peter, "Soviet and Factory Committees in the Russian Revolution", In _Radical America_ Vol 8 #6, November-December 1994
 
 Rubel, Maximillian and Crump, John, _Non-Market Socialism in the 19th and 20th Centuries_, Macmillan, 1987
 
-Rühle, Otto, "From the Bourgeois to the Proletarian Revolution", www.oocities.com/~johngray/borpro.htm
+Rühle, Otto, "From the Bourgeois to the Proletarian Revolution", <http://www.oocities.com/~johngray/borpro.htm>
 
 Smith, Chris, _Technical Workers: Class, Labour and Trade Unionism_, Macmillan, 1987
 
 Smith, S.A., _Red Petrograd_, Cambridge University Press, 1983
 
-Wildcat, "Outside and Against the Unions", Wildcat, www.angelfire.com/pop2/pkv/OATU.html
+Wildcat, "Outside and Against the Unions", Wildcat, <http://www.angelfire.com/pop2/pkv/OATU.html>
 
 Wildcat, Spanish Dockers on the Barricades", Wildcat #9, 1986
 
