@@ -119,7 +119,7 @@ In 1922, the Third International formally announced the policy of the "United Fr
 
 >"That is why the Bolshevik Party and the Third International have become completely counter-revolutionary organisations, which are betraying the proletarian cause" (_Lines of Orientation of the Communist Workers' International_, 1922).
 
-Despite its undeniable errors, some of which we have briefly dealt with, the German Communist Left was a major contributor to some of the main tenets of the Communist politics of today^[^note-1].
+Despite its undeniable errors, some of which we have briefly dealt with, the German Communist Left was a major contributor to some of the main tenets of the Communist politics of today^[To some extent, Gorter's arguments have contributed to the emergence of the ideology known as "Councilism," whose basic positions can be roughly summarised as follows: a.) The Russian Revolution was inevitably capitalist due to the undeveloped nature of the country. b.) All political organisations are reactionary. c.) Elected workers' councils are the only organisations which can defend the interests of the working class. But it was by no means inevitable that Gorter's views should have suffered from these distortions at the hands of the counter-revolution.].
 
 The counter-revolution and its Leninist thought police has tried to obliterate Gorter, the KAPD and the struggle for a revolutionary International. The republication of this text is part of that continuing struggle.
 
@@ -1148,14 +1148,6 @@ Marx had learnt from the Paris Commune the proletariat cannot use or take over t
 With fraternal greetings,
 
 H. GORTER.
-
-[^note-1]: *From the "Wildcat" introduction:* To some extent, Gorter's arguments have contributed to the emergence of the ideology known as "Councilism", whose basic positions can be roughly summarised as follows:
-
-	i. The Russian Revolution was inevitably capitalist due to the undeveloped nature of the country.
-	ii. All political organisations are reactionary.
-	iii. Elected workers' councils are the only organisations which can defend the interests of the working class.
-
-	But it was by no means inevitable that Gorter's views should have suffered from these distortions at the hands of the counter-revolution.
 
 [^note-19]: It is true that England has no poor peasants to support capital. But the middle class is correspondingly greater, and is united with capitalism. By means of this advance guard the English proletariat shows how it wants to fight: alone, and against all classes of England and its colonies. And exactly like Germany again: by setting an example. By founding a Communist Party that rejects parliamentarism, and that calls out to the entire class in England: let go of parliament, the symbol of capitalist power. Form your own party and your own industrial organisations. Rely on your own strength exclusively.
 

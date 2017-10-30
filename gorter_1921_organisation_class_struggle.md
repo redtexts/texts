@@ -381,8 +381,6 @@ Workers of Germany, England, Western Europe and North America! Victory is only a
 
 Workers of Germany, England, Western Europe and North America, unite in the KAPD or in parties like the KAPD, and in unions like the General Union of German Workers, the AAUD!
 
-## Notes
-
 [^note-1]: The greatness of Lenin lies not least in his having derived the Russian revolution and its tactics entirely from the conditions of production and the class relations prevailing in Russia, in particular the agrarian conditions, and that long before the revolution itself.
 
 	It is therefore to be regretted that he and all the Russians and the entire Third International with him completely disregarded the conditions of production and class relations prevailing in Western Europe and the United States in fixing tactics for the latter continents.
