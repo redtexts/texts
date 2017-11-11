@@ -2,7 +2,7 @@
 title: The Economy in the Russian Revolution
 author: Internationalist Perspective
 date: 1995
-description: Written by Rose in Internationalist Perspective 28. It was followed by a critical response by Sander. That issue is available at <http://internationalistperspective.org/issue/>.
+description: Written by Rose in Internationalist Perspective 28. It was followed by a critical response by Sander. That issue is available at <https://internationalistperspective.org/issue/internationalist-perspective-no-28/>.
 keywords:
 - Political Economy
 - USSR
