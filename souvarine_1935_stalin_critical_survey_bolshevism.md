@@ -1245,7 +1245,7 @@ Lenin did not deny the opportunist tendency, if not the opportunism, of his agra
 
 In reply to those who reproached him with his change of front, Lenin said of this "memorial": "What does it matter who drew it up? As a democratic government we cannot evade the decision of the masses, even if it is not in accordance with our views." He was frankly to admit a few days later: "_We shall not realise the Bolshevik programme: our agrarian policy is drawn from the peasants' memorials_." Three years later he explained this change of programme.
 
->At the time of the October Revolution [he said], we had concluded with the petty-bourgeois peasant class a political alliance which, if not formal, was at least quite serious and effective, by accepting en bloc with one modification only, the agrarian programme of the Social Revolutionaries, _that is to say by concluding a compromise to prove to the peasants that we in no way desire to impose a regime on them, but on the contrary to come to an understanding with them_.
+>At the time of the October Revolution [he said], we had concluded with the petty-bourgeois peasant class a political alliance which, if not formal, was at least quite serious and effective, by accepting en bloc with one modification only, the agrarian programme of the Social Revolutionaries, _that is to say by concluding a compromise to prove to the peasants that we in no way desire to impose a regime on them, but on the contrary to come to an understanding with them_,
 
 and indeed he was only recognising an accomplished fact, for the peasants were dividing the land without consulting anyone.
 
