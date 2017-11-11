@@ -193,9 +193,9 @@ As pointed out in a recent article by C Derrick Varn on the blog Symptomatic Com
 
 C D Ward
 
-[^fn-1]: ["In the aftermath of World War Two: debates on how the workers will hold power after the revolution"](http://en.internationalism.org/internationalreview/201403/9523/aftermath-world-war-two-debates-how-workers-will-hold-power-after-re).
+[^fn-1]: ["In the aftermath of World War Two: debates on how the workers will hold power after the revolution"](https://en.internationalism.org/internationalreview/201403/9523/aftermath-world-war-two-debates-how-workers-will-hold-power-after-re).
 
-[^fn-2]: ["The post-war boom did not reverse the decline of capitalism"](http://en.internationalism.org/internationalreview/201111/4596/post-war-boom-did-not-reverse-decline-capitalism).
+[^fn-2]: ["The post-war boom did not reverse the decline of capitalism"](https://en.internationalism.org/internationalreview/201111/4596/post-war-boom-did-not-reverse-decline-capitalism).
 
 [^fn-3]: [*Workers' Councils*](https://libcom.org/library/workers-councils-book-pannekoek). See also the article referenced in footnote 1.
 
@@ -205,49 +205,49 @@ C D Ward
 
 [^fn-6]: The practical problems facing Bordiga during this period were certainly considerable: he was followed by two police agents wherever he went. Nevertheless there was also a voluntary element in Bordiga's isolation from his comrades and Damen, in a kind of obituary written shortly after Bordiga's death in 1970, is sharply critical of Bordiga at the level of political comportment: "His political behaviour, his constant refusal to take on a politically responsible attitude, has to be considered in this particular climate. Thus many political events, some of great historic importance, such as the Trotsky-Stalin conflict and Stalinism itself were disdainfully ignored without an echo. The same was true for our Fraction abroad in France and Belgium, the ideology and the politics of the party of Livorno, the Second World War and finally the alignment of the USSR with the imperialist front. Not a word, not a line on Bordiga's part appeared throughout this historic period which was on a wider and more complex level than the First World War." From [Bordiga -- Beyond the Myth and the Rhetoric](http://www.leftcom.org/en/articles/2011-01-21/amadeo-bordiga-beyond-the-myth-and-the-rhetoric-0). A study of Bordiga's "years of obscurity" has been published in Italian: Arturo Peregalli and Sandro Saggioro, *Amadeo Bordiga. -- La sconfitta e gli anni oscuri (1926-1945)*. Edizioni Colibri, Milan, November 1998.
 
-[^fn-7]: See the following articles: ["The Second Congress of the Internationalist Communist Party"](http://en.internationalism.org/node/3136), ["The Italian Fraction and the French Communist Left"](http://en.internationalism.org/internationalreview/201211/5366/italian-fraction-and-french-communist-left).
+[^fn-7]: See the following articles: ["The Second Congress of the Internationalist Communist Party"](https://en.internationalism.org/node/3136), ["The Italian Fraction and the French Communist Left"](https://en.internationalism.org/internationalreview/201211/5366/italian-fraction-and-french-communist-left).
 
-[^fn-8]: See in particular ["Communism Vol. 3, Part 4 -- The 1930s: debate on the period of transition"](http://en.internationalism.org/ir/127/vercesi-period-of-transition).
+[^fn-8]: See in particular ["Communism Vol. 3, Part 4 -- The 1930s: debate on the period of transition"](https://en.internationalism.org/ir/127/vercesi-period-of-transition).
 
-[^fn-9]: See p. 164 in the English edition. These insights into the potential dangers emanating from the "proletarian" state seem to have been lost, judging by the surprise the delegate of the PCInt/*Battaglia Comunista* expressed, at the Second Congress of the ICC, after reading a proposed resolution on the state in the period of transition which was based on the insights of the Fraction and of the GCF. The resolution was eventually adopted at the Third Congress: ["Resolution on the State in the Transition Period"](http://en.internationalism.org/node/2733). See also ["The period of transition: Polemic with the PCInt-Battaglia Comunista"](http://en.internationalism.org/node/3168).
+[^fn-9]: See p. 164 in the English edition. These insights into the potential dangers emanating from the "proletarian" state seem to have been lost, judging by the surprise the delegate of the PCInt/*Battaglia Comunista* expressed, at the Second Congress of the ICC, after reading a proposed resolution on the state in the period of transition which was based on the insights of the Fraction and of the GCF. The resolution was eventually adopted at the Third Congress: ["Resolution on the State in the Transition Period"](https://en.internationalism.org/node/2733). See also ["The period of transition: Polemic with the PCInt-Battaglia Comunista"](https://en.internationalism.org/node/3168).
 
 [^fn-10]: In his preface to *Russia and Revolution in Marxist Theory* (*Russie et Révolution dans la Théorie Marxiste*), Spartacus 1975, Jacques Camatte shows that the Bordiga of the revolutionary years after World War One did not defend the notion of invariance, referring in particular to the first article in the collection, "The Lessons of Recent History," which argues that the real movement of the proletariat can enrich theory, and which openly criticises certain of Marx's ideas about democracy and some of the tactical prescriptions in the *Communist Manifesto*: "the system of critical communism must naturally be understood in liaison with the integration of historical experience subsequent to Marx's *Manifesto*, and, if necessary, in an opposite direction to certain tactical behaviours by Marx and Engels which proved to be wrong."
 
-[^fn-11]: ["The post-war boom did not reverse the decline of capitalism"](http://en.internationalism.org/internationalreview/201111/4596/post-war-boom-did-not-reverse-decline-capitalism).
+[^fn-11]: ["The post-war boom did not reverse the decline of capitalism"](https://en.internationalism.org/internationalreview/201111/4596/post-war-boom-did-not-reverse-decline-capitalism).
 
-[^fn-12]: ["In the aftermath of World War Two: debates on how the workers will hold power after the revolution"](http://en.internationalism.org/internationalreview/201403/9523/aftermath-world-war-two-debates-how-workers-will-hold-power-after-re).
+[^fn-12]: ["In the aftermath of World War Two: debates on how the workers will hold power after the revolution"](https://en.internationalism.org/internationalreview/201403/9523/aftermath-world-war-two-debates-how-workers-will-hold-power-after-re).
 
 [^fn-13]: ["Considerations on the party's organic activity when the general situation is historically unfavourable"](https://www.marxists.org/archive/bordiga/works/1965/consider.htm).
 
-[^fn-14]: See in particular: ["The alienation of labour is the premise for its emancipation"](http://en.internationalism.org/internationalreview/199207/1797/alienation-labour-premise-its-emancipation), [The study of Capital and the foundations of Communism](http://en.internationalism.org/internationalreview/199311/1570/study-capital-and-foundations-communism).
+[^fn-14]: See in particular: ["The alienation of labour is the premise for its emancipation"](https://en.internationalism.org/internationalreview/199207/1797/alienation-labour-premise-its-emancipation), [The study of Capital and the foundations of Communism](https://en.internationalism.org/internationalreview/199311/1570/study-capital-and-foundations-communism).
 
 [^fn-15]: ["In Janitzio they're not afraid of death"](https://www.marxists.org/archive/bordiga/works/1961/janitzio.htm).
 
-[^fn-16]: See also a previous article in this series: ["The Mature Marx -- Past and Future Communism"](http://en.internationalism.org/internationalreview/199506/1685/mature-marx-past-and-future-communism).
+[^fn-16]: See also a previous article in this series: ["The Mature Marx -- Past and Future Communism"](https://en.internationalism.org/internationalreview/199506/1685/mature-marx-past-and-future-communism).
 
 [^fn-17]: A rather clear exposition of Bordiga's conception of socialism can be found in [an article by Adam Buick of the Socialist Party of Great Britain, who, for all their other faults, have always understood very clearly that socialism means the abolition of wage labour and money](https://libcom.org/library/bordigism-adam-buick).
 
-[^fn-18]: ["Trotsky and the culture of communism"](http://en.internationalism.org/internationalreview/200210/9651/trotsky-and-culture-communism).
+[^fn-18]: ["Trotsky and the culture of communism"](https://en.internationalism.org/internationalreview/200210/9651/trotsky-and-culture-communism).
 
-[^fn-19]: ["Communism: the real beginning of human society"](http://en.internationalism.org/internationalreview/199210/3571/communism-real-beginning-human-society). This article, like others in the series, also refers to Bordiga's writings on communism.
+[^fn-19]: ["Communism: the real beginning of human society"](https://en.internationalism.org/internationalreview/199210/3571/communism-real-beginning-human-society). This article, like others in the series, also refers to Bordiga's writings on communism.
 
-[^fn-20]: ["Woman's role in the emergence of human culture"](http://en.internationalism.org/internationalreview/201212/5422/womans-role-emergence-human-culture), and [Women's role in the emergence of human solidarity](http://en.internationalism.org/internationalreview/201303/6964/womens-role-emergence-human-solidarity).
+[^fn-20]: ["Woman's role in the emergence of human culture"](https://en.internationalism.org/internationalreview/201212/5422/womans-role-emergence-human-culture), and [Women's role in the emergence of human solidarity](https://en.internationalism.org/internationalreview/201303/6964/womens-role-emergence-human-solidarity).
 
-[^fn-21]: ["Communism: the real beginning of human society"](http://en.internationalism.org/internationalreview/199210/3571/communism-real-beginning-human-society).
+[^fn-21]: ["Communism: the real beginning of human society"](https://en.internationalism.org/internationalreview/199210/3571/communism-real-beginning-human-society).
 
 [^fn-22]: Freud, *New Introductory Lectures*, London 1973, p. 117.
 
 [^fn-23]: Erich Fromm, *Psychoanalysis and Zen Buddhism*, 1960, p. 91 of the 1986 Allen and Unwin edition. Fromm, a descendant of the Frankfurt School who has also written extensively about the early writings of Marx, considers that, taken to its logical conclusion, the true goal of psychoanalysis (which could only be attained on a wide scale in a "sane society"), is not simply to relieve neurotic symptoms or to subordinate the instincts to intellectual control, but to make the unconscious conscious and thus reach the non-repressed life. He thus defines the *method* of psychoanalysis in relation to this goal: "it examines the psychic development of a person from childhood on and tries to recover the earlier experiences in order to assist the person in experiencing what is now repressed. It proceeds by uncovering illusions within oneself about the world, step by step, so that parataxis distortions and alienated intellectualisations diminish. By becoming less of a stranger to himself, the person who goes through this process becomes less estranged to the world; because he has opened up communication with the universe within himself, he has opened up communication with the universe outside. False consciousness disappears, and with it the polarity conscious-unconscious" (ibid p. 107). Elsewhere (p. 105) he compares this method with that of Zen, which uses different means, but also proceeds through a series of smaller realisations or "satoris" towards a qualitatively higher level of being in the world.
 
-[^fn-24]: See the collection *Murdering the Dead: Amadeo Bordiga on capitalism and other disasters*, Antagonism Press, 2001. See also our article [Flooding: the shape of things to come](http://en.internationalism.org/worldrevolution/201403/9567/flooding-shape-things-come) which looks at Bordiga's notion of the role of destruction in capitalist accumulation.
+[^fn-24]: See the collection *Murdering the Dead: Amadeo Bordiga on capitalism and other disasters*, Antagonism Press, 2001. See also our article [Flooding: the shape of things to come](https://en.internationalism.org/worldrevolution/201403/9567/flooding-shape-things-come) which looks at Bordiga's notion of the role of destruction in capitalist accumulation.
 
 [^fn-25]: ["Weird and Wonderful Tales of Modern Social Decadence"](https://www.marxists.org/archive/bordiga/works/1956/weird.htm).
 
-[^fn-26]: *International Review* no. 14, ["A caricature of the Party: the Bordigist Party"](http://en.internationalism.org/node/2647).
+[^fn-26]: *International Review* no. 14, ["A caricature of the Party: the Bordigist Party"](https://en.internationalism.org/node/2647).
 
 [^fn-27]: [The Historical "Invariance" of Marxism](https://libcom.org/library/historical-invariance-marxism-amadeo-bordiga).
 
-[^fn-28]: ["Against the concept of the 'brilliant leader'"](http://en.internationalism.org/ir/033/concept-of-brilliant-leader).
+[^fn-28]: ["Against the concept of the 'brilliant leader'"](https://en.internationalism.org/ir/033/concept-of-brilliant-leader).
 
 [^fn-29]: [Amadeo Bordiga -- Beyond the Myth and the Rhetoric](http://www.leftcom.org/en/articles/2011-01-21/amadeo-bordiga-beyond-the-myth-and-the-rhetoric-0).
 

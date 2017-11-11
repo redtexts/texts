@@ -2,7 +2,7 @@
 title: "The Task of the Hour: Formation of the Party or Formation of Cadres"
 author: Gauche Communiste de France
 date: 1946
-description: Published in French in Internationalisme no. 12 in 1946. English translation and introduction by the International Communist Current, in International Review no. 32 of 1983. Online at <http://en.internationalism.org/node/3124>. Original French text at <http://www.collectif-smolny.org/article.php3?id_article=530>. Unless otherwise indicated, notes evidently by ICC.
+description: Published in French in Internationalisme no. 12 in 1946. English translation and introduction by the International Communist Current, in International Review no. 32 of 1983. Online at <https://en.internationalism.org/node/3124>. Original French text at <http://www.collectif-smolny.org/article.php3?id_article=530>. Unless otherwise indicated, notes evidently by ICC.
 ...
 
 ## ICC Preface
