@@ -1,8 +1,6 @@
 ---
 title: Hamburgers vs Value
-author:
-- Kämpa Tillsammans
-- Dauvé, Gilles
+author: Kämpa Tillsammans
 date: 2002
 description: Written by Kämpa Tillsammans member Marcel. Four paragraphs at the end jointly written by Marcel and French communist Gilles Dauvé. From <https://libcom.org/library/hamburgers-vs-value-riff-raff-group>.
 keywords:
