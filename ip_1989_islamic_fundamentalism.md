@@ -1,5 +1,5 @@
 ---
-title: Islamic Fundamentalism: Religious Fanaticism to Reinforce the State
+title: "Islamic Fundamentalism: Religious Fanaticism to Reinforce the State"
 author: Internationalist Perspective
 date: 1989
 description: Written by Mac Intosh for Internationalist Perspective 15. From <http://www.internationalist-perspective.org/IP/ip-archive/ip_15_islamic.html>.
