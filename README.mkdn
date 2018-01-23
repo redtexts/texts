@@ -45,11 +45,11 @@ your texts adhere to to following rules/don't contain the following "defects":
 - All documents should be proofread for typos/[scannos][scanno], broken lines,
   strange capitalisation, etc.
 - YAML Metadata blocks should always be placed at the top of the files, and
-  **must** contain at least the fields `title`, `author`, `data` and
+  **must** contain at least the fields `title`, `author`, `date` and
   `description`. The `keywords` field is optional. `author` and `keywords` can
   contain more than one item, by using simple lists.
 - Pay attention to [correct YAML syntax][yaml-ref], since
-  otherwise the filed will be ignored.
+  otherwise the field will be ignored.
 - When adding keywords, try to check what keywords other articles use, to
   prevent having multiple keywords with a similar meaning (eg. `Political
   Economy` and `Economics`, `USSR` and `Russia`).
