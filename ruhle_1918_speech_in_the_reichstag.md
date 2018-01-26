@@ -5,18 +5,74 @@ date: 1918
 description: Otto Rühle delivered this speech to the German Reichstag on 25 October 1918. In it, he denounced the Kaiser, the German military, parliament, and -- prophetically -- the Social Democrats. Taken from <https://www.marxists.org/archive/ruhle/1918/ruhle01.htm>.
 ...
 
-In the name of those social democratic workers and soldiers who attach themselves neither to the "governmental" socialists party nor to the Independent Social Democrats, and who are nevertheless numbered in thousands and thousands, in the name of these men who demand the right to make this tribunal listen, and to have their say in an important political and historical situation, I want, very briefly, to give our point of view on the problems which have been at the centre of the discussion for the last few days.
+In the name of those social democratic workers and soldiers who attach
+themselves neither to the "governmental" socialists party nor to the
+Independent Social Democrats, and who are nevertheless numbered in
+thousands and thousands, in the name of these men who demand the right
+to make this tribunal listen, and to have their say in an important
+political and historical situation, I want, very briefly, to give our
+point of view on the problems which have been at the centre of the
+discussion for the last few days.
 
-We reject any peace which the bourgeois-capitalist governments intend to, and are on the point of concluding, on the backs of the people who have been bled white. In the epoch of imperialism a compromise peace which can be in the interests of the people, in the interests of the working class, is something purely and simply impossible. Such an agreement can only be reached at the expense of the people. For the political, historic and economic contradiction which opposes capital to labour, the bourgeoisie to labour, has not been overcome; it continues to exist and even the war has only served to deepen and enlarge it.
+We reject any peace which the bourgeois-capitalist governments intend
+to, and are on the point of concluding, on the backs of the people who
+have been bled white. In the epoch of imperialism a compromise peace
+which can be in the interests of the people, in the interests of the
+working class, is something purely and simply impossible. Such an
+agreement can only be reached at the expense of the people. For the
+political, historic and economic contradiction which opposes capital to
+labour, the bourgeoisie to labour, has not been overcome; it continues
+to exist and even the war has only served to deepen and enlarge it.
 
-This proposed peace, about which we are concerned, is only designed to save from catastrophe, which is menacing it, the system of exploitation and enslavement of the peoples, practised until now with all that this implies on the level of the State, law, legislation and the economy.
+This proposed peace, about which we are concerned, is only designed to
+save from catastrophe, which is menacing it, the system of exploitation
+and enslavement of the peoples, practised until now with all that this
+implies on the level of the State, law, legislation and the economy.
 
-For the labouring class there cannot exist a peace of compromise on the basis of a capitalist regime. They demand a peace founded on force, that is to say that their mortal enemy, the bourgeoisie, should be defeated, the bourgeois-capitalist government overthrown, militarism shattered. Thus will the revolutionary proletariat impose its socialist peace on the bourgeois regime which it will have defeated and overthrown.
+For the labouring class there cannot exist a peace of compromise on the
+basis of a capitalist regime. They demand a peace founded on force, that
+is to say that their mortal enemy, the bourgeoisie, should be defeated,
+the bourgeois-capitalist government overthrown, militarism shattered.
+Thus will the revolutionary proletariat impose its socialist peace on
+the bourgeois regime which it will have defeated and overthrown.
 
-In the second place we reject this supposed democracy, this parliamentarism, which the bourgeois-capitalist regime is offering to the German people at the very moment when it is no longer possible to deny that militarism, which till now was the firmest supporter of the ruling class, is crumbling irresistibly, and when the high command itself is convinced that the war is lost. This pseudo-democracy by the grace of Hindenburg is nothing else but a fig-leaf, an illusion to mislead opinion: in agreeing to phony reforms, reforms on paper, you shield the essential heart of the capitalist system, you act as its saviour by ensuring that it is not prosecuted in front of the tribunal of the masses. The social-democrats are called upon to take upon themselves the role of saviour at the last hour, to protect this bourgeois society which is visibly cracking up: the masses look upon the attitude as a shameful betrayal. They see themselves mocked by this social democracy, which they are asked to take for a government of the people.
+In the second place we reject this supposed democracy, this
+parliamentarism, which the bourgeois-capitalist regime is offering to
+the German people at the very moment when it is no longer possible to
+deny that militarism, which till now was the firmest supporter of the
+ruling class, is crumbling irresistibly, and when the high command
+itself is convinced that the war is lost. This pseudo-democracy by the
+grace of Hindenburg is nothing else but a fig-leaf, an illusion to
+mislead opinion: in agreeing to phony reforms, reforms on paper, you
+shield the essential heart of the capitalist system, you act as its
+saviour by ensuring that it is not prosecuted in front of the tribunal
+of the masses. The social-democrats are called upon to take upon
+themselves the role of saviour at the last hour, to protect this
+bourgeois society which is visibly cracking up: the masses look upon the
+attitude as a shameful betrayal. They see themselves mocked by this
+social democracy, which they are asked to take for a government of the
+people.
 
-The masses, to feel themselves free, have need of something else: democracy and socialism, the Republic founded on the socialist revolution, and to this end, they demand in the first place the abdication of the Emperor as the instigator of the present war.
+The masses, to feel themselves free, have need of something else:
+democracy and socialism, the Republic founded on the socialist
+revolution, and to this end, they demand in the first place the
+abdication of the Emperor as the instigator of the present war.
 
-Finally we reject the so-called League of Nations, with the help of which the bourgeois-capitalist governments, along with certain Social Democrats, want to recover after the war. This League of Nations, whatever its name, can be nothing else than a coalition of powers hostile to the workers and enemies of liberty; a Holy Alliance founded to crush the social revolution which is daily gaining ground. We can see how the great capitalist powers agree marvellously in order to accomplish this infamy; to strangle the peoples revolution in Russia towards which we hold a boundless sympathy. The working class does not expect its liberty from a Society of Nations of the Wilson-type or from any similar scheme attainable only under a capitalist regime. It aspires to the fraternization of all peoples in order to set up an association which will guarantee a lasting peace and civilisation, under the banner of triumphant socialism.
+Finally we reject the so-called League of Nations, with the help of
+which the bourgeois-capitalist governments, along with certain Social
+Democrats, want to recover after the war. This League of Nations,
+whatever its name, can be nothing else than a coalition of powers
+hostile to the workers and enemies of liberty; a Holy Alliance founded
+to crush the social revolution which is daily gaining ground. We can see
+how the great capitalist powers agree marvellously in order to
+accomplish this infamy; to strangle the peoples revolution in Russia
+towards which we hold a boundless sympathy. The working class does not
+expect its liberty from a Society of Nations of the Wilson-type or from
+any similar scheme attainable only under a capitalist regime. It aspires
+to the fraternization of all peoples in order to set up an association
+which will guarantee a lasting peace and civilisation, under the banner
+of triumphant socialism.
 
-I call upon the entire working class, and in particular the working class of Germany, to achieve this socialism by Revolution. The time for action has come.
+I call upon the entire working class, and in particular the working
+class of Germany, to achieve this socialism by Revolution. The time for
+action has come.

@@ -1,72 +1,80 @@
 # The *Red Texts* Text Archive
 
-This repository contains the text files, used to create and maintain a *red
-texts* mirror. All files ending with `.md`, and _only_ `.md` are processed into
-finished texts. To create your own archive, use the [redtext mirror
-tools][rtmt].
+This repository contains the text files, used to create and maintain a
+*red texts* mirror. All files ending with `.md`, and _only_ `.md` are
+processed into finished texts. To create your own archive, use the
+[redtext mirror tools][rtmt].
 
-All files ending with `.md` (and only `.md`) within the root directory of this
-repository will be processed into texts for the archive. These are all written
-with [pandoc's markdown][pandoc-md]. Metadata is stored using [YAML metadata
-blocks][yaml-block], placed at the beginning of each file.
+All files ending with `.md` (and only `.md`) within the root directory
+of this repository will be processed into texts for the archive. These
+are all written with [pandoc's markdown][pandoc-md]. Metadata is stored
+using [YAML metadata blocks][yaml-block], placed at the beginning of
+each file.
 
 ## Agenda
 
-The texts collected here, primarily come from the left-communist tradition. The
-project values quality over quantity - this means that we don't just want to
-collect as many texts as possible and dump them here, but intend to have the
-texts properly formatted.
+The texts collected here, primarily come from the left-communist
+tradition. The project values quality over quantity - this means that we
+don't just want to collect as many texts as possible and dump them here,
+but intend to have the texts properly formatted.
 
 ## Formatting
 
-The actual formatting, is done with "Markdown", a lightweight plain text format.
-If you have never before used Markdown, there is no need to worry. Pages such as
-[John Grubers' original specification][gruber-md] or the [CommonMark
-Spec][commonmark] will help you understand the syntax within a matter of
-minutes. Just make sure to use a plain text editor (Notepad++, Atom, Emacs,
-...), and not a word processor such as Microsoft Word, Open-/Libre Office or
-others producing non-"plain text" (think `.txt` file) output.
+The actual formatting, is done with "Markdown", a lightweight plain text
+format. If you have never before used Markdown, there is no need to
+worry. Pages such as [John Grubers' original specification][gruber-md]
+or the [CommonMark Spec][commonmark] will help you understand the syntax
+within a matter of minutes. Just make sure to use a plain text editor
+(Notepad++, Atom, Emacs, ...), and not a word processor such as
+Microsoft Word, Open-/Libre Office or others producing non-"plain text"
+(think `.txt` file) output.
 
-If you wish to contribute a text, you think should be added, please make sure
-your texts adhere to to following rules/don't contain the following "defects":
+If you wish to contribute a text, you think should be added, please make
+sure your texts adhere to to following rules/don't contain the following
+"defects":
 
-- All files should be [UTF-8][utf8] encoded and written in English. Texts should
-  contain as little non-standard ASCII characters as possible (non breaking
-  whitespaces, ellipses and hyphenation characters, etc.). Obvious exceptions
-  are accents or _umlaute_ for languages like German or French. This can be
-  checked by running `uniname -alp <filename.md>`.
+- All files should be [UTF-8][utf8] encoded and written in English.
+  Texts should contain as little non-standard ASCII characters as
+  possible (non breaking whitespaces, ellipses and hyphenation
+  characters, etc.). Obvious exceptions are accents or _umlaute_ for
+  languages like German or French. This can be checked by running
+  `uniname -alp <filename.md>`.
 - Double spaces or double blank lines should be avoided.
-- Excessive Markup should be avoided, especially adding literal HTML code or
-  trying to manually influence the final style and layout.
-- The structure of the document should represent the actual structure of the
-  document.
-- All headings should by ["ATX" headings][atx] (ie. starting with one or more
-  `#`'s, instead of being underlined).
-- All documents should be proofread for typos/[scannos][scanno], broken lines,
-  strange capitalisation, etc.
-- YAML Metadata blocks should always be placed at the top of the files, and
-  **must** contain at least the fields `title`, `author`, `date` and
-  `description`. The `keywords` field is optional. `author` and `keywords` can
-  contain more than one item, by using simple lists.
-- Pay attention to [correct YAML syntax][yaml-ref], since
-  otherwise the field will be ignored.
-- When adding keywords, try to check what keywords other articles use, to
-  prevent having multiple keywords with a similar meaning (eg. `Political
-  Economy` and `Economics`, `USSR` and `Russia`).
-- Footnotes should always be added by using the `[^fn-x] ... [^fn-x]: text`, as
-  opposed to the `^[...]` Syntax which pandoc also supports (this currently
-  isn't used everywhere, but will be updated over time)
+- Excessive Markup should be avoided, especially adding literal HTML
+  code or trying to manually influence the final style and layout.
+- The structure of the document should represent the actual structure of
+  the document.
+- All headings should by ["ATX" headings][atx] (ie. starting with one or
+  more `#`'s, instead of being underlined).
+- All documents should be proofread for typos/[scannos][scanno], broken
+  lines, strange capitalisation, etc.
+- YAML Metadata blocks should always be placed at the top of the files,
+  and **must** contain at least the fields `title`, `author`, `date` and
+  `description`. The `keywords` field is optional. `author` and
+  `keywords` can contain more than one item, by using simple lists.
+- Pay attention to [correct YAML syntax][yaml-ref], since otherwise the
+  field will be ignored.
+- When adding keywords, try to check what keywords other articles use,
+  to prevent having multiple keywords with a similar meaning (eg.
+  `Political Economy` and `Economics`, `USSR` and `Russia`).
+- Footnotes should always be added by using the `[^fn-x] ... [^fn-x]:
+  text`, as opposed to the `^[...]` Syntax which pandoc also supports
+  (this currently isn't used everywhere, but will be updated over time)
+- Text lines should be wrapped to 72 characters. This does **not**
+  include the YAML block at the beginning of the file, where each field
+  has to be written on one line. Pay attention to this when using
+  automatic formatters like `fmt` or `wrap`.
 
 In addition to the standard Markup syntax, we use [Pandoc's][pandoc-md]
-extensions, especially the [Footnote syntax][pandoc-fn] and the [YAML metadata
-blocks][yaml-block].
+extensions, especially the [Footnote syntax][pandoc-fn] and the [YAML
+metadata blocks][yaml-block].
 
 ## Contributing
 
-If you don't have [Git][git] installed on your computer or don't have a GitHub
-account, you can still contribute by sending in your texts to the current
-maintainers of this repository. We also accept diffs or just regular,
-non-technical Emails pointing out what to correct in a text.
+If you don't have [Git][git] installed on your computer or don't have a
+GitHub account, you can still contribute by sending in your texts to the
+current maintainers of this repository. We also accept diffs or just
+regular, non-technical Emails pointing out what to correct in a text.
 
 ---
 

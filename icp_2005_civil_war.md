@@ -208,328 +208,1817 @@ Date         North    South
 1862, June   918,000  675,000
 1865, March  990,000  175,000
 
-According to these figures the North's numerical superiority was, at the start, fairly narrow, and was more than counter-balanced by other factors. First and foremost there was the fact that the South was fighting a defensive war, with shorter lines of communication and the possibility of moving forces through internal borders; it also had better knowledge of the terrain; and there was the fact that the Southerner, who lived in the countryside, was better at improvising as a soldier than the worker, who didn't know how to shoot or ride a horse (although the North took advantage of a large number of immigrants, mainly Germans, who were refugees from the revolutions of 1848-9). Furthermore the Southerners were initially better led, thanks to an entrenched military tradition in the South, and they would find excellent commanders right from the start (Lee, Johnston, Jackson and Forrest, etc). The North, on the other hand, had to try out, and then get rid of, several commanders-in-chief before finding the winning team in Grant, Sherman and Sheridan.
+According to these figures the North's numerical superiority was, at the
+start, fairly narrow, and was more than counter-balanced by other
+factors. First and foremost there was the fact that the South was
+fighting a defensive war, with shorter lines of communication and the
+possibility of moving forces through internal borders; it also had
+better knowledge of the terrain; and there was the fact that the
+Southerner, who lived in the countryside, was better at improvising as a
+soldier than the worker, who didn't know how to shoot or ride a horse
+(although the North took advantage of a large number of immigrants,
+mainly Germans, who were refugees from the revolutions of 1848-9).
+Furthermore the Southerners were initially better led, thanks to an
+entrenched military tradition in the South, and they would find
+excellent commanders right from the start (Lee, Johnston, Jackson and
+Forrest, etc). The North, on the other hand, had to try out, and then
+get rid of, several commanders-in-chief before finding the winning team
+in Grant, Sherman and Sheridan.
 
-The blockade, which should have been a winning card, took a long time to take effect. The number of ships crossing from the Southern ports fell from 6,000, in 1860, to 800 the following year. The Southerners had time to convert agriculture to the production of essential foodstuffs, and industry to war production. If, on the whole, civilians in the South suffered from the consequences of war much more than in the North, the Southern soldiers rarely found themselves short of weapons and essential supplies. The armaments of the infantry were roughly equivalent with artillery as the North's only significant advantage.
+The blockade, which should have been a winning card, took a long time to
+take effect. The number of ships crossing from the Southern ports fell
+from 6,000, in 1860, to 800 the following year. The Southerners had time
+to convert agriculture to the production of essential foodstuffs, and
+industry to war production. If, on the whole, civilians in the South
+suffered from the consequences of war much more than in the North, the
+Southern soldiers rarely found themselves short of weapons and essential
+supplies. The armaments of the infantry were roughly equivalent with
+artillery as the North's only significant advantage.
 
-All things considered, therefore, even if Marx saw the result of the war as foregone conclusion (although not all his contemporaries did), the duration of the war is understandable.
+All things considered, therefore, even if Marx saw the result of the war
+as foregone conclusion (although not all his contemporaries did), the
+duration of the war is understandable.
 
 ## Total War
 
-There are various distinctive characteristics of the American Civil War which make it stand out from all wars which went before, and make it the precursor to the military conflicts of the following decades.
+There are various distinctive characteristics of the American Civil War
+which make it stand out from all wars which went before, and make it the
+precursor to the military conflicts of the following decades.
 
-The sheer scale of the conflict was exceptional. An immense theatre of operations, the millions of soldiers employed, the huge numbers killed (600 to 700 thousand) and wounded (half a million), and four years of uninterrupted war make it the first 'great' war.
+The sheer scale of the conflict was exceptional. An immense theatre of
+operations, the millions of soldiers employed, the huge numbers killed
+(600 to 700 thousand) and wounded (half a million), and four years of
+uninterrupted war make it the first 'great' war.
 
-It was a war fought and won in the first place by infantry, and yet a number of important technical innovations would set it apart from all previous wars. The main one concerned guns, which now had rifled barrels and were therefore much more accurate and with a far longer range. If, in the past, the old smooth-bore muskets had allowed courageous mass attacks and close quarter fighting with bayonets, guns like the Springfield carbine were capable of stopping the advance of entire battalions from a considerable distance. Despite the fact that frontal assaults would thenceforth only prove effective in extremely rare cases, the military strategists would nevertheless continue over the course of the war to hurl wave upon wave of men against the enemy strongholds. Whilst previously it was a case of having to face not-very-accurate enemy fire over a hundred metres or so before directly impacting with the enemy, now it was often a matter of having to traverse a kilometre or so in the face of firepower which was capable of mowing men down in their hundreds. Losses were enormous, up to 25-35% of the forces employed, figures which were unheard until that point. Enemy positions now had to be swept clear of artillery before the attack, or it was an impossible undertaking. The initial response to this tactical revolution was the prioritising of defence over attack, and the birth of the trench. The American generals wouldn't fully grasp the significance of this tactical revolution; and even 50 years later the same lesson was still being learnt in the same blood-soaked way during the "Great War". Even in 1940 there were those who would rave about "millions of bayonets".
+It was a war fought and won in the first place by infantry, and yet a
+number of important technical innovations would set it apart from all
+previous wars. The main one concerned guns, which now had rifled barrels
+and were therefore much more accurate and with a far longer range. If,
+in the past, the old smooth-bore muskets had allowed courageous mass
+attacks and close quarter fighting with bayonets, guns like the
+Springfield carbine were capable of stopping the advance of entire
+battalions from a considerable distance. Despite the fact that frontal
+assaults would thenceforth only prove effective in extremely rare cases,
+the military strategists would nevertheless continue over the course of
+the war to hurl wave upon wave of men against the enemy strongholds.
+Whilst previously it was a case of having to face not-very-accurate
+enemy fire over a hundred metres or so before directly impacting with
+the enemy, now it was often a matter of having to traverse a kilometre
+or so in the face of firepower which was capable of mowing men down in
+their hundreds. Losses were enormous, up to 25-35% of the forces
+employed, figures which were unheard until that point. Enemy positions
+now had to be swept clear of artillery before the attack, or it was an
+impossible undertaking. The initial response to this tactical revolution
+was the prioritising of defence over attack, and the birth of the
+trench. The American generals wouldn't fully grasp the significance of
+this tactical revolution; and even 50 years later the same lesson was
+still being learnt in the same blood-soaked way during the "Great War".
+Even in 1940 there were those who would rave about "millions of
+bayonets".
 
-Another important consequence of the introduction of rifles was it became far more difficult to use artillery on the battle-field. This was because the gun crew had now become easy targets, whilst the smooth-bored cannons became less efficient if set further back. On the other hand, rifled cannons hadn't been adapted for tactical use due to the reduced calibre to weight ratio, and therefore they were not much use for case shot (incidentally, the machine gun would also be introduced during this conflict). But rifled cannons did gain in range and precision, and here too there use was revolutionary: instead of being constantly moved onto the battlefield, they started to be used to bombard enemy positions from afar, concentrating the fire of several batteries even when they were set far apart.
+Another important consequence of the introduction of rifles was it
+became far more difficult to use artillery on the battle-field. This was
+because the gun crew had now become easy targets, whilst the
+smooth-bored cannons became less efficient if set further back. On the
+other hand, rifled cannons hadn't been adapted for tactical use due to
+the reduced calibre to weight ratio, and therefore they were not much
+use for case shot (incidentally, the machine gun would also be
+introduced during this conflict). But rifled cannons did gain in range
+and precision, and here too there use was revolutionary: instead of
+being constantly moved onto the battlefield, they started to be used to
+bombard enemy positions from afar, concentrating the fire of several
+batteries even when they were set far apart.
 
-Another innovation of the Civil War, due in part to its extent, was the greater logistical requirements of the two armies, which resulted, for the first time in modern history, in the systematic destruction of the enemy's economic and productive resources assuming strategic importance. And, in order to prevent a partisan war setting in (which nevertheless did happen), or stop it developing further, it was but a short step from there to out and out terror. The acceptance of such a policy of annihilation would come about almost as an intrinsic, fatal necessity, and it indeed it ran counter to the intentions of the politicians and generals themselves. On the third day of the war President Lincoln had given the Southern States his sincere assurance that "We will take every care (...) to avoid any destruction, any interference with regard to private property, as well as any disturbance to peaceful citizens throughout the country". General McClellan, who had succeeded Scott, apologised to a Virginia gentleman for the damage he had suffered, saying "I do not come here to make war against the defenceless, the non-combatants, private property, nor against the domestic institutions of the country"; in other words, he had no intention of freeing slaves, a nightmare for Southerners who still remembered the revolt by the slave, Nat Turner, thirty years before.
+Another innovation of the Civil War, due in part to its extent, was the
+greater logistical requirements of the two armies, which resulted, for
+the first time in modern history, in the systematic destruction of the
+enemy's economic and productive resources assuming strategic importance.
+And, in order to prevent a partisan war setting in (which nevertheless
+did happen), or stop it developing further, it was but a short step from
+there to out and out terror. The acceptance of such a policy of
+annihilation would come about almost as an intrinsic, fatal necessity,
+and it indeed it ran counter to the intentions of the politicians and
+generals themselves. On the third day of the war President Lincoln had
+given the Southern States his sincere assurance that "We will take every
+care (...) to avoid any destruction, any interference with regard to
+private property, as well as any disturbance to peaceful citizens
+throughout the country". General McClellan, who had succeeded Scott,
+apologised to a Virginia gentleman for the damage he had suffered,
+saying "I do not come here to make war against the defenceless, the
+non-combatants, private property, nor against the domestic institutions
+of the country"; in other words, he had no intention of freeing slaves,
+a nightmare for Southerners who still remembered the revolt by the
+slave, Nat Turner, thirty years before.
 
-But when Ulysses S. Grant assumed command of the Federal forces in February 1864, he understood the necessity of destroying the economic resources and productive capacity of the South. Typical of the orders he gave to General Sherman was: "You need to remain in Jackson (Mississippi) as long as it is necessary to destroy it as a railway centre and manufacturing city producing military supplies". And to General Sheridan: "If the war is to last a further year, we would rather the Shenandoah valley were to become a desolate and sterile land". And Sheridan would give Grant no cause for complaint in this respect. In October 1864 he informed Grant that he had destroyed 2,000 farmsteads filled with grain, oats and agricultural equipment, 79 corn mills full of flour, 4,000 head of cattle and 3,000 sheep in the Shenandoah valley.
+But when Ulysses S. Grant assumed command of the Federal forces in
+February 1864, he understood the necessity of destroying the economic
+resources and productive capacity of the South. Typical of the orders he
+gave to General Sherman was: "You need to remain in Jackson
+(Mississippi) as long as it is necessary to destroy it as a railway
+centre and manufacturing city producing military supplies". And to
+General Sheridan: "If the war is to last a further year, we would rather
+the Shenandoah valley were to become a desolate and sterile land". And
+Sheridan would give Grant no cause for complaint in this respect. In
+October 1864 he informed Grant that he had destroyed 2,000 farmsteads
+filled with grain, oats and agricultural equipment, 79 corn mills full
+of flour, 4,000 head of cattle and 3,000 sheep in the Shenandoah valley.
 
-Another sector revolutionised by military technology, along with the engineers corps which assumed a hitherto unknown importance, was the cavalry. The cavalry's 'irresistible charges' had been rendered very resistible indeed by advent of the rifle barrelled gun, and it as well would have to be reorganised. Here adaption occurred very rapidly. Once the now suicidal charges were abandoned, the cavalry was used for several new purposes: tactically, to provide an impenetrable screen against enemy scouts when the army was on the march; for near and long-distance scouting expeditions; and for audacious attacks, sometimes far behind the enemy lines, against vital logistical objectives. It became a mobile troop, capable of moving with surprising speed and of fighting either on horse or foot. This was a very modern combination of functions which, at the beginning, the Southerners knew how to exploit to the full.
+Another sector revolutionised by military technology, along with the
+engineers corps which assumed a hitherto unknown importance, was the
+cavalry. The cavalry's 'irresistible charges' had been rendered very
+resistible indeed by advent of the rifle barrelled gun, and it as well
+would have to be reorganised. Here adaption occurred very rapidly. Once
+the now suicidal charges were abandoned, the cavalry was used for
+several new purposes: tactically, to provide an impenetrable screen
+against enemy scouts when the army was on the march; for near and
+long-distance scouting expeditions; and for audacious attacks, sometimes
+far behind the enemy lines, against vital logistical objectives. It
+became a mobile troop, capable of moving with surprising speed and of
+fighting either on horse or foot. This was a very modern combination of
+functions which, at the beginning, the Southerners knew how to exploit
+to the full.
 
-Finally, at sea, there was another great innovation: the new ironclad battleships. Impervious to the cannon shot then available, they would, in their turn, initiate a new phase of naval warfare.
+Finally, at sea, there was another great innovation: the new ironclad
+battleships. Impervious to the cannon shot then available, they would,
+in their turn, initiate a new phase of naval warfare.
 
-"From whatever standpoint one regards it, the American Civil War presents a spectacle without parallel in the annals of military history. The vast extent of the disputed territory; the far-flung front of the lines of operation; the numerical strength of the hostile armies, the creation of which hardly drew any support from a prior organisational basis; the fabulous cost of these armies; the manner of commanding them and the general tactical and strategic principles in accordance with which the war is being waged, are all new in the eyes of the European onlooker". Thus did Marx begin a famous article on the American Civil War dated 21 March, 1862. And from the strategic and tactical points of view as well, there are other distinctive features of the war which are worth briefly examining in order to understand it better.
+"From whatever standpoint one regards it, the American Civil War
+presents a spectacle without parallel in the annals of military history.
+The vast extent of the disputed territory; the far-flung front of the
+lines of operation; the numerical strength of the hostile armies, the
+creation of which hardly drew any support from a prior organisational
+basis; the fabulous cost of these armies; the manner of commanding them
+and the general tactical and strategic principles in accordance with
+which the war is being waged, are all new in the eyes of the European
+onlooker". Thus did Marx begin a famous article on the American Civil
+War dated 21 March, 1862. And from the strategic and tactical points of
+view as well, there are other distinctive features of the war which are
+worth briefly examining in order to understand it better.
 
-The South, even if the aggressor, had no choice, once it had lost the advantage of surprise, but to adopt a defensive strategy, even though offensive episodes in enemy territory weren't entirely excluded, whether for tactical reasons or to improve morale behind the lines. The South placed its hopes in holding on until the tide turned in its favour: firstly, there might be diplomatic or armed intervention in support of the South by the European powers (initially it was believed that the English economy wouldn't be able to withstand the shortage of American cotton); secondly, Northern public opinion might get disillusioned -- and indeed there were many in the North, faced with a war of attrition involving much sacrifice and an increasing death toll, who already opposed the war.
+The South, even if the aggressor, had no choice, once it had lost the
+advantage of surprise, but to adopt a defensive strategy, even though
+offensive episodes in enemy territory weren't entirely excluded, whether
+for tactical reasons or to improve morale behind the lines. The South
+placed its hopes in holding on until the tide turned in its favour:
+firstly, there might be diplomatic or armed intervention in support of
+the South by the European powers (initially it was believed that the
+English economy wouldn't be able to withstand the shortage of American
+cotton); secondly, Northern public opinion might get disillusioned --
+and indeed there were many in the North, faced with a war of attrition
+involving much sacrifice and an increasing death toll, who already
+opposed the war.
 
-The North, on the other hand, had no choice but to fight an offensive war. The political objective of the Washington Government was the restoration of the Union: the secessionist States were seen as rebels and the Confederate government considered as non-existent. The Union's general strategy was to disperse and destroy the armed forces of the secessionists, to shatter the Southerners' desire to resist and rebel and indeed it could not have been otherwise. No mediation or concession was possible, and this was another reason why the war was "beyond compare". That the North was only too aware of its terrible power is clearly shown by the attitude of Lincoln himself: the tremendous confidence with which he called on the South to submit to terms of surrender _only_ on the North's terms proved that it had no fear of armed confrontation, and in fact welcomed it.
+The North, on the other hand, had no choice but to fight an offensive
+war. The political objective of the Washington Government was the
+restoration of the Union: the secessionist States were seen as rebels
+and the Confederate government considered as non-existent. The Union's
+general strategy was to disperse and destroy the armed forces of the
+secessionists, to shatter the Southerners' desire to resist and rebel
+and indeed it could not have been otherwise. No mediation or concession
+was possible, and this was another reason why the war was "beyond
+compare". That the North was only too aware of its terrible power is
+clearly shown by the attitude of Lincoln himself: the tremendous
+confidence with which he called on the South to submit to terms of
+surrender _only_ on the North's terms proved that it had no fear of
+armed confrontation, and in fact welcomed it.
 
-Conscious of its formidable conquering power, the young "national" bourgeoisie certainly wouldn't have allowed any obstacles to stand in its way.
+Conscious of its formidable conquering power, the young "national"
+bourgeoisie certainly wouldn't have allowed any obstacles to stand in
+its way.
 
-The absolutist princes of the 18th Century had to content themselves with wars with restricted objectives; in part due to sound judgement (why threaten the entire system of which they were a part?), in part through necessity (professional soldiers were costly, and difficult to replace by combatants who were equally effective; the manufacturing works of the time weren't up to arming, equipping or feeding a mass army, even allowing it were possible to have conscripted them) and they had always avoided _all-out war_, for reasons of domestic stability too.
+The absolutist princes of the 18th Century had to content themselves
+with wars with restricted objectives; in part due to sound judgement
+(why threaten the entire system of which they were a part?), in part
+through necessity (professional soldiers were costly, and difficult to
+replace by combatants who were equally effective; the manufacturing
+works of the time weren't up to arming, equipping or feeding a mass
+army, even allowing it were possible to have conscripted them) and they
+had always avoided _all-out war_, for reasons of domestic stability too.
 
-But for the bourgeois democratic world things were very different. Here the "nation" was declared to be common patrimony: and on whom could the sacred duty, of taking up arms to defend it, devolve if not on its citizens? On such principles was the "mass levy" of the French Revolution based, and on these same principles would conscription be based, introduced in America by the Southerners shortly after the outbreak of hostilities.
+But for the bourgeois democratic world things were very different. Here
+the "nation" was declared to be common patrimony: and on whom could the
+sacred duty, of taking up arms to defend it, devolve if not on its
+citizens? On such principles was the "mass levy" of the French
+Revolution based, and on these same principles would conscription be
+based, introduced in America by the Southerners shortly after the
+outbreak of hostilities.
 
-In the North the situation was different. There it didn't take long for the State governments to realise that whereas the ordinary citizen was ready to take up arms in a _Hannibal ad portas_^[Hannibal is at the Gates -- the enemy directly threatens.] scenario (which for good or bad was the fate of the South) it was reluctant to fight for anything else. The "national" governments therefore soon discovered that even if, in theory, they had unlimited human resources, these resources couldn't be mobilised without recourse to a new and powerful weapon: war propaganda, a weapon which in the next century would be refined and extended, even in time of peace, in preparation for war. The business of the latter was to describe the enemy as menacing, cruel, abject, and only fit to be wiped out as quickly as possible; only thus, against the "hated enemy", could an army of citizens be made to march off to war. War propaganda would inculcate in soldiers and citizens the determination not to give up until the enemy had been totally annihilated.
+In the North the situation was different. There it didn't take long for
+the State governments to realise that whereas the ordinary citizen was
+ready to take up arms in a _Hannibal ad portas_^[Hannibal is at the
+Gates -- the enemy directly threatens.] scenario (which for good or bad
+was the fate of the South) it was reluctant to fight for anything else.
+The "national" governments therefore soon discovered that even if, in
+theory, they had unlimited human resources, these resources couldn't be
+mobilised without recourse to a new and powerful weapon: war propaganda,
+a weapon which in the next century would be refined and extended, even
+in time of peace, in preparation for war. The business of the latter was
+to describe the enemy as menacing, cruel, abject, and only fit to be
+wiped out as quickly as possible; only thus, against the "hated enemy",
+could an army of citizens be made to march off to war. War propaganda
+would inculcate in soldiers and citizens the determination not to give
+up until the enemy had been totally annihilated.
 
-The North had an enormous task before it, not least because it only had an overwhelming numerical superiority in the latter phases of the war when the fate of the South was already sealed. At best the ratio oscillated between 1.5 and 1.75 to 1, whereas Clausewitz envisaged a ratio of at least 2 to 1, or even greater, as necessary to ensure victory. If we also take into account the fact that the North didn't have a Napoleon, and that the South enjoyed the advantages of fighting a defensive war, we can see that the outcome of the war certainly wasn't a foregone conclusion. The North, however, had excellent river and railway communications in its favour which allowed long lines of communication between the front and the rear, without which the entire enterprise, at least in the theatres of war in the West, would not have been possible.
+The North had an enormous task before it, not least because it only had
+an overwhelming numerical superiority in the latter phases of the war
+when the fate of the South was already sealed. At best the ratio
+oscillated between 1.5 and 1.75 to 1, whereas Clausewitz envisaged a
+ratio of at least 2 to 1, or even greater, as necessary to ensure
+victory. If we also take into account the fact that the North didn't
+have a Napoleon, and that the South enjoyed the advantages of fighting a
+defensive war, we can see that the outcome of the war certainly wasn't a
+foregone conclusion. The North, however, had excellent river and railway
+communications in its favour which allowed long lines of communication
+between the front and the rear, without which the entire enterprise, at
+least in the theatres of war in the West, would not have been possible.
 
-The war front was in fact incredibly long, more than 3,500 kilometers as the crow flies, 500 kilometers longer, that is, than the German front in Russia in 1942 stretching from Finland to Stalingrad. In fact it was a composite front, composed of various theatres of war. If we take these in order, going from East to West, we have: North-East Virginia, in the relatively restricted territory between Washington and Richmond, the two capitals, and including the Shenandoah valley (it was here the bloodiest battles and most of the fighting took place); the bitterly fought central zone, straddling Kentucky and East Tennessee; the course of the Mississippi; and the biggest sector of all, to the West of the great river, an area which was nevertheless of lesser importance and in which battles took place between reduced forces due to the territory's scant resources. There was however another front which would soon prove to be of fundamental importance in laying the basis for the final victory: the maritime one.
+The war front was in fact incredibly long, more than 3,500 kilometers as
+the crow flies, 500 kilometers longer, that is, than the German front in
+Russia in 1942 stretching from Finland to Stalingrad. In fact it was a
+composite front, composed of various theatres of war. If we take these
+in order, going from East to West, we have: North-East Virginia, in the
+relatively restricted territory between Washington and Richmond, the two
+capitals, and including the Shenandoah valley (it was here the bloodiest
+battles and most of the fighting took place); the bitterly fought
+central zone, straddling Kentucky and East Tennessee; the course of the
+Mississippi; and the biggest sector of all, to the West of the great
+river, an area which was nevertheless of lesser importance and in which
+battles took place between reduced forces due to the territory's scant
+resources. There was however another front which would soon prove to be
+of fundamental importance in laying the basis for the final victory: the
+maritime one.
 
 ## A War of Long Duration
 
-After the bombardment of Fort Sumter -- which can be considered as having given the North an initial advantage, since the South appeared as aggressors, therefore silencing those in the North who were opposed to the war -- the rush to arms was enthusiastic, with both sides convinced, for different reasons, that the war would not last long.
+After the bombardment of Fort Sumter -- which can be considered as
+having given the North an initial advantage, since the South appeared as
+aggressors, therefore silencing those in the North who were opposed to
+the war -- the rush to arms was enthusiastic, with both sides convinced,
+for different reasons, that the war would not last long.
 
-Recruitment was initially dependent on volunteers, who would flock to both camps in considerable numbers, but by the second year of the war conscription had already been introduced, particularly in the South. In the North the system didn't take definite shape until 1863.
+Recruitment was initially dependent on volunteers, who would flock to
+both camps in considerable numbers, but by the second year of the war
+conscription had already been introduced, particularly in the South. In
+the North the system didn't take definite shape until 1863.
 
-Since there could only be a quick resolution to the war in the East, with the fall of one of the two capitals, it was here that attention would therefore be focused in the summer of 1861. In the North public opinion was clamouring for a decisive victory, not least because most of the troops were only enrolled on three-month terms, giving an idea of how long Washington thought the war would last. "Forward to Richmond!" was the battle-cry of politicians and hack journalists alike; the battle-cry, that is, of those who thought they would be travelling there in carriages or trains, not marching, or languishing in trenches. But they would have to wait a few years: the battle which took place on July 12th 1861 at Bull Run in Virginia saw the North soundly defeated, even if it was little more than skirmish compared to the ones which followed.
+Since there could only be a quick resolution to the war in the East,
+with the fall of one of the two capitals, it was here that attention
+would therefore be focused in the summer of 1861. In the North public
+opinion was clamouring for a decisive victory, not least because most of
+the troops were only enrolled on three-month terms, giving an idea of
+how long Washington thought the war would last. "Forward to Richmond!"
+was the battle-cry of politicians and hack journalists alike; the
+battle-cry, that is, of those who thought they would be travelling there
+in carriages or trains, not marching, or languishing in trenches. But
+they would have to wait a few years: the battle which took place on July
+12th 1861 at Bull Run in Virginia saw the North soundly defeated, even
+if it was little more than skirmish compared to the ones which followed.
 
-The Northerners dug themselves in around fortified Washington to take stock of the situation. For Lincoln, at least, defeat be transformed into victory insofar as it confirmed Congress's determination to press forward to victory. Lincoln was allowed to float a huge 400 million dollar loan, and enrol 500,000 volunteers for either a 3 year term or for the duration of the war. Apart from parties, frondes and interest groups, this was the way the bourgeoisie would express its unitary determination to achieve its economic and political objectives.
+The Northerners dug themselves in around fortified Washington to take
+stock of the situation. For Lincoln, at least, defeat be transformed
+into victory insofar as it confirmed Congress's determination to press
+forward to victory. Lincoln was allowed to float a huge 400 million
+dollar loan, and enrol 500,000 volunteers for either a 3 year term or
+for the duration of the war. Apart from parties, frondes and interest
+groups, this was the way the bourgeoisie would express its unitary
+determination to achieve its economic and political objectives.
 
-Even if there was contact between the rival armies in Missouri, in West Virginia and in the peninsular to the South-east of Richmond, as well in Virginia itself, the rest of the year would roll by without further major engagements. The North would also deploy its overwhelming naval superiority to impose a blockade and would conquer a certain number of coastal forts and islands.
+Even if there was contact between the rival armies in Missouri, in West
+Virginia and in the peninsular to the South-east of Richmond, as well in
+Virginia itself, the rest of the year would roll by without further
+major engagements. The North would also deploy its overwhelming naval
+superiority to impose a blockade and would conquer a certain number of
+coastal forts and islands.
 
-What should be done? For the Southerners the decision was relatively simple: whilst defending themselves from attack, they needed to bide their time and allow defeats, attrition and pressure from the foreign powers to convince public opinion in the North that the war wasn't worth continuing. But for the North, which had set itself the task of defeating an enemy occupying a limitless territory which could count on a massive population, there was nothing for it but to attack. But where?
+What should be done? For the Southerners the decision was relatively
+simple: whilst defending themselves from attack, they needed to bide
+their time and allow defeats, attrition and pressure from the foreign
+powers to convince public opinion in the North that the war wasn't worth
+continuing. But for the North, which had set itself the task of
+defeating an enemy occupying a limitless territory which could count on
+a massive population, there was nothing for it but to attack. But where?
 
-Winfield Scott, the General-in-chief of the Northern forces, predicted it would take a war of three years at least, with heavy losses, to subdue the South. Along with the naval blockade, he considered driving down the Mississippi as a primary objective. In Northern hands it would effectively separate the South from the West, and the South would be slowly strangled due to its isolation, lack of supplies and the military pressure exerted on it from all sides. Due to these characteristics, Scott's plan would become known as the 'anaconda plan', and although it had its weak points, it was better than many later ones. Lincoln, after Bull Run, didn't want to modify it that much, but when McClellan was entrusted with the command later on this would force a change of direction. McClellan saw the East as the one spot where pressure needed to be applied to crush the rebellion, whereas the West he saw as a very secondary theatre of war. And on this basis he directed his next campaign. In fact Richmond had a psychological rather than a strategic value: if the city fell, the Southerners could retreat into their limitless hinterland and choose the time and the place from which to launch their counter-attack.
+Winfield Scott, the General-in-chief of the Northern forces, predicted
+it would take a war of three years at least, with heavy losses, to
+subdue the South. Along with the naval blockade, he considered driving
+down the Mississippi as a primary objective. In Northern hands it would
+effectively separate the South from the West, and the South would be
+slowly strangled due to its isolation, lack of supplies and the military
+pressure exerted on it from all sides. Due to these characteristics,
+Scott's plan would become known as the 'anaconda plan', and although it
+had its weak points, it was better than many later ones. Lincoln, after
+Bull Run, didn't want to modify it that much, but when McClellan was
+entrusted with the command later on this would force a change of
+direction. McClellan saw the East as the one spot where pressure needed
+to be applied to crush the rebellion, whereas the West he saw as a very
+secondary theatre of war. And on this basis he directed his next
+campaign. In fact Richmond had a psychological rather than a strategic
+value: if the city fell, the Southerners could retreat into their
+limitless hinterland and choose the time and the place from which to
+launch their counter-attack.
 
-In any case, war was continuing. In the West the Southerners occupied Columbus, a city in Kentucky, leading the State to abandon its neutrality and definitely side with the North. The North would then counterattack in the same zone with a series of attacks on cities and fortified positions, with the consequence that the Southerners abandoned the State in February 1862. The commander in the west was actually Halleck, but later history would consider Grant as the military star of the age.
+In any case, war was continuing. In the West the Southerners occupied
+Columbus, a city in Kentucky, leading the State to abandon its
+neutrality and definitely side with the North. The North would then
+counterattack in the same zone with a series of attacks on cities and
+fortified positions, with the consequence that the Southerners abandoned
+the State in February 1862. The commander in the west was actually
+Halleck, but later history would consider Grant as the military star of
+the age.
 
-A good description of this campaign can be found in an article by Marx from March 27, 1862, which also gives his opinion on the general strategy of the war. A communist, sat in a library in London, would see more clearly than the generals strutting around the battlefields equipped with all the available information: "In densely populated and more or less centralised states there is always a centre, with the occupation of which by the enemy the national resistance would be broken. Paris is a brilliant example. The slave states, however, possess no such centre. They are sparsely populated, with few large towns and all these on the seacoast. The question therefore arises: Does a military centre of gravity nevertheless exist, with the capture of which the backbone of their resistance will be broken, or are they, just as Russia still was in 1812, not to be conquered without occupying every village and every plot of land, in short, the entire periphery?
+A good description of this campaign can be found in an article by Marx
+from March 27, 1862, which also gives his opinion on the general
+strategy of the war. A communist, sat in a library in London, would see
+more clearly than the generals strutting around the battlefields
+equipped with all the available information: "In densely populated and
+more or less centralised states there is always a centre, with the
+occupation of which by the enemy the national resistance would be
+broken. Paris is a brilliant example. The slave states, however, possess
+no such centre. They are sparsely populated, with few large towns and
+all these on the seacoast. The question therefore arises: Does a
+military centre of gravity nevertheless exist, with the capture of which
+the backbone of their resistance will be broken, or are they, just as
+Russia still was in 1812, not to be conquered without occupying every
+village and every plot of land, in short, the entire periphery?
 
-"Cast a glance at the geographical shape of the secessionists' territory, with its long stretch of coast on the Atlantic Ocean and its long stretch of coast on the Gulf of Mexico. So long as the Confederates held Kentucky and Tennessee, the whole formed a great compact mass. The loss of both these states drives an enormous wedge into their territory, separating the states on the North Atlantic Ocean from the States on the Gulf of Mexico. The direct route from Virginia and the two Carolinas to Texas, Louisiana, Mississippi and even, in part, to Alabama leads through Tennessee, which is now occupied by the Unionists. The sole route that, after the complete conquest of Tennessee by the Union, connects the two sections of the slave states goes through Georgia. This proves that Georgia is the key to the secessionists' territory. With the loss of Georgia the Confederacy would be cut into two sections, which would have lost all connection with one another. A reconquest of Georgia by the secessionists, however, would be almost unthinkable, for the Unionist fighting forces would be concentrated in a central position, while their adversaries, divided into two camps, would have scarcely sufficient forces to put in the field for a joint attack.
+"Cast a glance at the geographical shape of the secessionists'
+territory, with its long stretch of coast on the Atlantic Ocean and its
+long stretch of coast on the Gulf of Mexico. So long as the Confederates
+held Kentucky and Tennessee, the whole formed a great compact mass. The
+loss of both these states drives an enormous wedge into their territory,
+separating the states on the North Atlantic Ocean from the States on the
+Gulf of Mexico. The direct route from Virginia and the two Carolinas to
+Texas, Louisiana, Mississippi and even, in part, to Alabama leads
+through Tennessee, which is now occupied by the Unionists. The sole
+route that, after the complete conquest of Tennessee by the Union,
+connects the two sections of the slave states goes through Georgia. This
+proves that Georgia is the key to the secessionists' territory. With the
+loss of Georgia the Confederacy would be cut into two sections, which
+would have lost all connection with one another. A reconquest of Georgia
+by the secessionists, however, would be almost unthinkable, for the
+Unionist fighting forces would be concentrated in a central position,
+while their adversaries, divided into two camps, would have scarcely
+sufficient forces to put in the field for a joint attack.
 
-"Would the conquest of all Georgia, with the seacoast of Florida, be required for such an operation? By no means. In a land where communication, particularly between distant points, depends much more on railways than on highways, the seizure of the railways is sufficient. The southernmost railway line between the States on the Gulf of Mexico and the Atlantic coast goes through Macon and Gordon near Milledgeville.
+"Would the conquest of all Georgia, with the seacoast of Florida, be
+required for such an operation? By no means. In a land where
+communication, particularly between distant points, depends much more on
+railways than on highways, the seizure of the railways is sufficient.
+The southernmost railway line between the States on the Gulf of Mexico
+and the Atlantic coast goes through Macon and Gordon near Milledgeville.
 
-"The occupation of these two points would accordingly cut the secessionists' territory in two and enable the Unionists to beat one part after another. At the same time, one gathers from the above that no Southern republic is viable without the possession of Tennessee. Without Tennessee, Georgia's vital spot lies only eight or ten days' march from the frontier; the North would constantly have its hand at the throat of the South, and, at the slightest pressure, the South would have to yield or fight for its life anew, under circumstances in which a single defeat would cut off every prospect of success.
+"The occupation of these two points would accordingly cut the
+secessionists' territory in two and enable the Unionists to beat one
+part after another. At the same time, one gathers from the above that no
+Southern republic is viable without the possession of Tennessee. Without
+Tennessee, Georgia's vital spot lies only eight or ten days' march from
+the frontier; the North would constantly have its hand at the throat of
+the South, and, at the slightest pressure, the South would have to yield
+or fight for its life anew, under circumstances in which a single defeat
+would cut off every prospect of success.
 
 "From the foregoing considerations it follows:
 
-"The Potomac is not the most important position in the war theatre. The seizure of Richmond and the advance of the Potomac army further south -- difficult on account of the many rivers that cut across the line of march -- could produce a tremendous moral effect. From a purely military standpoint, they would decide nothing.
+"The Potomac is not the most important position in the war theatre. The
+seizure of Richmond and the advance of the Potomac army further south --
+difficult on account of the many rivers that cut across the line of
+march -- could produce a tremendous moral effect. From a purely military
+standpoint, they would decide nothing.
 
-"The outcome of the campaign depends on the Kentucky army, now in Tennessee. On the one hand, this army is nearest to the decisive points; on the other hand, it occupies a territory without which secession cannot survive. This army would accordingly have to be strengthened at the expense of all the rest and the sacrifice of all minor operations (...) On the contrary, should the anaconda plan be followed, then, despite all the successes gained at particular points and even on the Potomac, the war may be prolonged indefinitely, while the financial difficulties together with diplomatic complications acquire fresh scope".
+"The outcome of the campaign depends on the Kentucky army, now in
+Tennessee. On the one hand, this army is nearest to the decisive points;
+on the other hand, it occupies a territory without which secession
+cannot survive. This army would accordingly have to be strengthened at
+the expense of all the rest and the sacrifice of all minor operations
+(...) On the contrary, should the anaconda plan be followed, then,
+despite all the successes gained at particular points and even on the
+Potomac, the war may be prolonged indefinitely, while the financial
+difficulties together with diplomatic complications acquire fresh
+scope".
 
-We will see that the road to victory for the North was precisely that, even if it was a strategy applied only partially and two years late. But that is to run ahead of ourselves.
+We will see that the road to victory for the North was precisely that,
+even if it was a strategy applied only partially and two years late. But
+that is to run ahead of ourselves.
 
-In the spring of 1862 the Confederates were in a tragic position. After winning a few battles they had spent the winter basking in past victories. The Northerners, on the other hand, had passed the winter of undeclared truce (the last of them) forming regiments, founding cannons, and organising the logistics required for armies of tens, if not hundreds, of thousands of men.
+In the spring of 1862 the Confederates were in a tragic position. After
+winning a few battles they had spent the winter basking in past
+victories. The Northerners, on the other hand, had passed the winter of
+undeclared truce (the last of them) forming regiments, founding cannons,
+and organising the logistics required for armies of tens, if not
+hundreds, of thousands of men.
 
-The Offensive that had got underway in January in Kentucky had "liberated" the State. The northern march had continued southwards, and on February 25, Nashville, the capital of Tennessee, had fallen. Other victories were attained in trans-Mississippi, in Arkansas and in New Mexico: a minor theatre, inhospitable and sparsely populated, where armies of reduced dimensions operated, but important nonetheless as a supply centre for the South.
+The Offensive that had got underway in January in Kentucky had
+"liberated" the State. The northern march had continued southwards, and
+on February 25, Nashville, the capital of Tennessee, had fallen. Other
+victories were attained in trans-Mississippi, in Arkansas and in New
+Mexico: a minor theatre, inhospitable and sparsely populated, where
+armies of reduced dimensions operated, but important nonetheless as a
+supply centre for the South.
 
-After other important coastal conquests by the North, their luck seemed to have run out when suddenly a new and deadly weapon appeared in the bay of Norfolk (in southern hands but blockaded by the North): a battleship. This was the Merrimac (re-christened the Virginia) a wholly new concept in ships, impenetrable to the cannon shot then available and therefore able to get alongside war ships and sink them at its leisure. It should have given them an advantage capable of breaking the Northern blockade, but the northerners were working on a similar, possibly better, ship, the Monitor; which just a day after the attack by the Virginia would reach the bay of Norfolk where a fierce, but indecisive, duel ensued.
+After other important coastal conquests by the North, their luck seemed
+to have run out when suddenly a new and deadly weapon appeared in the
+bay of Norfolk (in southern hands but blockaded by the North): a
+battleship. This was the Merrimac (re-christened the Virginia) a wholly
+new concept in ships, impenetrable to the cannon shot then available and
+therefore able to get alongside war ships and sink them at its leisure.
+It should have given them an advantage capable of breaking the Northern
+blockade, but the northerners were working on a similar, possibly
+better, ship, the Monitor; which just a day after the attack by the
+Virginia would reach the bay of Norfolk where a fierce, but indecisive,
+duel ensued.
 
-But in the West success continued to elude the South. An attempted counter-attack in Tennessee would lead to a bloody battle at Pittsburgh Landing. Grant was attacked whilst awaiting the rest of his army, but partial defeat would be transformed into a clear victory, and the Southerners were forced to retreat to the south of the Mississippi State border.
+But in the West success continued to elude the South. An attempted
+counter-attack in Tennessee would lead to a bloody battle at Pittsburgh
+Landing. Grant was attacked whilst awaiting the rest of his army, but
+partial defeat would be transformed into a clear victory, and the
+Southerners were forced to retreat to the south of the Mississippi State
+border.
 
-Meanwhile, another offensive would aim to gain control over the great river, mostly by deploying the river fleet, supported on land by the infantry. Bit by bit the forts and cities on the river would succumb; and when to avoid being outflanked the Southerners were forced to abandon Memphis, the Northern navies would descend hundreds of miles South. Memphis fell on June 6th. But already on April 25th, thanks to an extremely audacious action by Admiral Farragut's naval squad, an even more important city on the river delta had fallen: New Orleans. The Northerners had then headed upstream, taking up a position next to the apparently insuperable fortifications at Port Hudson. Meanwhile, the river fleet which in June would follow the course of the Mississippi downstream would be brought to a halt about two hundred miles due North at Vicksburg, where formidable defences had been set in place by the Southerners. They couldn't do otherwise; the loss of the father of rivers would mean the detachment of the States on the other side of the river, with consequences we have already described. Thus, for the time being, a communicating door with the West remained open for the Southerners, a link they couldn't afford to lose.
+Meanwhile, another offensive would aim to gain control over the great
+river, mostly by deploying the river fleet, supported on land by the
+infantry. Bit by bit the forts and cities on the river would succumb;
+and when to avoid being outflanked the Southerners were forced to
+abandon Memphis, the Northern navies would descend hundreds of miles
+South. Memphis fell on June 6th. But already on April 25th, thanks to an
+extremely audacious action by Admiral Farragut's naval squad, an even
+more important city on the river delta had fallen: New Orleans. The
+Northerners had then headed upstream, taking up a position next to the
+apparently insuperable fortifications at Port Hudson. Meanwhile, the
+river fleet which in June would follow the course of the Mississippi
+downstream would be brought to a halt about two hundred miles due North
+at Vicksburg, where formidable defences had been set in place by the
+Southerners. They couldn't do otherwise; the loss of the father of
+rivers would mean the detachment of the States on the other side of the
+river, with consequences we have already described. Thus, for the time
+being, a communicating door with the West remained open for the
+Southerners, a link they couldn't afford to lose.
 
-In the East, leadership of the northern troops, firstly of the Army of the Potomac then of the whole of the Northern army, had been entrusted to McClellan, a grizzled and conceited organiser who dedicated himself to constructing an army whose enormity, it was thought, would make it invincible. But the general seemed reluctant to use it, and only deployed it when given explicit orders to do so by Lincoln. Faithful to his vision of a concentrated attack on Richmond, McClellan conceived a plan of attack that foresaw disembarking troops to the southeast of Richmond, on a peninsular defined by the estuaries of the York and James Rivers. From there his intention was to move his huge army towards Richmond, which would be conquered by means of a textbook siege. Luckily for the Southerners, McClellan was in no hurry to fight and his army moved off very slowly. In fact, having once disembarked, the Northerners, instead of throwing themselves in forced stages on Richmond, chose instead to lay siege to Yorktown. Getting the batteries ready to invest the city took a month, and not surprisingly, the day before the bombardment started, the Southern garrison craftily slipped away, and abandoned the city.
+In the East, leadership of the northern troops, firstly of the Army of
+the Potomac then of the whole of the Northern army, had been entrusted
+to McClellan, a grizzled and conceited organiser who dedicated himself
+to constructing an army whose enormity, it was thought, would make it
+invincible. But the general seemed reluctant to use it, and only
+deployed it when given explicit orders to do so by Lincoln. Faithful to
+his vision of a concentrated attack on Richmond, McClellan conceived a
+plan of attack that foresaw disembarking troops to the southeast of
+Richmond, on a peninsular defined by the estuaries of the York and James
+Rivers. From there his intention was to move his huge army towards
+Richmond, which would be conquered by means of a textbook siege. Luckily
+for the Southerners, McClellan was in no hurry to fight and his army
+moved off very slowly. In fact, having once disembarked, the
+Northerners, instead of throwing themselves in forced stages on
+Richmond, chose instead to lay siege to Yorktown. Getting the batteries
+ready to invest the city took a month, and not surprisingly, the day
+before the bombardment started, the Southern garrison craftily slipped
+away, and abandoned the city.
 
-The delay allows Lee, the new commander in chief of the Southern army, to gather an army that isn't the equal of the Federal one but can nevertheless forcefully oppose it. Thus the fall of Yorktown and the port of Norfolk, in itself positive, is counterbalanced by the territory left to the Confederates, who led by Jackson attack in West Virginia and threaten Washington. Federal troops are sent north, weakening a still powerful army, which nevertheless still has 125,000 troops after the division. But they aren't enough for McClellan, who has a curious propensity of always vastly overestimating the enemy's strength. Therefore, when attacked by Lee in the Seven Days' battles (25 May to 1 June) he retreats to the bridgehead; here McClellan decides to re-embark his army, which emerges relatively unscathed, in marked contrast to the Confederates whose victory costs them enormous losses. But if Lee saved Richmond, McClellan expended enormous resources and achieved nothing. In fact the Southerners are given the opportunity to counter-attack, which passes into the second battle of Bull Run and carries Lee's army up into Maryland. Here on September 17 the Battle of Antietam takes place, without winners or losers, but Lee is forced to fall back to the south.
+The delay allows Lee, the new commander in chief of the Southern army,
+to gather an army that isn't the equal of the Federal one but can
+nevertheless forcefully oppose it. Thus the fall of Yorktown and the
+port of Norfolk, in itself positive, is counterbalanced by the territory
+left to the Confederates, who led by Jackson attack in West Virginia and
+threaten Washington. Federal troops are sent north, weakening a still
+powerful army, which nevertheless still has 125,000 troops after the
+division. But they aren't enough for McClellan, who has a curious
+propensity of always vastly overestimating the enemy's strength.
+Therefore, when attacked by Lee in the Seven Days' battles (25 May to 1
+June) he retreats to the bridgehead; here McClellan decides to re-embark
+his army, which emerges relatively unscathed, in marked contrast to the
+Confederates whose victory costs them enormous losses. But if Lee saved
+Richmond, McClellan expended enormous resources and achieved nothing. In
+fact the Southerners are given the opportunity to counter-attack, which
+passes into the second battle of Bull Run and carries Lee's army up into
+Maryland. Here on September 17 the Battle of Antietam takes place,
+without winners or losers, but Lee is forced to fall back to the south.
 
-For Marx this Federal success is extremely important and decides the outcome of the war, not least because of its effects on the battle of Perryville (Kentucky) in the following month. If the Southerners had won at Antietam, their push into Kentucky would have had far greater impact. From there, just by crossing the River Ohio and pushing forward into the eponymous State, they could have split the North in two. In a nutshell, it is almost the reverse of the tactics that Marx hoped the North would follow in his article of March 27. He is well aware of the limitless technical and economic power of the North, but knows too there is no certainty, at that point, about the attitude of the border States, nor of the European powers: the military collapse of the Union could have forced it into making a peace settlement favourable to the South.
+For Marx this Federal success is extremely important and decides the
+outcome of the war, not least because of its effects on the battle of
+Perryville (Kentucky) in the following month. If the Southerners had won
+at Antietam, their push into Kentucky would have had far greater impact.
+From there, just by crossing the River Ohio and pushing forward into the
+eponymous State, they could have split the North in two. In a nutshell,
+it is almost the reverse of the tactics that Marx hoped the North would
+follow in his article of March 27. He is well aware of the limitless
+technical and economic power of the North, but knows too there is no
+certainty, at that point, about the attitude of the border States, nor
+of the European powers: the military collapse of the Union could have
+forced it into making a peace settlement favourable to the South.
 
-McClellan is now replaced by Burnside, who attempts to launch an attack on Richmond from Fredericksburg, a city on the river Rappahannock. There Lee draws up his army, and from an impregnable position, on December 13, the Southerners massacre the soldiers of the Union, wave upon wave of whom are sent to die without prospect of success (12,000 dead). The Northerners fall back, Burnside is sacked (although his style of butchery would be imitated, on both sides, by every general after him), and in Virginia there is a transition to trench warfare. The Southerners, meanwhile, have started too think maybe they can win.
+McClellan is now replaced by Burnside, who attempts to launch an attack
+on Richmond from Fredericksburg, a city on the river Rappahannock. There
+Lee draws up his army, and from an impregnable position, on December 13,
+the Southerners massacre the soldiers of the Union, wave upon wave of
+whom are sent to die without prospect of success (12,000 dead). The
+Northerners fall back, Burnside is sacked (although his style of
+butchery would be imitated, on both sides, by every general after him),
+and in Virginia there is a transition to trench warfare. The
+Southerners, meanwhile, have started too think maybe they can win.
 
-In the West, unlike in the East, the advance of the federal troops is constant, despite the occasional setback. Halleck is recalled to Washington and appointed general-in-chief, and the army of the West is divided in three; a factor which would weaken it, temporarily, until its command was entrusted to Grant.
+In the West, unlike in the East, the advance of the federal troops is
+constant, despite the occasional setback. Halleck is recalled to
+Washington and appointed general-in-chief, and the army of the West is
+divided in three; a factor which would weaken it, temporarily, until its
+command was entrusted to Grant.
 
-The Northern advance is held up in Tennessee by a Southern counter-attack (Battle of Chattanooga) that is soon halted however and forced back to Perryville on October 8, after Grant in his turn had won at Corinth. There is a final bloody battle at Stone's River, in Tennessee, and between 31 December and 3 January the Southerners once again have to abandon the State.
+The Northern advance is held up in Tennessee by a Southern
+counter-attack (Battle of Chattanooga) that is soon halted however and
+forced back to Perryville on October 8, after Grant in his turn had won
+at Corinth. There is a final bloody battle at Stone's River, in
+Tennessee, and between 31 December and 3 January the Southerners once
+again have to abandon the State.
 
 ## The Crucial Year
 
-Vicksburg, the river fortress, necessarily becomes a primary target, but it requires repeated campaigns, three of which fail due to the stronghold's particularly advantageous position, high above the water and in a predominantly marshy area. Finally, in a rapid outflanking manoeuvring, which daringly take the risk of getting trapped behind enemy lines, Grant manages to lay siege to the city, which capitulates on July 4 1863. Port Hudson suffers the same fate soon afterwards, and as well as bringing the entire course of the Mississippi under their control, the victory would yield the northerners an additional 36,000 prisoners.
+Vicksburg, the river fortress, necessarily becomes a primary target, but
+it requires repeated campaigns, three of which fail due to the
+stronghold's particularly advantageous position, high above the water
+and in a predominantly marshy area. Finally, in a rapid outflanking
+manoeuvring, which daringly take the risk of getting trapped behind
+enemy lines, Grant manages to lay siege to the city, which capitulates
+on July 4 1863. Port Hudson suffers the same fate soon afterwards, and
+as well as bringing the entire course of the Mississippi under their
+control, the victory would yield the northerners an additional 36,000
+prisoners.
 
-In the East, command of the Northern army passes to Hooker, and he too ends up being defeated by Lee on the outskirts of Fredericksburg (Chancellorsville, 2-4 May). We need however to remember that the balance of dead and wounded in these battles wasn't always in favour of the victor; on the contrary, sometimes the price of victory was an ample blood tribute. Therefore in every battle, barring few exceptions, the North was at a considerable advantage compared to the South due to its numerical superiority and populous hinterlands. Hence, when Lee decided to make another attempt to invade the North, he couldn't have expected to face a weakened army. And at Gettysburg, in Pennsylvania between the 1st and 3rd of July, there was the umpteenth massacre of infantry by the artillery, after which Lee's army, repelled with heavy losses, was forced to abandon the field and return to Virginia, from whence it would never emerge again.
+In the East, command of the Northern army passes to Hooker, and he too
+ends up being defeated by Lee on the outskirts of Fredericksburg
+(Chancellorsville, 2-4 May). We need however to remember that the
+balance of dead and wounded in these battles wasn't always in favour of
+the victor; on the contrary, sometimes the price of victory was an ample
+blood tribute. Therefore in every battle, barring few exceptions, the
+North was at a considerable advantage compared to the South due to its
+numerical superiority and populous hinterlands. Hence, when Lee decided
+to make another attempt to invade the North, he couldn't have expected
+to face a weakened army. And at Gettysburg, in Pennsylvania between the
+1st and 3rd of July, there was the umpteenth massacre of infantry by the
+artillery, after which Lee's army, repelled with heavy losses, was
+forced to abandon the field and return to Virginia, from whence it would
+never emerge again.
 
-After the resounding victory at Vicksburg, the year 1863 ended favourably for the North in the West as well. An impressive Northern offensive succeeded in occupying Chattanooga, an important city on the border with Georgia. But about twelve miles south of the city, on the banks of the Chickamauga Creek, the Southerners waited for Rosecrans and his Army of the Cumberland. There the latter was defeated, but, as so often was the case, not annihilated or dispersed. The battle was an extremely bloodthirsty one, one of the bloodiest of the war with the North's casualty list running to 12,000 and the South's to 19,000, amounting to 25% of the troops deployed. Rosecrans fell back to Chattanooga to hold out there.
+After the resounding victory at Vicksburg, the year 1863 ended
+favourably for the North in the West as well. An impressive Northern
+offensive succeeded in occupying Chattanooga, an important city on the
+border with Georgia. But about twelve miles south of the city, on the
+banks of the Chickamauga Creek, the Southerners waited for Rosecrans and
+his Army of the Cumberland. There the latter was defeated, but, as so
+often was the case, not annihilated or dispersed. The battle was an
+extremely bloodthirsty one, one of the bloodiest of the war with the
+North's casualty list running to 12,000 and the South's to 19,000,
+amounting to 25% of the troops deployed. Rosecrans fell back to
+Chattanooga to hold out there.
 
-Before achieving another Vicksburg, however, the federals were rescued by two armies under the direct leadership of General Grant, now commander in chief of the troops in the West, and after a battle before the gates of the city, on 23rd to 25th of November, the Southerners were forced to fall back to the South.
+Before achieving another Vicksburg, however, the federals were rescued
+by two armies under the direct leadership of General Grant, now
+commander in chief of the troops in the West, and after a battle before
+the gates of the city, on 23rd to 25th of November, the Southerners were
+forced to fall back to the South.
 
-The war was now turning in the North's favour, but that didn't mean it would soon be over. In the expectation that war weariness would finally overcome the North, the Southerners can still expect to hold out in their unlimited fastness for some time to come. A strategy of conquest is therefore required and, above all, destruction of the enemy army -- the one true condition of victory considering the vast dimensions of the confederate hinterland.
+The war was now turning in the North's favour, but that didn't mean it
+would soon be over. In the expectation that war weariness would finally
+overcome the North, the Southerners can still expect to hold out in
+their unlimited fastness for some time to come. A strategy of conquest
+is therefore required and, above all, destruction of the enemy army --
+the one true condition of victory considering the vast dimensions of the
+confederate hinterland.
 
-Lincoln now has Grant take command of all of the federal armies; the lieutenancy-general, a post that previously only Washington had ever assumed. Grant's plan is simple, in fact the very one Marx had suggested a couple of years earlier: to attack with a strong army from Tennessee in the direction of Georgia, head for the sea and split the Confederation into two parts, head back north to rejoin the Army of the Potomac and force the Southerners to fight with the possibility of being destroyed in the process. But Grant hasn't read Marx properly, and continues to favour the Virginian front, with the result that enormous forces, better employed elsewhere, are tied up there. The North however is so rich in all respects that it can allow waste. Especially of human life.
+Lincoln now has Grant take command of all of the federal armies; the
+lieutenancy-general, a post that previously only Washington had ever
+assumed. Grant's plan is simple, in fact the very one Marx had suggested
+a couple of years earlier: to attack with a strong army from Tennessee
+in the direction of Georgia, head for the sea and split the
+Confederation into two parts, head back north to rejoin the Army of the
+Potomac and force the Southerners to fight with the possibility of being
+destroyed in the process. But Grant hasn't read Marx properly, and
+continues to favour the Virginian front, with the result that enormous
+forces, better employed elsewhere, are tied up there. The North however
+is so rich in all respects that it can allow waste. Especially of human
+life.
 
-In the east, the attack is developed in three arenas: Shenandoah Valley; Central (River Rapidan); South (peninsular). Clearly the principal arena is the central one, and the first encounter is fought in a stretch of land known as the Wilderness on the 5-6 May 1864. It is an extremely bloody affair, as is by now the norm, and the Northerners are stopped. Grant prefers not [sic?] to persevere and moves south. This forces Lee to move off quickly in order to head him off and to take up advantageous positions, which he does at Spotsylvania, where there is another huge massacre between the 9th and 19th of May. Another stalemate, another sideslip to the south by Grant; Lee once again forms up on unassailable positions and meets him in battle at North Anna on the 23rd; yet again Grant disengages himself to the south, this time moving menacingly close to Richmond. Lee lines up at Cold Harbour and Grant concentrates all his forces there. However Lee too has to deploy all of his forces and, unlike 1862, instead of sending detachments to menace the northern rear he has to recall all forces available to him, even from other theatres. It is at this point that Sherman in the west sets out on his march on Atlanta.
+In the east, the attack is developed in three arenas: Shenandoah Valley;
+Central (River Rapidan); South (peninsular). Clearly the principal arena
+is the central one, and the first encounter is fought in a stretch of
+land known as the Wilderness on the 5-6 May 1864. It is an extremely
+bloody affair, as is by now the norm, and the Northerners are stopped.
+Grant prefers not [sic?] to persevere and moves south. This forces Lee
+to move off quickly in order to head him off and to take up advantageous
+positions, which he does at Spotsylvania, where there is another huge
+massacre between the 9th and 19th of May. Another stalemate, another
+sideslip to the south by Grant; Lee once again forms up on unassailable
+positions and meets him in battle at North Anna on the 23rd; yet again
+Grant disengages himself to the south, this time moving menacingly close
+to Richmond. Lee lines up at Cold Harbour and Grant concentrates all his
+forces there. However Lee too has to deploy all of his forces and,
+unlike 1862, instead of sending detachments to menace the northern rear
+he has to recall all forces available to him, even from other theatres.
+It is at this point that Sherman in the west sets out on his march on
+Atlanta.
 
-On June 3 Grant attacks, and his forces are beaten back (7,000 dead and wounded in one day) in a battle that would earn him the highly appropriate nickname of "butcher". Meanwhile further north, in the Shenandoah Valley, the northerners led by Sheridan destroy the southern army facing them and threaten to encircle Richmond, forcing Lee to dispatch troops against them. Grant makes another skillful sidestep to the south and invests Petersburg, a city to the south of Richmond that forms part of its defensive system (13-8 June). Lee, taken by surprise, gets pinned down manning the city's defences, and there he would stay for almost a year, defending the southern capital from the northern army that slowly but inexorably tightens its grip on the city. But worst of all, the possibility of carrying out those manoeuvres that had been his strength in the preceding years is precluded.
+On June 3 Grant attacks, and his forces are beaten back (7,000 dead and
+wounded in one day) in a battle that would earn him the highly
+appropriate nickname of "butcher". Meanwhile further north, in the
+Shenandoah Valley, the northerners led by Sheridan destroy the southern
+army facing them and threaten to encircle Richmond, forcing Lee to
+dispatch troops against them. Grant makes another skillful sidestep to
+the south and invests Petersburg, a city to the south of Richmond that
+forms part of its defensive system (13-8 June). Lee, taken by surprise,
+gets pinned down manning the city's defences, and there he would stay
+for almost a year, defending the southern capital from the northern army
+that slowly but inexorably tightens its grip on the city. But worst of
+all, the possibility of carrying out those manoeuvres that had been his
+strength in the preceding years is precluded.
 
-The only place with any room for manoeuvre is the Shenandoah Valley, despoiled by the northerners. In the month of July, General Early heads up the valley into Maryland and threatens Washington, but it is a threat that no longer inspires fear. He doesn't achieve what Jackson achieved in '62, which was forcing the North to send significant troop numbers back to defend the capital and thereby weakening the main front facing Richmond. Early thus re-enters Virginia having achieved virtually nothing; he however continues his harrying actions until Grant gives Sheridan the task of hunting him down.
+The only place with any room for manoeuvre is the Shenandoah Valley,
+despoiled by the northerners. In the month of July, General Early heads
+up the valley into Maryland and threatens Washington, but it is a threat
+that no longer inspires fear. He doesn't achieve what Jackson achieved
+in '62, which was forcing the North to send significant troop numbers
+back to defend the capital and thereby weakening the main front facing
+Richmond. Early thus re-enters Virginia having achieved virtually
+nothing; he however continues his harrying actions until Grant gives
+Sheridan the task of hunting him down.
 
 ## The "March to the Sea"
 
-On 4 May 1864 Sherman's operations in Georgia begin, setting out from his base in Chattanooga. Facing him is the Army of Tennessee under the command of Joseph Johnston. The superiority of Sherman's forces allow him to carry out continuous outflanking actions on the confederate positions, and in order to avoid being surrounded, the confederates have to continuously retreat, or accept battle under conditions which put them at a clear disadvantage. Once Sherman attacks one of these entrenched positions, he gets pushed back with losses; but then Johnston has to retreat, and then again and again, all the way to Atlanta. It is basically a repetition of Grant's advance in the east: at last the federals have learned to exploit their superiority in men and equipment.
+On 4 May 1864 Sherman's operations in Georgia begin, setting out from
+his base in Chattanooga. Facing him is the Army of Tennessee under the
+command of Joseph Johnston. The superiority of Sherman's forces allow
+him to carry out continuous outflanking actions on the confederate
+positions, and in order to avoid being surrounded, the confederates have
+to continuously retreat, or accept battle under conditions which put
+them at a clear disadvantage. Once Sherman attacks one of these
+entrenched positions, he gets pushed back with losses; but then Johnston
+has to retreat, and then again and again, all the way to Atlanta. It is
+basically a repetition of Grant's advance in the east: at last the
+federals have learned to exploit their superiority in men and equipment.
 
-On 17 July, Hood replaces Johnston because of unhappiness in the South about the old general's temporising tactics, but it is a serious mistake. Johnston, who had had no option but to retreat, had in fact significantly slowed up the progress of the Union's army, which had only advanced 140km in two and half months: and he had achieved all that with little over half the number of combatants as the northerners, and with his forces incurring no major damage; a minor masterpiece. Hood on the other hand has no qualms about giving battle before Atlanta, and he suffers heavy losses. In the end Sherman tries another outflanking movement and Hood has to abandon Atlanta, which is occupied by the Federals on 2 September.
+On 17 July, Hood replaces Johnston because of unhappiness in the South
+about the old general's temporising tactics, but it is a serious
+mistake. Johnston, who had had no option but to retreat, had in fact
+significantly slowed up the progress of the Union's army, which had only
+advanced 140km in two and half months: and he had achieved all that with
+little over half the number of combatants as the northerners, and with
+his forces incurring no major damage; a minor masterpiece. Hood on the
+other hand has no qualms about giving battle before Atlanta, and he
+suffers heavy losses. In the end Sherman tries another outflanking
+movement and Hood has to abandon Atlanta, which is occupied by the
+Federals on 2 September.
 
-In 1864 victory smiles on the North at sea as well: in August, Farragut's boats take Mobile, Alabama, last of the major ports left to the South. And as regards another thorn in the side of the Federals -- the confederate commerce raiders -- things also start to improve: on 19 June the famous Alabama is sunk in the English Channel; in October, in defiance of international conventions, the Florida is boarded when riding at anchor in the port of Bahia. Brazil wasn't Great Britain, and conventions only get respected when there is someone around capable of punishing transgressors (and, those presently in charge in the "land of the free, home of the brave" are providing us with plenty of fresh examples of the validity of this axiom).
+In 1864 victory smiles on the North at sea as well: in August,
+Farragut's boats take Mobile, Alabama, last of the major ports left to
+the South. And as regards another thorn in the side of the Federals --
+the confederate commerce raiders -- things also start to improve: on 19
+June the famous Alabama is sunk in the English Channel; in October, in
+defiance of international conventions, the Florida is boarded when
+riding at anchor in the port of Bahia. Brazil wasn't Great Britain, and
+conventions only get respected when there is someone around capable of
+punishing transgressors (and, those presently in charge in the "land of
+the free, home of the brave" are providing us with plenty of fresh
+examples of the validity of this axiom).
 
-Meanwhile, in Virginia, the struggle between the armies of Grant and Lee continued. Holed up in Richmond and Petersburg, which he cannot afford to abandon, even if tactically it might have been the best option, Lee still has some room for manoeuvre, with Early's troops, in the Shenandoah valley. But Sheridan gets put in charge of closing down this front as well, and in August he organises the Army of the Shenandoah. Grant's orders are not just to destroy the enemy's army, but also to devastate the valley and render it unserviceable to the Confederates. And not only to the regular army, but also to the bands of partisans, which although present in several States are particularly active in the valley, commanded by a southern officer by the name of Colonel Mosby. And partisan bands operating behind enemy lines, with the aim of keeping a substantial part of the enemy forces occupied, would prove to be another original feature of the Civil War seen in later wars. Thus Sheridan advances south, harrying the Confederates, who he regularly defeats along the course of the river thanks to his overwhelming numerical superiority.
+Meanwhile, in Virginia, the struggle between the armies of Grant and Lee
+continued. Holed up in Richmond and Petersburg, which he cannot afford
+to abandon, even if tactically it might have been the best option, Lee
+still has some room for manoeuvre, with Early's troops, in the
+Shenandoah valley. But Sheridan gets put in charge of closing down this
+front as well, and in August he organises the Army of the Shenandoah.
+Grant's orders are not just to destroy the enemy's army, but also to
+devastate the valley and render it unserviceable to the Confederates.
+And not only to the regular army, but also to the bands of partisans,
+which although present in several States are particularly active in the
+valley, commanded by a southern officer by the name of Colonel Mosby.
+And partisan bands operating behind enemy lines, with the aim of keeping
+a substantial part of the enemy forces occupied, would prove to be
+another original feature of the Civil War seen in later wars. Thus
+Sheridan advances south, harrying the Confederates, who he regularly
+defeats along the course of the river thanks to his overwhelming
+numerical superiority.
 
-Following his route isn't difficult because everywhere it is marked with dense columns of smoke that fill the entire valley. That is how General Sherman puts into practice Grant's order to 'devastate the whole area so thoroughly that a crow flying across over the valley would have to carry its own rations'. With ruthless efficiency the unionists torch the farmhouses, the cattle sheds and mills; destroy the harvests, hay lofts and even stocks of wood laboriously accumulated for the winter; sequester and carry away livestock and slaves, and arrest and imprison all men below fifty years of age. Dwellings are supposed to be excluded from this fate but in fact, whether in reprisal against actions taken by the partisans or due to individual soldiers under the influence of drink or after war booty, they get burned down as well and the unfortunate occupants are left roofless, only to swell the lines of fugitive poor which the federal vanguards propel before them along the roads of the once fertile valley, now reduced to a desert.
+Following his route isn't difficult because everywhere it is marked with
+dense columns of smoke that fill the entire valley. That is how General
+Sherman puts into practice Grant's order to 'devastate the whole area so
+thoroughly that a crow flying across over the valley would have to carry
+its own rations'. With ruthless efficiency the unionists torch the
+farmhouses, the cattle sheds and mills; destroy the harvests, hay lofts
+and even stocks of wood laboriously accumulated for the winter;
+sequester and carry away livestock and slaves, and arrest and imprison
+all men below fifty years of age. Dwellings are supposed to be excluded
+from this fate but in fact, whether in reprisal against actions taken by
+the partisans or due to individual soldiers under the influence of drink
+or after war booty, they get burned down as well and the unfortunate
+occupants are left roofless, only to swell the lines of fugitive poor
+which the federal vanguards propel before them along the roads of the
+once fertile valley, now reduced to a desert.
 
-With the approach of autumn, Sheridan retreats about half way up the valley. On 19 October the Southerners mount a surprise attack on the federal encampments at Cedar Creek, but eventually, thanks partly to the timely return of Sheridan from Washington, they are defeated and fall back. At this point, in the valley that in previous years the confederates had witnessed so many brilliant victories, it is all over for them as well.
+With the approach of autumn, Sheridan retreats about half way up the
+valley. On 19 October the Southerners mount a surprise attack on the
+federal encampments at Cedar Creek, but eventually, thanks partly to the
+timely return of Sheridan from Washington, they are defeated and fall
+back. At this point, in the valley that in previous years the
+confederates had witnessed so many brilliant victories, it is all over
+for them as well.
 
-Sheridan and Sherman's successes allow Lincoln to be triumphantly re-elected in the second presidential ballot (8 November), defeating a recycled McClellan. But Lincoln's main victory is over the radicals in his own party who, as we will see later on, are getting increasingly active.
+Sheridan and Sherman's successes allow Lincoln to be triumphantly
+re-elected in the second presidential ballot (8 November), defeating a
+recycled McClellan. But Lincoln's main victory is over the radicals in
+his own party who, as we will see later on, are getting increasingly
+active.
 
-If we now retrace out steps a bit, and return to the western front, we see Sherman ordering the evacuation of Atlanta on 7 September. Hood has decided to abandon a frontal assault on Sherman's troops and decides to head north and invade Tennessee and Kentucky, hoping to be followed by Sherman. But times have changed; the numerical superiority of the northerners allows them to split their forces, and two armies of the West are formed: a smaller one, under Thomas's orders, is sent to stop Hood in Tennessee, the other one, under the command of Sherman himself, is assigned to attack Georgia and the Atlantic States, with the aim of then heading back north towards Virginia.
+If we now retrace out steps a bit, and return to the western front, we
+see Sherman ordering the evacuation of Atlanta on 7 September. Hood has
+decided to abandon a frontal assault on Sherman's troops and decides to
+head north and invade Tennessee and Kentucky, hoping to be followed by
+Sherman. But times have changed; the numerical superiority of the
+northerners allows them to split their forces, and two armies of the
+West are formed: a smaller one, under Thomas's orders, is sent to stop
+Hood in Tennessee, the other one, under the command of Sherman himself,
+is assigned to attack Georgia and the Atlantic States, with the aim of
+then heading back north towards Virginia.
 
-Sherman's main problem is his supply lines, which are far too long. The solution is to accumulate as much equipment and supplies as possible, and supplement that by living off the resources of the territories they cross. It is a bold decision having the army burn its bridges, forcing it to press on to victory or destruction; a repetition, on a grander scale, of Grant's victorious manoeuvre at Vicksburg. And it is also a ruthless decision to have the full weight of the war descend on the civilian population, as Sheridan had already done in the North. The first of these measures is actually taken in Atlanta, which following the evacuation is razed to the ground to prevent it serving as a base for an improbable confederate counter-attack.
+Sherman's main problem is his supply lines, which are far too long. The
+solution is to accumulate as much equipment and supplies as possible,
+and supplement that by living off the resources of the territories they
+cross. It is a bold decision having the army burn its bridges, forcing
+it to press on to victory or destruction; a repetition, on a grander
+scale, of Grant's victorious manoeuvre at Vicksburg. And it is also a
+ruthless decision to have the full weight of the war descend on the
+civilian population, as Sheridan had already done in the North. The
+first of these measures is actually taken in Atlanta, which following
+the evacuation is razed to the ground to prevent it serving as a base
+for an improbable confederate counter-attack.
 
-On 16 November the army sets out on the famous "March to the Sea". But this isn't so much an offensive, considering it wasn't facing an actual army, but rather a triumphal descent towards the underbelly of the Confederation. For the advance the army was divided into four columns, which would devastate and destroy all before them over a broad 100-kilometre front. Once again, the troops' good behaviour was not a high priority. On 21 December the port of Savannah is occupied. For the confederates, the loss of Georgia isn't compensated by successes on other fronts: in Tennessee, at Franklin on 30 November and at Nashville on 15-16 December, the Southern army is defeated in battles which, after desertions had reached epidemic proportions, verge on the suicidal, and it is forced into retreat. But by now one can scarcely talk of an army: Hood resigns.
+On 16 November the army sets out on the famous "March to the Sea". But
+this isn't so much an offensive, considering it wasn't facing an actual
+army, but rather a triumphal descent towards the underbelly of the
+Confederation. For the advance the army was divided into four columns,
+which would devastate and destroy all before them over a broad
+100-kilometre front. Once again, the troops' good behaviour was not a
+high priority. On 21 December the port of Savannah is occupied. For the
+confederates, the loss of Georgia isn't compensated by successes on
+other fronts: in Tennessee, at Franklin on 30 November and at Nashville
+on 15-16 December, the Southern army is defeated in battles which, after
+desertions had reached epidemic proportions, verge on the suicidal, and
+it is forced into retreat. But by now one can scarcely talk of an army:
+Hood resigns.
 
-On 10 January in the New Year, Sherman marches out of Savannah and heads north. Columbia in South Carolina is taken on 17 February, and Charleston on the 18th. Meanwhile the one remaining important seaport, Wilmington in North Carolina, is taken by sea on 15 February, and reached by land on the 22 February. Whilst Sherman puts the hated South Carolina to fire and sword (in the northern collective imagination the State was considered the biggest warmonger of them all, and the one from which the secession had originated) the scattered southern forces are reunited in North Carolina, and their command restored to Johnston. Here Johnston makes a vain attempt to stop the Federals, but his temporising abilities are of little avail against such overwhelming forces. Meanwhile, in the valley of the Shenandoah, Sheridan disperses the remnants of the southern forces under Early's command, and takes his cavalry before Petersburgh: Grant launches an enveloping attack (Battle of Five Forks, 29-30 March) and on April 2nd, an attack on the entire front. Lee, not wishing to be encircled, is forced on April 3rd to abandon the city, and Richmond along with it. Grant's army pursues him and bars his line of march: at Appomattox Court House Lee renounces any last moment resistance, and on the 9th April, he signs the surrender. It is the end, for even if it is just one army surrendering, the South is nevertheless defeated. Soon the other generals surrender to the Federals as well.
+On 10 January in the New Year, Sherman marches out of Savannah and heads
+north. Columbia in South Carolina is taken on 17 February, and
+Charleston on the 18th. Meanwhile the one remaining important seaport,
+Wilmington in North Carolina, is taken by sea on 15 February, and
+reached by land on the 22 February. Whilst Sherman puts the hated South
+Carolina to fire and sword (in the northern collective imagination the
+State was considered the biggest warmonger of them all, and the one from
+which the secession had originated) the scattered southern forces are
+reunited in North Carolina, and their command restored to Johnston. Here
+Johnston makes a vain attempt to stop the Federals, but his temporising
+abilities are of little avail against such overwhelming forces.
+Meanwhile, in the valley of the Shenandoah, Sheridan disperses the
+remnants of the southern forces under Early's command, and takes his
+cavalry before Petersburgh: Grant launches an enveloping attack (Battle
+of Five Forks, 29-30 March) and on April 2nd, an attack on the entire
+front. Lee, not wishing to be encircled, is forced on April 3rd to
+abandon the city, and Richmond along with it. Grant's army pursues him
+and bars his line of march: at Appomattox Court House Lee renounces any
+last moment resistance, and on the 9th April, he signs the surrender. It
+is the end, for even if it is just one army surrendering, the South is
+nevertheless defeated. Soon the other generals surrender to the Federals
+as well.
 
 ## The Emancipation of the Slaves
 
-The question of the emancipation of the enslaved African masses, present in large numbers in the southern States, is one that affects events throughout the civil war. It constitutes a causative factor, a phenomenon relevant to the war itself, and a burning issue in the period afterwards.
+The question of the emancipation of the enslaved African masses, present
+in large numbers in the southern States, is one that affects events
+throughout the civil war. It constitutes a causative factor, a
+phenomenon relevant to the war itself, and a burning issue in the period
+afterwards.
 
-For Marx and Engels the question of slavery is the central question and root cause of the disagreement between the capitalist and financial North and the agrarian and latifundist South. To their contemporaries, however, who appeared to give little thought to the matter of emancipation, that was not how it appeared. Apart from pro-abolitionist groups operating in the north very few northerners seemed to care much about the lot of the Negroes. Indeed, at the popular level, it seems there was actually more sympathy for Negroes and their emancipation in the South than in the North, at least before the war.
+For Marx and Engels the question of slavery is the central question and
+root cause of the disagreement between the capitalist and financial
+North and the agrarian and latifundist South. To their contemporaries,
+however, who appeared to give little thought to the matter of
+emancipation, that was not how it appeared. Apart from pro-abolitionist
+groups operating in the north very few northerners seemed to care much
+about the lot of the Negroes. Indeed, at the popular level, it seems
+there was actually more sympathy for Negroes and their emancipation in
+the South than in the North, at least before the war.
 
-The fact is that the various actors who took part in the events which were unfolding didn't have a clear understanding of what was happening, and, as is always the case, they acted like puppets, suspended as they were by historical and economic threads woven by the society in which they lived out their lives. About Lincoln we could quote Cromwell's far-sighted quip: "No-one goes so far as he who doesn't know where he is going". In fact the good Abraham spent the last five years of his life contradicting in practice his earlier positions.
+The fact is that the various actors who took part in the events which
+were unfolding didn't have a clear understanding of what was happening,
+and, as is always the case, they acted like puppets, suspended as they
+were by historical and economic threads woven by the society in which
+they lived out their lives. About Lincoln we could quote Cromwell's
+far-sighted quip: "No-one goes so far as he who doesn't know where he is
+going". In fact the good Abraham spent the last five years of his life
+contradicting in practice his earlier positions.
 
-Marx, on the other hand, from the first year of the war could see that the question of emancipation was crucial to the outcome of what may be considered the completion of the bourgeois revolution in North America; a revolution which had started in the 17th century, and crossed the Atlantic on the ships of the colonizers; a capitalist development which, dispersed as it was throughout the boundless New World, would take a while to assume its characteristic forms. The so-called American Revolution, i.e. the War of Independence, marked the national emancipation of the American bourgeoisie from the colonial subjection of Great Britain: it is to this that we reduce its social and economic import, both as regards its aims and the way the struggle was conducted, which in fact involved only a very small minority of the American colonists. The Civil War, on the other hand, created the opportunity of completely liberating those productive forces that, according to our doctrine, pave the way to the proletarian revolution. The economic system in the South, and therefore slavery, stood in the way of this liberation. And this explains why Marx and Engels always gave their passionate support to the North.
+Marx, on the other hand, from the first year of the war could see that
+the question of emancipation was crucial to the outcome of what may be
+considered the completion of the bourgeois revolution in North America;
+a revolution which had started in the 17th century, and crossed the
+Atlantic on the ships of the colonizers; a capitalist development which,
+dispersed as it was throughout the boundless New World, would take a
+while to assume its characteristic forms. The so-called American
+Revolution, i.e. the War of Independence, marked the national
+emancipation of the American bourgeoisie from the colonial subjection of
+Great Britain: it is to this that we reduce its social and economic
+import, both as regards its aims and the way the struggle was conducted,
+which in fact involved only a very small minority of the American
+colonists. The Civil War, on the other hand, created the opportunity of
+completely liberating those productive forces that, according to our
+doctrine, pave the way to the proletarian revolution. The economic
+system in the South, and therefore slavery, stood in the way of this
+liberation. And this explains why Marx and Engels always gave their
+passionate support to the North.
 
-As early as the beginning of November 1861, Marx wrote: "The present struggle between the South and North is, therefore, nothing but a struggle between two social systems, the system of slavery and the system of free labour. The struggle has broken out because the two systems can no longer live peacefully side by side on the North American continent. It can only be ended by the victory of one system or the other.
+As early as the beginning of November 1861, Marx wrote: "The present
+struggle between the South and North is, therefore, nothing but a
+struggle between two social systems, the system of slavery and the
+system of free labour. The struggle has broken out because the two
+systems can no longer live peacefully side by side on the North American
+continent. It can only be ended by the victory of one system or the
+other.
 
-"If the border states, the disputed areas in which the two systems have hitherto contended for domination, are a thorn in the flesh of the South, there can, on the other hand, be no mistake that, in the course of the war up to now, they have constituted the chief weakness of the North (...) Anxiety to keep the "loyal" slaveholders of the border states in good humour, fear of throwing them into the arms of secession, in a word, tender regard for the interests, prejudices and sensibilities of these ambiguous allies, has smitten the Union government with incurable weakness since the beginning of the war, driven it to half measures, forced it to dissemble away the principle of the war and to spare the foe's most vulnerable spot, the root of the evil -- slavery itself.
+"If the border states, the disputed areas in which the two systems have
+hitherto contended for domination, are a thorn in the flesh of the
+South, there can, on the other hand, be no mistake that, in the course
+of the war up to now, they have constituted the chief weakness of the
+North (...) Anxiety to keep the "loyal" slaveholders of the border
+states in good humour, fear of throwing them into the arms of secession,
+in a word, tender regard for the interests, prejudices and sensibilities
+of these ambiguous allies, has smitten the Union government with
+incurable weakness since the beginning of the war, driven it to half
+measures, forced it to dissemble away the principle of the war and to
+spare the foe's most vulnerable spot, the root of the evil -- slavery
+itself.
 
-"When, only recently, Lincoln pusillanimously revoked Fremont's Missouri proclamation on the emancipation of Negroes belonging to the rebels, this was done solely out of regard for the loud protest of the 'loyal' slaveholders of Kentucky. However, a turning point has already been reached (...) Events themselves drive to the promulgation of the decisive slogan -- emancipation of the slaves".
+"When, only recently, Lincoln pusillanimously revoked Fremont's Missouri
+proclamation on the emancipation of Negroes belonging to the rebels,
+this was done solely out of regard for the loud protest of the 'loyal'
+slaveholders of Kentucky. However, a turning point has already been
+reached (...) Events themselves drive to the promulgation of the
+decisive slogan -- emancipation of the slaves".
 
-The liberation of the slaves had therefore appeared as a military necessity as well. When later General Hunter made himself promoter of a similar initiative to Fremont's, the president's reply was the same. In 1862, however, the inadequacy of the military forces on the one hand, and the threat of a part of the Republican Party to form a third, more radical, party, forced Lincoln to act more decisively. The most determined section of the bourgeoisie had made its voice heard.
+The liberation of the slaves had therefore appeared as a military
+necessity as well. When later General Hunter made himself promoter of a
+similar initiative to Fremont's, the president's reply was the same. In
+1862, however, the inadequacy of the military forces on the one hand,
+and the threat of a part of the Republican Party to form a third, more
+radical, party, forced Lincoln to act more decisively. The most
+determined section of the bourgeoisie had made its voice heard.
 
-"My paramount object in this struggle is to save the Union" -- announced Lincoln in 1862 -- "and it is not either to save or destroy slavery. If I could save the Union without freeing any slave, I would do it; and if I could save it by freeing all the slaves, I would do it; and if I could do it by freeing some and leaving others alone, I would also do that" (Letter to Horace Greeley, August 22, 1862). But by the Autumn of 1862, the situation had ripened: the South was showing no signs of giving in, and only at Antietam had Lee's counter-offensive been stopped by the Unionist army. On the wave of that victory (which some consider a turning point in the war, the beginning of the end for the South) Lincoln issued a first proclamation in which he announced his intention, from January 1st 1863, to liberate all slaves living in areas dominated by the rebels.
+"My paramount object in this struggle is to save the Union" -- announced
+Lincoln in 1862 -- "and it is not either to save or destroy slavery. If
+I could save the Union without freeing any slave, I would do it; and if
+I could save it by freeing all the slaves, I would do it; and if I could
+do it by freeing some and leaving others alone, I would also do that"
+(Letter to Horace Greeley, August 22, 1862). But by the Autumn of 1862,
+the situation had ripened: the South was showing no signs of giving in,
+and only at Antietam had Lee's counter-offensive been stopped by the
+Unionist army. On the wave of that victory (which some consider a
+turning point in the war, the beginning of the end for the South)
+Lincoln issued a first proclamation in which he announced his intention,
+from January 1st 1863, to liberate all slaves living in areas dominated
+by the rebels.
 
-According to Lincoln it was a purely tactical measure: "Without the problem of slavery, the rebellion would never have happened -- he said -- and, deprived of slavery, it can't continue". We cannot but agree with this self-evident comment, but it should be remembered that the South wasn't simply the North, plus slaves. In fact we have seen that slavery was an integral part of the economic social structure in the South, and it was illusory to think that if 'the problem' was removed, everything else could go back to the way it was; how true this was would soon become only too evident.
+According to Lincoln it was a purely tactical measure: "Without the
+problem of slavery, the rebellion would never have happened -- he said
+-- and, deprived of slavery, it can't continue". We cannot but agree
+with this self-evident comment, but it should be remembered that the
+South wasn't simply the North, plus slaves. In fact we have seen that
+slavery was an integral part of the economic social structure in the
+South, and it was illusory to think that if 'the problem' was removed,
+everything else could go back to the way it was; how true this was would
+soon become only too evident.
 
-The Proclamation invited the Southern States to re-enter the Union, subject to the emancipation of all slaves, in exchange for an end to the conflict. In some cases there was even compensation offered to cover any economic losses arising from emancipation. And yet the definitive Proclamation, which was issued on 1st January 1863, only included the territories in the hands of the Confederation and not the border States, nor the 'liberated areas'. It was nevertheless an extraordinary turn of affairs (Marx considered it 'clause-ridden', but still 'historic').
+The Proclamation invited the Southern States to re-enter the Union,
+subject to the emancipation of all slaves, in exchange for an end to the
+conflict. In some cases there was even compensation offered to cover any
+economic losses arising from emancipation. And yet the definitive
+Proclamation, which was issued on 1st January 1863, only included the
+territories in the hands of the Confederation and not the border States,
+nor the 'liberated areas'. It was nevertheless an extraordinary turn of
+affairs (Marx considered it 'clause-ridden', but still 'historic').
 
-If we consider Lincoln's thinking at the time of his inauguration, when, among other things, he had declared his preparedness to accept a 13th amendment to the Constitution guaranteeing the permanency of slavery in the southern States, we can see how individuals count for very little: for the very same person was now calling for a 13th amendment to provide for the abolition of slavery in the Confederate States. But Congress, which was a lot more radical than the president, would go much further than this, and push through a measure prohibiting slavery over the entire territory of the United States. This amendment, ratified eight months after Lincoln's death in December 1865, represented a significant change to the Constitution.
+If we consider Lincoln's thinking at the time of his inauguration, when,
+among other things, he had declared his preparedness to accept a 13th
+amendment to the Constitution guaranteeing the permanency of slavery in
+the southern States, we can see how individuals count for very little:
+for the very same person was now calling for a 13th amendment to provide
+for the abolition of slavery in the Confederate States. But Congress,
+which was a lot more radical than the president, would go much further
+than this, and push through a measure prohibiting slavery over the
+entire territory of the United States. This amendment, ratified eight
+months after Lincoln's death in December 1865, represented a significant
+change to the Constitution.
 
-The Emancipation Proclamation could not be postponed; chiefly because all it did was ratify something that was already happening on the farms and plantations throughout the South. The lack of control over the slaves due to the war emergency, with many whites in uniform, meant there was a general relaxation of discipline, with numerous cases of absenteeism, insubordination and successful escape attempts. And whenever the Federals arrived, the situation would become particularly explosive. Even back in 1862 a law had been passed prohibiting the army from returning runaway slaves to their owners (although the army would end up exploiting the former slaves as auxiliary workers; casually referring to them as 'contrabands'). Later on slavery was abolished in the District of Columbia (The city of Washington) and in the Territories, although it was largely a symbolic measure.
+The Emancipation Proclamation could not be postponed; chiefly because
+all it did was ratify something that was already happening on the farms
+and plantations throughout the South. The lack of control over the
+slaves due to the war emergency, with many whites in uniform, meant
+there was a general relaxation of discipline, with numerous cases of
+absenteeism, insubordination and successful escape attempts. And
+whenever the Federals arrived, the situation would become particularly
+explosive. Even back in 1862 a law had been passed prohibiting the army
+from returning runaway slaves to their owners (although the army would
+end up exploiting the former slaves as auxiliary workers; casually
+referring to them as 'contrabands'). Later on slavery was abolished in
+the District of Columbia (The city of Washington) and in the
+Territories, although it was largely a symbolic measure.
 
-The consequence of the Emancipation Proclamation was that Negroes could be enrolled in the Unionist army. But if, on the one hand, this allowed large numbers of highly motivated troops to be admitted, on the other hand it inspired fear. What would the armed Negro do after he had learned to kill whites with impunity? But right from the start all the calls to abstain from violence in areas where the slaves had been liberated would prove unnecessary; and the reality was that episodes of violence were comparatively rare as the process of introducing emancipation gathered pace. The idea of the Negro with a gun therefore slowly started to gain acceptance in the North. Besides, after much hesitation, and far too late, they had decided to arm the blacks in the South as well. Necessity had won out over fear: the Negroes, who in power represented a socially frightening prospect, had in fact rarely lived up to the fears of the whites; class of slaves though they were, they nevertheless found themselves in a myriad of different situations, lacking in mutual contact and leaderless; rarely did they rebel and in general their objective was to eke out a living on their own parcel of land. But it would take the whites many years to understand that fact.
+The consequence of the Emancipation Proclamation was that Negroes could
+be enrolled in the Unionist army. But if, on the one hand, this allowed
+large numbers of highly motivated troops to be admitted, on the other
+hand it inspired fear. What would the armed Negro do after he had
+learned to kill whites with impunity? But right from the start all the
+calls to abstain from violence in areas where the slaves had been
+liberated would prove unnecessary; and the reality was that episodes of
+violence were comparatively rare as the process of introducing
+emancipation gathered pace. The idea of the Negro with a gun therefore
+slowly started to gain acceptance in the North. Besides, after much
+hesitation, and far too late, they had decided to arm the blacks in the
+South as well. Necessity had won out over fear: the Negroes, who in
+power represented a socially frightening prospect, had in fact rarely
+lived up to the fears of the whites; class of slaves though they were,
+they nevertheless found themselves in a myriad of different situations,
+lacking in mutual contact and leaderless; rarely did they rebel and in
+general their objective was to eke out a living on their own parcel of
+land. But it would take the whites many years to understand that fact.
 
-In the South they understood it too late: in the end they realised that the enormous numerical inferiority of their armies was an insurmountable problem; whereas the enemy was using 'their' Negroes against the South itself. For some time President Davis, and some of the most eminent military leaders on the southern side, including Lee, had been considering whether to emancipate at least some slaves in order to save the independence of the Confederates. Finally, despite opposition from the confederate Congress, Davis managed to pass a law stating that slaves who enrolled voluntarily in the Confederate army would not only be freed at the end of the war, but also (truly remarkable for the time) receive citizenship and a patch of land. All that whilst the North -- Lincoln included -- was still thinking of resolving the problem of the freed slaves by deporting them back to Africa.
+In the South they understood it too late: in the end they realised that
+the enormous numerical inferiority of their armies was an insurmountable
+problem; whereas the enemy was using 'their' Negroes against the South
+itself. For some time President Davis, and some of the most eminent
+military leaders on the southern side, including Lee, had been
+considering whether to emancipate at least some slaves in order to save
+the independence of the Confederates. Finally, despite opposition from
+the confederate Congress, Davis managed to pass a law stating that
+slaves who enrolled voluntarily in the Confederate army would not only
+be freed at the end of the war, but also (truly remarkable for the time)
+receive citizenship and a patch of land. All that whilst the North --
+Lincoln included -- was still thinking of resolving the problem of the
+freed slaves by deporting them back to Africa.
 
-History would however follow a different path and yet this enrolment of the blacks, apart from being a powerful confirmation of determinism in human history, shows that a revolutionary juncture had been reached: the supreme good for the South was independence, but to maintain it the South would have to gradually dismantle its economic system; gradually substitute it for a system which was remarkably similar to the one it was fighting against. History would thus have taken its course anyway, transcending lines on the map, different coloured uniforms, races, Generals; and also, transcending any ideas and consciousness that the participants may have had of the situation in which they were operating. In the end North America had to be transformed in order to allow the capitalist system to develop in line with the rhythms which world trade and the available resources allowed. And thus it was.
+History would however follow a different path and yet this enrolment of
+the blacks, apart from being a powerful confirmation of determinism in
+human history, shows that a revolutionary juncture had been reached: the
+supreme good for the South was independence, but to maintain it the
+South would have to gradually dismantle its economic system; gradually
+substitute it for a system which was remarkably similar to the one it
+was fighting against. History would thus have taken its course anyway,
+transcending lines on the map, different coloured uniforms, races,
+Generals; and also, transcending any ideas and consciousness that the
+participants may have had of the situation in which they were operating.
+In the end North America had to be transformed in order to allow the
+capitalist system to develop in line with the rhythms which world trade
+and the available resources allowed. And thus it was.
 
-By the end of the war, in 1865, almost a million ex-slaves -- a quarter of the Southern Negroes -- had left the plantations and sought protection from the unionist troops, working afterwards for the army under often extremely harsh conditions, and without pay. Around two hundred thousand Afro-Americans, 80% of them from the confederate states, fought in the ranks of the unionist navy and army, in 'black regiments' commanded by white officers. Evidently there were those who were sceptical of the fighting capacity of the ex-slaves, but not for long. Initially they would receive lower pay than the whites, but eventually salaries would be levelled out; the first real and significant equalisation in the history of American blacks. In the army Negroes became literate and subject to the same rules as the whites. They fought with great courage, even if regularly destined for the worst missions; thirty per cent of them never came back, a much higher percentage than the whites.
+By the end of the war, in 1865, almost a million ex-slaves -- a quarter
+of the Southern Negroes -- had left the plantations and sought
+protection from the unionist troops, working afterwards for the army
+under often extremely harsh conditions, and without pay. Around two
+hundred thousand Afro-Americans, 80% of them from the confederate
+states, fought in the ranks of the unionist navy and army, in 'black
+regiments' commanded by white officers. Evidently there were those who
+were sceptical of the fighting capacity of the ex-slaves, but not for
+long. Initially they would receive lower pay than the whites, but
+eventually salaries would be levelled out; the first real and
+significant equalisation in the history of American blacks. In the army
+Negroes became literate and subject to the same rules as the whites.
+They fought with great courage, even if regularly destined for the worst
+missions; thirty per cent of them never came back, a much higher
+percentage than the whites.
 
 ## The White Proletariat
 
-In reality Negroes inspired more fear in the North than in the South. The Democratic Party in particular, in opposition in the North, would exploit the difficulties arising as result of the war to counter-pose the Negroes' interest in having slavery abolished to that of the white workers, impoverished due to the length of the conflict and by inflation and menaced by the prospect of the appearance of millions of Afro-Americans on the labour market. Although an unlikely prospect, this was nevertheless believed.
+In reality Negroes inspired more fear in the North than in the South.
+The Democratic Party in particular, in opposition in the North, would
+exploit the difficulties arising as result of the war to counter-pose
+the Negroes' interest in having slavery abolished to that of the white
+workers, impoverished due to the length of the conflict and by inflation
+and menaced by the prospect of the appearance of millions of
+Afro-Americans on the labour market. Although an unlikely prospect, this
+was nevertheless believed.
 
-As a class, white proletarians had more than enough reason to be fed up with the Republican Party and the government. Class-consciousness, which was starting to develop in the East, was repressed both in the North and the South by constant appeals to patriotic unity, which was preached by the politicians and put into effect with arms. In the course of this 'war for liberty', proletarians who dared to strike, especially in the factories which provided important materials for the war effort, would be faced with well-equipped army divisions; and those who criticised Lincoln would end up in jail without even a hint of a trial. Eventually the number of political prisoners incarcerated would reach 30,000, an eloquent testimony to how democratic the 'revolutionary' bourgeoisie really are. Meanwhile the flower of the proletariat went off to die on the battlefields of Virginia and Tennessee.
+As a class, white proletarians had more than enough reason to be fed up
+with the Republican Party and the government. Class-consciousness, which
+was starting to develop in the East, was repressed both in the North and
+the South by constant appeals to patriotic unity, which was preached by
+the politicians and put into effect with arms. In the course of this
+'war for liberty', proletarians who dared to strike, especially in the
+factories which provided important materials for the war effort, would
+be faced with well-equipped army divisions; and those who criticised
+Lincoln would end up in jail without even a hint of a trial. Eventually
+the number of political prisoners incarcerated would reach 30,000, an
+eloquent testimony to how democratic the 'revolutionary' bourgeoisie
+really are. Meanwhile the flower of the proletariat went off to die on
+the battlefields of Virginia and Tennessee.
 
-In the North, the war caused the prices of essential goods to rise sharply, sometimes by as much as 100%. But there was no corresponding rise in wages, and for families in particular, who had found it difficult enough to buy enough food at the old prices, it was very hard indeed. It was one of the many ways in which the bourgeoisie took advantage of the war to enrich itself in a thoroughly shameless manner. Throughout the course of the war, strikes in all trades were relatively frequent everywhere, and this was a factor in the trade-union revival. In fact the shortage of labour gave proletarians a certain amount of leverage. Many women entered factories for the first time; a change frowned upon by their male workmates because they mainly perceived it, because women were paid less, as an attack on the average level of wages. By 1864, despite the war, the presence of the proletariat was making itself felt: there were 200,000 trade-union members, some in national rather than local trade unions which were equipped with their own press organs.
+In the North, the war caused the prices of essential goods to rise
+sharply, sometimes by as much as 100%. But there was no corresponding
+rise in wages, and for families in particular, who had found it
+difficult enough to buy enough food at the old prices, it was very hard
+indeed. It was one of the many ways in which the bourgeoisie took
+advantage of the war to enrich itself in a thoroughly shameless manner.
+Throughout the course of the war, strikes in all trades were relatively
+frequent everywhere, and this was a factor in the trade-union revival.
+In fact the shortage of labour gave proletarians a certain amount of
+leverage. Many women entered factories for the first time; a change
+frowned upon by their male workmates because they mainly perceived it,
+because women were paid less, as an attack on the average level of
+wages. By 1864, despite the war, the presence of the proletariat was
+making itself felt: there were 200,000 trade-union members, some in
+national rather than local trade unions which were equipped with their
+own press organs.
 
-The extension of the strikes prompted the bosses to turn to Congress for help, and they were only too happy to oblige. The Contract Labour Law of 1864 made it possible to employ foreign workers who had undertaken to provide a year's free labour in exchange for the cost of their emigration. This allowed the capitalists to access workers who were not only low cost but who couldn't afford to strike. To break strikes the army was used, sometimes to drive workers back into their workplace at the point of bayonets.
+The extension of the strikes prompted the bosses to turn to Congress for
+help, and they were only too happy to oblige. The Contract Labour Law of
+1864 made it possible to employ foreign workers who had undertaken to
+provide a year's free labour in exchange for the cost of their
+emigration. This allowed the capitalists to access workers who were not
+only low cost but who couldn't afford to strike. To break strikes the
+army was used, sometimes to drive workers back into their workplace at
+the point of bayonets.
 
-Everything was conspiring to make proletarians see the war as one being fought on behalf of the Negro slave, or for the capitalist in his fancy spats; or at least being fought for everyone apart from themselves. In March 1863 a new law on conscription was passed. This allowed drafted men (the system functioned like a lottery, there was no general conscription) to obtain exemption by paying a commutation fee of 300 dollars to the government. For the overwhelming majority who couldn't obtain exemption -- 300 dollars was more than a year's wages for many workers -- it was case of a "war of the rich, fought by the poor". Nothing new under the sun!
+Everything was conspiring to make proletarians see the war as one being
+fought on behalf of the Negro slave, or for the capitalist in his fancy
+spats; or at least being fought for everyone apart from themselves. In
+March 1863 a new law on conscription was passed. This allowed drafted
+men (the system functioned like a lottery, there was no general
+conscription) to obtain exemption by paying a commutation fee of 300
+dollars to the government. For the overwhelming majority who couldn't
+obtain exemption -- 300 dollars was more than a year's wages for many
+workers -- it was case of a "war of the rich, fought by the poor".
+Nothing new under the sun!
 
-In July of the same year, immediately after the law had come into force, popular rage exploded into open revolt in the cities of the North. In New York an angry mob destroyed the recruitment office; then, for three days, groups of rowdy elements roamed the city destroying public buildings, factories, omnibuses and private houses. The so-called Draft Riots concentrated the blind and disorderly discontent of desperate elements, who unleashed their anger against the rich, and against Republicans, but above all, against Negroes. After sacking the houses of the rich, the mob moved on to torment the latter. An arson attack was launched on an orphanage for Negro children; many Negroes were hung, thrown into the flames, and generally hounded by the mob; many took refuge in Central Park. On the fourth day, troops who had just returned from Gettysburg suppressed the riots. It is thought that the number of deaths resulting from this event, which in the country's interior history in terms of casualties comes next after the Civil War itself and the attack on the Twin Towers, is thought to be around four hundred. Other revolts, which were less bloodthirsty, took place in several other cities.
+In July of the same year, immediately after the law had come into force,
+popular rage exploded into open revolt in the cities of the North. In
+New York an angry mob destroyed the recruitment office; then, for three
+days, groups of rowdy elements roamed the city destroying public
+buildings, factories, omnibuses and private houses. The so-called Draft
+Riots concentrated the blind and disorderly discontent of desperate
+elements, who unleashed their anger against the rich, and against
+Republicans, but above all, against Negroes. After sacking the houses of
+the rich, the mob moved on to torment the latter. An arson attack was
+launched on an orphanage for Negro children; many Negroes were hung,
+thrown into the flames, and generally hounded by the mob; many took
+refuge in Central Park. On the fourth day, troops who had just returned
+from Gettysburg suppressed the riots. It is thought that the number of
+deaths resulting from this event, which in the country's interior
+history in terms of casualties comes next after the Civil War itself and
+the attack on the Twin Towers, is thought to be around four hundred.
+Other revolts, which were less bloodthirsty, took place in several other
+cities.
 
-Writing about these events soon afterwards in Capital, Marx would declare that emancipation was also therefore a progressive factor as far as the advancement of the class struggle was concerned: "In the United States of America, every independent workers' movement was paralysed as long as slavery disfigured a part of the republic. Labour in a white skin cannot emancipate itself where it is branded in a black skin".
+Writing about these events soon afterwards in Capital, Marx would
+declare that emancipation was also therefore a progressive factor as far
+as the advancement of the class struggle was concerned: "In the United
+States of America, every independent workers' movement was paralysed as
+long as slavery disfigured a part of the republic. Labour in a white
+skin cannot emancipate itself where it is branded in a black skin".
 
 ## The Consequences of the War
 
-In the South things weren't going too well either. Even before the war two thirds of the whites didn't own slaves, and the economic situation of most of these 'poor whites', even when not on the threshold of poverty, was certainly far from prosperous. They didn't therefore share the enthusiasm for the war about to spread through southern society, especially amongst the planters. In fact, in the more hilly and mountainous regions of the interior there was widespread disagreement, which in the case of West Virginia would lead to secession; but there were other analogous situations in East Tennessee, Arkansas and Missouri, all of them states which would eventually provide significant numbers of volunteers also to the Unionist army as well. These were the yeoman farmers, small proprietors working their own land who weren't interested in the planters' demands, but whose own political weight was negligible. Their discontent would steadily increase during the war, due both to food shortages and to forced conscription: the rule that allowed the rich not to fight also existed in the South, owner or overseers of more than twenty slaves having the right to an exemption. These small peasants formed the backbone of Lee's army, but, although initially enthusiastic, their willingness to fight would dwindle as their thoughts turned to their families labouring in the fields without their help, as the horrors of war appeared on their own doorsteps. In fact the areas where the yeomanry were most widespread (eastern central Tennessee, North Virginia, the hilly regions of north Georgia, Alabama and Mississippi) would be those most devastated by the federal armies.
+In the South things weren't going too well either. Even before the war
+two thirds of the whites didn't own slaves, and the economic situation
+of most of these 'poor whites', even when not on the threshold of
+poverty, was certainly far from prosperous. They didn't therefore share
+the enthusiasm for the war about to spread through southern society,
+especially amongst the planters. In fact, in the more hilly and
+mountainous regions of the interior there was widespread disagreement,
+which in the case of West Virginia would lead to secession; but there
+were other analogous situations in East Tennessee, Arkansas and
+Missouri, all of them states which would eventually provide significant
+numbers of volunteers also to the Unionist army as well. These were the
+yeoman farmers, small proprietors working their own land who weren't
+interested in the planters' demands, but whose own political weight was
+negligible. Their discontent would steadily increase during the war, due
+both to food shortages and to forced conscription: the rule that allowed
+the rich not to fight also existed in the South, owner or overseers of
+more than twenty slaves having the right to an exemption. These small
+peasants formed the backbone of Lee's army, but, although initially
+enthusiastic, their willingness to fight would dwindle as their thoughts
+turned to their families labouring in the fields without their help, as
+the horrors of war appeared on their own doorsteps. In fact the areas
+where the yeomanry were most widespread (eastern central Tennessee,
+North Virginia, the hilly regions of north Georgia, Alabama and
+Mississippi) would be those most devastated by the federal armies.
 
-In 1863 there were therefore revolts against conscription and food riots in the South too. Another decisive factor in the concluding phase of the war was the crippling level of desertion undermining the confederate army. Out of the 100,000 deserters which abandoned it during the 4 years of war most belonged to the yeomanry; and the figure would be higher still if those failing to report for military service were taken into account. By January 1st 1865, over half the confederate soldiers were absent without leave.
+In 1863 there were therefore revolts against conscription and food riots
+in the South too. Another decisive factor in the concluding phase of the
+war was the crippling level of desertion undermining the confederate
+army. Out of the 100,000 deserters which abandoned it during the 4 years
+of war most belonged to the yeomanry; and the figure would be higher
+still if those failing to report for military service were taken into
+account. By January 1st 1865, over half the confederate soldiers were
+absent without leave.
 
-It is calculated that the human cost in terms of loss of life was over 365,000 for the North and over 320,000 for the South. In a country of about 30,000,000 inhabitants 700,000 dead was a considerable amount; to this must be added around another half a million wounded and disabled. And yet these figures, enormous though they are, fail to give an accurate impression of the real devastation wrought, and the suffering experienced by the people on both sides.
+It is calculated that the human cost in terms of loss of life was over
+365,000 for the North and over 320,000 for the South. In a country of
+about 30,000,000 inhabitants 700,000 dead was a considerable amount; to
+this must be added around another half a million wounded and disabled.
+And yet these figures, enormous though they are, fail to give an
+accurate impression of the real devastation wrought, and the suffering
+experienced by the people on both sides.
 
-Obviously it was in the South that the harshest revolutionizing would occur. Apart from the incalculable damage the region had suffered in a direct sense, its entire world had fallen apart. The ruination and radical defeat of the class of southern planters was even more drastic than that suffered by nobles and clergy at the time of the French Revolution. In the wake of Lincoln's assassination the victors would impose a Carthaginian peace: the emancipation of the slaves was immediate, total and without indemnity and the class of planters, large and small, found themselves deprived not only of their entire workforce but with more or less their entire capital expropriated as well. The portion of capital invested in land had undergone immense destruction and major confiscations during the war. Contemporaneously, with a stroke of the pen, the public debt and the confederate currency were erased.
+Obviously it was in the South that the harshest revolutionizing would
+occur. Apart from the incalculable damage the region had suffered in a
+direct sense, its entire world had fallen apart. The ruination and
+radical defeat of the class of southern planters was even more drastic
+than that suffered by nobles and clergy at the time of the French
+Revolution. In the wake of Lincoln's assassination the victors would
+impose a Carthaginian peace: the emancipation of the slaves was
+immediate, total and without indemnity and the class of planters, large
+and small, found themselves deprived not only of their entire workforce
+but with more or less their entire capital expropriated as well. The
+portion of capital invested in land had undergone immense destruction
+and major confiscations during the war. Contemporaneously, with a stroke
+of the pen, the public debt and the confederate currency were erased.
 
-But the real victory for the capitalist North was to have a free hand in the economic field. The southerners had always been the main obstacle in the way of the stringent economic protectionism required to make the great mass of consumers pay the costs of the industrial revolution. The protective tariff would thus be raised to unprecedented levels. The 1864 Tariff Act raised excise duties on the total of taxable merchandise from 19.67% in 1860 to 47.56% in 1865. The victory of financial interests was also assured when in 1864 a new law established a powerful central banking system.
+But the real victory for the capitalist North was to have a free hand in
+the economic field. The southerners had always been the main obstacle in
+the way of the stringent economic protectionism required to make the
+great mass of consumers pay the costs of the industrial revolution. The
+protective tariff would thus be raised to unprecedented levels. The 1864
+Tariff Act raised excise duties on the total of taxable merchandise from
+19.67% in 1860 to 47.56% in 1865. The victory of financial interests was
+also assured when in 1864 a new law established a powerful central
+banking system.
 
-The South was politically, militarily and economically on its knees. The destruction it had suffered was appalling. Apart from all the cities and towns razed to the ground, the thousands of miles of uprooted railway track, the hundreds of bridges, railway stations and private and public buildings blown up or burnt down, there were the neglected roads, irrigation works and forests and immense stretches of abandoned farmland, which had been reduced by 18%. Zootechnical property was reduced in the South with equines down by 31%, cattle by 35%, sheep by 20% and pigs by 42%. And the serious lack of forage meant re-establishing pre-war levels was prevented. The South had been reduced to colonial status, and the conditions resulting from the war would maintain it in a position of under-development for many decades to come. Naturally this also applied to the southern manufacturing industry, which was maybe the Confederacy's weakest point at the start of the war.
+The South was politically, militarily and economically on its knees. The
+destruction it had suffered was appalling. Apart from all the cities and
+towns razed to the ground, the thousands of miles of uprooted railway
+track, the hundreds of bridges, railway stations and private and public
+buildings blown up or burnt down, there were the neglected roads,
+irrigation works and forests and immense stretches of abandoned
+farmland, which had been reduced by 18%. Zootechnical property was
+reduced in the South with equines down by 31%, cattle by 35%, sheep by
+20% and pigs by 42%. And the serious lack of forage meant
+re-establishing pre-war levels was prevented. The South had been reduced
+to colonial status, and the conditions resulting from the war would
+maintain it in a position of under-development for many decades to come.
+Naturally this also applied to the southern manufacturing industry,
+which was maybe the Confederacy's weakest point at the start of the war.
 
-But it would be a mistake to think that the initially disadvantageous conditions or the tightening of the blockade caused the confederates to relapse into resigned fatalism. In fact the most challenging task which confronted the confederate government was precisely that of creating a productive apparatus from scratch which would meet the requirements of the war, and, given the starting position, there was only one way forward: forced industrialisation. Since the capitalist road, founded on free initiative, was not possible, because most capital was tied up in the countryside, mainly in slaves, and couldn't be imported either, the only road left was based on public ownership of the means of production and on forced saving, one which some historians have defined as "socialist".
+But it would be a mistake to think that the initially disadvantageous
+conditions or the tightening of the blockade caused the confederates to
+relapse into resigned fatalism. In fact the most challenging task which
+confronted the confederate government was precisely that of creating a
+productive apparatus from scratch which would meet the requirements of
+the war, and, given the starting position, there was only one way
+forward: forced industrialisation. Since the capitalist road, founded on
+free initiative, was not possible, because most capital was tied up in
+the countryside, mainly in slaves, and couldn't be imported either, the
+only road left was based on public ownership of the means of production
+and on forced saving, one which some historians have defined as
+"socialist".
 
-This was achieved by means of three instruments: submission of all existing manufactures to the most stringent public control (the government ordaining what was produced, allocating raw materials, railway transportation, labour power, and even freezing profits, to the extent that at a certain point the owners of the most important steelworks offered to formally hand over their enterprises to the State); nationalisation of as many establishments as possible; and finally, the outright creation of a powerful state industrial sector which, towards the end of the conflict, constituted a structure which incorporated virtually the whole of the confederate industrial apparatus.
+This was achieved by means of three instruments: submission of all
+existing manufactures to the most stringent public control (the
+government ordaining what was produced, allocating raw materials,
+railway transportation, labour power, and even freezing profits, to the
+extent that at a certain point the owners of the most important
+steelworks offered to formally hand over their enterprises to the
+State); nationalisation of as many establishments as possible; and
+finally, the outright creation of a powerful state industrial sector
+which, towards the end of the conflict, constituted a structure which
+incorporated virtually the whole of the confederate industrial
+apparatus.
 
 ## The North's War
 
-If the South would end up devastated by the war, in the North it meant unprecedented prosperity. The railroad companies did very well out of it, due both to job orders from the military and the closing of the Mississippi which would divert the flow of trade along an East-West axis; the meat packing industry did very well out of it: Chicago, the city of the railroad and the big slaughterhouses experienced a prodigious growth during this period. But it was boom time for all of the sectors linked to the war, such as agriculture (which compensated for the loss of manpower with increased mechanisation and a further push to the West) and the clothing industry, which although it benefited the honest also allowed sidereal earnings to the dishonest, like those who manufactured items using _shoddy_, that is, with reprocessed wool waste which was often simply just recompressed. Union soldiers would soon learn this to their cost, when their uniforms, which appeared composed of normal material, would literally melt in the rain. Swindling the state is, of course, a very common phenomenon, especially during the general chaos of the war when it is very easy to get round the regulations, especially if a few officials are bribed here and there. So, whilst the war was used on the one hand to infuse proletarians with patriotic ideals, on the other it was just another opportunity for the bourgeoisie to do business, whether legal or illegal, with friends or enemies, the main thing being to turn a profit.
+If the South would end up devastated by the war, in the North it meant
+unprecedented prosperity. The railroad companies did very well out of
+it, due both to job orders from the military and the closing of the
+Mississippi which would divert the flow of trade along an East-West
+axis; the meat packing industry did very well out of it: Chicago, the
+city of the railroad and the big slaughterhouses experienced a
+prodigious growth during this period. But it was boom time for all of
+the sectors linked to the war, such as agriculture (which compensated
+for the loss of manpower with increased mechanisation and a further push
+to the West) and the clothing industry, which although it benefited the
+honest also allowed sidereal earnings to the dishonest, like those who
+manufactured items using _shoddy_, that is, with reprocessed wool waste
+which was often simply just recompressed. Union soldiers would soon
+learn this to their cost, when their uniforms, which appeared composed
+of normal material, would literally melt in the rain. Swindling the
+state is, of course, a very common phenomenon, especially during the
+general chaos of the war when it is very easy to get round the
+regulations, especially if a few officials are bribed here and there.
+So, whilst the war was used on the one hand to infuse proletarians with
+patriotic ideals, on the other it was just another opportunity for the
+bourgeoisie to do business, whether legal or illegal, with friends or
+enemies, the main thing being to turn a profit.
 
-The country came out of the war significantly changed and greater changes were ahead. The emergent industrial bourgeoisie was fiercely nationalist and republican; Congress adopted economic policies that were strongly expansionist: a national paper money was born, a central banking system, and an enormous public debt. Funds were raised by putting new tariffs and taxes on practically everything produced and consumed. Workers killed in the war were rapidly replaced thanks to incentives to immigrate. The Homestead Act gave free land to the pioneers, everywhere technical and agricultural colleges were founded. Huge swathes of land were gifted to the railroad companies to build railways, allowing the penetration of capital towards the West. The latter measure as good as condemned the prairie Indians to death, but whilst it may be possible to stop armies no power on earth can stop capital in its expansionist phase. If on the eve of the war the government was almost impotent, now that industrial and financial capitalism was making itself heard it entered a period of unprecedented activism, reflecting the true birth of the North American state.
+The country came out of the war significantly changed and greater
+changes were ahead. The emergent industrial bourgeoisie was fiercely
+nationalist and republican; Congress adopted economic policies that were
+strongly expansionist: a national paper money was born, a central
+banking system, and an enormous public debt. Funds were raised by
+putting new tariffs and taxes on practically everything produced and
+consumed. Workers killed in the war were rapidly replaced thanks to
+incentives to immigrate. The Homestead Act gave free land to the
+pioneers, everywhere technical and agricultural colleges were founded.
+Huge swathes of land were gifted to the railroad companies to build
+railways, allowing the penetration of capital towards the West. The
+latter measure as good as condemned the prairie Indians to death, but
+whilst it may be possible to stop armies no power on earth can stop
+capital in its expansionist phase. If on the eve of the war the
+government was almost impotent, now that industrial and financial
+capitalism was making itself heard it entered a period of unprecedented
+activism, reflecting the true birth of the North American state.
 
 ## Marx and Engels' stance
 
-Our teachers would follow the progress of the war attentively, writing in particular detail about the first two years, when Marx made it the subject of his press correspondence. After which they would continue to discuss it in their letters.
+Our teachers would follow the progress of the war attentively, writing
+in particular detail about the first two years, when Marx made it the
+subject of his press correspondence. After which they would continue to
+discuss it in their letters.
 
-Apart from the judgements on general and military matters already cited, the first thing one notes, particularly in the letters, is their passionate engagement with the war, in which, _apertis verbis_, they took the side of the North. Rather than the South being the victim of the North it is aggressively expansionist: Marx shows that it isn't enough for slavery merely to survive, because its endemic features compel it to continually expand ("war of conquest") stagnation equating with the death of its economic system. These two social systems simply aren't able to co-exist; South and North aren't, nor can they be, two autonomous countries: "The South isn't a nation, it's a battle cry".
+Apart from the judgements on general and military matters already cited,
+the first thing one notes, particularly in the letters, is their
+passionate engagement with the war, in which, _apertis verbis_, they
+took the side of the North. Rather than the South being the victim of
+the North it is aggressively expansionist: Marx shows that it isn't
+enough for slavery merely to survive, because its endemic features
+compel it to continually expand ("war of conquest") stagnation equating
+with the death of its economic system. These two social systems simply
+aren't able to co-exist; South and North aren't, nor can they be, two
+autonomous countries: "The South isn't a nation, it's a battle cry".
 
-Both Marx and Engels complain of the North's lamentable lack of revolutionary energy; they don't give a damn, wrote Engels on 30 July, 1862, the government is hesitant about everything: conscription, fiscal measures, attacking slavery, and when some measure is passed, Lincoln hedges it about with so many clauses as to render it ineffective. And the generals, they are all incompetent. If the North doesn't start a revolutionary war it won't be able to win.
+Both Marx and Engels complain of the North's lamentable lack of
+revolutionary energy; they don't give a damn, wrote Engels on 30 July,
+1862, the government is hesitant about everything: conscription, fiscal
+measures, attacking slavery, and when some measure is passed, Lincoln
+hedges it about with so many clauses as to render it ineffective. And
+the generals, they are all incompetent. If the North doesn't start a
+revolutionary war it won't be able to win.
 
-Marx is more optimistic: he recognises the political and military weaknesses of the North, which the South doesn't have, but he knows that time is on the side of the North and that the situation will change. Even after the second battle of Bull Run, Marx, writing on 10 September, 1862, would advise Engels not to be too influenced by the military aspect of things. Certainly there should be a transition from the 'constitutional' to the 'revolutionary' phase, which for Marx and Engels consisted in the use of all available force against the representatives of the backward economic system. But an explicitly and completely revolutionary phase would be something that would never happen in North America; the bourgeoisie there would be born reactionary, as indeed was the case in Europe in the same century. Already their fear of the proletariat is intense, and the capitalists are torn between the desire to radically transform society and their fear of a working-class offensive, in this case including the black proletariat. Putting effective political and military instruments into the hands of the subordinate classes of North and of South is far too risky and would never be attempted, unless counterbalanced, that is, with such precautionary measures as to render them ineffective.
+Marx is more optimistic: he recognises the political and military
+weaknesses of the North, which the South doesn't have, but he knows that
+time is on the side of the North and that the situation will change.
+Even after the second battle of Bull Run, Marx, writing on 10 September,
+1862, would advise Engels not to be too influenced by the military
+aspect of things. Certainly there should be a transition from the
+'constitutional' to the 'revolutionary' phase, which for Marx and Engels
+consisted in the use of all available force against the representatives
+of the backward economic system. But an explicitly and completely
+revolutionary phase would be something that would never happen in North
+America; the bourgeoisie there would be born reactionary, as indeed was
+the case in Europe in the same century. Already their fear of the
+proletariat is intense, and the capitalists are torn between the desire
+to radically transform society and their fear of a working-class
+offensive, in this case including the black proletariat. Putting
+effective political and military instruments into the hands of the
+subordinate classes of North and of South is far too risky and would
+never be attempted, unless counterbalanced, that is, with such
+precautionary measures as to render them ineffective.
 
-If the North had directed effort towards agitating amongst the blacks in the South and arming them where possible, both behind the lines and by enrolling blacks who had fled to the North, the war would have been over in a few months, and with negligible loss of human life. But who then would have prevented those hosts of armed men from reorganising the world as they thought fit? The bourgeoisie's great fear, which would materialize a few years later during the Paris Commune, permeates the last two centuries as a constant and undeniable factor; a fear, moreover, which is entirely justified. For the bourgeois state, for all bourgeois states, any battle between interest groups, social classes or sovereign states can only take place after control over the subordinate and working classes is assured, or after these have been securely yoked up to one of contending war machines, which is tantamount to the same thing as they are no longer capable of fighting in their own interest. The black proletariat wasn't allowed to fight in the front line for its liberation; instead it was allowed to send tens of thousands of its sons to die under the orders of white officers, with nothing given in exchange except vague hopes of a wealth that would never materialize, and an emancipation which would transform their condition in name only, without actually improving their living conditions; indeed, in the decades to come, they would actually get worse.
+If the North had directed effort towards agitating amongst the blacks in
+the South and arming them where possible, both behind the lines and by
+enrolling blacks who had fled to the North, the war would have been over
+in a few months, and with negligible loss of human life. But who then
+would have prevented those hosts of armed men from reorganising the
+world as they thought fit? The bourgeoisie's great fear, which would
+materialize a few years later during the Paris Commune, permeates the
+last two centuries as a constant and undeniable factor; a fear,
+moreover, which is entirely justified. For the bourgeois state, for all
+bourgeois states, any battle between interest groups, social classes or
+sovereign states can only take place after control over the subordinate
+and working classes is assured, or after these have been securely yoked
+up to one of contending war machines, which is tantamount to the same
+thing as they are no longer capable of fighting in their own interest.
+The black proletariat wasn't allowed to fight in the front line for its
+liberation; instead it was allowed to send tens of thousands of its sons
+to die under the orders of white officers, with nothing given in
+exchange except vague hopes of a wealth that would never materialize,
+and an emancipation which would transform their condition in name only,
+without actually improving their living conditions; indeed, in the
+decades to come, they would actually get worse.
 
-A 'revolutionary' war would, therefore, have been decisive in the early phases of the Civil War, but by 1863 the disparity of forces in the field is such that it is clear to all that the fall of the Confederacy is only a matter of time.
+A 'revolutionary' war would, therefore, have been decisive in the early
+phases of the Civil War, but by 1863 the disparity of forces in the
+field is such that it is clear to all that the fall of the Confederacy
+is only a matter of time.
 
-In the Autumn of 1862, thanks to a widespread feeling of opposition to the war, the republicans were trounced by the democrats in the legislative elections and their majority whittled down to a mere 20 seats. Engels was extremely disappointed: "Desirable though it may be, on the one hand, that the bourgeois republic should be utterly discredited in America too, so that in future it may never again be preached on _its own merits_, but only as a means towards, and a form of transition to, social revolution, it is, nevertheless, annoying that a rotten oligarchy, with a population only half as large, should evince such strength as the great fat, helpless democracy" (15 November 1862). Marx, however, recalling that the South was in a very difficult situation and that the democratic victory was the sort of reaction that occurred in every revolutionary movement, continued to remain optimistic. In fact it was probably mainly thanks to government intervention that the republicans retained their position. The democrats were in the majority in the Indiana and Illinois assemblies and it was only the intervention of the Union army -- which proceeded to arrest some of the democratic party candidates -- which made it possible for the republicans to remain in power in the border states like Missouri, Kentucky and Maryland. Lincoln also ordered the arrest of his likely adversary in the next presidential elections, the well-known Ohio Democrat, Clement L. Vallandingham, and later had him exiled to the Confederate territories. The bourgeoisie isn't shocked by dictatorial measures, whether open or disguised, as long as they are enforced to protect its interests.
+In the Autumn of 1862, thanks to a widespread feeling of opposition to
+the war, the republicans were trounced by the democrats in the
+legislative elections and their majority whittled down to a mere 20
+seats. Engels was extremely disappointed: "Desirable though it may be,
+on the one hand, that the bourgeois republic should be utterly
+discredited in America too, so that in future it may never again be
+preached on _its own merits_, but only as a means towards, and a form of
+transition to, social revolution, it is, nevertheless, annoying that a
+rotten oligarchy, with a population only half as large, should evince
+such strength as the great fat, helpless democracy" (15 November 1862).
+Marx, however, recalling that the South was in a very difficult
+situation and that the democratic victory was the sort of reaction that
+occurred in every revolutionary movement, continued to remain
+optimistic. In fact it was probably mainly thanks to government
+intervention that the republicans retained their position. The democrats
+were in the majority in the Indiana and Illinois assemblies and it was
+only the intervention of the Union army -- which proceeded to arrest
+some of the democratic party candidates -- which made it possible for
+the republicans to remain in power in the border states like Missouri,
+Kentucky and Maryland. Lincoln also ordered the arrest of his likely
+adversary in the next presidential elections, the well-known Ohio
+Democrat, Clement L. Vallandingham, and later had him exiled to the
+Confederate territories. The bourgeoisie isn't shocked by dictatorial
+measures, whether open or disguised, as long as they are enforced to
+protect its interests.
 
-Marx and Engels denounce the European states for plotting to exploit the civil war for their own ends by means of an imperialist-financial undertaking in Mexico; the latter whilst the British working class was fighting generously for the cause of the North. In fact at the beginning of 1862 the English cotton barons, using the _Trent_ incident as justification, petitioned for a campaign of British intervention on the side of the South with the aim of breaking the naval blockade. The English workers, although damaged by the cotton blockade, which had caused widespread unemployment in the textile industry, generously demonstrated in favour of the North, thus acting to deter the British bourgeoisie's temptation to intervene.
+Marx and Engels denounce the European states for plotting to exploit the
+civil war for their own ends by means of an imperialist-financial
+undertaking in Mexico; the latter whilst the British working class was
+fighting generously for the cause of the North. In fact at the beginning
+of 1862 the English cotton barons, using the _Trent_ incident as
+justification, petitioned for a campaign of British intervention on the
+side of the South with the aim of breaking the naval blockade. The
+English workers, although damaged by the cotton blockade, which had
+caused widespread unemployment in the textile industry, generously
+demonstrated in favour of the North, thus acting to deter the British
+bourgeoisie's temptation to intervene.
 
-The International would also make its voice heard, first sending a letter of congratulation to Lincoln on his re-election in 1864 (which was acknowledged with an official reply), then inviting Lincoln's successor, Andrew Johnson, to complete the work of his predecessor -- assassinated, as it was believed then, by a southerner -- by initiating the new era of the emancipation of labour.
+The International would also make its voice heard, first sending a
+letter of congratulation to Lincoln on his re-election in 1864 (which
+was acknowledged with an official reply), then inviting Lincoln's
+successor, Andrew Johnson, to complete the work of his predecessor --
+assassinated, as it was believed then, by a southerner -- by initiating
+the new era of the emancipation of labour.
 
 ## The "Reconstruction" and its failure
 
-The Civil War was the consequence of the fact that the ruling classes of American society were clearly divided into two sections.
+The Civil War was the consequence of the fact that the ruling classes of
+American society were clearly divided into two sections.
 
-In the great bourgeois revolutions the divisions within the ruling classes had allowed the radical tendencies of the lower strata to emerge, much more so in the case of the French Revolution than in the English. In the American Civil War there was no radical uprising of this kind. At least in its main outlines this is easy to understand: the American cities weren't teeming with desperate artisans and potential sans-culottes. Class-consciousness and the organised power of proletarians were virtually non-existent and the existence of land to the West reduced its potential explosiveness. The necessary conditions for a peasant revolt were therefore also lacking. In the South, instead of peasants at the bottom of the pyramid there were black slaves; and these were in no condition to rebel, except in a sporadic and disorganised way. Despite slave insurrections having occurred, they didn't have political consequences. No clear revolutionary impulse emerged from this direction, chiefly because their liberation hadn't been of their own making. We have seen how fearfully, and with what cautiousness the two belligerents had consented to put weapons into the hands of a not too excessive number of blacks. Another obstacle in the way of a struggle directly led and organised by blacks was the profound ignorance in which they were kept. Thus were the ex-slaves pushed, empty handed, alone and defenceless, into the world outside the plantations.
+In the great bourgeois revolutions the divisions within the ruling
+classes had allowed the radical tendencies of the lower strata to
+emerge, much more so in the case of the French Revolution than in the
+English. In the American Civil War there was no radical uprising of this
+kind. At least in its main outlines this is easy to understand: the
+American cities weren't teeming with desperate artisans and potential
+sans-culottes. Class-consciousness and the organised power of
+proletarians were virtually non-existent and the existence of land to
+the West reduced its potential explosiveness. The necessary conditions
+for a peasant revolt were therefore also lacking. In the South, instead
+of peasants at the bottom of the pyramid there were black slaves; and
+these were in no condition to rebel, except in a sporadic and
+disorganised way. Despite slave insurrections having occurred, they
+didn't have political consequences. No clear revolutionary impulse
+emerged from this direction, chiefly because their liberation hadn't
+been of their own making. We have seen how fearfully, and with what
+cautiousness the two belligerents had consented to put weapons into the
+hands of a not too excessive number of blacks. Another obstacle in the
+way of a struggle directly led and organised by blacks was the profound
+ignorance in which they were kept. Thus were the ex-slaves pushed, empty
+handed, alone and defenceless, into the world outside the plantations.
 
-After Lincoln's death, Andrew Johnson, the vice-president who took his place, continued the work of reconciliation, composed of pardons and the reconstitution of the southern ruling class by reinstating most of the old dignitaries. Johnson nominated the governors of the ex rebel states and authorised them to convoke constituent assemblies, allowing to vote those who had taken the oath proposed by Lincoln: Loyalty to the United States and acceptance of the Proclamation of emancipation. Higher ranking confederate officials and the major property owners would have to be individually pardoned by the president. On the completion of this procedure, the states would again become part of the union.
+After Lincoln's death, Andrew Johnson, the vice-president who took his
+place, continued the work of reconciliation, composed of pardons and the
+reconstitution of the southern ruling class by reinstating most of the
+old dignitaries. Johnson nominated the governors of the ex rebel states
+and authorised them to convoke constituent assemblies, allowing to vote
+those who had taken the oath proposed by Lincoln: Loyalty to the United
+States and acceptance of the Proclamation of emancipation. Higher
+ranking confederate officials and the major property owners would have
+to be individually pardoned by the president. On the completion of this
+procedure, the states would again become part of the union.
 
-Johnson was an ex-democratic senator from Tennessee, the only senator from the South to remain loyal to the Union. He had been against the southern landed aristocracy and it was therefore expected he would treat them with extreme severity; but he was also a virulent and declared racist, which would become evident when certain decisions had to be made. Lincoln had chosen him not only for electoral reasons but also to counterbalance the republican radicals; obviously the assassination hadn't figured in his calculations. Johnson permitted the governors to surround themselves with prominent ex-secessionists, who he would readily pardon, and he allowed them to issue laws and regulations restricting the freedom of the recently emancipated blacks.
+Johnson was an ex-democratic senator from Tennessee, the only senator
+from the South to remain loyal to the Union. He had been against the
+southern landed aristocracy and it was therefore expected he would treat
+them with extreme severity; but he was also a virulent and declared
+racist, which would become evident when certain decisions had to be
+made. Lincoln had chosen him not only for electoral reasons but also to
+counterbalance the republican radicals; obviously the assassination
+hadn't figured in his calculations. Johnson permitted the governors to
+surround themselves with prominent ex-secessionists, who he would
+readily pardon, and he allowed them to issue laws and regulations
+restricting the freedom of the recently emancipated blacks.
 
-The so-called Black Codes, replacing the Slave Codes to which they bore an astonishing likeness, aimed to tie the slaves to the plantations by means of barely disguised forms of servitude. These codes limited the right of blacks to own land, to acquire arms and to move around freely; they imposed prohibitive taxes on anyone who wanted to engage in autonomous activity, especially if non-agricultural; and they allowed the bosses to take on the sons of ex slaves who proved to be 'unsuitable' parents as 'apprentices'. Blacks weren't allowed to stand witness against whites in court; if they abandoned work they could be thrown into prison for breaking their contract; anyone found not to be working could be arrested and fined 50 dollars. Those who couldn't pay the fine could be hired to anyone in the county who would pay the fine. Blacks could also be fined for making insulting gestures, for not observing the curfew and for possession of firearms. A personal control over blacks was established which was indistinguishable from slavery. Despite the thirteenth amendment, which rendered slavery unconstitutional, the South attempted to legally recreate it in all but name. By the end of 1865 the ex-confederates were back in power and had re-established their rule.
+The so-called Black Codes, replacing the Slave Codes to which they bore
+an astonishing likeness, aimed to tie the slaves to the plantations by
+means of barely disguised forms of servitude. These codes limited the
+right of blacks to own land, to acquire arms and to move around freely;
+they imposed prohibitive taxes on anyone who wanted to engage in
+autonomous activity, especially if non-agricultural; and they allowed
+the bosses to take on the sons of ex slaves who proved to be
+'unsuitable' parents as 'apprentices'. Blacks weren't allowed to stand
+witness against whites in court; if they abandoned work they could be
+thrown into prison for breaking their contract; anyone found not to be
+working could be arrested and fined 50 dollars. Those who couldn't pay
+the fine could be hired to anyone in the county who would pay the fine.
+Blacks could also be fined for making insulting gestures, for not
+observing the curfew and for possession of firearms. A personal control
+over blacks was established which was indistinguishable from slavery.
+Despite the thirteenth amendment, which rendered slavery
+unconstitutional, the South attempted to legally recreate it in all but
+name. By the end of 1865 the ex-confederates were back in power and had
+re-established their rule.
 
 ## The missing agricultural reform
 
-It was the capitalists in the North who launched the single progressive initiative. In the group known as the Republican Radicals abolitionist ideals merged with industrial interests to give life to a brief flame, albeit quickly extinguished in the rising tide of corruption.
+It was the capitalists in the North who launched the single progressive
+initiative. In the group known as the Republican Radicals abolitionist
+ideals merged with industrial interests to give life to a brief flame,
+albeit quickly extinguished in the rising tide of corruption.
 
-Although the radicals were a thorn in Lincoln's side during the war, he nevertheless managed to bring the war to a victorious military conclusion on the basis of the sole programme of safeguarding the existence of the Union, i.e., without conducting any serious offensive against property rights in the South. But for a brief period between 1865-68, the three years following the cessation of hostilities, the Republican radicals would hold power in the North and conduct an offensive against the plantation system and the remnants of slavery.
+Although the radicals were a thorn in Lincoln's side during the war, he
+nevertheless managed to bring the war to a victorious military
+conclusion on the basis of the sole programme of safeguarding the
+existence of the Union, i.e., without conducting any serious offensive
+against property rights in the South. But for a brief period between
+1865-68, the three years following the cessation of hostilities, the
+Republican radicals would hold power in the North and conduct an
+offensive against the plantation system and the remnants of slavery.
 
-The leaders of the group considered the war as a struggle between the progressive capitalism of the North and a reactionary agrarian society based on slavery. But if the conflict between the North and the South really can be characterised in such a way, then the most important battles were fought after the war had ended. But capitalism was already in its cowardly and corrupt phase by now, incapable of seeing its revolution through to its conclusion. Thus it was in Italy and Germany, and thus will be the case in most bourgeois revolutions in the Third World: the bourgeoisie is subjected to pressure from external powers at the same time as it has guard itself _in primis_ from its own working class. Thus it is forced to halt in mid-stream, camouflage itself (as in China), or sometimes even go into reverse gear.
+The leaders of the group considered the war as a struggle between the
+progressive capitalism of the North and a reactionary agrarian society
+based on slavery. But if the conflict between the North and the South
+really can be characterised in such a way, then the most important
+battles were fought after the war had ended. But capitalism was already
+in its cowardly and corrupt phase by now, incapable of seeing its
+revolution through to its conclusion. Thus it was in Italy and Germany,
+and thus will be the case in most bourgeois revolutions in the Third
+World: the bourgeoisie is subjected to pressure from external powers at
+the same time as it has guard itself _in primis_ from its own working
+class. Thus it is forced to halt in mid-stream, camouflage itself (as in
+China), or sometimes even go into reverse gear.
 
-Drawn from amongst the proponents of abolitionism and from the radicals of the Free Soil group, a small nucleus of republican politicians would interpret the war as an opportunity to "uproot the vestiges of a dying world of barons and serfs, nobles and slaves" in order to reconstitute the South according to the vision of the "progressive and democratic" North, founded on "Freedom of speech, on freedom of labour, on schools and ballot boxes". The leader of the Republican Radicals, Thaddeus Stevens, who expressed himself more cautiously in public, wrote in a letter that what the country needed was a leader (i.e. not Lincoln) "with sufficient moral courage to make of this a radical revolution, and to remodel our institutions (...) This would involve both the destruction and emancipation of society in the South, and the repopulation of half the continent".
+Drawn from amongst the proponents of abolitionism and from the radicals
+of the Free Soil group, a small nucleus of republican politicians would
+interpret the war as an opportunity to "uproot the vestiges of a dying
+world of barons and serfs, nobles and slaves" in order to reconstitute
+the South according to the vision of the "progressive and democratic"
+North, founded on "Freedom of speech, on freedom of labour, on schools
+and ballot boxes". The leader of the Republican Radicals, Thaddeus
+Stevens, who expressed himself more cautiously in public, wrote in a
+letter that what the country needed was a leader (i.e. not Lincoln)
+"with sufficient moral courage to make of this a radical revolution, and
+to remodel our institutions (...) This would involve both the
+destruction and emancipation of society in the South, and the
+repopulation of half the continent".
 
-But what really gave the impetus to this movement, taking it out of the realm of idle chatter, was that its objectives coincided with the interests of sectors of vital importance in Northern society, namely, the nascent iron and steel industry in Pennsylvania and a railroad company. Stevens, in his capacity as parliamentarian, would act as intermediary for both these groups and from each of them he received money. The radical Republicans also gained the support of many workers in the North, even if the latter were cool towards abolitionism, since they feared competition from the blacks. They considered the New England abolitionists as the hypocritical representatives of the factory owners, whilst they enthusiastically supported the radical's protectionism and their deflationist programme. Finance and commerce, however, were unsympathetic towards the radicals. And after the war the radicals would turn to the "Northern plutocracy".
+But what really gave the impetus to this movement, taking it out of the
+realm of idle chatter, was that its objectives coincided with the
+interests of sectors of vital importance in Northern society, namely,
+the nascent iron and steel industry in Pennsylvania and a railroad
+company. Stevens, in his capacity as parliamentarian, would act as
+intermediary for both these groups and from each of them he received
+money. The radical Republicans also gained the support of many workers
+in the North, even if the latter were cool towards abolitionism, since
+they feared competition from the blacks. They considered the New England
+abolitionists as the hypocritical representatives of the factory owners,
+whilst they enthusiastically supported the radical's protectionism and
+their deflationist programme. Finance and commerce, however, were
+unsympathetic towards the radicals. And after the war the radicals would
+turn to the "Northern plutocracy".
 
-The radicals' offensive didn't, however, represent a capitalist united front against the plantation system, and this explains its intrinsic weakness. At the time of its greatest strength it was a coalition of industrialists and a few railroad companies, supported by part of the working class.
+The radicals' offensive didn't, however, represent a capitalist united
+front against the plantation system, and this explains its intrinsic
+weakness. At the time of its greatest strength it was a coalition of
+industrialists and a few railroad companies, supported by part of the
+working class.
 
-In a speech on 18 December 1865, Stevens presented to public opinion and to Congress his analysis of the situation and his programme of action. The South had to be treated as a conquered country and not as a series of states that, after having left the Union, could be welcomed back with open arms. "The foundation of their institutions-political, municipal, and social-must be broken up and relaid, or all our blood and treasure have been spent in vain. This can only be done by treating and holding them as a conquered people". The southern states wouldn't be allowed to return to the Union, Stevens stated, "until the Constitution shall have been so amended as to make it what its framers intended; and so as to secure perpetual ascendency to the party of the Union", that is, the Republican party. If the southern states were not 'reconstructed' -- this euphemism of the time would continue to be used in all subsequent histories -- it could easily submerge the North, said Stevens, and thereby the South would have won the peace after losing the war.
+In a speech on 18 December 1865, Stevens presented to public opinion and
+to Congress his analysis of the situation and his programme of action.
+The South had to be treated as a conquered country and not as a series
+of states that, after having left the Union, could be welcomed back with
+open arms. "The foundation of their institutions-political, municipal,
+and social-must be broken up and relaid, or all our blood and treasure
+have been spent in vain. This can only be done by treating and holding
+them as a conquered people". The southern states wouldn't be allowed to
+return to the Union, Stevens stated, "until the Constitution shall have
+been so amended as to make it what its framers intended; and so as to
+secure perpetual ascendency to the party of the Union", that is, the
+Republican party. If the southern states were not 'reconstructed' --
+this euphemism of the time would continue to be used in all subsequent
+histories -- it could easily submerge the North, said Stevens, and
+thereby the South would have won the peace after losing the war.
 
-It was on the basis of these considerations that Stevens outlined his programme to reconstruct the society in the South from top to bottom, i.e., smashing the power of the plantation owners by confiscating all land of over 200 acres, "even if this might force the nobility (of the South) into exile". In this way the federal government would obtain enough land to give every black family around 40 acres; giving rise to the slogan "40 acres and a mule", which was used to discredit the hopes, held to be utopian, of the recently liberated slaves.
+It was on the basis of these considerations that Stevens outlined his
+programme to reconstruct the society in the South from top to bottom,
+i.e., smashing the power of the plantation owners by confiscating all
+land of over 200 acres, "even if this might force the nobility (of the
+South) into exile". In this way the federal government would obtain
+enough land to give every black family around 40 acres; giving rise to
+the slogan "40 acres and a mule", which was used to discredit the hopes,
+held to be utopian, of the recently liberated slaves.
 
-The demand for a vast redistribution of land was born of the knowledge that it was the only way to break the power of the planters. Indeed the latter had already started to do all they could to recuperate by other means the substance of their lost power, something that was possible owing to the economic misery of the blacks.
+The demand for a vast redistribution of land was born of the knowledge
+that it was the only way to break the power of the planters. Indeed the
+latter had already started to do all they could to recuperate by other
+means the substance of their lost power, something that was possible
+owing to the economic misery of the blacks.
 
-There is persuasive evidence that the division of the old plantations into smaller landholdings for the blacks was in fact a feasible proposition. The North's military authorities undertook two experiments of this type to resolve the pressing problem of the thousands of blacks without means. They transferred the confiscated and abandoned land across to more than 40,000 blacks, who it was thought would be able to successfully work the land as small peasant farmers, until president Johnson returned the property to their previous white proprietors. The experience of slavery was certainly not the best in terms of preparing the blacks to manage enterprises as small rural capitalists. There is little the blacks could have done for themselves, or to favour of northern interests, without a minimum degree of economic security and political rights, including the right to vote.
+There is persuasive evidence that the division of the old plantations
+into smaller landholdings for the blacks was in fact a feasible
+proposition. The North's military authorities undertook two experiments
+of this type to resolve the pressing problem of the thousands of blacks
+without means. They transferred the confiscated and abandoned land
+across to more than 40,000 blacks, who it was thought would be able to
+successfully work the land as small peasant farmers, until president
+Johnson returned the property to their previous white proprietors. The
+experience of slavery was certainly not the best in terms of preparing
+the blacks to manage enterprises as small rural capitalists. There is
+little the blacks could have done for themselves, or to favour of
+northern interests, without a minimum degree of economic security and
+political rights, including the right to vote.
 
 ## "Reconstruction" according to the Radicals
 
-The radicals lashed out at Johnson's leniency towards the South, and the return to home rule. There was a struggle in Congress that almost led to the impeachment of the president, who lost his ascendancy, whilst meanwhile Congress annulled everything and recommenced with its own version of Reconstruction. The first step was an inquiry into actual conditions in the South. The inquiry documented the existence of widespread poverty amongst the blacks as well as brutal oppression, intimidation and legal discrimination on the part of the whites. The committee conducted a detailed examination of the racial riots that had recently taken place in Memphis and New Orleans, resulting in many casualties. It concluded that in fact the New Orleans rebellion had been a police massacre in which dozens of blacks had been murdered in cold blood.
+The radicals lashed out at Johnson's leniency towards the South, and the
+return to home rule. There was a struggle in Congress that almost led to
+the impeachment of the president, who lost his ascendancy, whilst
+meanwhile Congress annulled everything and recommenced with its own
+version of Reconstruction. The first step was an inquiry into actual
+conditions in the South. The inquiry documented the existence of
+widespread poverty amongst the blacks as well as brutal oppression,
+intimidation and legal discrimination on the part of the whites. The
+committee conducted a detailed examination of the racial riots that had
+recently taken place in Memphis and New Orleans, resulting in many
+casualties. It concluded that in fact the New Orleans rebellion had been
+a police massacre in which dozens of blacks had been murdered in cold
+blood.
 
-Congress abolished home rule in the southern States and divided the ex Confederation into 5 military districts. Even southern citizens who had already obtained a pardon would have to take a more rigorous oath before recovering their right to vote, and ex-confederate officials had the right withdrawn. The state conventions had to draw up new constitutions.
+Congress abolished home rule in the southern States and divided the ex
+Confederation into 5 military districts. Even southern citizens who had
+already obtained a pardon would have to take a more rigorous oath before
+recovering their right to vote, and ex-confederate officials had the
+right withdrawn. The state conventions had to draw up new constitutions.
 
-Reduced to its essentials, the radical programme of reconstruction of the South consisted of using the North's military force to destroy the plantation aristocracy and replace it with a system of landed property that was modern and capitalist, and which ensured landed property and the right to vote to the blacks. Soon enough, thanks to economic dynamics themselves, masses of workers originally involved in extensive agriculture would end up in the industrial cities, providing the low price labour power ever required by the industrial bourgeoisie; the agricultural sector, meanwhile, would undergo an evolution dictated by the laws of the market. In a capitalist sense it was a revolutionary programme.
+Reduced to its essentials, the radical programme of reconstruction of
+the South consisted of using the North's military force to destroy the
+plantation aristocracy and replace it with a system of landed property
+that was modern and capitalist, and which ensured landed property and
+the right to vote to the blacks. Soon enough, thanks to economic
+dynamics themselves, masses of workers originally involved in extensive
+agriculture would end up in the industrial cities, providing the low
+price labour power ever required by the industrial bourgeoisie; the
+agricultural sector, meanwhile, would undergo an evolution dictated by
+the laws of the market. In a capitalist sense it was a revolutionary
+programme.
 
-But in fact things weren't going too badly for the northern industries in any case. Even taking into account the movement towards the West, the forces of labour arriving from Europe, who were much more qualified and educated than the blacks and easier to integrate, were, even if not sufficient in themselves, enough to cause divisions amongst the bourgeoisie. Thus even northerners who professed sympathy for the Negro Cause showed signs of weakening. In reply to Stevens speech of 6 September 1865, Horace Greely, director of the _New York Tribune_, wrote: "We object to the idea of fighting against southern property because the well-off classes in the South, since they are more human and enlightened than the ignorant strata of poor whites, are less hostile to the Negroes".
+But in fact things weren't going too badly for the northern industries
+in any case. Even taking into account the movement towards the West, the
+forces of labour arriving from Europe, who were much more qualified and
+educated than the blacks and easier to integrate, were, even if not
+sufficient in themselves, enough to cause divisions amongst the
+bourgeoisie. Thus even northerners who professed sympathy for the Negro
+Cause showed signs of weakening. In reply to Stevens speech of 6
+September 1865, Horace Greely, director of the _New York Tribune_,
+wrote: "We object to the idea of fighting against southern property
+because the well-off classes in the South, since they are more human and
+enlightened than the ignorant strata of poor whites, are less hostile to
+the Negroes".
 
-The fears of the N.Y. Tribune give us a hint of what would happen when the well-off classes of North and South had buried their differences and, in another famous compromise, had let the blacks go off and find out for themselves what to do with their freedom.
+The fears of the N.Y. Tribune give us a hint of what would happen when
+the well-off classes of North and South had buried their differences
+and, in another famous compromise, had let the blacks go off and find
+out for themselves what to do with their freedom.
 
-It is therefore not surprising that the radicals were defeated. Or rather, they weren't defeated as such, but anything radical in their programme was defeated as soon as it came into conflict with the interests of the Northern proprietors. The radicals, against the wishes of the more moderate republicans, were unable to get confiscation of land inserted in the 1867 reconstruction laws. In the House of Representatives, Stevens' "40 acres" gained a mere 37 votes. The more influential classes in the North were not about to tolerate a direct attack on property, even on rebel property, not even in the name of capitalist democracy and economic development. The _Nation_ warned: "Dividing up land belonging to the rich amongst the landless would mean for our political and social system a trauma from which it would be unlikely to recover without loss of liberty". The failure of the agrarian reform was a decisive defeat that eliminated the most important part of the radical programme. Without the agrarian reform the rest of the programme added up to a collection of measures that were either palliative or irritating, according to one's point of view.
+It is therefore not surprising that the radicals were defeated. Or
+rather, they weren't defeated as such, but anything radical in their
+programme was defeated as soon as it came into conflict with the
+interests of the Northern proprietors. The radicals, against the wishes
+of the more moderate republicans, were unable to get confiscation of
+land inserted in the 1867 reconstruction laws. In the House of
+Representatives, Stevens' "40 acres" gained a mere 37 votes. The more
+influential classes in the North were not about to tolerate a direct
+attack on property, even on rebel property, not even in the name of
+capitalist democracy and economic development. The _Nation_ warned:
+"Dividing up land belonging to the rich amongst the landless would mean
+for our political and social system a trauma from which it would be
+unlikely to recover without loss of liberty". The failure of the
+agrarian reform was a decisive defeat that eliminated the most important
+part of the radical programme. Without the agrarian reform the rest of
+the programme added up to a collection of measures that were either
+palliative or irritating, according to one's point of view.
 
-This failure, which left the alliance between the white proprietors in the South and those in the rest of the country on its feet, is a reflection of the limited revolutionary impulse that existed in American society at that time.
+This failure, which left the alliance between the white proprietors in
+the South and those in the rest of the country on its feet, is a
+reflection of the limited revolutionary impulse that existed in American
+society at that time.
 
-Since the land wasn't confiscated and redistributed, the plantation system gained a second lease of life thanks to the replacing of slave labour with new forms of labour. To begin with, wage labour was tried, but as a system it failed, at least in part because the blacks had the tendency to sign up for work during slack periods and make themselves scarce when the cotton harvest came around. The plantation owners therefore resorted to the share-cropping system, which allowed them far more control over the labour force. In areas where a peasant class had never previously existed, the change was a significant one.
+Since the land wasn't confiscated and redistributed, the plantation
+system gained a second lease of life thanks to the replacing of slave
+labour with new forms of labour. To begin with, wage labour was tried,
+but as a system it failed, at least in part because the blacks had the
+tendency to sign up for work during slack periods and make themselves
+scarce when the cotton harvest came around. The plantation owners
+therefore resorted to the share-cropping system, which allowed them far
+more control over the labour force. In areas where a peasant class had
+never previously existed, the change was a significant one.
 
-An American characteristic of the situation derived from the figure of the country storekeeper, often a rich planter. By providing the tenant farmers and sharecroppers with various goods on credit, at vastly inflated prices, he was able to control their labour power. The tenant farmers and sharecroppers couldn't buy things anywhere else, since, being short of ready cash, they had to acquire goods on credit. The landed proprietor's share of the harvest was always so large that the sharecropper remained in perpetual debt, and the same went for the tenant farmers. In this way economic ties replaced for many blacks those of the slavery that had been suppressed. It is difficult to say to how much the situation of the blacks was improved by this change, even supposing it was an improvement. To compete the picture there were the firms that used convict labour; always blacks as chance would have it, and who had been incarcerated, mainly for insignificant transgressions, after a due process of law that was, of course, administered by whites.
+An American characteristic of the situation derived from the figure of
+the country storekeeper, often a rich planter. By providing the tenant
+farmers and sharecroppers with various goods on credit, at vastly
+inflated prices, he was able to control their labour power. The tenant
+farmers and sharecroppers couldn't buy things anywhere else, since,
+being short of ready cash, they had to acquire goods on credit. The
+landed proprietor's share of the harvest was always so large that the
+sharecropper remained in perpetual debt, and the same went for the
+tenant farmers. In this way economic ties replaced for many blacks those
+of the slavery that had been suppressed. It is difficult to say to how
+much the situation of the blacks was improved by this change, even
+supposing it was an improvement. To compete the picture there were the
+firms that used convict labour; always blacks as chance would have it,
+and who had been incarcerated, mainly for insignificant transgressions,
+after a due process of law that was, of course, administered by whites.
 
-Lenin defined the American south as "a closed, stagnant environment, without fresh air, a kind of prison for the 'liberated' Negroes". Even in 1915 he stated that "the economic survivals of the slave system differ not one wit from the economic survivals of feudalism, and in the ex-slave regions of the South these survivals _are still very evident even today_".
+Lenin defined the American south as "a closed, stagnant environment,
+without fresh air, a kind of prison for the 'liberated' Negroes". Even
+in 1915 he stated that "the economic survivals of the slave system
+differ not one wit from the economic survivals of feudalism, and in the
+ex-slave regions of the South these survivals _are still very evident
+even today_".
 
-The main effect of the change seems to have been turning the economy of the South, insofar as it wasn't already, into one based on a sole product, with the bankers putting pressure on the planters, and the planters on the sharecroppers, to cultivate products that could be rapidly converted into cash.
+The main effect of the change seems to have been turning the economy of
+the South, insofar as it wasn't already, into one based on a sole
+product, with the bankers putting pressure on the planters, and the
+planters on the sharecroppers, to cultivate products that could be
+rapidly converted into cash.
 
 ## "Redemption"
 
-Political revival went hand in hand with economic revival, the one reinforcing the other. We won't go into the contorted and contradictory political manoeuvrings which the successors of the groups that had held power in the South before the civil war resorted to in order to acquire political influence. Suffice it to mention that the _scallawags_, as southerners who switched over to serving the Union government after the war came to be known -- or white collaborationists as we would call them today -- included numerous planters, merchants and even captains of industry.
+Political revival went hand in hand with economic revival, the one
+reinforcing the other. We won't go into the contorted and contradictory
+political manoeuvrings which the successors of the groups that had held
+power in the South before the civil war resorted to in order to acquire
+political influence. Suffice it to mention that the _scallawags_, as
+southerners who switched over to serving the Union government after the
+war came to be known -- or white collaborationists as we would call them
+today -- included numerous planters, merchants and even captains of
+industry.
 
-A major dose of violence served to remind the blacks 'of their place' and to re-establish white supremacy ('home rule'). It is to this period that we can trace the birth of the Ku Klux Klan, which in fact was just one amongst a number of terrorist organisations to launch cowardly attacks on blacks, almost invariably unarmed and isolated, with the aim of steering them away from the ballot boxes. Even many of the carpetbaggers (officials who came from the North who were generally considered to be corrupt) were "persuaded" that going home was in their best interests.
+A major dose of violence served to remind the blacks 'of their place'
+and to re-establish white supremacy ('home rule'). It is to this period
+that we can trace the birth of the Ku Klux Klan, which in fact was just
+one amongst a number of terrorist organisations to launch cowardly
+attacks on blacks, almost invariably unarmed and isolated, with the aim
+of steering them away from the ballot boxes. Even many of the
+carpetbaggers (officials who came from the North who were generally
+considered to be corrupt) were "persuaded" that going home was in their
+best interests.
 
-In the meantime, railroad and industrial interests were acquiring growing influence in the South. In short, the moderates and the well-to-do would recover their power, their authority and their influence in the South, just like in the North. Even public opinion, certainly not determined by the blacks, was starting to tire of the constant climate of tension. The democrats in the South reconquered one state after another (in what, in debatable taste, they would call "Redemption"), until in 1876 only three, Louisiana, Florida and South Carolina, remained in the hands of the radicals. The terms of an alliance between these two groups in course of preparation; terms which would rise above the old line that had divided them during the war.
+In the meantime, railroad and industrial interests were acquiring
+growing influence in the South. In short, the moderates and the
+well-to-do would recover their power, their authority and their
+influence in the South, just like in the North. Even public opinion,
+certainly not determined by the blacks, was starting to tire of the
+constant climate of tension. The democrats in the South reconquered one
+state after another (in what, in debatable taste, they would call
+"Redemption"), until in 1876 only three, Louisiana, Florida and South
+Carolina, remained in the hands of the radicals. The terms of an
+alliance between these two groups in course of preparation; terms which
+would rise above the old line that had divided them during the war.
 
-The 1876 elections would be the most violent and bitterly fought in the whole of American history. The democratic candidate, Samuel J. Tilden of New York, clearly established himself with a broad popular vote (even if tainted by the violence against blacks in the southern states). The Republicans however questioned the results in four States, twenty electoral votes; if all these votes had gone to the republican candidate Rutherford B. Hayes, he would have been elected. Resistance came mainly from army veterans, who had no intention of accepting the latter result. It was even feared there might even be a new outbreak of war. Pessimists predicted it would be the last free election (and maybe they were right!). After a few months, a compromise was reached. The South would accept Hayes' victory, on condition that, once in power, he would withdraw all federal troops from the South, nominate a southerner to his cabinet and allocate substantial funds for a programme of domestic improvement in the South. Hayes took office and the troops were duly withdrawn. Reconstruction was over, and it would mark the end of any serious effort to protect the constitutional rights of blacks. It would next come up for discussion again in the 1960s.
+The 1876 elections would be the most violent and bitterly fought in the
+whole of American history. The democratic candidate, Samuel J. Tilden of
+New York, clearly established himself with a broad popular vote (even if
+tainted by the violence against blacks in the southern states). The
+Republicans however questioned the results in four States, twenty
+electoral votes; if all these votes had gone to the republican candidate
+Rutherford B. Hayes, he would have been elected. Resistance came mainly
+from army veterans, who had no intention of accepting the latter result.
+It was even feared there might even be a new outbreak of war. Pessimists
+predicted it would be the last free election (and maybe they were
+right!). After a few months, a compromise was reached. The South would
+accept Hayes' victory, on condition that, once in power, he would
+withdraw all federal troops from the South, nominate a southerner to his
+cabinet and allocate substantial funds for a programme of domestic
+improvement in the South. Hayes took office and the troops were duly
+withdrawn. Reconstruction was over, and it would mark the end of any
+serious effort to protect the constitutional rights of blacks. It would
+next come up for discussion again in the 1960s.
 
-Thus did the party of property, wealth and privilege in the North finally abandon any claim to be supporting the rights of the oppressed class of black proletarians. Once the ex slave-owning "junkers" in the South had discovered the urban bourgeois in themselves, and the northern industrialists had found themselves dealing with radical protest from their own proletariat, the classic conservative coalition would become possible, and Thermidor would arrive to liquidate the "Second American Revolution".
+Thus did the party of property, wealth and privilege in the North
+finally abandon any claim to be supporting the rights of the oppressed
+class of black proletarians. Once the ex slave-owning "junkers" in the
+South had discovered the urban bourgeois in themselves, and the northern
+industrialists had found themselves dealing with radical protest from
+their own proletariat, the classic conservative coalition would become
+possible, and Thermidor would arrive to liquidate the "Second American
+Revolution".
 
-The industrial and financial bourgeoisie in the North had no need of the blacks, and it was happy to leave them in the tender care of the ex-slaveowners. After its attempt to change society into one in which all would adhere to the pure liberal-democratic bourgeois model (even if it was never entirely united in pursuit of this goal), it had been content to achieve the principal aim of the civil war, that of maintaining the federation, and this was the essential condition for a number of important reasons. In the first place, the bourgeoisie was guaranteed a burgeoning domestic market of a very respectable size which would guarantee it an outlet for goods that, for now, weren't competitive on the world market; also, it could be assured of a pacified hinterland where it was possible to get rich speculating on the immense possibilities opened up by the conquest of the West, which was then still in progress; finally, it could turn its attention, confident that its country was economically developed and militarily in a favourable position, to whatever imperialist adventure presented itself. In fact in 1865, with war barely concluded, Grant, not yet in the running for the presidential job, was already champing at the bit to invade Mexico, to cross the Canadian frontier, and to occupy San Domingo; and it was he, in that same year, who ordered Sherman to conduct an out and out campaign of genocide against the native Americans.
+The industrial and financial bourgeoisie in the North had no need of the
+blacks, and it was happy to leave them in the tender care of the
+ex-slaveowners. After its attempt to change society into one in which
+all would adhere to the pure liberal-democratic bourgeois model (even if
+it was never entirely united in pursuit of this goal), it had been
+content to achieve the principal aim of the civil war, that of
+maintaining the federation, and this was the essential condition for a
+number of important reasons. In the first place, the bourgeoisie was
+guaranteed a burgeoning domestic market of a very respectable size which
+would guarantee it an outlet for goods that, for now, weren't
+competitive on the world market; also, it could be assured of a pacified
+hinterland where it was possible to get rich speculating on the immense
+possibilities opened up by the conquest of the West, which was then
+still in progress; finally, it could turn its attention, confident that
+its country was economically developed and militarily in a favourable
+position, to whatever imperialist adventure presented itself. In fact in
+1865, with war barely concluded, Grant, not yet in the running for the
+presidential job, was already champing at the bit to invade Mexico, to
+cross the Canadian frontier, and to occupy San Domingo; and it was he,
+in that same year, who ordered Sherman to conduct an out and out
+campaign of genocide against the native Americans.
 
 ## By way of Conclusion
 
-Only the proletarian revolution will be self-aware, and even then only as a collective awareness existing within the proletarian party for such consciousness certainly cannot be attributed to the thoughts and desires of the individual participants. Whether sudden or dispersed over a long period, all of the social upheavals, which we call revolutions, that have changed man's economic relations in an enduring way, have occurred by virtue of a series of actions, determinations and conditions that have propelled huge numbers of people to act in a certain way, towards a certain end, such as to determine the revolutionary outcome; and sometimes the original causes were situated so long ago, or so far away, that even the instigators of the revolutionary action themselves were unaware of the real reasons they had acted as they did, or of the revolution's real objectives. Often those who actually were aware of the real reasons didn't take part in the action, as in the case of the big bourgeoisie in their revolution; although the latter would be good at providing plenty of bogus reasons to those who were forced to take action and risk their own lives.
+Only the proletarian revolution will be self-aware, and even then only
+as a collective awareness existing within the proletarian party for such
+consciousness certainly cannot be attributed to the thoughts and desires
+of the individual participants. Whether sudden or dispersed over a long
+period, all of the social upheavals, which we call revolutions, that
+have changed man's economic relations in an enduring way, have occurred
+by virtue of a series of actions, determinations and conditions that
+have propelled huge numbers of people to act in a certain way, towards a
+certain end, such as to determine the revolutionary outcome; and
+sometimes the original causes were situated so long ago, or so far away,
+that even the instigators of the revolutionary action themselves were
+unaware of the real reasons they had acted as they did, or of the
+revolution's real objectives. Often those who actually were aware of the
+real reasons didn't take part in the action, as in the case of the big
+bourgeoisie in their revolution; although the latter would be good at
+providing plenty of bogus reasons to those who were forced to take
+action and risk their own lives.
 
-The American Civil War had need of ideals as well, on both sides. In the North they fought for the liberation of the black slaves, a noble cause if ever there was one; and certainly there were those who sincerely wanted to help the blacks. And yet the condition of the black Americans, barring a few exceptions, would end up even worse than it had been under slavery.
+The American Civil War had need of ideals as well, on both sides. In the
+North they fought for the liberation of the black slaves, a noble cause
+if ever there was one; and certainly there were those who sincerely
+wanted to help the blacks. And yet the condition of the black Americans,
+barring a few exceptions, would end up even worse than it had been under
+slavery.
 
-The abolition of servitude in all its forms and the total freeing up of the productive forces is one of the main aims of the bourgeois revolution. And yet the North American bourgeoisie stopped at a certain stage in the undertaking, in fact, as we have seen, it actually took a few steps backward. Why? It was because this wily, late arrival of a bourgeoisie had never deployed all-out revolution as ones of its weapons, having always preferred instead to content itself with a few basic achievements that were to its advantage, i.e., unity, greater centralisation of the state, a free hand in commercial and industrial policy and also in foreign policy. A choice which, by potentially creating a state of permanent conflict, might have been costly under any other circumstances, but in a country like the United States was, as is said today, 'a winning formula'. Yes, maybe they could have introduced an agrarian reform, but was that really advantageous? As part of the bourgeois revolution, the consequences of agrarian reform are a development of the productive forces, the creation of new social strata to counter-pose to the defeated classes who might attempt to regain power, the creation of a strong domestic market for industrial production, and an increase in the population to add to the future army of wage-earners (knowing that the land distributed would soon enough be lost, due to debt, etc). All of these advantages were however more or less guaranteed both through the development of the West, where a class of small and medium farmers was in rapid development over increasingly vast areas, and by the huge waves of emigration, which after the cessation of hostilities increased even further.
+The abolition of servitude in all its forms and the total freeing up of
+the productive forces is one of the main aims of the bourgeois
+revolution. And yet the North American bourgeoisie stopped at a certain
+stage in the undertaking, in fact, as we have seen, it actually took a
+few steps backward. Why? It was because this wily, late arrival of a
+bourgeoisie had never deployed all-out revolution as ones of its
+weapons, having always preferred instead to content itself with a few
+basic achievements that were to its advantage, i.e., unity, greater
+centralisation of the state, a free hand in commercial and industrial
+policy and also in foreign policy. A choice which, by potentially
+creating a state of permanent conflict, might have been costly under any
+other circumstances, but in a country like the United States was, as is
+said today, 'a winning formula'. Yes, maybe they could have introduced
+an agrarian reform, but was that really advantageous? As part of the
+bourgeois revolution, the consequences of agrarian reform are a
+development of the productive forces, the creation of new social strata
+to counter-pose to the defeated classes who might attempt to regain
+power, the creation of a strong domestic market for industrial
+production, and an increase in the population to add to the future army
+of wage-earners (knowing that the land distributed would soon enough be
+lost, due to debt, etc). All of these advantages were however more or
+less guaranteed both through the development of the West, where a class
+of small and medium farmers was in rapid development over increasingly
+vast areas, and by the huge waves of emigration, which after the
+cessation of hostilities increased even further.
 
-Even as far as the war was concerned the American bourgeoisie preferred to follow the bloodier path, leaving behind them 700,000 young men massacred, in the four years of war, and unprecedented destruction. Nothing was done to stir up the blacks in the South. In fact, if the blacks had been mobilised, secession would never have been proclaimed. It would have released 4 million desperate individuals whose revolt might have gone any number of ways. Certainly an anti-capitalist outcome would have been impossible, but the bourgeoisie is never keen on taking risks; it is always dominated by fear.
+Even as far as the war was concerned the American bourgeoisie preferred
+to follow the bloodier path, leaving behind them 700,000 young men
+massacred, in the four years of war, and unprecedented destruction.
+Nothing was done to stir up the blacks in the South. In fact, if the
+blacks had been mobilised, secession would never have been proclaimed.
+It would have released 4 million desperate individuals whose revolt
+might have gone any number of ways. Certainly an anti-capitalist outcome
+would have been impossible, but the bourgeoisie is never keen on taking
+risks; it is always dominated by fear.
 
-And it wasn't wrong. In July, only a few weeks after Hayes' inauguration had marked the end of Reconstruction, the country was confronted with what would become known as 'The Great Strike of 1887'. With the problem of the blacks effectively suppressed for the next 80 years, the social question, the wage labour question, now appeared on the scene as a consequence of the great economic crisis, which had began in 1873 and whose consequences would be felt for the rest of the decade. This event, which could equally be called, 'The Great Scare of 1877', was managed with the ample use of the army and militia, which didn't hesitate to massacre the strikers, take the place of workers on the railways, protect blacklegs, and prevent meetings and rallies by force. This struggle, which in certain cases assumed insurrectional proportions, may be considered as the beginning of the modern history of the workers' movement in the United States.
+And it wasn't wrong. In July, only a few weeks after Hayes' inauguration
+had marked the end of Reconstruction, the country was confronted with
+what would become known as 'The Great Strike of 1887'. With the problem
+of the blacks effectively suppressed for the next 80 years, the social
+question, the wage labour question, now appeared on the scene as a
+consequence of the great economic crisis, which had began in 1873 and
+whose consequences would be felt for the rest of the decade. This event,
+which could equally be called, 'The Great Scare of 1877', was managed
+with the ample use of the army and militia, which didn't hesitate to
+massacre the strikers, take the place of workers on the railways,
+protect blacklegs, and prevent meetings and rallies by force. This
+struggle, which in certain cases assumed insurrectional proportions, may
+be considered as the beginning of the modern history of the workers'
+movement in the United States.
 
-It was only after defeating the blacks, the weakest section of the American proletariat, that American capitalism would launch its all-out attack against the urban working class mainly concentrated in the East and Mid-West. For the bourgeoisie, this was a much more dangerous and seasoned adversary, even though it still lacked strong and effective organisations. The containment of the blacks in the South, at the mercy of their ex-owners, excluded them, for the most part, from the industrial working class; their place was taken by the hordes of emigrants, who were often illiterate peasants who spoke a babel of languages. The blacks remained trapped in the states where previously they had been slaves, and from whence it was extremely difficult to escape.
+It was only after defeating the blacks, the weakest section of the
+American proletariat, that American capitalism would launch its all-out
+attack against the urban working class mainly concentrated in the East
+and Mid-West. For the bourgeoisie, this was a much more dangerous and
+seasoned adversary, even though it still lacked strong and effective
+organisations. The containment of the blacks in the South, at the mercy
+of their ex-owners, excluded them, for the most part, from the
+industrial working class; their place was taken by the hordes of
+emigrants, who were often illiterate peasants who spoke a babel of
+languages. The blacks remained trapped in the states where previously
+they had been slaves, and from whence it was extremely difficult to
+escape.
 
-When all is said and done, this chapter in the history of the bourgeoisie, who are today masters of the world, adds up to little more than a miserable balance sheet of advantages and disadvantages, of political and economic debits and credits. The bourgeoisie that immolated itself on the battlefields behind Cromwell's banner, or as armed republicans in the French Revolution, no longer exists. The final outcome of the American Civil War shows us that throughout the world the petty mean-mindedness of the ruling class was irreversible even then; a ruling class that still contaminates human society today, distorting it in line with its own narrow interests.
+When all is said and done, this chapter in the history of the
+bourgeoisie, who are today masters of the world, adds up to little more
+than a miserable balance sheet of advantages and disadvantages, of
+political and economic debits and credits. The bourgeoisie that
+immolated itself on the battlefields behind Cromwell's banner, or as
+armed republicans in the French Revolution, no longer exists. The final
+outcome of the American Civil War shows us that throughout the world the
+petty mean-mindedness of the ruling class was irreversible even then; a
+ruling class that still contaminates human society today, distorting it
+in line with its own narrow interests.

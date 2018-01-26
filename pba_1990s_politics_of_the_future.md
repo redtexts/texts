@@ -7,62 +7,297 @@ description: Taken from <http://prole.info/texts/politicsofthefuture.html>, but 
 
 ## The World We Must Leave
 
-The Earth is being trashed by social relations based on money and market exchange. Every government, politician, army and police force defends this system. Politicians and political parties propose different management strategies for capital, but regardless of their differences, Alan Greenspan and Medea Benjamin, the Fox Network and Adbusters, Fidel Castro, the ecology lobby and the most bedraggled college campus socialist groups all agree -- a world based on wage-slavery is here to stay.
+The Earth is being trashed by social relations based on money and market
+exchange. Every government, politician, army and police force defends
+this system. Politicians and political parties propose different
+management strategies for capital, but regardless of their differences,
+Alan Greenspan and Medea Benjamin, the Fox Network and Adbusters, Fidel
+Castro, the ecology lobby and the most bedraggled college campus
+socialist groups all agree -- a world based on wage-slavery is here to
+stay.
 
-Most of us have nothing but our labor power, and we must sell it to an enterprise to be able to live. Everything has been turned into a commodity, and exists to be sold for a profit. Social life revolves around money. These facts have been made to appear natural and inevitable, but they are the result of a five hundred year long process of deceit, coercion and mass murder.
+Most of us have nothing but our labor power, and we must sell it to an
+enterprise to be able to live. Everything has been turned into a
+commodity, and exists to be sold for a profit. Social life revolves
+around money. These facts have been made to appear natural and
+inevitable, but they are the result of a five hundred year long process
+of deceit, coercion and mass murder.
 
-This system, capitalism, is a historically specific form of class society based on the exploitation of human labor power as a commodity. Modern capitalism is a totalitarian system; market relations invade all aspects of our lives and degrade the world's environment to an accelerating degree. But capitalism also gives rise to social forces that can bring about the revolutionary destruction of this system -- the mass collective actions of proletarians fighting against poverty and exploitation.
+This system, capitalism, is a historically specific form of class
+society based on the exploitation of human labor power as a commodity.
+Modern capitalism is a totalitarian system; market relations invade all
+aspects of our lives and degrade the world's environment to an
+accelerating degree. But capitalism also gives rise to social forces
+that can bring about the revolutionary destruction of this system -- the
+mass collective actions of proletarians fighting against poverty and
+exploitation.
 
 ## The Only War Worth Fighting
 
-The class struggle is the key liberatory force of our time. Class struggle isn't only our fight as wage-workers against our employers. The class war includes all the individual and collective struggles of exploited and propertyless people all over the world against all aspects of our exploitation and impoverishment. It encompasses our fights against racism, sexism and homophobia, but not as separate reformist issues. Class warfare involves fights for less work, for more pay, for less oppressive living and working conditions -- and the fight for our power outside of and against capitalist social relations.
+The class struggle is the key liberatory force of our time. Class
+struggle isn't only our fight as wage-workers against our employers. The
+class war includes all the individual and collective struggles of
+exploited and propertyless people all over the world against all aspects
+of our exploitation and impoverishment. It encompasses our fights
+against racism, sexism and homophobia, but not as separate reformist
+issues. Class warfare involves fights for less work, for more pay, for
+less oppressive living and working conditions -- and the fight for our
+power outside of and against capitalist social relations.
 
-Trade unions are capitalist labor brokerages. They exist to negotiate the sale of their members' labor power to employers, to keep working people in line, and limit the scale of our actions against employers. Unions divert the discontent of union members into harmless channels, transforming wage workers' struggles into a form of interest group activity. They help us to remain passive spectators in the events that most affect our lives.
+Trade unions are capitalist labor brokerages. They exist to negotiate
+the sale of their members' labor power to employers, to keep working
+people in line, and limit the scale of our actions against employers.
+Unions divert the discontent of union members into harmless channels,
+transforming wage workers' struggles into a form of interest group
+activity. They help us to remain passive spectators in the events that
+most affect our lives.
 
-At their best, unions were once defensive organizations, attempting to obtain the highest possible price for the labor power of union members. From the 1930's onward in the US, a vast array of labor legislation helped transform the unions into mechanisms of social control. Unions have ideologically and politically integrated unionized workers into the capitalist system, selling them the bosses' agenda during times of peace and war. And in more recent years, as their strength and membership numbers have declined, unions in the US have openly advertised themselves as partners of management, protecting the profit requirements of capitalists against the needs of wage earners.
+At their best, unions were once defensive organizations, attempting to
+obtain the highest possible price for the labor power of union members.
+From the 1930's onward in the US, a vast array of labor legislation
+helped transform the unions into mechanisms of social control. Unions
+have ideologically and politically integrated unionized workers into the
+capitalist system, selling them the bosses' agenda during times of peace
+and war. And in more recent years, as their strength and membership
+numbers have declined, unions in the US have openly advertised
+themselves as partners of management, protecting the profit requirements
+of capitalists against the needs of wage earners.
 
-Unions often help employers reduce working people's living standards through give-back contracts. Unions undercut wage earners' power in labor disputes. Unions prevent strikes from happening, they prevent strikes from spreading, and prevent strikers from using the hardball tactics that are necessary to make employers cave in to our demands. Unions often use goon squads to keep strikers in line and halt actions that can break the back of a struck company. And when strikers who have been defeated by union maneuvers return to work under worse conditions than they endured before the strike, unions and their leftist camp followers frequently describe their defeat as a "victory." From the worthless perspective of unions and leftists anything short of everybody being fired and jailed is a victory, as long as the union apparatus remains in business. Economists, politicians, union officials and most intelligent business leaders all recognize the inherently conservative and capitalistic function of unions. Union bureaucrats occasionally use combative jargon, but this has no bearing on the unions' real function as labor brokerages for capital. Democratic societies create a marvelous variety of false oppositions to help maintain the status quo, and unions have played their role well in these terms.
+Unions often help employers reduce working people's living standards
+through give-back contracts. Unions undercut wage earners' power in
+labor disputes. Unions prevent strikes from happening, they prevent
+strikes from spreading, and prevent strikers from using the hardball
+tactics that are necessary to make employers cave in to our demands.
+Unions often use goon squads to keep strikers in line and halt actions
+that can break the back of a struck company. And when strikers who have
+been defeated by union maneuvers return to work under worse conditions
+than they endured before the strike, unions and their leftist camp
+followers frequently describe their defeat as a "victory." From the
+worthless perspective of unions and leftists anything short of everybody
+being fired and jailed is a victory, as long as the union apparatus
+remains in business. Economists, politicians, union officials and most
+intelligent business leaders all recognize the inherently conservative
+and capitalistic function of unions. Union bureaucrats occasionally use
+combative jargon, but this has no bearing on the unions' real function
+as labor brokerages for capital. Democratic societies create a marvelous
+variety of false oppositions to help maintain the status quo, and unions
+have played their role well in these terms.
 
-Anarcho-syndicalism proved to be a dead-end in France in 1914, in the Mexican Revolution, in Italy in 1920, and, in history's greatest missed opportunity, at the beginning of the Spanish Civil War in 1936. Unions with an ostensibly revolutionary ideology and a heroic past, like the contemporary IWW, are the empty organizational shell of a long-gone social movement. Today they are impoverished versions of mainstream unions, and their militants often do grunt-work for the bigger labor brokerages. The content of supposedly revolutionary union activity is no more revolutionary than that of any other form of union activity. History proves that syndicalism cannot break with a world defined by wage labor. This has also been the case with new unions in places like Poland, the former USSR, Mexico and the Philippines.
+Anarcho-syndicalism proved to be a dead-end in France in 1914, in the
+Mexican Revolution, in Italy in 1920, and, in history's greatest missed
+opportunity, at the beginning of the Spanish Civil War in 1936. Unions
+with an ostensibly revolutionary ideology and a heroic past, like the
+contemporary IWW, are the empty organizational shell of a long-gone
+social movement. Today they are impoverished versions of mainstream
+unions, and their militants often do grunt-work for the bigger labor
+brokerages. The content of supposedly revolutionary union activity is no
+more revolutionary than that of any other form of union activity.
+History proves that syndicalism cannot break with a world defined by
+wage labor. This has also been the case with new unions in places like
+Poland, the former USSR, Mexico and the Philippines.
 
-Social struggles often give rise to anti-hierarchical, collective forms of action and organization, like strike committees outside of and against the control of the unions, or mass public assemblies: these can be forms of real working class power. But any permanent formal organization of the working class outside of a context of mass action will end up becoming part of the bosses' political apparatus, and get in the way of our fight for a better life.
+Social struggles often give rise to anti-hierarchical, collective forms
+of action and organization, like strike committees outside of and
+against the control of the unions, or mass public assemblies: these can
+be forms of real working class power. But any permanent formal
+organization of the working class outside of a context of mass action
+will end up becoming part of the bosses' political apparatus, and get in
+the way of our fight for a better life.
 
-In taking action in the workplace, and in extending actions beyond the workplace, wage workers have to fight outside of and against all unions and unionist ideologies. Our only way forward will be to create new forms of wildcat action and self-organization that won't be limited to a single job category or industry, or limited to the workplace itself. We will have to do an end-run around the unions and the anti-working class labor laws they serve. This perspective has to become present in even the most limited and immediate struggles. It has to include strategies for large-scale action against employers and governments across regional and national boundaries.
+In taking action in the workplace, and in extending actions beyond the
+workplace, wage workers have to fight outside of and against all unions
+and unionist ideologies. Our only way forward will be to create new
+forms of wildcat action and self-organization that won't be limited to a
+single job category or industry, or limited to the workplace itself. We
+will have to do an end-run around the unions and the anti-working class
+labor laws they serve. This perspective has to become present in even
+the most limited and immediate struggles. It has to include strategies
+for large-scale action against employers and governments across regional
+and national boundaries.
 
 ## The ladies and gentlemen of the left
 
-In 1973, in _Eclipse and Re-emergence of the Communist Movement_, Jean Barrot noted, "The first condition for a minimum revolutionary action is to break decisively with all forms of Official Marxism...Official Marxism is part of capitalist society in its theory as well as its practice. Compromising in this field means remaining on the side of capital."
+In 1973, in _Eclipse and Re-emergence of the Communist Movement_, Jean
+Barrot noted, "The first condition for a minimum revolutionary action is
+to break decisively with all forms of Official Marxism...Official
+Marxism is part of capitalist society in its theory as well as its
+practice. Compromising in this field means remaining on the side of
+capital."
 
-From Kronstadt in March 1921 to the Guatemalan highlands in the 1980's, the Soviet Union and its satellite parties played a direct role in the defeat of every significant revolutionary movement of the 20th century. The former Soviet Union, Mao's China, Cuba, etc. were not socialist societies, but state capitalist systems, moments in the unfolding of capitalist domination over the earth. Under state capitalism, the ruling party imposed industrial wage labor on formerly agrarian laboring classes, exploited the working populace and kept them politically powerless. This development of the means of production was a wholly capitalist modernization process, with the party-state developing the means of production on the backs of the laboring classes in ways that more backward elites or colonial rulers were unwilling to or incapable of doing. "Socialist" regimes had nothing in common with socialism, or with the best elements of the classical workers' movement, or with the fight for a classless society.
+From Kronstadt in March 1921 to the Guatemalan highlands in the 1980's,
+the Soviet Union and its satellite parties played a direct role in the
+defeat of every significant revolutionary movement of the 20th century.
+The former Soviet Union, Mao's China, Cuba, etc. were not socialist
+societies, but state capitalist systems, moments in the unfolding of
+capitalist domination over the earth. Under state capitalism, the ruling
+party imposed industrial wage labor on formerly agrarian laboring
+classes, exploited the working populace and kept them politically
+powerless. This development of the means of production was a wholly
+capitalist modernization process, with the party-state developing the
+means of production on the backs of the laboring classes in ways that
+more backward elites or colonial rulers were unwilling to or incapable
+of doing. "Socialist" regimes had nothing in common with socialism, or
+with the best elements of the classical workers' movement, or with the
+fight for a classless society.
 
-Democracy, fascism and Stalinism were not qualitatively different forms of civilization in conflict with one another. They were different management strategies for industrial capitalist class societies that were at different phases of historical development. All forms of capitalism and the state are equally murderous and anti-revolutionary.
+Democracy, fascism and Stalinism were not qualitatively different forms
+of civilization in conflict with one another. They were different
+management strategies for industrial capitalist class societies that
+were at different phases of historical development. All forms of
+capitalism and the state are equally murderous and anti-revolutionary.
 
-Social democracy and Leninism were part of the left wing of capital; they offered populist and statist management strategies for integrating the working class into capitalist society. "Personal politics," individualist anarchism and lifestyle anarchism are also forms of fake radicalism, although they are by virtue of their self-marginalizing and largely laughable character less of a threat to a future mass revolutionary movement than social democracy and Leninism have been. An awareness of history is everything. In both small and large-scale social struggles we must understand the past and make a complete break with failed strategies and obsolete politics.
+Social democracy and Leninism were part of the left wing of capital;
+they offered populist and statist management strategies for integrating
+the working class into capitalist society. "Personal politics,"
+individualist anarchism and lifestyle anarchism are also forms of fake
+radicalism, although they are by virtue of their self-marginalizing and
+largely laughable character less of a threat to a future mass
+revolutionary movement than social democracy and Leninism have been. An
+awareness of history is everything. In both small and large-scale social
+struggles we must understand the past and make a complete break with
+failed strategies and obsolete politics.
 
-In national liberation movements, people of non-exploiting social classes pin their hopes for a better life behind the political ambitions of the local bourgeoisie, or a substitute bourgeoisie of guerrilla bosses and professional intellectuals. These hopes have proven to be futile. No nationalist struggle has given rise to a society ruled by working people. Nationalism isolates working people from one another. Regardless of the egalitarian language that nationalists sometimes use to mobilize the masses, all successful nationalist struggles have produced regimes that are cops for the world market and local elites against wage workers, impoverished peasants and indigenous people. A Turkish proverb says it well: "When the ax came into the forest, the trees said: the handle is one of us."
+In national liberation movements, people of non-exploiting social
+classes pin their hopes for a better life behind the political ambitions
+of the local bourgeoisie, or a substitute bourgeoisie of guerrilla
+bosses and professional intellectuals. These hopes have proven to be
+futile. No nationalist struggle has given rise to a society ruled by
+working people. Nationalism isolates working people from one another.
+Regardless of the egalitarian language that nationalists sometimes use
+to mobilize the masses, all successful nationalist struggles have
+produced regimes that are cops for the world market and local elites
+against wage workers, impoverished peasants and indigenous people. A
+Turkish proverb says it well: "When the ax came into the forest, the
+trees said: the handle is one of us."
 
-The FMLN, FARC, IRA, PLO, ANC, ETA, etc. are pro-capitalist organizations and enemies of the working class. They have more in common with existing nation states and multinational corporations than with what Friedrich Engels called "the real movement that abolishes existing conditions." Capitalism is a global system and our fight is international; all forms of tribalism, patriotism or nationalism are anti-human and counter-revolutionary, a psychological disease of class society closely akin to racism. Anyone, including self-proclaimed Marxists and anarchists, who supports any form of nationalism or the state in time of peace or war is on the side of capital against the interests of the vast majority of humanity. This includes Subcommandante Marcos!
+The FMLN, FARC, IRA, PLO, ANC, ETA, etc. are pro-capitalist
+organizations and enemies of the working class. They have more in common
+with existing nation states and multinational corporations than with
+what Friedrich Engels called "the real movement that abolishes existing
+conditions." Capitalism is a global system and our fight is
+international; all forms of tribalism, patriotism or nationalism are
+anti-human and counter-revolutionary, a psychological disease of class
+society closely akin to racism. Anyone, including self-proclaimed
+Marxists and anarchists, who supports any form of nationalism or the
+state in time of peace or war is on the side of capital against the
+interests of the vast majority of humanity. This includes Subcommandante
+Marcos!
 
-Our class has to fight alone for what we need against the property-owning classes. All "popular fronts," or alliances between the exploited and other social classes, or "united fronts" between rebellious working people and pro-capitalist workers' organizations (unions and parties of the left) have lead to the defeat and often the massacre of working people, like in Spain in the 1930's and in Chile in the early 1970's.
+Our class has to fight alone for what we need against the
+property-owning classes. All "popular fronts," or alliances between the
+exploited and other social classes, or "united fronts" between
+rebellious working people and pro-capitalist workers' organizations
+(unions and parties of the left) have lead to the defeat and often the
+massacre of working people, like in Spain in the 1930's and in Chile in
+the early 1970's.
 
 ## Force, violence and dictatorship in the class struggle
 
-The state is the mechanism the ruling class uses to maintain its monopoly of violence over other social classes. Every government in the world is a repressive apparatus defending capitalist property relations. The state is not a socially neutral institution, or a tool that can be used by working class and poor people. Authentic opposition to capitalism begins with unconditional hostility to all forms of the state, and to bourgeois elections and legality.
+The state is the mechanism the ruling class uses to maintain its
+monopoly of violence over other social classes. Every government in the
+world is a repressive apparatus defending capitalist property relations.
+The state is not a socially neutral institution, or a tool that can be
+used by working class and poor people. Authentic opposition to
+capitalism begins with unconditional hostility to all forms of the
+state, and to bourgeois elections and legality.
 
-Electoral politics is a psychologically sophisticated scam hustling voters into thinking they have a real say in how they are governed. The right to vote is intended to keep us mystified, atomized and passive, and is amazingly effective in keeping us from taking effective action against the private sector elite. Nothing fundamental can be changed by atomized individuals, and supposed small gains won by working and poor people in elections are inevitably eroded away to nothing by those who really hold power. The only source of positive social change has always been direct action: working class people acting together on the terrain of daily life, where we work and where we live, and fighting for what we need against bosses, corporations and the rich -- outside of and completely against the conventional decision-making institutions of this society.
+Electoral politics is a psychologically sophisticated scam hustling
+voters into thinking they have a real say in how they are governed. The
+right to vote is intended to keep us mystified, atomized and passive,
+and is amazingly effective in keeping us from taking effective action
+against the private sector elite. Nothing fundamental can be changed by
+atomized individuals, and supposed small gains won by working and poor
+people in elections are inevitably eroded away to nothing by those who
+really hold power. The only source of positive social change has always
+been direct action: working class people acting together on the terrain
+of daily life, where we work and where we live, and fighting for what we
+need against bosses, corporations and the rich -- outside of and
+completely against the conventional decision-making institutions of this
+society.
 
-Democratic ideology is the central element in a bodyguard of lies maintaining the power of the capitalist class. The market economy rules as an absolute dictatorship over life on earth today. You cannot vote your way around that fact. Market forces cannot be resisted by voting. Regardless of what they say, anyone who runs for office or attempts to hustle working people into voting is trying to fool us into thinking that we have a stake in the existing state of things. Any form of participation in electoral politics by working people short-circuits the emergence of what we really need; a mass political culture that will be independent of and irreconcilably antagonistic to the market and the state.
+Democratic ideology is the central element in a bodyguard of lies
+maintaining the power of the capitalist class. The market economy rules
+as an absolute dictatorship over life on earth today. You cannot vote
+your way around that fact. Market forces cannot be resisted by voting.
+Regardless of what they say, anyone who runs for office or attempts to
+hustle working people into voting is trying to fool us into thinking
+that we have a stake in the existing state of things. Any form of
+participation in electoral politics by working people short-circuits the
+emergence of what we really need; a mass political culture that will be
+independent of and irreconcilably antagonistic to the market and the
+state.
 
-In strikes, riots and a thousand other forms of action the working class must use violence against the dictatorship of the market. The class struggle isn't a peaceful process -- might makes right. Only large-scale, conscious, organized action can bring working and poor people victory in the class war.
+In strikes, riots and a thousand other forms of action the working class
+must use violence against the dictatorship of the market. The class
+struggle isn't a peaceful process -- might makes right. Only
+large-scale, conscious, organized action can bring working and poor
+people victory in the class war.
 
 ## The anti-state communist program
 
-The forces in global capitalist society that make a revolutionary movement possible in one area or region will simultaneously give rise to revolutionary possibilities in many other parts of the world. An international revolt against capitalism broke out after World War One, from Russia in 1917 to Spain in 1937, and a similar upheaval took place all over the globe during the late 1960's. As capitalism becomes a more globally unified system a working class response to capital can become more globally united as well. Unfortunately war is often the best midwife of a major revolutionary crisis, and this is by far the most likely source of such an event for the United States.
+The forces in global capitalist society that make a revolutionary
+movement possible in one area or region will simultaneously give rise to
+revolutionary possibilities in many other parts of the world. An
+international revolt against capitalism broke out after World War One,
+from Russia in 1917 to Spain in 1937, and a similar upheaval took place
+all over the globe during the late 1960's. As capitalism becomes a more
+globally unified system a working class response to capital can become
+more globally united as well. Unfortunately war is often the best
+midwife of a major revolutionary crisis, and this is by far the most
+likely source of such an event for the United States.
 
-Social revolution will be an international phenomenon. It will require the violent destruction of the state in an armed insurrection or mass uprising, simultaneous with the seizure of the means of production and distribution by the wage slave class. A central aspect of this will be to disperse the police and bring about the collapse of the state's armed forces through desertions, sabotage, fraternization and mutiny. At its high point, a mass revolutionary movement may acquire an irresistible quality that will sweep aside obstacles with a surprising and improbable speed.
+Social revolution will be an international phenomenon. It will require
+the violent destruction of the state in an armed insurrection or mass
+uprising, simultaneous with the seizure of the means of production and
+distribution by the wage slave class. A central aspect of this will be
+to disperse the police and bring about the collapse of the state's armed
+forces through desertions, sabotage, fraternization and mutiny. At its
+high point, a mass revolutionary movement may acquire an irresistible
+quality that will sweep aside obstacles with a surprising and improbable
+speed.
 
-During this period of rapid transition from capitalism to stateless communism, the mass revolutionary movement will have to maintain an absolute monopoly of power over and against the defeated capitalist class. We will abolish all forms of unnecessary toil. There will be no more office work; we will immediately abolish all banks, insurance companies, stock markets and brokerage houses, law firms, advertising, the corporate media apparatus and government bureaucracies; we will gradually dismantle all the ecologically harmful industries and technologies that capital has throttled the earth with, chief among them extractive industries and the private automobile. Most computer systems will be trashed. Social life will move at a much slower rhythm. The most important point of all is that all forms of market relations -- working for wages, trade, exchange, the use of money -- must be quickly, completely and permanently done away with.
+During this period of rapid transition from capitalism to stateless
+communism, the mass revolutionary movement will have to maintain an
+absolute monopoly of power over and against the defeated capitalist
+class. We will abolish all forms of unnecessary toil. There will be no
+more office work; we will immediately abolish all banks, insurance
+companies, stock markets and brokerage houses, law firms, advertising,
+the corporate media apparatus and government bureaucracies; we will
+gradually dismantle all the ecologically harmful industries and
+technologies that capital has throttled the earth with, chief among them
+extractive industries and the private automobile. Most computer systems
+will be trashed. Social life will move at a much slower rhythm. The most
+important point of all is that all forms of market relations -- working
+for wages, trade, exchange, the use of money -- must be quickly,
+completely and permanently done away with.
 
-The abolition of capitalism doesn't mean democracy, nationalization of major industries, power in the hands of leftists or workers' self-management of the economy. The goal of an authentic revolutionary movement is the abolition of wage labor, the abolition of the market economy, the destruction of all states, standing armies and national borders; the emergence of new social relations where poverty is abolished and labor no longer rules social life: a classless, stateless, moneyless, global human community. In a post-capitalist world, productive activity will be performed for the free and direct satisfaction of human needs while respecting the integrity of the Earth's environment. Everyone will have equal power and can contribute to the best of their ability; we will all have an equal voice in how society is run and equal access to the wealth we create.
+The abolition of capitalism doesn't mean democracy, nationalization of
+major industries, power in the hands of leftists or workers'
+self-management of the economy. The goal of an authentic revolutionary
+movement is the abolition of wage labor, the abolition of the market
+economy, the destruction of all states, standing armies and national
+borders; the emergence of new social relations where poverty is
+abolished and labor no longer rules social life: a classless, stateless,
+moneyless, global human community. In a post-capitalist world,
+productive activity will be performed for the free and direct
+satisfaction of human needs while respecting the integrity of the
+Earth's environment. Everyone will have equal power and can contribute
+to the best of their ability; we will all have an equal voice in how
+society is run and equal access to the wealth we create.
 
-In spite of their flaws and limits, the defeated social revolutions of the 20th century, and the mass collective violence of the poor in revolt from Los Angeles to Iraqi Kurdistan, are embryonic expressions of the future anti-statist class dictatorship of the poor against capital worldwide, what must become a consciously communist movement without borders or compromises, a new world trying to come alive. Social revolution, and class struggles that tend towards communism, require despotic action by the dispossessed against the system that dispossesses us -- a dictatorship of our needs against the dictatorship of exchange value. The destruction of commodity relations and the emergence of authentic human community aren't just measures that will be enacted "The Day After The Revolution". These communist urges live today as an impulse in collective struggles, and in many small gestures and attitudes. Anti-capitalist revolutionaries fight to spread and develop these perspectives with an organized, aggressive, long-term involvement in contemporary social struggles.
+In spite of their flaws and limits, the defeated social revolutions of
+the 20th century, and the mass collective violence of the poor in revolt
+from Los Angeles to Iraqi Kurdistan, are embryonic expressions of the
+future anti-statist class dictatorship of the poor against capital
+worldwide, what must become a consciously communist movement without
+borders or compromises, a new world trying to come alive. Social
+revolution, and class struggles that tend towards communism, require
+despotic action by the dispossessed against the system that dispossesses
+us -- a dictatorship of our needs against the dictatorship of exchange
+value. The destruction of commodity relations and the emergence of
+authentic human community aren't just measures that will be enacted "The
+Day After The Revolution". These communist urges live today as an
+impulse in collective struggles, and in many small gestures and
+attitudes. Anti-capitalist revolutionaries fight to spread and develop
+these perspectives with an organized, aggressive, long-term involvement
+in contemporary social struggles.
