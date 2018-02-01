@@ -2,7 +2,7 @@
 title: Doctrine of the Body Possessed by the Devil
 author: Bordiga, Amadeo
 date: 1951
-description: This was published in _Battaglia Comunista_ no. 21. This version is based on the online copy found at https://www.marxists.org/archive/bordiga/works/1951/doctrine.htm, but changed some emphasis to be more in line with an italian version found at http://www.quinterna.org/archivio/filitempo/081_1951_diavolo.htm.
+description: This was published in _Battaglia Comunista_ no. 21. This version is based on the online copy found at <https://www.marxists.org/archive/bordiga/works/1951/doctrine.htm>, but changed some emphasis to be more in line with an italian version found at <http://www.quinterna.org/archivio/filitempo/081_1951_diavolo.htm>.
 ...
 
 It is vital to be quite clear about the question of state capitalism
