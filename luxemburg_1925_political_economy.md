@@ -6503,8 +6503,8 @@ when neither of these two options is feasible. For primitive peoples in
 colonized territories, therefore, the transition from primitive
 communist conditions to modern capitalist ones always does take place as
 a sudden catastrophe, an unforeseeable misfortune with the most
-frightful sufferings {as it is presently true of the Germans with
-Negroes of South West Africa}. With the peoples of Europe, on the other
+frightful sufferings (as it is presently true of the Germans with
+Negroes of South West Africa). With the peoples of Europe, on the other
 hand, it was not a catastrophe but rather a slow, gradual and
 unnoticeable process, lasting for several hundred years. The Greeks and
 Romans still appear in history with common property. The old Germans,
