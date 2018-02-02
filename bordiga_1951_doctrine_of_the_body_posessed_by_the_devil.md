@@ -266,7 +266,7 @@ yesterday's urchins and even the blacks of Central Africa who were
 used to going about naked.
 
 Fifth element, the workers at the looms. They do not have to bring an
-ounce of raw cotton or a single spare spool — that happened in the
+ounce of raw cotton or a single spare spool -- that happened in the
 semi-barbaric times of individual production. But at the same time
 there will be trouble if they remove a single thread of cotton to
 patch their trousers. They are rewarded with a just equivalent for
@@ -455,20 +455,20 @@ without him but with its same function multiplied 100 fold. The human
 subject has become useless. A class without members to compose it? The
 state not at the service of a social group, but an impalpable force,
 the work of the Holy Ghost or of the Devil? Here is Sir Charles's
-irony. We offer the promised quotation: “By turning his money
+irony. We offer the promised quotation: "By turning his money
 into commodities which serve as the building materials for a new
 product, and as factors in the labour process, by incorporating living
 labour into their lifeless objectivity, the capitalist simultaneously
 transforms _value_, i.e. _past_ labour in its objectified and lifeless
 form, into _capital_, _value which can perform its own valorisation
 process_, an animated monster which begins to 'work', 'as if possessed
-by the devil'.”[^fn-11]
+by the devil'."[^fn-11]
 
 Capital must be seized by the horns.
 
 [^fn-1]: Cf. _Bussole impazzite_ (compasses struck with madness).
 [^fn-2]: _Proprieta' e capitale_ (Iskra, Milan, 1980) p. 130 
-[^fn-3]: Henry Kaiser proposed “social” capitalism with workers sharing
+[^fn-3]: Henry Kaiser proposed "social" capitalism with workers sharing
 the profits.
 [^fn-4]: A bulletin issued in September 1951 by the group that later 
 became the French section of the International Communist Party. 
