@@ -769,7 +769,7 @@ leaders, like the gods believed in by all those who think that the Holy
 Spirit participates in papal conclaves. Even in an organization like the
 party where the broad composition is a result of selection through
 spontaneous voluntary membership and control of recruitment, the
-decision of the majority is not intrinsically the best. If k [it?]
+decision of the majority is not intrinsically the best. If it
 contributes to a better working of the party's executive bodies, this is
 only because of the coincidence of individual efforts in a unitary and
 well-oriented work. We will not propose at this time replacing this
