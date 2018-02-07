@@ -1295,8 +1295,7 @@ machines. It is also and no less true even for the Italian state:
 although defeated, derided, forced into vassalage, saleable and sold in
 all direction, it is nevertheless more armed with police and more
 reactionary now than under Giolitti and Mussolini, and it will be even
-more reactionary if it passes from the hands of De Gasperi^[The
-Christian-Democratic Prime Minister in 1947 -- Ed] to those of the left
+more reactionary if it passes from the hands of De Gasperi[^fn-1] to those of the left
 parties.
 
 Having summarised the first three parts, we must now deal with the
@@ -1312,11 +1311,7 @@ history of capitalism and of the antagonisms to which it gives rise.
 
 The polemic has been clarified in a classic way in the period between
 World War I and the Russian Revolution. Lenin, Trotsky, and the
-left-wing communist groups^[This expression refers to the left currents
-headed by Lenin and Rosa Luxemburg who struggled inside the Second
-International against revisionism and social-pacifism. During World War
-I and after the October revolution they were violently attacked by the
-social democrats and the centrists, notably Kautsky -- Ed.] who gathered
+left-wing communist groups[^fn-2] who gathered
 in Moscow's International settled the questions of force, violence, the
 conquest of power, the state, and the dictatorship in a way we must
 consider as definitive on the theoretical and programmatic level.
@@ -1333,14 +1328,7 @@ Revisionism pretended to show that the prediction of a revolutionary
 clash between the working class and the defensive network of bourgeois
 power was an obsolete part of the Marxist system. Falsifying and
 exploiting the Marxist texts (in this case a famous preface and letter
-of Engels)^[This refers to Engels' introduction to a reedition of Marx's
-"Class Struggles in France" in 1895. The leadership of the German Social
-Democratic Party censored Engels' introduction so that it appeared as an
-apology of legality at all costs and a demonstration that insurrection
-was impossible. In spite of the fact that Engels protested this in a
-letter to Kautsky, the latter did not publish the original introduction.
-Engels was to die some months later. The original text was discovered
-only in 1925 -- Ed.] it maintained that the progress of military
+of Engels)[^fn-3] it maintained that the progress of military
 technology precluded any perspective of a victorious armed insurrection.
 It claimed instead that the working class would achieve power very
 shortly through legal and peaceful means due to the development and
@@ -2492,3 +2480,18 @@ which can provide protection against the bureaucratic degeneration of
 the leading strata of the party and against the suffocation of the
 party's rank and file by the leadership, both of which lead to a
 situation where the enemy class gains a devastating influence.
+
+[^fn-1]: The Christian-Democratic Prime Minister in 1947 -- Ed
+[^fn-2]: This expression refers to the left currents headed by Lenin
+and Rosa Luxemburg who struggled inside the Second International
+against revisionism and social-pacifism. During World War I and after
+the October revolution they were violently attacked by the social
+democrats and the centrists, notably Kautsky -- Ed.
+[^fn-3]: This refers to Engels' introduction to a reedition of Marx's
+"Class Struggles in France" in 1895. The leadership of the German Social
+Democratic Party censored Engels' introduction so that it appeared as an
+apology of legality at all costs and a demonstration that insurrection
+was impossible. In spite of the fact that Engels protested this in a
+letter to Kautsky, the latter did not publish the original introduction.
+Engels was to die some months later. The original text was discovered
+only in 1925 -- Ed.
