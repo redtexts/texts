@@ -5,7 +5,7 @@ date: 1958
 description: Written by Bordiga as a member of the Partito Comunista Internazionale for publication in Il Programma Comunista no. 16, September 3-17, 1958. It was then translated into Spanish in 1981, and thence into English in 2013. Found in English at <https://libcom.org/library/revolutionary-program-communist-society-eliminates-all-forms-ownership-land-instruments-> - Spanish available at <http://sinistra.net/lib/upt/elproc/moqe/moqefkibus.html>.
 ...
 
-## Engels and the Agrarian Programs of the Socialist Parties^[Turin Meeting, June 1-2, 1958. In publishing these "corollaries" of the meeting of the party held on June 1 and 2, 1958 in Turin, which first appeared in issues numbers 16 and 17 of the same year in our bimonthly _Il Programma Comunista_, we must recall that the Turin Meeting was convened in response--during its second session--to the meeting of the most extreme representatives of post-Stalinist revisionism held in Ljubljana, and was at the same time a living vindication of the central role of the party in the revolution and in the state of the proletarian dictatorship, and the occasion for an ardent polemic against the distorters and "modernizers" of the Marxist revolutionary vision. As a result, the prefigurative outline that is elaborated in the text reproduced here of the fundamental features of communist society is not ... a blind leap forward by the intellect or by desire into the empty world of ideas: it is inseparable from the struggle to destroy the capitalist mode of production and thus from the reconstruction of the guiding-organ of this formidable battle, the class party. This is a text that was written for revolutionary militants, not for those who dream of a City of the Sun or for impotent philosophers who are waiting for the Word to be made Flesh.]
+## Engels and the Agrarian Programs of the Socialist Parties[^fn-1]
 
 In September 1894, at its Nantes Congress, the French Workers Party (the
 party of Guesde and Lafargue) adopted an agrarian action program. In
@@ -105,10 +105,7 @@ In all other countries, for Engels and for every Marxist, "the peasant
 is a very essential factor of the population, production and political
 power". Therefore no one can say that the peasants, as far as I am
 concerned, do not exist, as an excuse, or that the movements of the
-colonial peoples, as far as I am concerned, do not exist^[See the series
-of documents produced at General Meetings of the party on this question
-in "El marxismo y la cuestion nacional y colonial", _El Programa
-Comunista_, no. 36, October-December 1980.].
+colonial peoples, as far as I am concerned, do not exist.[^fn-2]
 
 That the theory of the function of these social classes, however, and
 the way the Marxist party should approach them, should be a copy of the
@@ -160,8 +157,7 @@ should we promise them? Now we are at the heart of the agrarian problem.
 But the goal of Engels is to discredit as anti-Marxist and
 counterrevolutionary any defense of the preservation of small-scale
 property. What would the venerable and great Frederick have said if
-someone had proposed, as they are doing today in Italy and France^[We
-may add, in 1980: "and in Spain and all of Latin America."], that the
+someone had proposed, as they are doing today in Italy and France[^fn-3], that the
 agrarian program must advocate the extension, over the entire rural
 population, of the ownership of all the land that is under cultivation?
 
@@ -935,12 +931,7 @@ interesting to see how he poses them exactly the same way Engels did in
 today usurp the name of Marxist who has come to maintain that, first the
 sharecropper, and then the tenant farmer and finally the day laborer of
 the countryside, must become landowners, as the present-day "communists"
-of Italy and Europe do^[See "Trayectoria y catástrofe de la forma
-capitalista en la clásica y monolítica construcción teorica del
-marxismo", which is the report of the General Meeting of the Party in
-Piombino (September 1957), in Amadeo Bordiga, _Economia marxista e
-economia controrivoluzionaria_, Ed. Iskra, Milan, 1976. See also Marx's
-"Wage Labour and Capital".]? For us, this essential part of Marxism,
+of Italy and Europe do?[^fn-4] For us, this essential part of Marxism,
 just as it was between 1868 (actually, even before that) and 1894,
 remains completely valid today.
 
@@ -1030,11 +1021,7 @@ only to the peasant class. The Russian municipality, as this theory
 views it, is understood to be the rural village whose entire population
 is composed of peasants and which has tenuous links to the communitarian
 tradition of the primitive _Mir_ (see our series on the economic
-structure of Russia)^[See "Russia e rivoluzione nella teoria marxista",
-_Il Programma Comunista_, nos. 21-24 (1954) and no. 1 (1955); and
-"Struttura economica e sociale della Russia d'oggi", first published in
-our Italian journal in 1955-1957 and republished by Edizione Il
-Programma Comunista, Milan, 1976.]. The system of Kolkhozes is neither
+structure of Russia).[^fn-5] The system of Kolkhozes is neither
 Marxist nor Leninist, and could very well be defined--especially in view
 of the "reforms" that are currently being implemented--as a
 provincialization of the land, over which the cities are increasingly
@@ -1459,12 +1446,7 @@ replace--at the expense of the proletariat--all the fixed capital. Why?
 Because it is the exclusive owner of the fixed capital, while over the
 circulating capital it only enjoys rights of usufruct. We refer the
 reader to the distinction between dead labor and living labor that is
-elaborated in the reports of Pentecostés and Piombino^[See "Trayectoria
-y catástrofe de la forma capitalista en la clásica y monolítica
-construcción teorica del marxismo", which is the report of the General
-Meeting of the Party in Piombino (September 1957), in Amadeo Bordiga,
-_Economia marxista e economia controrivoluzionaria_, Ed. Iskra,
-Milan, 1976. See also Marx's "Wage Labour and Capital".].
+elaborated in the reports of Pentecostés and Piombino.[^fn-6]
 
 Capitalism insists on the frenzied activation of the labor of the
 living, and makes the labor of the dead its inhuman property. In the
@@ -1562,7 +1544,7 @@ value."
 Taking pity on the mediocrity of Stalin and the Russians who persist in
 claiming that the law of value prevails in socialism (!), we were led to
 conclude: May the lightning of the Final Judgment fall upon your
-heads^[_Ibid_]!
+heads![^fn-7]
 
 The drunk who waves his bottle, saying, it's mine, I bought it with the
 money from my wages (paid by private or State institutions), while he is
@@ -1615,3 +1597,46 @@ to achieve an apparent advantage, is equivalent to the sacrifice of the
 future of the party to the success of one day, or one year; it is
 equivalent to unconditional surrender to the Monster of the
 counterrevolution.
+
+[^fn-1]: Turin Meeting, June 1-2, 1958. In publishing these 
+"corollaries" of the meeting of the party held on June 1 and 2, 1958 in
+Turin, which first appeared in issues numbers 16 and 17 of the same 
+year in our bimonthly _Il Programma Comunista_, we must recall that the
+Turin Meeting was convened in response--during its second session--to
+the meeting of the most extreme representatives of post-Stalinist
+revisionism held in Ljubljana, and was at the same time a living
+vindication of the central role of the party in the revolution and in
+the state of the proletarian dictatorship, and the occasion for an
+ardent polemic against the distorters and "modernizers" of the Marxist
+revolutionary vision. As a result, the prefigurative outline that is
+elaborated in the text reproduced here of the fundamental features of
+communist society is not ... a blind leap forward by the intellect or
+by desire into the empty world of ideas: it is inseparable from the
+struggle to destroy the capitalist mode of production and thus from the
+reconstruction of the guiding-organ of this formidable battle, the
+class party. This is a text that was written for revolutionary
+militants, not for those who dream of a City of the Sun or for impotent
+philosophers who are waiting for the Word to be made Flesh.
+[^fn-2]: See the series of documents produced at General Meetings of
+the party on this question in "El marxismo y la cuestion nacional y
+colonial", _El Programa Comunista_, no. 36, October-December 1980.
+[^fn-3]: We may add, in 1980: "and in Spain and all of Latin America."
+[^fn-4]: See "Trayectoria y catástrofe de la forma capitalista en la
+clásica y monolítica construcción teorica del marxismo", which is the
+report of the General Meeting of the Party in Piombino (September
+1957), in Amadeo Bordiga, _Economia marxista e economia
+controrivoluzionaria_, Ed. Iskra, Milan, 1976. See also Marx's "Wage
+Labour and Capital".
+[^fn-5]: See "Russia e rivoluzione nella teoria marxista", _Il
+Programma Comunista_, nos. 21-24 (1954) and no. 1 (1955); and
+"Struttura economica e sociale della Russia d'oggi", first published in
+our Italian journal in 1955-1957 and republished by Edizione Il
+Programma Comunista, Milan, 1976.
+[^fn-6]: See "Trayectoria y catástrofe de la forma capitalista en la
+clásica y monolítica construcción teorica del marxismo", which is the
+report of the General Meeting of the Party in Piombino (September
+1957), in Amadeo Bordiga, _Economia marxista e economia
+controrivoluzionaria_, Ed. Iskra, Milan, 1976. See also Marx's "Wage
+Labour and Capital".
+[^fn-7]: _Ibid_
+
