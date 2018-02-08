@@ -29,8 +29,7 @@ conditions. Hidden unemployment is rampant. The gap between rich and
 poor grows. Around the world, wars and poverty create an endless stream
 of refugees. Climate disasters become worse and more frequent. And it
 won't get better any time soon. According to a recent study, poverty and
-insecurity will increase sharply in the US in the coming years^[See:
-http://www.cbsnews.com/news/80-percent-of-us-adults-face-near-poverty-unemployment-survey-finds/2/].
+insecurity will increase sharply in the US in the coming years.[^fn-1]
 
 One would think that this would make fertile ground for the left. But it
 is the right that conquers the imagination of the masses. The right, in
@@ -94,10 +93,7 @@ later chose Trump. Sanders' message, just as much as Trump's, was
 "America First". Let's keep our factories to ourselves. Despite all
 their differences, Trump and Sanders share an essentially capitalist,
 nationalist vision, based on the conflict of interest between "our"
-capital and theirs^[Similarly, "Occupy Wall Street", that is the
-leftists who still use the name of the movement, even though it is a
-mantle on a corpse, devoted at least 95% of its mailings in the past
-years to opposition to the TPP free trade-agreement.].
+capital and theirs.[^fn-2]
 
 It may have been that Sanders would have won if he would have been
 Trump's opponent. His angry tone, his unpolished demeanor, his message
@@ -202,8 +198,7 @@ had become a slave-owning planter just like the wealthy elites who had
 bamboozled or bullied so many freeholders out of their small plots. He
 lacked "statesmanlike qualities" but the fact that "Jackson did not look
 or act like a conventional politician was a fundamental part of his
-appeal", the historian Nancy Isenberg writes^[Nancy Isenberg: _WHITE
-TRASH: The 400-Year Untold History of Class in America_, Viking 2016].
+appeal", the historian Nancy Isenberg writes.[^fn-3]
 "He was boastful and overbearing, not "a government minion or a pampered
 courtier," an outsider who promised to clean up Washington corruption by
 the bluntest methods available. As one of his enemies wrote, "boisterous
@@ -277,3 +272,12 @@ overcome the divisions created amongst us. It's not a certainty. But
 it's a possibility.
 
 INTERNATIONALIST PERSPECTIVE
+
+[^fn-1]: See:
+<http://www.cbsnews.com/news/80-percent-of-us-adults-face-near-poverty-unemployment-survey-finds/2/>
+[^fn-2]: Similarly, "Occupy Wall Street", that is the leftists who still
+use the name of the movement, even though it is a mantle on a corpse,
+devoted at least 95% of its mailings in the past years to opposition to
+the TPP free trade-agreement.
+[^fn-3]: Nancy Isenberg: _WHITE TRASH: The 400-Year Untold History of
+Class in America_, Viking 2016

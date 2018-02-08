@@ -150,12 +150,10 @@ bourgeois order was to the common interest of the entire bourgeoisie.
 On the other hand, the American bourgeoisie has never had to carry on
 great class struggles.
 
-Amerika, du hast es besser  
-Als unser Weltteil, der alte,  
-Hast keine verfallene Schlösser  
-Und keine Basalte^[America, it is better with thee than with our
-continent, the old, thou hast no ruined castles and no basaltic
-columns.].
+Amerika, du hast es besser
+Als unser Weltteil, der alte,
+Hast keine verfallene Schlösser
+Und keine Basalte.[^fn-1]
 
 In these lines of a German poet is expressed the reason why America is
 envied by the European bourgeoisie, which in agonizing struggles fought
@@ -292,3 +290,6 @@ party signifies the beginning of a consolidation of the bourgeoisie into
 a class party, the combination of all the forces of bourgeois society in
 the struggle against Socialism and the beginning of the final struggle
 of Socialism for a new social order.
+
+[^fn-1]: America, it is better with thee than with our continent, the
+old, thou hast no ruined castles and no basaltic columns.

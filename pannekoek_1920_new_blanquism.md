@@ -46,8 +46,8 @@ proletariat. On the other hand, a neo-Blanquist tendency is becoming
 evident in the conception that a revolutionary minority could conquer
 and hold political power, and that this would be the conquest of
 political power by the proletariat. This tendency is displayed in the
-writings of Struthahns^[A pseudonym employed by Karl Radek.] on the
-dictatorship of the working class and the Communist Party.
+writings of Struthahns[^fn-1] on the dictatorship of the working class
+and the Communist Party.
 
 Struthahns says, concerning the dictatorship of the working class: "What
 does this mean? That the interests of the working class come first and
@@ -188,3 +188,5 @@ insufficient forces of a revolutionary minority, it wants to do what
 only the class can do, in such a way that the consequence will be
 defeat, which will set back the cause of the World Revolution for a long
 time, at the cost of the most painful sacrifices.
+
+[^fn-1]: A pseudonym employed by Karl Radek.

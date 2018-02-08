@@ -7,12 +7,7 @@ keywords: History
 ...
 
 _Text presented to the comrades of the EKS (International Communist
-Left) in Turkey on March 5th, 2009^[The EKS invited the Bureau to Ankara
-at the end of last year but decided to join the ICC before we met them.
-They however re-iterated their invitation and so we accepted. This brief
-text was given to an internal meeting of the EKS and we also addressed a
-joint IBRP-ICC Public Meeting in Haceteppe University on the current
-crisis and the situation of the international working class.]._
+Left) in Turkey on March 5th, 2009._[^fn-1]
 
 >"We, the Internationalist Communist Party - Italian section of the
 >International Bureau for the Revolutionary Party - come directly from
@@ -21,13 +16,10 @@ crisis and the situation of the international working class.]._
 >imperialism (which, remember, is not a policy). For us, the others
 >coming from the tradition of the Italian Communist Left either
 >abandoned its methodological general ground (and this is the case of
->the ICC) or like the Bordigists^[Mauro Stefanini, refers here to the
->International Communist Current (ICC) and the different organisations
->that claim heritage to the Italian Left Communist leader Amadeo
->Bordiga.] remained static (invariant?) with the 1921-1922 positions,
->leaving themselves outside the development of revolutionary
->perspectives for capitalism today." - Mauro Stefanini in an e-mail to a
->contact.
+>the ICC) or like the Bordigists[^fn-2] remained static (invariant?)
+>with the 1921-1922 positions, leaving themselves outside the
+>development of revolutionary perspectives for capitalism today." -
+>Mauro Stefanini in an e-mail to a contact.
 
 The term "Communist Left" is a bit confusing today. The groups which
 adhere to the International Bureau for the Revolutionary Party (IBRP)
@@ -380,3 +372,13 @@ having a different project (it is already a centralised organisation
 with branches in many countries). We think this is premature and that
 the growth of real movements of the class will be necessary first before
 such centralisation is either necessary or desirable.
+
+[^fn-1]: The EKS invited the Bureau to Ankara at the end of last year
+but decided to join the ICC before we met them. They however re-iterated
+their invitation and so we accepted. This brief text was given to an
+internal meeting of the EKS and we also addressed a joint IBRP-ICC
+Public Meeting in Haceteppe University on the current crisis and the
+situation of the international working class.
+[^fn-2]: Mauro Stefanini, refers here to the International Communist
+Current (ICC) and the different organisations that claim heritage to
+the Italian Left Communist leader Amadeo Bordiga.
