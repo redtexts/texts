@@ -6,7 +6,7 @@ description: This was published in _Battaglia Comunista_ no. 21. This version is
 ...
 
 It is vital to be quite clear about the question of state capitalism
-in order to reset the compasses that have lost their bearings[^fn-1].
+in order to reset the compasses that have lost their bearings.[^fn-1]
 
 We have managed to gather many contributions to this question from
 the range of traditional concepts of the marxist school that show that
@@ -41,7 +41,7 @@ of economic "culture" if we fail to understand that where this thesis
 fails to fit in with history, it ceases to be marxist, and if we do
 not request the addition of the study of the _state economy_ to Marx's
 analysis, taking this from texts written by the _powerful personality_
-of the economist Kaiser[^fn-3]. A bad habit! A text which seeks to
+of the economist Kaiser.[^fn-3] A bad habit! A text which seeks to
 establish given relations between things and facts is checked against
 _things_ and _facts_ and not against the signature on the book, which
 is based on the more or less powerful or powerless _personality_
@@ -169,7 +169,7 @@ to their abuse of power, while the fault lies in not having taken up
 the forceps of the revolution to open up the belly of Europe-America,
 driven by flourishing capital accumulation, and having made a useless
 effort on an infertile womb. And perhaps only on an infertile womb,
-inverting the battle for grain with the battle for seed[^fn-6].
+inverting the battle for grain with the battle for seed.[^fn-6]
 
 Let us go on to the purely marxist-economic point after this
 brief clarification. The statement "capitalism heir to the liberal
@@ -270,7 +270,7 @@ ounce of raw cotton or a single spare spool -- that happened in the
 semi-barbaric times of individual production. But at the same time
 there will be trouble if they remove a single thread of cotton to
 patch their trousers. They are rewarded with a just equivalent for
-their labour time[^fn-7].
+their labour time.[^fn-7]
 
 Through the combination of these elements, one achieves the one that
 is the motive and the reason for the whole process: the mass of yarn
@@ -362,7 +362,7 @@ become concentrated in the hands of speculators and business banditry.
 We shall therefore fly from Marx to... Don Sturzo.
 
 This latter, with his habitual prudence, took in hand the INA
-scandal[^fn-8]. What he said is interesting: "I cannot say what
+scandal.[^fn-8] What he said is interesting: "I cannot say what
 happened during fascism because I was in America, but where these
 things are the order of the day, many others may come to light!" We
 can be sure of it. The capitalist parasitism of contemporary Italy
