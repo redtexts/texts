@@ -8320,7 +8320,7 @@ Brumaire of Louis Bonaparte_, referring to the Bonapartist _coup d'état_
 of December 2, 1850. But Weydemeyer was not able to proceed with his
 first number, and the most brilliant of Marx's shorter historical works,
 in which, as Engels said, he gives a magnificent example of how the
-materialist interpretation'of history can explain an event which remains
+materialist interpretation of history can explain an event which remains
 baffling from all other viewpoints, might have remained unpublished had
 a German worker not given Weydemeyer forty dollars, the whole of his
 savings, to enable him to print it. The _18th Brumaire_ appeared as the
