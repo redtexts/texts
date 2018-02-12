@@ -30,7 +30,7 @@ political economy is actually an omission of a field of knowledge. If
 economics answers different questions from those raised by political
 economy, and if the omitted questions refer to the form and the quality
 of human life within the dominant social-economic system, then this
-omission can be called a "great evasion".[^4]
+omission can be called a "great evasion"[^4].
 
 The Soviet economic theorist and historian I.I. Rubin suggested a
 definition of political economy which has nothing in common with the
@@ -38,7 +38,7 @@ definitions of economics quoted above. According to Rubin, "Political
 economy deals with human working activity, not from the standpoint of
 its technical methods and instruments of labor, but from the standpoint
 of its social form. It deals with production relations which are
-established among people in the process of production."[^5] In terms of
+established among people in the process of production."[^5]In terms of
 this definition, political economy is not the study of prices or of
 scarce resources; it is a study of social relations, a study of culture.
 Political economy asks why the productive forces of society develop
@@ -74,7 +74,7 @@ language of an American professor, Samuelson says: "A billion people,
 one-third of the world's population, blindly regard *Das Kapital* as
 economic gospel. And yet, without the disciplined study of economic
 science, how can anyone form a reasoned opinion about the merits or lack
-of merits in the classical, traditional economics?"[^6] If "a billion
+of merits in the classical, traditional economics?"[^6]If "a billion
 people" regard *Das Kapital* "as economic gospel" it is clearly relevant
 to ask why only a few million Americans regard Samuelson's *Economics*
 "as economic gospel". Perhaps a balanced objective answer might be that
@@ -189,7 +189,7 @@ larger than self-consciousness; it is man's creative activity, his
 labor, in all its aspects. Marx considers consciousness to be only one
 aspect of man's creative activity. Thus, while he concedes that Hegel
 "grasps labor as the essence of man," he points out that "The only labor
-which Hegel knows and recognizes is *abstractly mental* labor".[^10] But
+which Hegel knows and recognizes is *abstractly mental* labor"[^10]. But
 Hegel does not only define self-consciousness as man's essence; he then
 proceeds to accommodate himself to alienated, externalized modes of
 consciousness, namely to religion, philosophy and state power; Hegel
@@ -308,7 +308,7 @@ arrangements."[^19] On the basis of this reduction Blauner says that
 "Today, most social scientists would say that alienation is not a
 consequence of capitalism per se but of employment in the large-scale
 organizations and impersonal bureaucracies that pervade all industrial
-societies."[^20] In other words, Blauner defines alienation as a
+societies."[^20]In other words, Blauner defines alienation as a
 psychological, personal experience, as something which the worker feels,
 and which is consequently in the mind of the worker and is not a
 structural feature of capitalist society. For Blauner to say that
@@ -332,7 +332,7 @@ social needs are merely a source of providing the necessities of life
 for him, just as he is merely a slave for them; (4) the maintenance of
 his individual existence appears to the worker as the goal of his
 activity and his real action is only a means; he lives to acquire the
-means of living."[^21] In fact, Marx very explicitly located alienation
+means of living."[^21]In fact, Marx very explicitly located alienation
 at the very root of capitalist society: "To say that man alienates
 himself is the same as saying that the society of this alienated man is
 the caricature of his actual common life, of his true generic life. His
@@ -400,14 +400,14 @@ and Korac summarized this theory as follows: "Establishing through
 critical analysis man's alienation from man, from the product of his
 labor, even from his own human activity, Marx raised the question of
 abolishing all these forms of dehumanization, and the possibility of
-restoring human society."[^26] In 1844 Marx did indeed speak of
+restoring human society."[^26]In 1844 Marx did indeed speak of
 "rehabilitating" (if not exactly of "restoring") "human society":
 "Communism... is hence the actual phase necessary for the next stage
 of historical development in the process of human emancipation and
 rehabilitation. Communism is the necessary pattern and the dynamic
 principle of the immediate future, but communism as such is not the goal
 of human development -- which goal is the structure of human
-society."[^27] In some passages of the *Economic and Philosophic
+society."[^27]In some passages of the *Economic and Philosophic
 Manuscripts*, Marx even spoke of communism as a return of human nature:
 "Communism is the positive abolition of private property, of human
 self-alienation, and thus, the real appropriation of human nature,
@@ -418,7 +418,7 @@ complete naturalism is humanism, and as a complete humanism is
 naturalism... The positive abolition of private property, as the
 appropriation of human life, is thus the positive abolition of all
 alienation, and thus the return of man from religion, the family, the
-State, etc., to his human, i.e., social life."[^28] In 1844, Marx had
+State, etc., to his human, i.e., social life."[^28]In 1844, Marx had
 also defined the agent, the social class, which would carry through this
 reappropriation of man's creative power, this return of man's human
 essence; it would be "a class with radical chains, a class in civil
@@ -431,7 +431,7 @@ Marx even described some of the social relations of an unalienated,
 human society: "Assume man to be man and his relationship to the world
 to be a human one: then you can exchange love only for love, trust for
 trust, etc. If you want to enjoy art, you must be an artistically
-cultivated person...".[^30]
+cultivated person..."[^30].
 
 Thus there is no doubt that in 1844, Marx spoke of a human society and a
 human essence which could be rehabilitated, returned, or restored.
@@ -472,7 +472,7 @@ conclusion: "Once upon a time a valiant fellow had the idea that men
 were drowned in water only because they were possessed with the idea of
 gravity. If they were to knock this notion out of their heads, say by
 stating it to be a superstition, a religious concept, they would be
-sublimely proof against any danger from water."[^34] In a letter written
+sublimely proof against any danger from water."[^34]In a letter written
 at the end of 1846, Marx turned the same critique against P. J. Proudhon:
 "... in place of the practical and violent action of the masses...
 Monsieur Proudhon supplies the whimsical motion of his own head. So it
@@ -488,7 +488,7 @@ human essence or a human nature to which man can return: "As individuals
 express their life, so they are. What they are, therefore, coincides
 with their production, both with what they produce and with how they
 produce. The nature of individuals thus depends on the material
-conditions determining their production."[^36] In fact, Marx goes on to
+conditions determining their production."[^36]In fact, Marx goes on to
 say that man's ideas of his nature or his essence are themselves
 conditioned by the material conditions in which men find themselves, and
 therefore man's "essence" is not something to which he can return, or
@@ -503,7 +503,7 @@ conceive, nor from men as narrated, thought of, imagined, conceived, in
 order to arrive at men in the flesh. We set out from real, active men,
 and on the basis of their real life-process we demonstrate the
 development of the ideological reflexes and echoes of this
-life-process."[^37] Thus unlike the philosopher we quoted earlier, Marx
+life-process."[^37]Thus unlike the philosopher we quoted earlier, Marx
 no longer begins his analysis with "Marx's concept of Man"; he begins
 with man in a given cultural environment. Marx systematized the
 relationship between technology, social relations and ideas in *The
@@ -514,13 +514,13 @@ gives you society with the feudal lord; the steammill, society with the
 industrial capitalist. The same men who establish their social relations
 in conformity with their material productivity, produce also principles,
 ideas and categories, in conformity with their social
-relations."[^38] The next step is to pull man's "essence" into history,
+relations."[^38]The next step is to pull man's "essence" into history,
 namely to say that man has no essence apart from his historical
 existence, and this is precisely what Marx does when he says that the
 "sum of productive forces, capital funds and social forms of
 intercourse, which every individual and generation finds in existence as
 something given, is the real of what the philosophers have conceived as
-'substance' and 'essence of man'..."[^39]
+'substance' and 'essence of man'..." [^39]
 
 Here Marx's contrast between an ideal, unalienated society, and the real
 capitalist society, has come to an end. Man creates the material
@@ -575,7 +575,7 @@ Manuscripts of 1844*. Rubin shows that this further development of the
 concept of alienation takes place precisely in the theory of commodity
 fetishism and the theory of value, and so I will now turn to Rubin's
 exposition of these theories and will attempt to make explicit their
-connections with the concept of alienation.[^44]
+connections with the concept of alienation[^44].
 
 Rubin outlines Marx's transition from the concept of alienation to the
 theory of commodity fetishism in the following terms: "In order to
@@ -593,7 +593,7 @@ labor creates commodities, "the social relations of men appear in the
 reversed form -a social relation of things."[^45] In this work, social
 relations among people merely "appear" to take the form of things, they
 merely seem to be reified. Consequently, Marx calls this reification a
-"mystification", and he attributes to "the habit of everyday life".[^46]
+"mystification", and he attributes to "the habit of everyday life"[^46].
 
 However, in Volume I of Capital, this reification of social relations is
 no longer merely an appearance in the mind of the individual commodity
@@ -676,12 +676,11 @@ economy, the laborer himself is a "free, independent" commodity
 producer. The commodity he produces is his labor-power; he produces this
 commodity by eating, sleeping and procreating. In David Ricardo's
 language, the "natural price of labour" is that price which enables
-laborers "to subsist and perpetuate their race",[^48] namely to
-reproduce their labor-power. The worker sells his commodity on the
-labor market in the form of value, and in exchange for a given amount
-of his commodity, labor-power, he receives a given sum of value, namely
-money, which he in turn exchanges for another sum of value, namely
-consumer goods.
+laborers "to subsist and perpetuate their race",[^48]namely to reproduce
+their labor-power. The worker sells his commodity on the labor market in
+the form of value, and in exchange for a given amount of his commodity,
+labor-power, he receives a given sum of value, namely money, which he in
+turn exchanges for another sum of value, namely consumer goods.
 
 It is to be noted that the laborer does not exchange creative power for
 creative power. When the worker sells his labor-power as abstract labor
@@ -753,7 +752,7 @@ status in production is determined by his ownership of capital, of means
 of production, of things..."(Rubin, p. 19). Thus in Volume III of
 *Capital*, Marx says that "the capitalist is merely capital personified
 and functions in the process of production solely as the agent of
-capital"[^50] and thus Rubin speaks of the "personification of things"
+capital"[^50]and thus Rubin speaks of the "personification of things"
 (Rubin, Chapter 3). The capital gives the capitalist the power to buy
 equipment and raw materials, to buy labor-power, to engage the material
 and human agents in a productive activity which results in a given sum
@@ -761,7 +760,7 @@ of commodities. In this process, the capital "pumps a definite quantity
 of surplus-labour out of the direct producers, or labourers; capital
 obtains this surplus-labour without an equivalent, and in essence it
 always remains forced labour -- no matter how much it may seem to
-result from free contractual agreement."[^51] In capitalist society a man
+result from free contractual agreement."[^51]In capitalist society a man
 without capital does not have the power to establish these relations.
 Thus, superficially, it seems that capital, a thing, possesses the power
 to hire labor, to buy equipment, to combine the labor and the equipment
@@ -776,21 +775,21 @@ respectively as sources of interest (instead of profit), ground-rent and
 wages, as their products, or fruits, the former are the basis, the
 latter the consequence, the former are the cause, the latter the effect;
 and indeed, in such a manner that each individual source is related to
-its product as to that which is ejected and produced by it."[^53]
-Capital is a thing which has the power to yield interest, land is a
-thing which has the power to yield rent, labor is a thing which has the
-power to yield wages, and money "transforms fidelity into infidelity,
-love into hate, hate into love, virtue into vice, vice into virtue,
-servant into master, master into servant, idiocy into intelligence, and
-intelligence into idiocy ",[^54]or as American banks advertise, "money
-works for you." Rubin states that "vulgar economists... assign the
-power to increase the productivity of labor which is inherent in the
-means of production and represents their technical function, to capital,
-i.e., a specific social form of production (theory of productivity of
-capital)" (Rubin, p. 28), and the economist who represents the
-post-World War II consensus of the American economics profession writes
-in 1967 that "capital has a net productivity (or real interest yield)
-that can be expressed in the form of a percentage per annum..."[^55]
+its product as to that which is ejected and produced by it."[^53]Capital
+is a thing which has the power to yield interest, land is a thing which
+has the power to yield rent, labor is a thing which has the power to
+yield wages, and money "transforms fidelity into infidelity, love into
+hate, hate into love, virtue into vice, vice into virtue, servant into
+master, master into servant, idiocy into intelligence, and intelligence
+into idiocy ",[^54]or as American banks advertise, "money works for
+you." Rubin states that "vulgar economists... assign the power to
+increase the productivity of labor which is inherent in the means of
+production and represents their technical function, to capital, i.e., a
+specific social form of production (theory of productivity of capital)"
+(Rubin, p. 28), and the economist who represents the post-World War II
+consensus of the American economics profession writes in 1967 that
+"capital has a net productivity (or real interest yield) that can be
+expressed in the form of a percentage per annum..."[^55]
 
 A thing which possesses such powers is a fetish, and the fetish world
 "is an enchanted, perverted, topsy-turvy world, in which Mister Capital
@@ -824,7 +823,7 @@ social relation and then reappears to tease them again as a thing,
 before they have barely managed to define it as a social relation."[^59]
 
 The forces of production "alienated from labour and confronting it
-independently"[^60] in the form of capital, give the capitalist power
+independently"[^60]in the form of capital, give the capitalist power
 over the rest of society. "The capitalist glows with the reflected light
 of his capital" (Rubin, p. 25), and he is able to glow only because the
 productive power of the workers has been crystallized in productive
@@ -923,7 +922,7 @@ The shift of the question began already in the 1870's, before the
 publication of the second and third volumes of Marx's *Capital*. At that
 time capitalist economists revived the utility theory of value of Jean
 Baptiste Say and the supply-demand theory of price of Augustin
-Cournot,[^64] both of which were developed in the early 19^th^ century.
+Cournot,[^64]both of which were developed in the early 19^th^ century.
 The virtue of both approaches was that they told nothing about the
 regulation of human working activity in capitalist society, and this
 fact strongly recommended them to the professional economists of a
@@ -932,7 +931,7 @@ discovery, since the "new principle" drew a heavy curtain over the
 questions Marx had raised. "The new principle was a simple one: the
 value of a product or service is due not to the labor embodied in it but
 to the usefulness of the last unit purchased. That, in essence, was the
-principle of marginal utility", according to the historian Fusfeld.[^65]
+principle of marginal utility", according to the historian Fusfeld[^65].
 In the eyes of the American economist Robert Campbell, the reappearance
 of the utility theory brought order into chaos: "The reconciliation of
 all these conflicting partial explanations into a unified general theory
@@ -980,11 +979,11 @@ more accurate answers; they threw out the questions, and replaced them
 with questions about scarcity and market price; thus economists "shifted
 the whole focus of economics away from the great issue of social classes
 and their economic interests, which has been emphasized by Ricardo and
-Marx, and centered economic theory upon the individual."[^70] Fusfeld
+Marx, and centered economic theory upon the individual."[^70]Fusfeld
 also explains why the economists shifted the focus: "The economists and
 their highly abstract theories were part of the same social and
 intellectual development that brought forth the legal theories of
-Stephen Field and the folklore of the self-made man",[^71] i.e., the
+Stephen Field and the folklore of the self-made man",[^71]i.e., the
 economists are ideologically at one with the ruling class, the
 capitalists, or as Samuelson put it, "Profits and high factor returns
 are the bait, the carrots dangled before us enterprising donkeys."[^72]
@@ -1145,7 +1144,7 @@ _Q.E.D._"[^85]
 However, in Chapter 34 of the same textbook, the same Samuelson explains
 the "Law of Comparative Advantage" with the same method of abstraction
 which Marx had used, namely he employs the same labor theory of
-value[^86] in the same manner, and he refers to the same source, Ricardo.
+value[^86]in the same manner, and he refers to the same source, Ricardo.
 Samuelson even tells the reader that later on he "can give some of the
 needed qualifications when our simple assumptions are relaxed."[^87] In
 the introduction to his textbook, Samuelson even defends the method of
@@ -1230,7 +1229,7 @@ between the two processes (p. 237).
 In his analysis, Rubin assumes "the existence of competition among
 capitalists engaged in different branches of production" and also "the
 possibility for the transfer of capital from one branch to another" (p. 
-230).[^91] With these assumptions, "the rate of profit becomes the
+230)[^91]. With these assumptions, "the rate of profit becomes the
 regulator of the distribution of capital" (p. 229). Rubin defines profit
 as "the surplus of the selling price of the commodity over the costs of
 its production" (p. 230). And a change in the cost of production is "in
@@ -1269,7 +1268,7 @@ alien and hostile force."
 
 Fredy Perlman, Kalamazoo, 1968
 
-[^1]: Paut A. Samuelson, _Economics, An Introductory Analysis_, New
+[^1]: Paul A. Samuelson, _Economics, An Introductory Analysis_, New
 	York: McGraw Hill, 1967, Seventh Edition, p. 1 and p. 5 (Italics by
 	Samuelson). Samuelson's book is the prototype of the textbook
 	currently used in American universities to teach students the
@@ -1295,7 +1294,7 @@ Fredy Perlman, Kalamazoo, 1968
 	a handbook of hairsplitting, and a guidebook to changing the
 	subject." (p. 18).
 
-[^5]: I. I. Rubin, _Ocherki po teorii stoimosti Marksa_, Moakva:
+[^5]: I. I. Rubin, _Ocherki po teorii stoimosti Marksa_, Moskva:
 	Gosudarstvennoe Izdatel'stvo, 3^rd^ edition, 1928, p. 41; present
 	translation, p. 31. Rubin's book was not re-issued in the Soviet
 	Union after 1928, and it has never before been translated. Future
@@ -1381,7 +1380,7 @@ Fredy Perlman, Kalamazoo, 1968
 
 [^33]: _Ibid._, pp. 196--197.
 
-[^34]: Marx and Engels, _The German Ideology_. p. 23--24.
+[^34]: Marx and Engels, _The German Ideology_, p. 23--24.
 
 [^35]: Letter of Marx to P. V. Annenkov. December 28, 1846, in Karl
 	Marx, _The Poverty of Philosophy_, New York: International
@@ -1482,7 +1481,7 @@ Fredy Perlman, Kalamazoo, 1968
 	passage given above is quoted from Bottomore and Rubell, _op. cit._,
 	p. 170--171.
 
-[^63]: Daniet R. Fusfeld, _The Age of the Economist_, Glenview,
+[^63]: Daniel R. Fusfeld, _The Age of the Economist_, Glenview,
 	Illinois: Scott, Foresman & Co., 1966, p. 74.
 
 [^64]: Jean Baptiste Say, _Traité d'économie politique_, first published
@@ -1497,7 +1496,7 @@ Fredy Perlman, Kalamazoo, 1968
 [^66]: Robert Campbell, "Marxian Analysis, Mathematical Methods, and
 	Scientific Economic Planning", in Shaffer, _op. cit._, p. 352.
 
-[^67]: Fusfetd, op. cit., p. 74.
+[^67]: Fusfeld, op. cit., p. 74.
 
 [^68]: Campbell, _loc. cit_
 
