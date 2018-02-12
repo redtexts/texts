@@ -1269,7 +1269,7 @@ alien and hostile force."
 
 Fredy Perlman, Kalamazoo, 1968
 
-[^1]: Paut A. Samuelson, _Economics, An Introductory Analysis_, New
+[^1]: Paul A. Samuelson, _Economics, An Introductory Analysis_, New
 	York: McGraw Hill, 1967, Seventh Edition, p. 1 and p. 5 (Italics by
 	Samuelson). Samuelson's book is the prototype of the textbook
 	currently used in American universities to teach students the
@@ -1295,7 +1295,7 @@ Fredy Perlman, Kalamazoo, 1968
 	a handbook of hairsplitting, and a guidebook to changing the
 	subject." (p. 18).
 
-[^5]: I. I. Rubin, _Ocherki po teorii stoimosti Marksa_, Moakva:
+[^5]: I. I. Rubin, _Ocherki po teorii stoimosti Marksa_, Moskva:
 	Gosudarstvennoe Izdatel'stvo, 3^rd^ edition, 1928, p. 41; present
 	translation, p. 31. Rubin's book was not re-issued in the Soviet
 	Union after 1928, and it has never before been translated. Future
@@ -1381,7 +1381,7 @@ Fredy Perlman, Kalamazoo, 1968
 
 [^33]: _Ibid._, pp. 196--197.
 
-[^34]: Marx and Engels, _The German Ideology_. p. 23--24.
+[^34]: Marx and Engels, _The German Ideology_, p. 23--24.
 
 [^35]: Letter of Marx to P. V. Annenkov. December 28, 1846, in Karl
 	Marx, _The Poverty of Philosophy_, New York: International
@@ -1482,7 +1482,7 @@ Fredy Perlman, Kalamazoo, 1968
 	passage given above is quoted from Bottomore and Rubell, _op. cit._,
 	p. 170--171.
 
-[^63]: Daniet R. Fusfeld, _The Age of the Economist_, Glenview,
+[^63]: Daniel R. Fusfeld, _The Age of the Economist_, Glenview,
 	Illinois: Scott, Foresman & Co., 1966, p. 74.
 
 [^64]: Jean Baptiste Say, _Traité d'économie politique_, first published
@@ -1497,7 +1497,7 @@ Fredy Perlman, Kalamazoo, 1968
 [^66]: Robert Campbell, "Marxian Analysis, Mathematical Methods, and
 	Scientific Economic Planning", in Shaffer, _op. cit._, p. 352.
 
-[^67]: Fusfetd, op. cit., p. 74.
+[^67]: Fusfeld, op. cit., p. 74.
 
 [^68]: Campbell, _loc. cit_
 
