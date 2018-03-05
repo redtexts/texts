@@ -365,7 +365,7 @@ description: Theses of the World Communist Group. This appears to be a rather ro
     destitute. The producer is no longer the hostage of whatever firm to
     which (forgetting in time of prosperity his proletarian condition)
     he identified (up to take over from the boss -- thanks to the claim
-    for self m management -- for a better productive efficiency and
+    for self-management -- for a better productive efficiency and
     rationality, which mean in the system of capitalist production:
     exploitation of labour force, reduction of the share of necessary
     work, increase of over-work, increased power of the objectivized
