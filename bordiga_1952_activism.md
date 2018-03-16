@@ -2,7 +2,7 @@
 title: Activism
 author: Bordiga, Amadeo
 date: 1952
-description: "The following article Bordiga writes about "an illness of the workers movement" -- namely _activism_. Based on the [libcom.org article](https://libcom.org/library/activism-amadeo-bordiga), which in refers to the [Spanish translation](http://www.sinistra.net/lib/upt/intpap/pitu/pituccodas.html)."
+description: "The following article Bordiga writes about \"an illness of the workers movement\" -- namely _activism_. Based on the [libcom.org article](https://libcom.org/library/activism-amadeo-bordiga), which in refers to the [Spanish translation](http://www.sinistra.net/lib/upt/intpap/pitu/pituccodas.html)."
 ...
 
 It is necessary to insist on the word. Just like certain infections of
