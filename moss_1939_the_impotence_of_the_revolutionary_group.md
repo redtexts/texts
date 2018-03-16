@@ -1,8 +1,8 @@
 ---
 title: The Impotence of the Revolutionary Group
-author: Sam Moss
+author: Moss, Sam
 date: 1939
-description: Published in *Living Marxism* No. 7. This text is taken from <https://theanarchistlibrary.org/library/sam-moss-the-impotence-of-the-revolutionary-group>.
+description: Published in *Living Marxism* No. 7. This text is taken from [the Anarchist Library](https://theanarchistlibrary.org/library/sam-moss-the-impotence-of-the-revolutionary-group).
 ...
 
 # I.
@@ -27,14 +27,14 @@ accustomed manner, they are well satisfied with it and whatever evils
 they behold in society, they attribute to "unfair bosses," "bad
 administrators" or other individuals.
 
-The small radical groups --- "intellectuals" who have "raised themselves
+The small radical groups -- "intellectuals" who have "raised themselves
 to the level of comprehending historical movements as a whole," and who
-trace the social ills to the system rather than to individuals --- see
+trace the social ills to the system rather than to individuals -- see
 beyond the objectives of the workers, and realize that the basic needs
 of the working class can not be satisfied for more than a temporary
 period under capitalism, and that every concession that Capital grants
 Labour serves only to postpone the death struggle between these
-adversaries. They therefore --- at least in theory --- strive
+adversaries. They therefore -- at least in theory -- strive
 continually to turn the struggle for immediate demands into a struggle
 against the system. But beside the realities of bread and butter which
 capitalism can still offer a majority of the workers, the radicals can
@@ -45,7 +45,7 @@ The reason for the apparent difference of objectives between the
 revolutionary groups and the working class is easy to understand. The
 working class, concerned only with the needs of the moment and in
 general content with its social status, reflects the level of capitalist
-culture --- a culture that is "for the enormous majority a mere training
+culture -- a culture that is "for the enormous majority a mere training
 to act as a machine." The revolutionists, however, are so to speak
 deviations from the working class; they are the by-products of
 capitalism; they represent isolated cases of workers who, because of
@@ -195,8 +195,8 @@ maintain our ideological difference. Therefore, where all groups see
 revolution in the most impossible situations and believe that all that
 is lacking for revolution is a group with the "correct Marxist line";
 where, in a word, they exaggerate the importance of ideas, and
-incidently of themselves as carriers of those ideas --- an attitude that
-reflects their careerist proclivities --- we wish to see the truth of
+incidently of themselves as carriers of those ideas -- an attitude that
+reflects their careerist proclivities -- we wish to see the truth of
 each situation. We see that the class struggle is today still
 conservative; that society is characterized not simply by this single
 struggle but by a multiplicity of struggles, which varies with the
