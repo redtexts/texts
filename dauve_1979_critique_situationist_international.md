@@ -1184,84 +1184,84 @@ not yet succeeded in objectifying a revolutionary practice. When the
 revolution remains at the stage of desire, it is tempting to make desire
 into the pivot of the revolution.
 
-[1]: Translator's footnote: Invariance: journal published by a group which 
-	split from the International Communist Party, itself the most dogmatic 
-	and voluntarist by-product of the "Bordigist" Italian left. After several 
+[^1]: Translator's footnote: Invariance: journal published by a group which
+	split from the International Communist Party, itself the most dogmatic
+	and voluntarist by-product of the "Bordigist" Italian left. After several
 	years of obscure, though occasionally brilliant theoretical involutions,
 	Invariance's editor Jacques Camatte arrived at the position that capital
 	has "escaped the law of value" and that therefore the proletariat has
 	disappeared. For a presentation in English of his views, see The Wandering
 	of Humanity published by Black and Red, Detroit.
-[2]: Translator's footnote : The term "sign" is used in structuralist writing
+[^2]: Translator's footnote : The term "sign" is used in structuralist writing
 	to mean a signifier (representation) that has become separated from what
 	it originally signified (a phenomenon in the world). A "sign" thus implies
 	a representation which refers only to itself, i.e. is "tautological". One
 	example of a "sign" would be the credit extended in ever greater quantities
 	to bankrupt nations by large banks, credit which cannot possibly be repaid:
 	it is a representation of commodities which will never be produced.)
-[3]: Translator's footnote: Joseph Dejacque: French communist artisan active 
+[^3]: Translator's footnote: Joseph Dejacque: French communist artisan active
 	in the 1848 rising. A collection of his writings is available under the
 	title A Bas les chefs (Champ Libre, Paris 1974).
-[4]: Translator's footnote: The struggle over Radio Renascensa in Portugal 
+[^4]: Translator's footnote: The struggle over Radio Renascensa in Portugal
 	during 1975 bears out this point.
-[5]: Translator's footnote: Appeared in English as The Totality for Kids.
-[6]: Translator's footnote: In a series of articles in Socialisme ou Barbarie,
-	it was shown how capitalist industry needs the active and creative 
-	cooperation of workers in order to function. The most telling example of 
-	this is the British rank-and-file workers' tactic of the "work to rule" 
-	in which all jobs are carried out precisely according to union contract 
+[^5]: Translator's footnote: Appeared in English as The Totality for Kids.
+[^6]: Translator's footnote: In a series of articles in Socialisme ou Barbarie,
+	it was shown how capitalist industry needs the active and creative
+	cooperation of workers in order to function. The most telling example of
+	this is the British rank-and-file workers' tactic of the "work to rule"
+	in which all jobs are carried out precisely according to union contract
 	and employer specification. This usually results in a decline in output
 	by anywhere up to 50 percent. (Tr.)
-[7]: Translator's footnote: This concept was central to the "unitary urbanism" 
-	of the early S.I.. Loosely translated it means drifting around, usually on 
+[^7]: Translator's footnote: This concept was central to the "unitary urbanism"
+	of the early S.I.. Loosely translated it means drifting around, usually on
 	foot, in a city, and exploring and analyzing the life of the city thereby. (Tr.)
-[8]: Translator's footnote: La veritable scission dans I'Internationale: Editions 
+[^8]: Translator's footnote: La veritable scission dans I'Internationale: Editions
 	Champ Libre. Documents by various members of the S.I. concerning the splitting
 	and dissolution of the group.
-[9]: Translator's footnote: Henri Lefebvre: at one time the most sophisticated
-	philosophical apologist for the French CP (c.f. his Dialectical Materialism, 
-	Cape Editions, London). Lefebvre broke with the Party and during the late 
+[^9]: Translator's footnote: Henri Lefebvre: at one time the most sophisticated
+	philosophical apologist for the French CP (c.f. his Dialectical Materialism,
+	Cape Editions, London). Lefebvre broke with the Party and during the late
 	'50's and early '60s began to construct a "critical theory of everyday life".
 	His work was important to the S.I. although he never transcended a
-	fundamentally academic and sociologistic viewpoint. The S.I. denounced him 
+	fundamentally academic and sociologistic viewpoint. The S.I. denounced him
 	after he published a text on the Paris Commune which was largely stolen from
 	the S.I.'s earlier "Theses" on the same topic.
-[10]: Translator's footnote: Published in the U.S. as Decline and Fall of the
+[^10]: Translator's footnote: Published in the U.S. as Decline and Fall of the
 	Spectacular Commodity Economy.
-[11]: Translator's footnote: Internationalist Communist Party (founded in 1943). 
+[^11]: Translator's footnote: Internationalist Communist Party (founded in 1943).
 	Their English journal is Communist Program.
-[12]: Translator's footnote: Ratgeb: pseudonym used by Vaneigem for his book,
+[^12]: Translator's footnote: Ratgeb: pseudonym used by Vaneigem for his book,
 	De la greve sauvage a l'autogestion generalisee Editions 10/18, Paris, 1973.
-[13]: Translator's footnote: This fetishism of "autonomy" developed into a nasty
-	little game among the "pro-situ" groups. They would solicit "dialogue" from 
+[^13]: Translator's footnote: This fetishism of "autonomy" developed into a nasty
+	little game among the "pro-situ" groups. They would solicit "dialogue" from
 	people who "saw themselves" in one of their texts. When naive sympathizers
 	responded, they would be encouraged to engage in some "autonomous practice"
 	so as to prove that they were not "mere spectators." The most sincere among
-	them would then attempt this. The result would invariably be savagely 
-	denounced by the prositu group as "incoherent", "confusionist", etc. and 
+	them would then attempt this. The result would invariably be savagely
+	denounced by the prositu group as "incoherent", "confusionist", etc. and
 	relations would be broken off.
-[14]: Translator's footnote: Such as the subversive effect of the mass refusal
+[^14]: Translator's footnote: Such as the subversive effect of the mass refusal
 	to pay and the free distribution of goods and services carried out by the
 	Italian "self-reduction" movement. Naturally, in a full-fledged revolutionary
 	situation, this would go much further and would include the immediate
 	communization of key means of production both to provide for the survival
 	of the proletarian movement and to undermine the resource base of the
 	remaining capitalist forces.
-[15]: Translator's footnote: Published in 1975. Distributed by Editions de 
+[^15]: Translator's footnote: Published in 1975. Distributed by Editions de
 	I'Oubli, Paris.
-[16]: A left-wing intellectual French weekly.
-[17]: Translator's footnote: Veridique rapport sur les derniers chances de sauver 
+[^16]: A left-wing intellectual French weekly.
+[^17]: Translator's footnote: Veridique rapport sur les derniers chances de sauver
 	le capitalisme en Italie.
-[18]: Translator's footnote: i.e. The movement of occupation of workplaces and
-	campuses during May '68. [19]:Translator's footnote: The translator disagrees 
-	with this estimation; c.f. the account of the TAP strike in Portugal: 
+[^18]: Translator's footnote: i.e. The movement of occupation of workplaces and
+	campuses during May '68. [19]:Translator's footnote: The translator disagrees
+	with this estimation; c.f. the account of the TAP strike in Portugal:
 	Anti-Fascism or Anti-Capitalism, Root and Branch, 1976.
-[20]: Translator's footnote: Geugan was the manager and the real founder of
+[^20]: Translator's footnote: Geugan was the manager and the real founder of
 	Champ Libre Publications until he was fired in 1975. He is now a fashionable
 	figure in literary and avant-garde circles.
-[21]: Translator's footnote: Cardan - Chaulieus real name. (tr)
-[22]: Translator's footnote: Jean-Pierre Voyer, author of "Reich: How to Use"
+[^21]: Translator's footnote: Cardan - Chaulieus real name. (tr)
+[^22]: Translator's footnote: Jean-Pierre Voyer, author of "Reich: How to Use"
 	(available from Bureau of Public Secrets, P.O. Box 1044 Berkeley, Ca. 94701)
 	and other texts published by Champ Libre. (tr.)
-[23]: Le communisme: un monde sans argent [Communism: A World without Money] 
+[^23]: Le communisme: un monde sans argent [Communism: A World without Money]
 	(3 vols.) by Organization des jeunes Travailleurs Revolutionnaires. Paris, 1975.

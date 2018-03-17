@@ -1758,17 +1758,17 @@ aspects of this given society" (_Grundrisse,_ p.106). The logical
 unity of the economic categories is due to the real unity of this
 society, the actual object of our study.
 
-[1]: A whole paragraph is devoted to the substance of value, beginning
+[^1]: A whole paragraph is devoted to the substance of value, beginning
 	with the words: "Hence, when we bring the products of our labour into
 	relation with each other as values, it is not because we see in these
 	articles the material receptacles of homogenous human labour."
 	(p.74). The following paragraph is devoted to the magnitude of value,
 	and the next to the form of value.
 
-[2]: This refers to an article by I. Daschkowski _Abstraktuy trudi
+[^2]: This refers to an article by I. Daschkowski _Abstraktuy trudi
 	eknonomitscheskije kategorii Marksa_ ("Abstract Labour and Economic
 	Categories in Marx") in _Pod Znamenem Marksizma 6_, Moscow, 1926.
 
-[3]: These passages were apparently omitted from the German edition of
+[^3]: These passages were apparently omitted from the German edition of
 	"Studien zur Marxschen Wertheorie," and cannot be traced in the
 	English edition.
