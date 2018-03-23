@@ -299,12 +299,7 @@ a Cause -- the 'best' of all Causes. The time they have for creative
 activity they squander on handing out leaflets, putting up posters,
 demonstrating or heckling local politicians. They become militants,
 fetishising action because others are doing their thinking for
-them."^[But these days it is much more veiled: Vaneigem accuses "young
-leftist radicals" of "enter[ing] the service of a Cause -- the 'best' of
-all Causes. The time they have for creative activity they squander on
-handing out leaflets, putting up posters, demonstrating or heckling
-local politicians. They become militants, fetishising action because
-others are doing their thinking for them."^[Op. Cit. 2, p. 109]
+them."^[Op. Cit. 2, p. 109]
 
 This resounds with us -- particularly the thing about the fetishising of
 action -- in left groups the militants are left free to engage in
