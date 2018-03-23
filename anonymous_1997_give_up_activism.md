@@ -159,22 +159,24 @@ to the neglect of everything authentic: "we succumb to the seduction of
 borrowed attitudes." As role-players we dwell in inauthenticity --
 reducing our lives to a string of clichés -- "breaking [our] day down
 into a series of poses chosen more or less unconsciously from the range
-of dominant stereotypes." This process has been at work since the early
-days of the anti-roads movement. At Twyford Down after Yellow Wednesday
-in December '92, press and media coverage focused on the Dongas Tribe
-and the dreadlocked countercultural aspect of the protests. Initially
-this was by no means the predominant element -- there was a large group
-of ramblers at the eviction for example.^[see *The Day they Drove
-Twyford Down* in Do or Die No. 1, p. 11] But people attracted to Twyford
-by the media coverage thought every single person there had dreadlocks.
-The media coverage had the effect of making 'ordinary' people stay away
-and more dreadlocked countercultural types turned up -- decreasing the
-diversity of the protests. More recently, a similar thing has happened
-in the way in which people drawn to protest sites by the coverage of
-Swampy they had seen on TV began to replicate in their own lives the
-attitudes presented by the media as characteristic of the role of the
-'eco-warrior'.^[see *Personality Politics: The Spectacularisation of
-Fairmile* in Do or Die No. 7, p. 35]
+of dominant stereotypes."^[Raoul Vaneigem - *The Revolution of Everyday 
+Life*, Trans. Donald Nicholson-Smith (Left Bank Books/Rebel Press, 1994)
+- first published 1967, pp. 131-3] This process has been at work since
+the early days of the anti-roads movement. At Twyford Down after Yellow
+Wednesday in December '92, press and media coverage focused on the Dongas
+Tribe and the dreadlocked countercultural aspect of the protests.
+Initially this was by no means the predominant element -- there was a
+large group of ramblers at the eviction for example.^[see *The Day they
+Drove Twyford Down* in Do or Die No. 1, p. 11] But people attracted to
+Twyford by the media coverage thought every single person there had
+dreadlocks. The media coverage had the effect of making 'ordinary'
+people stay away and more dreadlocked countercultural types turned up
+-- decreasing the diversity of the protests. More recently, a similar
+thing has happened in the way in which people drawn to protest sites by
+the coverage of Swampy they had seen on TV began to replicate in their
+own lives the attitudes presented by the media as characteristic of the
+role of the 'eco-warrior'.^[see *Personality Politics: The
+Spectacularisation of Fairmile* in Do or Die No. 7, p. 35]
 
 "Just as the passivity of the consumer is an active passivity, so the
 passivity of the spectator lies in his ability to assimilate roles and
