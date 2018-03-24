@@ -399,9 +399,9 @@ historical results" achieved by the "small party", the most important
 one being not "*conceiving the movement as merely an activity of
 propaganda and political proselytism*", but as engaged "*in an unceasing
 effort to merge its own life with the life of the masses*"; and thus,
-\"*the position in which the small party is reduced to being a set of
+"*the position in which the small party is reduced to being a set of
 narrow circles, with no connection with the outside world, must be
-rejected".*
+rejected*".
 
 Finally, there is the peremptory reminder not to split the organization,
 not to "*subdivide the Party or its local groupings into watertight
@@ -471,7 +471,7 @@ bunch of "circles" instead.
 
 To reinforce this view the work of rebuilding the doctrine was
 artificially separated from rebuilding the political Party, attributing
-the former not to party forces, but to "the genius\" of Lenin, to whom
+the former not to party forces, but to "the genius" of Lenin, to whom
 treacherous reverence was made by publishing his "works" *post mortem*,
 making much of his name, spelled out in full.
 
@@ -579,7 +579,7 @@ breaking the basic rules of party political organization it preferred to
 tribunals of Stalin, confirms the formidable willingness of Communists
 to renege on their personal convictions should these conflict with the
 principle of principles: the primary requirement of the class political
-Oarty. Anything to avoid offering the enemy, capitalism, the chance to
+Party. Anything to avoid offering the enemy, capitalism, the chance to
 blackmail the working class, with an example of its own Party being
 repudiated by the revolutionaries. The lesson of Bukharin, Zinoviev,
 Kamenev, etc. was precisely not to offer the capitalist world the
@@ -697,7 +697,7 @@ version of the splitters, whose balance sheet, however, is just as
 serious as the arrogance with which the Party was muzzled in those
 turbid and asphyxiating years. The reasons for the split lie in a
 tactical plan, which it was hoped would move the Party onto the terrain
-of engaging with the petty-bourgeois extremist camp, rebaptized *"area
+of engaging with the petty-bourgeois extremist camp, rebaptized "*area
 rivoluzionaria*", with the "circles" and the swinish denizens of the
 perpetual "protest movement" of students and lumpenproletarians; brain
 and brawn of the sterile and reactionary *semi-classes.* The maneuver
