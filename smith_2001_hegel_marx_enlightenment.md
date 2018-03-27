@@ -2,7 +2,7 @@
 title: "Hegel, Marx and the Enlightenment"
 author: Smith, Cyril
 date: 2001
-description: Smith elaborates on the humanist conception of Marxism, and it's historical background over Hegel, the enlightenment movement and the medieval scholastics. This text is based on the [MIA](https://www.marxists.org/reference/archive/smith-cyril/works/articles/interim.htm), which reminds the reader that some of the ideas "remain half-baked".
+description: Smith elaborates on the humanist conception of Marxism, and it's historical background over Hegel, the enlightenment movement and the medieval scholastics. This text is based on the [MIA version](https://www.marxists.org/reference/archive/smith-cyril/works/articles/interim.htm), which reminds the reader that some of the ideas "remain half-baked".
 ...
 
 1. Marx's work centres on the notion of true humanity as
@@ -99,7 +99,7 @@ description: Smith elaborates on the humanist conception of Marxism, and it's hi
 8. Hegel must be taken as a whole. In particular, his Berlin years are
    crucial for what we need from him, including his work (a) on the
    State (1821); (b) on the history of philosophy; (c) on Aesthetics;
-   (d) on the philosophy of religion; (e) on the philosophy of
+   \(d) on the philosophy of religion; (e) on the philosophy of
    history.[^3]
 
 9. Each part of Hegel's programme, while preserving many of the advances
