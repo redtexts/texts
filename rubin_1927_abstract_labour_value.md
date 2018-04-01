@@ -2,7 +2,7 @@
 title: "Abstract Labour and Value in Marx's System"
 author: Rubin, Isaak Illich
 date: 1927
-description: This version is based of the [marxists.org]() version, but an alternative can be found on [libcom.org](https://libcom.org/library/abstract-labour-value-marx%E2%80%99s-system-isaak-illich-rubin), or the [scanned article](https://rosswolfe.files.wordpress.com/2017/03/isaak-rubin-value-and-abstract-labor-1927.pdf) by _Capital and Class_, which seems to be what marxists.org based their article on.
+description: This version is based of the [marxists.org](https://www.marxists.org/archive/rubin/abstract-labour.htm) version, but an alternative can be found on [libcom.org](https://libcom.org/library/abstract-labour-value-marx%E2%80%99s-system-isaak-illich-rubin), or the [scanned article](https://rosswolfe.files.wordpress.com/2017/03/isaak-rubin-value-and-abstract-labor-1927.pdf) by _Capital and Class_, which seems to be what marxists.org based their article on.
 ...
 
 # Introductory notes by _Capital and Class_
