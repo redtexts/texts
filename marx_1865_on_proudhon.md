@@ -1,5 +1,5 @@
 ---
-title: Letter "On Proudhon"
+title: "Letter \"On Proudhon\""
 author: Marx, Karl
 date: 1865
 description: In the following letter, Marx writes to _Johann Baptist von Schweitzer_ effectively summarizing his critique of Proudhon's _petit bourgeois_ attitudes regarding the political economy and reformism, shortly after Proudhon's death. This translation is based of the [MIA](https://www.marxists.org/archive/marx/works/1865/letters/65_01_24.html) version; the original German version can be found [here](http://www.mlwerke.de/me/me16/me16_025.htm), which was published in "Der Sozialdemokrat".
