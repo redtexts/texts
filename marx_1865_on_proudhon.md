@@ -11,7 +11,7 @@ Yesterday I received a letter in which you demand from me a detailed
 judgment of Proudhon. Lack of time prevents me from fulfilling your
 desire. Added to which I have _none_ of his works to hand. However, in
 order to assure you of my good will I will quickly jot down a brief
-outline. You can then complete it, add to it or cut it – in short do
+outline. You can then complete it, add to it or cut it -- in short do
 anything you like with it[^1].
 
 Proudhon's earliest efforts I no longer remember. His school work about
@@ -35,13 +35,13 @@ Hegel had left in mystic _clair-obscur_ \[semi-obscurity\].
 In this book of Proudhon's there still prevails, if I may be allowed the
 expression, a strong muscular style. And its style is in my opinion its
 chief merit. It is evident that even where he is only reproducing old
-stuff, Proudhon discovers things in an independent way -– that what he
+stuff, Proudhon discovers things in an independent way --- that what he
 is saying is new to him and is treated as new. The provocative defiance,
 which lays hands on the economic "holy of holies", the ingenious paradox
 which made a mock of the ordinary bourgeois understanding, the withering
 criticism, the bitter irony, and, revealed here and there, a deep and
 genuine feeling of indignation at the infamy of the existing order, a
-revolutionary earnestness – all these electrified the readers of
+revolutionary earnestness -- all these electrified the readers of
 _Qu'est-ce que la propriété?_ and provided a strong stimulus on its
 first appearance. In a strictly scientific history of political economy
 the book would hardly be worth mentioning. But sensational works of this
@@ -53,9 +53,9 @@ yet what a stimulus was produced by this _lampoon on the human race_!
 
 If I had Proudhon's book before me I could easily give a few examples to
 illustrate his _early style_. In the passages which he himself regarded
-as the most important he imitates Kant's treatment of the _antinomies_ –
-Kant was at that time the only German philosopher whose works he had
-read, in translations – and he leaves one with a strong impression that
+as the most important he imitates Kant's treatment of the _antinomies_
+-- Kant was at that time the only German philosopher whose works he had
+read, in translations -- and he leaves one with a strong impression that
 to him, as to Kant, the resolution of the antinomies is something
 _"beyond"_ human understanding, i.e., something that remains obscure to
 him himself.
@@ -296,8 +296,8 @@ Karl Marx
 
 [^3]: fr.: I expect your harsh Critique.
 
-[^4]: "_When the economists say that present-day relations – the
-	relations of bourgeois production – are natural, they imply that
+[^4]: "_When the economists say that present-day relations -- the
+	relations of bourgeois production -- are natural, they imply that
 	these are the relations in which wealth is created and productive
 	forces developed in conformity with the laws of nature. These
 	relations therefore are themselves natural laws independent of the
