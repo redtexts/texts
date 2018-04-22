@@ -197,7 +197,7 @@ to a part of the real relations, and goes so far as to make them rest
 entirely on this part.
 
 The spectacle is activity become passive. The S.I. rediscovered what
-Marx said in the Grundisse about the rising-up of Man's being (his
+Marx said in the Grundrisse about the rising-up of Man's being (his
 self-transformation, his labor) as an alien power which crushes him:
 facing it, he no longer lives, he only looks. The S.I. brought a new
 vigor to this theme. But capital is more than pacification. It needs the
@@ -679,7 +679,7 @@ commodity, subject, organization, consciousness. But unlike those who
 today repeat its ideas while conserving only the flashy parts and the
 mistakes (utopia, etc.), the S.I. did not make it a rule to confuse
 language with society. What was for the S.I. a contradiction became the
-raison datre of modernism.
+raison d'etre of modernism.
 
 # No Theoretical Summing up
 
@@ -844,18 +844,19 @@ Liaison pour l'Action des Travailleurs were also preoccupied essentially
 with calling for democratic workers' assemblies).
 
 In the same way, to say that in Portugal the pressure of the workers
-hindered the construction of the modem capitalist state, is to have only
-the viewpoint of the state, of capital. Is capital's problem to develop
-in Portugal, to constitute a new and powerful pole of accumulation
-there? Wasn't the objective of the "revolution of the carnations" to
-channel confused popular and proletarian aspirations toward illusory
-reforms, so that the proletariat would remain quiescent? Mission
-accomplished. It is not a matter of a half-victory for the proletariat,
-but of an almost total defeat, in which the "proletarian experience" was
-almost non-existent, because there was not, so to speak, any direct
-confrontation, any alignment of proletarians around a position opposed
-to capitalism. They never stopped supporting the democratized state,
-even at times against the parties, which they accused of "treason"[^19].
+hindered the construction of the modern capitalist state, is to have
+only the viewpoint of the state, of capital. Is capital's problem to
+develop in Portugal, to constitute a new and powerful pole of
+accumulation there? Wasn't the objective of the "revolution of the
+carnations" to channel confused popular and proletarian aspirations
+toward illusory reforms, so that the proletariat would remain quiescent?
+Mission accomplished. It is not a matter of a half-victory for the
+proletariat, but of an almost total defeat, in which the "proletarian
+experience" was almost non-existent, because there was not, so to speak,
+any direct confrontation, any alignment of proletarians around a
+position opposed to capitalism. They never stopped supporting the
+democratized state, even at times against the parties, which they
+accused of "treason"[^19].
 
 Neither in Italy in 1969, nor in Portugal in 1974-5, was there a "social
 war". What is a social war if not a head-on struggle between classes,
@@ -963,7 +964,7 @@ to remind one of the "social" character of all practice: the
 
 One of the natural channels of this evolution is the university, since
 the apparatus of which it is a part backs a considerable part of the
-research on the modernization of capitaL Official "revolutionary"
+research on the modernization of capital. Official "revolutionary"
 thought is the scouting party of capital. Thousands of appointed
 functionaries criticize capitalism from every direction.
 
@@ -986,7 +987,7 @@ theory by halves; basically its approach is that of "marxism" as against
 Marx. Its axiom is to call, not for revolution, but for liberation from
 a certain number of constraints. It wants the maximum of freedom within
 the existing society. Its critique will always be that of the commodity
-and not of capital, of politics and not of the state. of totalitarianism
+and not of capital, of politics and not of the state, of totalitarianism
 and not of democracy. Is it by accident that its historical
 representative, Marcuse, came from a Germany forced to turn away from
 the radical aspirations revealed in 1917-21?
@@ -1259,7 +1260,7 @@ into the pivot of the revolution.
 [^20]: Translator's footnote: Geugan was the manager and the real founder of
 	Champ Libre Publications until he was fired in 1975. He is now a fashionable
 	figure in literary and avant-garde circles.
-[^21]: Translator's footnote: Cardan - Chaulieus real name. (tr)
+[^21]: Translator's footnote: Cardan - Chaulieu's real name. (tr)
 [^22]: Translator's footnote: Jean-Pierre Voyer, author of "Reich: How to Use"
 	(available from Bureau of Public Secrets, P.O. Box 1044 Berkeley, Ca. 94701)
 	and other texts published by Champ Libre. (tr.)
