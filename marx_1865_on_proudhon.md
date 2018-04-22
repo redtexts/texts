@@ -35,7 +35,7 @@ Hegel had left in mystic _clair-obscur_ \[semi-obscurity\].
 In this book of Proudhon's there still prevails, if I may be allowed the
 expression, a strong muscular style. And its style is in my opinion its
 chief merit. It is evident that even where he is only reproducing old
-stuff, Proudhon discovers things in an independent way --- that what he
+stuff, Proudhon discovers things in an independent way -- that what he
 is saying is new to him and is treated as new. The provocative defiance,
 which lays hands on the economic "holy of holies", the ingenious paradox
 which made a mock of the ordinary bourgeois understanding, the withering
