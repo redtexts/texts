@@ -2,7 +2,7 @@
 title: "Communism: Points for Consideration"
 author: L'Insecurite Sociale
 date: 1984
-description: Written by the Paris-based L'Insecurite Sociale in 1984. This red texts version is based on an English translation found at <https://libcom.org/library/communism-points-consideration-linsecurite-sociale>. However, the red texts version derives its headings from the French original, which is available with interesting English notes at <http://oocities.org/~johngray/comm00.htm>; and it replaces the text of the Hess passage -- still in French in the Libcom english translation for some reason -- with the English text of the same passage, which can be found in 'The Communist Tendency in History,' another translated L'Insecurite Sociale text available on red texts.
+description: Written by the Paris-based L'Insecurite Sociale in 1984. This red texts version is based on an English translation found at <https://libcom.org/library/communism-points-consideration-linsecurite-sociale>. However, the red texts version derives its headings from the French original, which is available with interesting English notes at <https://oocities.org/~johngray/comm00.htm>; and it replaces the text of the Hess passage -- still in French in the Libcom english translation for some reason -- with the English text of the same passage, which can be found in 'The Communist Tendency in History,' another translated L'Insecurite Sociale text available on red texts.
 ...
 
 ## Communism

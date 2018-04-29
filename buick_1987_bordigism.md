@@ -2,7 +2,7 @@
 title: Bordigism
 author: Buick, Adam
 date: 1987
-description: Written as a chapter of the 1987 book 'Non-Market Socialism in the Nineteenth and Twentieth Centuries.' Buick is a member of the Socialist Party of Great Britain. This version is based on the original internet version, still available at <http://www.oocities.org/capitolhill/lobby/3909/bordbuik.html>.
+description: Written as a chapter of the 1987 book 'Non-Market Socialism in the Nineteenth and Twentieth Centuries.' Buick is a member of the Socialist Party of Great Britain. This version is based on the original internet version, still available at <https://www.oocities.org/capitolhill/lobby/3909/bordbuik.html>.
 ...
 
 In 1975 a pamphlet called _Un Monde sans argent: le communisme_ (_A

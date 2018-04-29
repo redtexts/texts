@@ -2,7 +2,7 @@
 title: A Modest Proposal for How the Bad Old Days Will End
 author: Reinvention of Everyday Life
 date: 1975
-description: Published by an American group called The Reinvention of Everyday Life, then republished in the UK by Social Revolution (who were forced out of the SPGB, joined Solidarity, and later joined Wildcat). This red texts version comes from what was hosted on the Subversion website at <http://www.oocities.org/athens/acropolis/8195/blasts/badolddays.htm>.
+description: Published by an American group called The Reinvention of Everyday Life, then republished in the UK by Social Revolution (who were forced out of the SPGB, joined Solidarity, and later joined Wildcat). This red texts version comes from what was hosted on the Subversion website at <https://www.oocities.org/athens/acropolis/8195/blasts/badolddays.htm>.
 ...
 
 ## Introduction from the Pandora's Books edition.

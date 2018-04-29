@@ -2,7 +2,7 @@
 title: The Question of the State
 author: La Guerre Sociale
 date: 1978
-description: This text originally appeared in French in La Guerre Sociale, no. 2, in March 1978. A translation to English was made in the early 80s, and was later revised and posted online -- with a substantial preface -- on the John Gray Website at <http://www.oocities.org/~johngray/questat.htm>.
+description: This text originally appeared in French in La Guerre Sociale, no. 2, in March 1978. A translation to English was made in the early 80s, and was later revised and posted online -- with a substantial preface -- on the John Gray Website at <https://www.oocities.org/~johngray/questat.htm>.
 keywords: State
 ...
 

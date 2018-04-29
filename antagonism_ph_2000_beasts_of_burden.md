@@ -2,7 +2,7 @@
 title: "Beasts of Burden: Capitalism, Animals, Communism"
 author: Antagonism and Practical History
 date: 1999
-description: Written by Antagonism and Practical History. Taken from <https://libcom.org/library/beasts-burden-antagonism-practical-history>, with the original version also available at Antagonism's website at <http://www.oocities.org/capitolhill/lobby/3909/beasts/index.html>.
+description: Written by Antagonism and Practical History. Taken from <https://libcom.org/library/beasts-burden-antagonism-practical-history>, with the original version also available at Antagonism's website at <https://www.oocities.org/capitolhill/lobby/3909/beasts/index.html>.
 ...
 
 This is a text which, we hope, faces in two directions. On the one hand

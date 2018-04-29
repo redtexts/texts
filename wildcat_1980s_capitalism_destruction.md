@@ -2,7 +2,7 @@
 title: Capitalism and its Revolutionary Destruction
 author: Wildcat
 date: Mid-1980s
-description: Originally posted at the Subversion group's website (now archived at <http://www.oocities.org/athens/acropolis/8195/>). Question marks indicate places where the preceding word in the online text was unclear.
+description: Originally posted at the Subversion group's website (now archived at <https://www.oocities.org/athens/acropolis/8195/>). Question marks indicate places where the preceding word in the online text was unclear.
 ...
 
 ## Introduction

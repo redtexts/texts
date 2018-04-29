@@ -2,7 +2,7 @@
 title: "Anti-Globalization: the Socialism of Imbeciles"
 author: Mouvement Communiste
 date: 2001
-description: Translated from French by Red and Black Notes, who note that this text was produced to be (but never was) distributed at the Summit of the Americas in Quebec in April 2001. Published online by Red and Black Notes at <http://www.oocities.org/red_black_ca/Articles.htm>.
+description: Translated from French by Red and Black Notes, who note that this text was produced to be (but never was) distributed at the Summit of the Americas in Quebec in April 2001. Published online by Red and Black Notes at <https://www.oocities.org/red_black_ca/Articles.htm>.
 ...
 
 **"Communists despise hiding their ideas and aims."** - Karl Marx and
