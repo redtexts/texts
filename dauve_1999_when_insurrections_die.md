@@ -1,7 +1,7 @@
 ---
 title: When Insurrections Die
 author: Dauvé, Gilles
-date: 1979
+date: 1999
 description: "Dauvé's writes about the proletarian movements, struggles and failures between 1917 and 1937, based an his longer essay \"Fascism and Anti-Fascism\". This edition was retrieved from [Endnotes 1](https://endnotes.org.uk/issues/1/en/gilles-dauve-when-insurrections-die)."
 keywords:
 - Anti-Fascism
