@@ -1017,7 +1017,7 @@ introduction. We have not included information on Marx's works, as there
 are many different and readily available editions but we have given
 details of two useful collections.
 
-Answeiler, Oskar, _The Soviets: The Russian Workers, Peasants, and
+Anweiler, Oskar, _The Soviets: The Russian Workers, Peasants, and
 Soldiers Councils 1905-1921_, Pantheon, 1974
 
 Bologna, S., "Class Composition and the Theory of the Party at the
