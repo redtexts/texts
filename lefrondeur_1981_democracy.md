@@ -2,7 +2,7 @@
 title: Democracy
 author: Le Frondeur
 date: 1981
-description: Originally published online at the [John Gray website](https://oocities.org/~johngray/frondeur.htm) with a note that "this text appeared in the journal Le Frondeur (No. 7, Spring 1981) published in Vitry."
+description: Originally published online at the [John Gray website](https://www.oocities.org/~johngray/frondeur.htm) with a note that "this text appeared in the journal Le Frondeur (No. 7, Spring 1981) published in Vitry."
 keywords: Democracy
 ...
 
