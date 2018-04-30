@@ -1254,8 +1254,9 @@ into the pivot of the revolution.
 [^17]: Translator's footnote: Veridique rapport sur les derniers chances de sauver
 	le capitalisme en Italie.
 [^18]: Translator's footnote: i.e. The movement of occupation of workplaces and
-	campuses during May '68. [19]:Translator's footnote: The translator disagrees
-	with this estimation; c.f. the account of the TAP strike in Portugal:
+	campuses during May '68.
+[^19]:Translator's footnote: The translator disagrees with this
+	estimation; c.f. the account of the TAP strike in Portugal:
 	Anti-Fascism or Anti-Capitalism, Root and Branch, 1976.
 [^20]: Translator's footnote: Geugan was the manager and the real founder of
 	Champ Libre Publications until he was fired in 1975. He is now a fashionable
