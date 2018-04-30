@@ -55,7 +55,7 @@ The present-day wage-worker does not live in "abundance" in relation to
 the nineteenth-century worker who lived in "poverty". The wage-worker
 does not simply consume objects, but reproduces the economic and mental
 structures which weigh on him. It is because of this, contrary to the
-opinion of Invariance, that he cannot free himself of these
+opinion of Invariance[^1], that he cannot free himself of these
 representations except by suppressing their material basis. He lives in
 a community of semiotics which force him to continue: materially
 (credit), ideologically and psychologically (this community is one of
@@ -218,7 +218,7 @@ excluded, empty, because consumption never succeeds in filling it
 completely. To speak of space-time is to insist on the fact that there
 is a reduction in the working day, and that this freed time also
 occupies a geographical and social space, in particular the street
-(c.f. the importance of the city and of the derive[^17] for the S.I.).
+(c.f. the importance of the city and of the derive[^7] for the S.I.).
 
 This situation coincides with a dual crisis of "art". Firstly, art no
 longer has meaning because Western society doesn't know where it's
@@ -1124,7 +1124,7 @@ prepared the way for theoretical communism such as Marx was able to
 synthesize during his own time, via the transition of the 1844
 Manuscripts. In the same way, the theory of "situations" has been
 integrated into a vision of communism of which the S.I. was incapable
-such as is shown today in Un monde sans argent^[23].
+such as is shown today in Un monde sans argent[^23].
 
 For the same reason, Debord read Marx in the light of Cardan,
 considering the "mature" Marx to have been submerged in political
