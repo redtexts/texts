@@ -527,7 +527,7 @@ contradiction. Our aim is not to free the productive forces from their
 fetters, but to destroy them and build communism. For this reason, we
 should reject the theory of decadence and significant aspects of Marx's
 method which underlie it, though leaving open the question of whether
-their was ever the possibility of a joint struggle between capitalists
+there was ever the possibility of a joint struggle between capitalists
 and workers prior to the French Revolution, until further empirical
 evidence emerges. Imperialism is a non-issue. National states exist,
 and have a certain importance among coalitions of bourgeois interest
