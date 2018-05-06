@@ -2674,4 +2674,3 @@ to carry out their historic task. First, it will involve a
 reconstruction -- a reinstating -- of revolutionary theory, then it will
 be a matter of rebuilding a Communist Party on an international basis; a
 party without frontiers.
- 
