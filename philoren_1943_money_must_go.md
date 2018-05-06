@@ -5651,7 +5651,7 @@ effect therefore they vote for certain principles or ideas held by
 "their" political party.
 
 **George**: And isn't that just what WORLD COMMONWEALTH enthusiasts
-would do?There's no difference here, surely?
+would do? There's no difference here, surely?
 
 **Professor**: There is a difference, George, and a very important one.
 It can be expressed in one word--AIM. And one word--REFORMS--will
