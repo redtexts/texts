@@ -1324,7 +1324,7 @@ bourgeois but socialist expansion that is being attempted, albeit with
 insufficient resources. It thus signifies the last stand of the
 bourgeois class: when the bourgeoisie can no longer withstand the
 assault of the masses on the Scheidemann-Henderson-Renaudel line, it
-falls back to its last line of defence, the Smillie-Dissman-Merrheim
+falls back to its last line of defence, the Smillie-Dissmann-Merrheim
 line^[Respectively socialist and trade union leaders. [Translator's
 note.]]. When it is no longer able to deceive the proletariat by having
 'workers' in a bourgeois or socialist regime, it can only attempt to
