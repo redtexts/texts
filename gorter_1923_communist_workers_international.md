@@ -1038,7 +1038,7 @@ only grandiose in appearance, in reality it represents habitual
 reformism. But now on a world scale and not nationally as before. It is
 no less vulgar than the other.
 
-truly, all capitalist states are uniformly hostile to communism.
+Truly, all capitalist states are uniformly hostile to communism.
 Together they will attack all countries where communism is victorious as
 they attacked Russia when it was still partially communist.
 
