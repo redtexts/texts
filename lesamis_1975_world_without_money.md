@@ -2,7 +2,7 @@
 title: "A World without Money: Communism"
 author: Les Amis de 4 Millions de Jeunes Travailleurs
 date: 1975-1976
-description: This text was originally published in French in 1975-1976. It was translated to Spanish (parts I and II) and Portugeuse (part III), from which it was translated into English and posted online at <https://libcom.org/library/world-without-money-communism-les-amis-de-4-millions-de-jeunes-travailleurs>. Different translations of individual sections are also available on red texts.
+description: This text was originally published in French in 1975-1976. It was translated to Spanish (parts I and II) and Portuguese (part III), from which it was translated into English and posted online at <https://libcom.org/library/world-without-money-communism-les-amis-de-4-millions-de-jeunes-travailleurs>. Different translations of individual sections are also available on red texts.
 ...
 
 # Part I
