@@ -478,7 +478,7 @@ by Stalin and second-rate anti-Stalinists alike.
 
 In fact, in their wish to emancipate the proletariat whilst preserving
 mercantile exchange, it is the Proudhons and Stalins who are the
-utopians; and the latest version of such attempts is Kruschev's reform
+utopians; and the latest version of such attempts is Khrushchev's reform
 of Russian industry.
 
 The free, individual exchange, on which Proudhon's metaphysic is based
@@ -489,7 +489,7 @@ socialism in the conquest of the factory by the local workers.
 In his crusade to defend competition, old Proudhon was the precursor of
 that modern superstition -- productive 'emulation'. Back in his day, the
 orthodox thinkers (unaware of being less reactionary than today's
-Krushchevs) used to say that progress arises from healthy 'emulation'.
+Khrushchevs) used to say that progress arises from healthy 'emulation'.
 But Proudhon identifies productive 'industrial' emulation with
 competition itself. Rivals for the same object, such as 'the woman for
 the lover', tend to emulate one another. With a note of sarcasm, Marx
