@@ -39,7 +39,7 @@ with eyes to see. We based our perspective on realities that did and do
 not to this day exist for Elbaum and his friends: the question of
 whether the Russian Revolution died in 1921 (Kronstadt) or 1927 (defeat
 of the Left Opposition) (in Elbaum's milieu the choice was between 1953
-(death of Stalin) and 1956 (Khruschev's speech to the 20th Party
+(death of Stalin) and 1956 (Khrushchev's speech to the 20th Party
 Congress)). "Eurocentrics" that we were, we took note of Stalin's
 treacherous and disastrous China policy in 1927 (which Mao tse-tung at
 the time had criticized from the right); of Stalin's treacherous and
@@ -137,7 +137,7 @@ the "four bads" were, for these people, decidedly not.
 Rosa Luxemburg and everything she stood for (including her memorable
 writings--no doubt Eurocentric--in primitive accumulation in the
 colonial world and her rich material on pre-capitalist societies
-everywhere in _Einfuehrung in die Nationaloekonomie_) meant nothing to
+everywhere in _Einführung in die Nationalökonomie_) meant nothing to
 these people. Her critiques of Lenin, in the earliest months of the
 Russian Revolution (not to mention before 1914), and of the right to
 national self-determination, did not exist. Elbaum and his friends were
@@ -201,7 +201,7 @@ project of the abolition of the law of value (i.e. the regimentation of
 social life by the socially necessary time of reproduction), existed for
 virtually no one in the 1960's, not for Elbaum, nor for me. But the
 _Monthly Review_/monopoly capital world view, in which capitalism was
-understood not as a valorization process but as a quasi-Duehringian
+understood not as a valorization process but as a quasi-Dühringian
 system ultimately of power and domination, meshed perfectly with the (in
 reality) populist world view of Elbaum et al. Through Baran and Sweezy a
 kind of left-wing Keynesianism pervaded this part of the left,
@@ -269,7 +269,7 @@ League for Proletarian Socialism (the latter name being a true
 _contradictio in adjecto_, inadvertently revealing bureaucratic dreams:
 Marxian socialism means the abolition of wage-labor and hence of the
 "proletariat" as the commodity form of human labor power). As indicated
-above, figures such as Korsch, Mattick, Castordiadis, and the early CLR
+above, figures such as Korsch, Mattick, Castoriadis, and the early CLR
 James (whatever their problems) can similarly be considered part of an
 ultra-left, and unlike the productions of Elbaum's milieu, their
 writings are eminently worth reading today. One Dutch Marxist organizing
@@ -284,7 +284,7 @@ source of inspiration for his milieu) to the French mass strike of 1968,
 which swept aside all self-appointed vanguards, "Marxist-Leninists"
 first of all. This is lost on Elbaum. By the early 1970's, Trotskyist
 groups had clearly out-organized the Marxist-Leninists, and for what
-it's worth, today the two largest Trotskyist groups, Lutte Ouvriere and
+it's worth, today the two largest Trotskyist groups, Lutte Ouvrière and
 Ligue Communiste, together account for 10% of the vote in French
 elections and are now larger than the Communist Party, without a
 Marxist-Leninist in sight. In Britain, similarly, Trotskyist groups
@@ -331,7 +331,7 @@ collectivizations, its massacre of the Bolshevik Old Guard in the Moscow
 Trials, its factories operating with killing speed-up under direct GPU
 control or its 20 million people in slave labor camps at the time of
 Stalin's death. For such a view, "revisionism" must therefore be
-Khruschev's (equally top-down) attempt to decompress (a bit) this
+Khrushchev's (equally top-down) attempt to decompress (a bit) this
 nightmare. The memory of Stalinist Russia still weighs on the
 consciousness of masses of people around the world as the seemingly
 inevitable outcome of trying to do away with capitalism, and reinforces
