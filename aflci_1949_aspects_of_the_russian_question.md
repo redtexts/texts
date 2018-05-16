@@ -168,7 +168,7 @@ best tradition of Marxist thought.
 These are:
 
 * Marx, Vol. I, of "Capital";
-* Engels, "Anti-Duhring"
+* Engels, "Anti-Dühring"
 * Bukharin, "ABC of Communism".
 
 Marx understood that the struggle of capital to enforce its property

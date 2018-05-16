@@ -688,7 +688,7 @@ longer exchange their products. Engels spoke of the disappearance of
 commodity production with the advent of socialism. In order to clarify
 the fact that these statements were not youthful errors, as is so often
 claimed by the Marxological rabble, we shall draw upon the "Critique of
-the Gotha Program" and _Anti-Duehring_.
+the Gotha Program" and _Anti-Dühring_.
 
 Stalinists of every stripe will speak of the dross in the works of the
 masters. They will perform a song and dance that proves they are
