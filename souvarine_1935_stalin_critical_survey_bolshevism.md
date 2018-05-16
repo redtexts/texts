@@ -2467,7 +2467,7 @@ knife of the guillotine_." Trotsky protests against intimidation in
 matters of theory, against any preconceived idea of orthodoxy: "Those
 who deny it are to be rejected. Those who doubt are near rejecting it.
 Those who question are near doubting...." As for the dictatorship of the
-proletariat, "Maximilian Lenin" and the Bolsheviks represent "_a
+proletariat, "Maximilien Lenin" and the Bolsheviks represent "_a
 dictatorship over the proletariat_."
 
 This controversy, in which Koba would have been embarrassed at having to
@@ -4920,7 +4920,7 @@ is the first article signed Stalin. Having become a politician on the
 Russian scale, Koba adopted, with secret satisfaction, a name with a
 Russian ending which expresses his master quality -- hard as steel.
 Rupert called Cromwell's men "Ironsides." Augustin Robespierre drew his
-brother Maximilian's attention to the young Bonaparte as "an iron
+brother Maximilien's attention to the young Bonaparte as "an iron
 soldier." Stalin did not wait for anybody to confer his metallic
 pseudonym.
 
@@ -16369,7 +16369,7 @@ a greater knowledge than certain comrades of the knaveries of the
 Opposition, and that he is less easily deceived. That is why Stalin is
 particularly attacked. Who is Stalin? Stalin is an unimportant
 individual. Take Lenin..." And he quoted yet again the old polemics from
-the days of emigration, when Trotsky harshly castigated "Maximilian
+the days of emigration, when Trotsky harshly castigated "Maximilien
 Lenin."
 
 On the question of the _Testament_, which the Opposition always raised,

@@ -1094,7 +1094,7 @@ Collective Action, 1996,
 Rachleff, Peter, "Soviet and Factory Committees in the Russian
 Revolution", In _Radical America_ Vol 8 #6, November-December 1994
 
-Rubel, Maximillian and Crump, John, _Non-Market Socialism in the 19th
+Rubel, Maximilien and Crump, John, _Non-Market Socialism in the 19th
 and 20th Centuries_, Macmillan, 1987
 
 Rühle, Otto, "From the Bourgeois to the Proletarian Revolution",

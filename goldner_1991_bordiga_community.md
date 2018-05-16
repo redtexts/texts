@@ -67,7 +67,7 @@ History, ever in advance of theory, is clearing away the debris of the
 statist legacy of Social Democracy and Stalinism. Today, the question of
 how the Marxian project became entwined, from the 1860's onward, with
 the statist project of Enlightened absolutism and its version of
-_Aufklaerung_ is more pressing than ever. Even more pressing, of course,
+_Aufklärung_ is more pressing than ever. Even more pressing, of course,
 is the question of how it can extricate itself.
 
 Attempts to focus on the centrality of the agrarian question in the
@@ -986,7 +986,7 @@ of materialism because it was a proto-state civil service in a
 development regime, and that its **economics**, codified in the Leninist
 theory of imperialism, were also the economics of that stratum. It is
 not real Marxism, because it tends to replace analyses of relations and
-forces of production with (ultimately Duehringian) analyses of "force".
+forces of production with (ultimately Dühringian) analyses of "force".
 From Lenin and Bukharin via Baran and Sweezy to Bettelheim and Amin to
 Pol Pot (recognizing tremendous discontinuity and degeneration but also
 continuity) the "monopoly capital" theory is the theory of state

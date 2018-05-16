@@ -2,7 +2,7 @@
 title: "Bourgeois Organization: The Lie of the 'Democratic' State"
 author: International Communist Current
 date: 1994
-description: "Writen by 'JJ' for International Review 76, in 1994. Available online at <https://en.internationalism.org/ir/076_index.html>."
+description: "Written by 'JJ' for International Review 76, in 1994. Available online at <https://en.internationalism.org/ir/076_index.html>."
 keywords: Democracy
 ...
 

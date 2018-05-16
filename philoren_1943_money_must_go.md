@@ -5779,7 +5779,7 @@ educational level has advanced for the same reason. To the people as a
 whole very little has been given--without the greater advantage
 accruing--to those who give. The people in this country, the people in
 practically every country are no less ready for WORLD COMMONWEALTH
-through their lack oi "higher" education, or scantiness of "culture."
+through their lack of "higher" education, or scantiness of "culture."
 These are no obstacles--lack of understanding is. What they lack now, in
 education, in "culture" and in everything else they need, they will in
 the WORLD COMMONWEALTH have opportunity of acquiring. Do not deprecate

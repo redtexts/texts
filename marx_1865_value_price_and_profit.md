@@ -325,7 +325,7 @@ quantity of labour employed. They asserted that the twelfth hour you
 wanted to take from the capitalist was exactly the only hour from which
 he derived his profit. They threatened a decrease of accumulation, rise
 of prices, loss of markets, stinting of production, consequent reaction
-upon wages, ultimate ruin. In fact, they declared Maximillian
+upon wages, ultimate ruin. In fact, they declared Maximilien
 Robespierre's Maximum Laws to be a small affair compared to it; and they
 were right in a certain sense. Well, what was the result? A rise in the
 money wages of the factory operatives, despite the curtailing of the

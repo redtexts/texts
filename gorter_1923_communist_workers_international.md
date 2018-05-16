@@ -514,7 +514,7 @@ enterprises. Thus the volume of banking business greatly and constantly
 increased in the Russian market.
 
 At the May (1922) session of the financial department, state bank
-director Aron Schiemann spoke on the Russian state bank after which the
+director Aron Sheinman spoke on the Russian state bank after which the
 financial section called for private banks.
 
 Stock exchanges were re-opened in the large towns. An army of

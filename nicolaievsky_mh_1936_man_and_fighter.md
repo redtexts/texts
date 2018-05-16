@@ -8989,7 +8989,7 @@ play hide-and-seek in the bushes.
 
 'But this placidity sometimes demanded a change, and we would run races,
 to say nothing of indulging in wrestling, stone-throwing and similar
-forms of sport. The greatest treat was a bgeneral donkey-ride. What
+forms of sport. The greatest treat was a general donkey-ride. What
 laughter and jubilation a general donkey-ride caused! And what comic
 scenes! And how Marx enjoyed himself and amused us too. He amused us
 doubly; in the first place by his more than primitive horsemanship and

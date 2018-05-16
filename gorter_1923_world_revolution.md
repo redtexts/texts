@@ -541,7 +541,7 @@ private persons and to the trusts which are partly State and partly
 private concerns, and that a constantly increasing bill of exchange
 business is being done.
 
-At a sitting of the Financial Department in April, 1923, Aron Scheimann,
+At a sitting of the Financial Department in April, 1923, Aron Sheinman,
 director of the Russian State Bank, said that the financial section was
 in favour of allowing private banks.
 

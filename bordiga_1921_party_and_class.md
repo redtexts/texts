@@ -2,7 +2,7 @@
 title: Party and Class
 author: Bordiga, Amadeo
 date: 1921
-description: Writen in 1921 for Rassegna Comunista, this English version was included with the Antagonism pamphlet 'Bordiga versus Pannekoek,' whose red texts version this comes from <https://www.marxists.org/archive/bordiga/works/1921/party-class.htm>.
+description: Written in 1921 for Rassegna Comunista, this English version was included with the Antagonism pamphlet 'Bordiga versus Pannekoek,' whose red texts version this comes from <https://www.marxists.org/archive/bordiga/works/1921/party-class.htm>.
 ...
 
 The Theses on the Role of the Communist Party in the Proletarian

@@ -444,7 +444,7 @@ free will of the buyer and seller exalted above all else. It is asserted
 that in order to eliminate social injustice, all that is required is to
 relate every commodity's exchange value to the value of the labour
 contained within it. Marx shows -- and will show later, pitting himself
-against Bakunin, against Lassalle, against Duhring, against Sorel and
+against Bakunin, against Lassalle, against Dühring, against Sorel and
 against all the latter-day pygmies mentioned above -- that what lies
 beneath all this is nothing other than the apologia, and the
 preservation, of bourgeois economy; incidentally, there is nothing
@@ -1822,7 +1822,7 @@ inevitably this right would be extended to all trust members, to all
 trust workers, who would thus be empowered to "buy" whatever they wanted
 after receiving their quota of money from their particular trade
 syndicate: in other words, their wages, just like today, the only
-alleged difference being that it would be 'undiminished' (as in Duhring,
+alleged difference being that it would be 'undiminished' (as in Dühring,
 Lassalle et al) by the bosses' profit margin.
 
 The bourgeois, Liberal, illusion of a system of trade unions existing
@@ -2176,7 +2176,7 @@ party (3-16 March, 1921) with the so-called "Workers' Opposition" (we've
 covered this topic in greater depth elsewhere in our study of Russia).
 We should remark that the oppositional stance put up by the Italian Left
 in 1920/21 (see our publication _La Question Parlementaire dans
-L'Internationale Comuniste_) was very different from the line of this
+L'Internationale Communiste_) was very different from the line of this
 opposition, which was harshly defined by Lenin as a "syndicalist and
 anarchist deviation within our party".
 

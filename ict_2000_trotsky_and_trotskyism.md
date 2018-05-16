@@ -595,7 +595,7 @@ In writing this Bukharin was only echoing Engels' observations of the
 >the more it becomes the real collective body of the capitalists, the
 >more citizens it exploits. The workers remain wage-earners,
 >proletarians. The capitalist relationship isn't abolished; it is rather
->pushed to the extreme... - _Anti-Duhring_, pp. 329-330.
+>pushed to the extreme... - _Anti-Dühring_, pp. 329-330.
 
 And this capital relationship, which is so basic to the Marxist
 definition of capitalism, is that between capital and wage labour.

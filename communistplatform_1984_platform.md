@@ -165,7 +165,7 @@ veritable groups of communist workers must explicitly reject the view
 that they are the "nuclei" of future Workers' Councils which would
 supposedly come from their own organisational expansion. They are
 fundamentally minority interventional organisations: no revolutionary
-mass self-organisation of the proletariat is evisageable outside of a
+mass self-organisation of the proletariat is envisageable outside of a
 revolutionary moment -- it cannot be "prefigured".
 
 ## Dictatorship of the Proletariat

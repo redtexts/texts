@@ -63,7 +63,7 @@ cease to exchange their products. Engels speaks of the disappearance of
 commodity production when socialism comes. And don't let anyone speak to
 us about an error of youth, as a whole rabble of marxologists has
 acquired the habit of doing. Our references are the Critique of the
-Gotha Programme and Anti-Duehring.
+Gotha Programme and Anti-Dühring.
 
 ## The end of property
 
