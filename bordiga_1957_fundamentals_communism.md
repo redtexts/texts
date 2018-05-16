@@ -613,7 +613,7 @@ all the other organisational forms and use their revolutionary potential
 to set themselves up in opposition to Party and State (Georges Sorel). A
 very hackneyed refrain. Today (1957), another "self-sufficient" form --
 the factory council -- is given pride of place under various guises by
-the Dutch "tribunists", Italian Gramscists, Jugoslavian Titoists, the
+the Dutch "tribunists", Italian Gramscists, Yugoslavian Titoists, the
 so-called Trotskyists, and a number of other batracomiomachian
 "left-wing" groups.
 

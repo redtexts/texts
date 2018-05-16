@@ -2,7 +2,7 @@
 title: Communism and Religion
 author: Pannekoek, Anton
 date: 1936
-description: Published in International Council Correspondence, vol. 6, no. 2, in May 1936. This text was unattributed to any author, but bibliographies confirm that Pannekoek wrote it. It certainly reflects Pannekoek's interest in the history of materialist philosophy. From <https://www.marxists.org/archive/pannekoe/1936/05/communism-religion.htm>. As with the MIA text, corrections to capitalization and spelling have not been made.
+description: Published in International Council Correspondence, vol. 2, no. 6, in May 1936. This text was unattributed to any author, but bibliographies confirm that Pannekoek wrote it. It certainly reflects Pannekoek's interest in the history of materialist philosophy. From <https://www.marxists.org/archive/pannekoe/1936/05/communism-religion.htm>. As with the MIA text, corrections to capitalization and spelling have not been made.
 ...
 
 ## I.
@@ -64,8 +64,8 @@ precluding any arbitrary interference. This provided the rising
 bourgeoisie with weapons of free critical thought in its struggle
 against the Church. There was also the fact that the peasants and
 bourgeoisie looked with envy upon the great neglected landed property of
-the Church, a domain which they themselves had liked to possess in orde
-[sic] to cultivate and improve it. And in the French Revolution of 17899
+the Church, a domain which they themselves had liked to possess in order
+to cultivate and improve it. And in the French Revolution of 1789
 they did, as a matter of fact, rob the Church of those possessions. In
 view of the enormous state deficit, that was the only way in which state
 bankruptcy could be avoided: the seizure and sale of the holdings of the
@@ -373,7 +373,7 @@ compendium of unconscious growth -- man's mastery over nature and the
 natural forces -- was now proudly proclaimed as the program of a
 consciously directed technico-scientific advance. Thus there arose in
 the bourgeoisie the consciousness of unlimited possibilities, the
-feeling of beeing [sic] capable of everything. This was especially true
+feeling of being capable of everything. This was especially true
 of the masters of production, the world's economic leaders, who saw
 themselves as the directors of human destiny. The spiritual reflex of
 this tendency was not so much materialism, insight into the natural
@@ -445,7 +445,7 @@ hence upon each of us differently in various particulars; and so the
 doctrines impressed upon us in youth and the traditions of earlier
 states of existence are gradually overcome, in one case more rapidly and
 in another more slowly. Differences may also occur in accordance with
-occupation: wherever workers are exposed to unforseen [sic] catastrophes
+occupation: wherever workers are exposed to unforeseen catastrophes
 -- as in the case of miners and fishermen -- even tho they may know that
 inadequate safety measures play a part under capitalism, there remains
 in their minds a deeply rooted religiosity.
@@ -504,7 +504,7 @@ belief and just as lacking in solid foundations as is religion.
 
 The atheism which is being propagated by the C.P. and the vague
 religiosity of many socialist circles are, one as much as the other,
-bourgeois mades [sic] of thought. Atheism and religion have this in
+bourgeois modes of thought. Atheism and religion have this in
 common, that they are unconscious expressions of a sentiment produced in
 human beings by society. They are accordingly both dogmatic; that is,
 they regard themselves as absolute truth and combat and persecute each
@@ -512,7 +512,7 @@ other because they hold the opposed ideas to be determining as regards
 the practical struggle. In making use of the name Materialism as the
 doctrine of reality -- the doctrine which investigates, with a view to
 understanding, only reality, the real forces of the world -- we at the
-same time deney [sic] that atheism has any right whatever to bear this
+same time deny that atheism has any right whatever to bear this
 name. As a descendant of bourgeois materialism, atheism sees, to be
 sure, the reality of nature, but not the reality of society, hence only
 that of the less significant half of the universe. Its value is that of
@@ -534,7 +534,7 @@ their intellectual dependence on Bolshevism, they came out in western
 Europe against religion with the same simple means with which the
 muzhiks were impressed in Russia. And of course it was not intended as
 serious combat, -- in such matters, that is beyond the capacities of the
-Russian Bolshewiks [sic], -- but was designed merely to harass the
+Russian Bolsheviks, -- but was designed merely to harass the
 bourgeoisie and to impress the workers with a bit of theatrical
 boldness. It is the old method of external appearance in the place of
 inner strength, -- a method which is at work also in their policy of

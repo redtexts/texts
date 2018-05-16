@@ -108,7 +108,7 @@ Imperialism and modern politics, says:
 >German colonial interests, but a general understanding which would have
 >covered the whole field of German-Franco relations. The points on which
 >he had begun to negotiate were all economic, and chief among them was a
->proposal to put an end to the boycott by French finance of the Bagdad
+>proposal to put an end to the boycott by French finance of the Baghdad
 >railway, and to admit German securities to quotation on the Paris
 >exchange."
 
@@ -149,16 +149,16 @@ humiliated it in 1909; not Austria but Servia was the first aggressor,
 when it inspired the murder of the Austrian prince"?--it but proves that
 a close examination of the question as to who was the aggressor, leads
 us into a tangled web of past quarrels and antagonisms. We come across
-Austria harrassing the Serbs striving for a large national state and
+Austria harassing the Serbs striving for a large national state and
 export harbors; Austria aiming to extend its powers over the Balkans;
 imperialistic conflicts between Russia and Germany in Armenia.
 
 The war of 1914 did not come because one nation attacked another
 voluntarily with malice aforethought; it came because at a certain
 degree of tension Russia and Germany both said to themselves: "If it
-must be le [sic], let it be now!" They grasped the opportunity. In the
+must be let, let it be now!" They grasped the opportunity. In the
 last days of July a fruitful attempt had been made to persuade Austria
-and Russia to come to terms in the Servian controversy; what prevented
+and Russia to come to terms in the Serbian controversy; what prevented
 peace was the ultimatum issued by Germany--according to England; was the
 mobilization of Russia--according to Germany. In reality there is no way
 of distinguishing the aggressor from the defender; each one attacks and

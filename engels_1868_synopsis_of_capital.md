@@ -910,7 +910,7 @@ is not more important than the use-value, surplus-labor is milder --
 e.g., among the ancients; only where direct exchange-value -- gold and
 silver -- was produced, surplus-labor was terrible. Likewise, in the
 slave states of America until the mass production of cotton for export.
-Likewise, corvee labor -- e.g., in Rumania.
+Likewise, corvee labor -- e.g., in Romania.
 
 Corvee labor is the best means of comparison with capitalist
 exploitation, because the former fixes and shows the surplus-labor as a

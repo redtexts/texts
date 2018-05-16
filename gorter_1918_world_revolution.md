@@ -5,9 +5,9 @@ date: 1918
 description: Originally published in 1918 in Dutch as De wereldrevolutie. It was written after the Russian Revolution but before the end of the First World War. Its arguments about the differences between the Western European and Russian revolutions anticipate Gorter's later Open Letter to Comrade Lenin. The English translation was made by Hugh McMillan and published in Glasgow by the Socialist Information and Research Bureau in 1920. In this red texts edition footnotes have been converted to numbered endnotes and the errata have been worked into the main body of the text. A scan of the pamphlet on which this version was based can be found at <https://archive.org/details/worldrevolution00gort>. Note that some words are illegible in the scan and are marked as such in this text.
 ...
 
-By Dr. Herman Gorter.  
-Professor of Moscow University.  
-Translated by Hugh McMillan.  
+By Dr. Herman Gorter.
+Professor of Moscow University.
+Translated by Hugh McMillan.
 1920.
 
 To the foremost fighter of the world's proletariat, Vladimir Ulianoff
@@ -77,8 +77,8 @@ bureaucracy possible to imagine.
 The war has taught Socialists many lessons.
 
 After four and a half years the patriots who were clamorous for "no
-compromise" triumped [sic] completely, with the result that the Ramsay
-Macdonalds could not tell where they were or how they stood.
+compromise" triumphed completely, with the result that the Ramsay
+MacDonalds could not tell where they were or how they stood.
 
 So it will be with these compromisers, these confusionists. That abyss
 into which they tell us we are leading the world is their own inevitable
@@ -243,7 +243,7 @@ If Germany is victorious that means that she can impose her own
 conditions. She will hold Belgium in her power; she will seize a still
 larger part of the coal-mining district of France; she will retain
 possession of Lithuania, Esthonia, Livonia, Courland, and Poland, and
-perhaps Finland. She will make Serbia, Albania, Montenegro and Rumania,
+perhaps Finland. She will make Serbia, Albania, Montenegro and Romania,
 and perhaps Greece, into dependencies of Austria. She will give Turkey
 territory up to the Persian Gulf. She will split Russia up into parts,
 making them German dependencies. She will rule the Balkans and Turkey;
@@ -434,7 +434,7 @@ And the spirit of this Imperialistic monopoly is the rough brutality and
 corruption of American Capitalism, united with the refined brigandage of
 the English, which makes their victims powerless.
 
-What a combination. Refined hypocracy and false democracy!
+What a combination. Refined hypocrisy and false democracy!
 
 And what will be the effect of this Imperialism on the proletariats of
 the world? The American-English banks, the American-English trusts, will
@@ -561,7 +561,7 @@ position.
 
 They divide the international proletariat and make its victory over
 Imperialism impossible. They are all, whether social-patriots,
-psuedo-Marxists [sic], or parties in neutral countries, playing the game
+pseudo-Marxists, or parties in neutral countries, playing the game
 of the German and English-American Imperialists, and of the
 international Capitalist classes, and Governments.
 
@@ -663,7 +663,7 @@ another way out.
 They had told the workers that after the war Imperialism and
 Imperialistic Capitalism would bring about disarmament, compulsory
 arbitration, a League of Nations, and a general peace. The Capitalists,
-the social-patriots, the psuedo-Marxists [sic], the Labour Party and the
+the social-patriots, the pseudo-Marxists, the Labour Party and the
 pacifist Socialists in England, the Majority and the Independents in
 Germany, the Majority and the Minority in France and Italy, and the
 Socialists in the United States, said this in order to hold back the
@@ -1009,7 +1009,7 @@ dripping with blood. They say: "The costs of another world-war would be
 too great in money and men." But the millions for the conquest of Africa
 and Asia will bring their fruit in the shape of billions of interest.
 
-Italy, Roumania, and the United States of America did not enter the war
+Italy, Romania, and the United States of America did not enter the war
 **before** they knew what it would cost.
 
 Is not this demand for unity laughable so long as the interests and
@@ -1349,7 +1349,7 @@ Capitalism.
 This is no prophecy -- it is only the plain, unvarnished truth -- a
 truth verified in actuality by the Russian Revolution.
 
-## Chapter 3: The Feasability of the Revolution
+## Chapter 3: The Feasibility of the Revolution
 
 Socialism emerges from the seas of blood and lies in which the world has
 been submerged by Capitalist Imperialism.
@@ -1415,7 +1415,7 @@ the revolution -- to the overthrow of Capitalism.
 
 Everything is now at hand and in alphabetical order that is necessary
 for the revolution. There are many things here which make the revolution
-feasible. Men and means -- material and spritual [sic] power for its
+feasible. Men and means -- material and spiritual power for its
 realisation, and the hunger need, the first and greatest -- indeed, the
 one and only maker of revolution -- are here.
 
@@ -2504,7 +2504,7 @@ divided. The peasant wanted the land. The revolutionary workers wanted
 them to have it. The peasants therefore joined forces with the workers.
 
 Herein lies the great difference between Russia and Western Europe. In
-the West, even in, England and Germany, there are not many propertiless
+the West, even in, England and Germany, there are not many propertyless
 farmers or peasants; and except in a few countries and districts there
 are not many large estates. On the contrary, in many European countries
 -- Germany, France, Scandinavia, Holland, Belgium -- middle-sized and
@@ -2684,7 +2684,7 @@ The Capitalists, in order to escape the danger of bankruptcy through
 disorganisation of production and National Debts, will be forced after
 the war to nationalise many undertakings, or to put them under State
 control. They will then take away the right to strike, reduce wages,
-increase he [sic] working hours, and speed up work to the highest
+increase the working hours, and speed up work to the highest
 possible pitch. In short, the workers will be State slaves.
 
 The programme of the German, English, Italian, and French reformists,

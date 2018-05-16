@@ -145,7 +145,7 @@ Communists (Stalinists) to the Trotskyites who in one voice advocate a
 labor party or a third party (if the democratic party cannot be reformed
 [Wallace]). The Stalinists have travelled from a program of "Socialism
 in one country" to a program for capitalism in all countries. The
-Trotzkyites have travelled from "Permanent Revolution" to "Permanent
+Trotskyites have travelled from "Permanent Revolution" to "Permanent
 Reform." Labor Parties and or Populist third Parties will repeat with
 mathematical exactness the record of defeat and demoralization inflicted
 upon the downtrodden of Europe by the labor Parties of the 2nd

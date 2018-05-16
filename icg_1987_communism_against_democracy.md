@@ -714,9 +714,9 @@ Scheidemann and Kautsky were able to express clearly the original
 content, the substance of social democracy... i.e. **bourgeois
 socialism**. The 'betrayal' of the revolutionary program doesn't
 suddenly date from 1914, but goes back to the years around 1875 when
-there came together the Lassalians and the already barely revolutionary
+there came together the Lassallians and the already barely revolutionary
 marxists (Bebel, Liebknecht, ...) at Gotha to round the social
-democratic party of sinister reputation. At this stage the Lassalians
+democratic party of sinister reputation. At this stage the Lassallians
 were already well integrated into the Bismarckian state. The
 autonomisation of leaders (and therefore of bureaucracy) can only exist
 at the heart of organisations, parties, etc. where the only things which

@@ -169,10 +169,10 @@ surrounding capitalist world. The real communist revolution depends on
 the deeper essential class nature of the proletariat.
 
 The working class of Europe and America have qualities in itself that
-enable it to rise with a great force. They are decendants [sic] of a
-middle class of artizans [sic] and farmers who for many centuries have
+enable it to rise with a great force. They are descendants of a
+middle class of artisans and farmers who for many centuries have
 worked their own soil or their own shop as free people. They therefore
-aquired [sic] skill and independence, capability and a strong
+acquired skill and independence, capability and a strong
 individuality to act for themselves, persistent industry and the habit
 of personal energy in work. These qualities the modern workers have
 inherited from their ancestors. Dominated thereafter during one or more
@@ -198,7 +198,7 @@ minority. As long as they do not actively take part, the revolution
 cannot be won; but When they do take part, they are not the people to be
 led in obedience by a party.
 
-Certainly a party in its ascendance [sic] consists of the class' [sic]
+Certainly a party in its ascendance consists of the class' [sic]
 best elements, exceeding the mass as a whole. Its leaders usually are
 the prominent forces in the party, embodying the great aims in their
 names, admired, hated, honored. They stand at the front and when a great
@@ -215,7 +215,7 @@ lost forever. A party, a group, leaders, have limited force which is
 entirely spent, is sacrificed in honor, or in dishonor in the events of
 the class struggle; the class itself draws upon an unlimited store.
 
-Prominant [sic] leaders can show the way, parties in their principles
+Prominent leaders can show the way, parties in their principles
 and platforms can express the ideas, the aims of the class only
 temporary. At first the class follows them, but then it has to pass them
 up, putting up bolder aims, higher ideas, conforming to the widening and
@@ -226,7 +226,7 @@ should remain the leader always, being theoretically false, in practice
 means strangling the class and leading it to its defeat.
 
 We will show how in the communist party this doctrine after its first
-glorious ascendance [sic] led to rapid decay.
+glorious ascendance led to rapid decay.
 
 ## II.
 
@@ -277,7 +277,7 @@ each strike that it was present to take part, or rightly to take the
 lead. The direction must be taken out of the hands of the trade union
 leaders, who do not have the right fighting spirit. The workers should
 lead themselves. The reason for this statement was because the working
-class, as you know, is represented by the C.P., therefor [sic] the Party
+class, as you know, is represented by the C.P., therefore the Party
 should lead them. Each success was used to advertise the Party. Instead
 of the communist education, which is a natural outcome of each big fight
 in capitalism, came the artificial aim: to increase the influence of the
@@ -286,7 +286,7 @@ party on the masses.
 Instead of the natural lesson, that communism is the salvation, came the
 artificial lesson that the communist party is the saviour. By its
 revolutionary talk, they caught and absorbed all the eager fighting
-spirit of the strikers, but diverted it to its own aims. Quarrles [sic]
+spirit of the strikers, but diverted it to its own aims. Quarrels
 which were injurious to the workers' cause were often the result.
 
 A continual fight was made against the social democratic party to
@@ -321,7 +321,7 @@ would be but unreliable allies ready to desert at the first contrariety.
 The working class in its revolution can only rely upon its own force.
 Other poor classes of society will often join them, but they cannot give
 additional weight of importance because the strong innate force which
-proletarian solidarity and master ship [sic] over production gives to
+proletarian solidarity and mastership over production gives to
 the working class is lacking in them. Therefore, even in rebellion, they
 are uncertain and fickle. What can be aimed at is that they will not be
 tools in the capitalists' hands. This cannot be obtained by promises.
@@ -359,7 +359,7 @@ everywhere in Germany the waves of nationalism went high, the C.P. also
 played the nationalistic game trying to compete with the capitalistic
 parties. In the Reichstag it proposed a companionship of the communist
 armed forces, the "red guards", with the German capitalist army
-(Reichwehr) [sic]. Here international politics played a part. Russia, at
+(Reichswehr). Here international politics played a part. Russia, at
 that time hostile to the western victorious governments, tried to make
 an alliance with Germany, hence the German communist party had to make
 friends with its own capitalist government.
@@ -384,7 +384,7 @@ Russian leaders have to tell their subjects that their
 state-capitalistic building-up of industrialism is the building-up of
 communism. Hence each new factory or electric power plant is hailed in
 the communist papers as a triumph of communism. In order to encourage
-the minds of the Russians in perserverance [sic], they were told by
+the minds of the Russians in perseverance, they were told by
 their papers that capitalist was nearly succumbing to a world revolution
 and envious of Russia, meditated to make war with Russia. This was
 repeated in the communist papers all over the world, while at the same
@@ -422,7 +422,7 @@ maltreatment. Not opening their brains, but breaking their skulls was
 the method employed against criticising fellow-workers. Thus young and
 eager fighters were educated into rowdies instead of educating them to
 become real communists. When the national revolution came, when national
-violence proved too far stronger and more irresistable [sic] than
+violence proved too far stronger and more irresistible than
 communist violence, numerous young workers who had learned nothing but
 to beat their leaders' adversaries, at once changed their colors and
 became just as zealous nationalists as they were before zealous

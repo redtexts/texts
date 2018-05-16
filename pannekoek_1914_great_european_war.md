@@ -9,7 +9,7 @@ Suddenly, like a meteor from the sky or an earthquake, the world-war has
 broken out over the unsuspecting and terrified nations of Europe. No one
 thought of war, no one really wanted it, princes and cabinet members
 were traveling or at bathing places--out came the ultimatum of Austria
-to the Servian government, and after a week of strenuous efforts to
+to the Serbian government, and after a week of strenuous efforts to
 preserve peace the nations one after the other slid down into the abyss
 as if drawn by an irresistible fate.
 
@@ -20,7 +20,7 @@ blame on individual persons. One alleges as the cause of the war the
 ambition of the German Kaiser; another the criminal frivolity of the
 Czar; another the jealousy of England. One who views the world from the
 standpoint of a peasant or shopkeeper asks how is such madness possible?
-Good-hearted idealogists are astonished that on the high plane of human
+Good-hearted ideologists are astonished that on the high plane of human
 culture such a senseless butchery of human beings can take place.
 
 They are all ignorant of the real world; they are now just learning that
@@ -54,7 +54,7 @@ A democratic autonomy would have won them for Austria, but this did not
 suit the court, bank and army camarilla in Vienna, and because this
 ruling clique had at hand all the military resources of a first-class
 modern state war against the restless foreign Serbs appeared to be the
-only means for solving the Servian question at home. The assassination
+only means for solving the Serbian question at home. The assassination
 of Crown Prince Franz Ferdinand served as a welcome pretext for this
 solution of the difficulty.
 
@@ -65,7 +65,7 @@ will not permit an extension of power in the Balkans by Austria; for
 behind Austria stands Germany.
 
 Austria is the advance guard which opens the way for Germany into Asia,
-where Germany on account of the Bagdad railroad has large capitalist
+where Germany on account of the Baghdad railroad has large capitalist
 interests. In Asia Minor and Armenia, German and Russian expansion came
 into contact with each other. It was only by the threats of Germany that
 the Czar was forced a year ago to desist from a plan to conquer Armenia.
@@ -87,7 +87,7 @@ to Mesopotamia.
 
 Economically considered, the antagonism between Germany and France is
 not so great as that between Germany and England. In Turkey French
-capital works fraternally with German. The Bagdad Railroad is a joint
+capital works fraternally with German. The Baghdad Railroad is a joint
 undertaking by German and French capital, which even in the struggle for
 mining concessions in Asia Minor make common cause against the
 English-American group (Ernest Cassel, Kuhn-Loeb). When there was a lack
@@ -112,7 +112,7 @@ Germany had long had its eye on the Congo state to round out its African
 possessions. This, together with strategical considerations, was the
 reason for drawing Belgium into the strife.
 
-The social democratic parliamentarians of Belgium, Vandevelde and his
+The social democratic parliamentarians of Belgium, Vandervelde and his
 friends, who some years ago were eager to have the Congo state made a
 Belgian colony, did a poor service for the Belgian working class by this
 high play of statesmanship.
@@ -240,7 +240,7 @@ frequently nothing but petty bourgeois Philistinism, which dreaded every
 fresh initiative, and especially was there a lack of understanding of
 modern politics.
 
-In "_Vorwaertz_" and other newspapers the policies of the government and
+In "_Vorwärts_" and other newspapers the policies of the government and
 militarism were criticised according to the old schedule. They scolded
 the stupidity and ridiculed the incompetence of official personages and
 tried to convince the bourgeoisie that their politics were unreasonable,
@@ -316,7 +316,7 @@ Had this beginning of revolutionary aggression continued, then the
 German government would have had too much to do with its internal
 troubles to think about war. The fact that this tactic came to an end
 after the brilliant conflicts of 1910 means an acknowledgment of its own
-weakness by the party. Since then a luke-warm spirit, adverse to sharp
+weakness by the party. Since then a lukewarm spirit, adverse to sharp
 conflict, got the upper hand in the movement. The bureaucracy at the top
 became ever stronger and was disinclined to risk itself in revolutionary
 struggles.
@@ -346,7 +346,7 @@ question _how_ the war could be resisted was never even raised, because
 the question _whether_ the war ought to be resisted was not even
 answered with a decisive _Yes_. Among the workers was a lack of spirit
 to come out against the war. More than that, in wide circles, even among
-party members, they were for the war. In the "_Vorwaertz_" and many
+party members, they were for the war. In the "_Vorwärts_" and many
 other party papers the war was set forth as a "war against the
 blood-czar," a war against Russian barbarism. They cited Karl Marx, who
 in 1848 had urged Germany to a war against Russia; they overlooked the
@@ -364,7 +364,7 @@ the masses by our press day in and day out, then the workers would not
 so easily have become the victims of bourgeois patriotic phrases.
 
 Now, however, it appeared to the workers, who had always learned to hate
-most of all the grewsome Russian czarism, that the German government,
+most of all the gruesome Russian czarism, that the German government,
 which formerly cultivated an intimate friendship with the czar's regime,
 had really been converted to the views of the proletariat in order to
 wipe out that disgrace of Europe, the bloody rule of the Cossack lash.

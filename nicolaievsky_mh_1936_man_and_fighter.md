@@ -130,27 +130,27 @@ B. NICOLAIEVSKY OTTO MAENCHEN-HELFEN
 
 ## Contents
 
-[Chapter 01: Origins and Childhood][]  
-[Chapter 02: A Happy Year at Bonn][]  
-[Chapter 03: Jenny von Westphalen][]  
-[Chapter 04: Student Years in Berlin][]  
-[Chapter 05: Philosophy under Censorship][]  
-[Chapter 06: The Germans Learn French][]  
-[Chapter 07: The Communist Artisans of Paris][]  
-[Chapter 08: The Life-long Friend][]  
-[Chapter 09: Clarification][]  
-[Chapter 10: Face to Face with Primitive Communism][]  
-[Chapter 11: The Communist League][]  
-[Chapter 12: The Revolutionary Tempest][]  
-[Chapter 13: The 'Mad Year' in Cologne][]  
-[Chapter 14: Defeat with Honour][]  
-[Chapter 15: The End of the Communist League][]  
-[Chapter 16: The Sleepless Night of Exile][]  
-[Chapter 17: The International Working Men's Association][]  
-[Chapter 18: Michael Bakunin][]  
-[Chapter 19: The Franco-Prussian War][]  
-[Chapter 20: The Downfall of the International][]  
-[Chapter 21: The Last Ten Years][]  
+[Chapter 01: Origins and Childhood][]
+[Chapter 02: A Happy Year at Bonn][]
+[Chapter 03: Jenny von Westphalen][]
+[Chapter 04: Student Years in Berlin][]
+[Chapter 05: Philosophy under Censorship][]
+[Chapter 06: The Germans Learn French][]
+[Chapter 07: The Communist Artisans of Paris][]
+[Chapter 08: The Life-long Friend][]
+[Chapter 09: Clarification][]
+[Chapter 10: Face to Face with Primitive Communism][]
+[Chapter 11: The Communist League][]
+[Chapter 12: The Revolutionary Tempest][]
+[Chapter 13: The 'Mad Year' in Cologne][]
+[Chapter 14: Defeat with Honour][]
+[Chapter 15: The End of the Communist League][]
+[Chapter 16: The Sleepless Night of Exile][]
+[Chapter 17: The International Working Men's Association][]
+[Chapter 18: Michael Bakunin][]
+[Chapter 19: The Franco-Prussian War][]
+[Chapter 20: The Downfall of the International][]
+[Chapter 21: The Last Ten Years][]
 
 ## Chapter 01: Origins and Childhood
 
@@ -1451,7 +1451,7 @@ Strauss found anything but support among the Hegelians of Berlin. The
 essays published by Bruno Bauer in 1835 and 1836 were among the most
 trenchant of the attacks that were made on him. Bauer flatly denied the
 right of philosophy to criticise Christian dogma, and he did so with
-such dogmatism and violence that Strauss confidentally [sic] predicted
+such dogmatism and violence that Strauss confidentially predicted
 that he would end up in the camp of the extreme bigots. Bauer took a
 different path, however, and it was the bigots who forced him down it.
 Apart from the fact that their attack was directed at the philosophy of
@@ -1524,7 +1524,7 @@ necessarily follow from the new interpretation put upon it by
 philosophers. In other words a virtue was made of impotence. This earned
 the club the following lampoon in classical metre:
 
->So far our deeds are all words and are like to remain so;  
+>So far our deeds are all words and are like to remain so;
 >Abstractions we have in our minds are bound to come true of
 >themselves.1
 
@@ -1566,13 +1566,13 @@ turbulent, quick-witted, as bold in posing problems as in solving them.
 In the _Christliches Heldengedicht_, written in 1842, after Marx had
 left Berlin, Marx appeared as the club remembered him:
 
->Who's this approaching who thus rants and raves?  
->'Tis the wild fury, black-maned Marx of Treves;  
->See him advance, nay spring upon the foe  
->As though to seize and never let him go.  
->See him extend his threatening arms on high  
->To seize the heavenly canopy from the sky;  
->See his clenched fists, and see his desperate air,  
+>Who's this approaching who thus rants and raves?
+>'Tis the wild fury, black-maned Marx of Treves;
+>See him advance, nay spring upon the foe
+>As though to seize and never let him go.
+>See him extend his threatening arms on high
+>To seize the heavenly canopy from the sky;
+>See his clenched fists, and see his desperate air,
 >As though ten thousand devils had him by the hair.2
 
 It must not be supposed that the 'Doktorklub' confined itself to
@@ -1640,7 +1640,7 @@ able to teach at Bonn by his friend's side.
 
 On March 30, 1841, he received his leaving-certificate from Berlin
 University. On April 6 he sent to Jena a dissertation on 'The difference
-between the natural philosophies of Democrites [sic?] and the
+between the natural philosophies of Democritus and the
 Epicureans.' Certain negotiations appear to have preceded this step. The
 University of Jena was celebrated at the time for the readiness with
 which it granted doctor's degrees. It lived up to its reputation. A week
@@ -1650,16 +1650,16 @@ Marx's official student years were at an end.
 
 ### Chapter 04 notes
 
-1: _Unsere Taten sind Worte bis jetzt und noch lange  
+1: _Unsere Taten sind Worte bis jetzt und noch lange
 Hinter die Abstraktion stellt sich die Praxis von selbst_.
 
-2: _Wer jaget hinterdrein mit wildem Ungestüm?  
-Ein schwarzer Kerl aus Trier, ein markhaft Ungetüm.  
-Er gehet, hüpfet nicht, er springet auf den Hacken  
-Und raset voller Wut und gleich als wollt' er packen  
-Das weite Himmelszelt und zu der Erde ziehn  
-Streckt er die Arme sein weit in die Lüfte hin.  
-Geballt die böse Faust, so tobt er sonder Rasten,  
+2: _Wer jaget hinterdrein mit wildem Ungestüm?
+Ein schwarzer Kerl aus Trier, ein markhaft Ungetüm.
+Er gehet, hüpfet nicht, er springet auf den Hacken
+Und raset voller Wut und gleich als wollt' er packen
+Das weite Himmelszelt und zu der Erde ziehn
+Streckt er die Arme sein weit in die Lüfte hin.
+Geballt die böse Faust, so tobt er sonder Rasten,
 Als wenn ihn bei den Schopf zehntausend Teufel fassten_.
 
 ## Chapter 05: Philosophy under Censorship
@@ -2286,11 +2286,11 @@ so sought after that as much as from eight to ten silver groschen were
 paid for a copy. The _Rheinische Zeitung_ took its departure with a
 poem:
 
->We boldly flew the flag of freedom, and every member of the crew did his  
->duty. In spite of the watch having been kept in vain, the voyage was good and  
->we do not regret it. Though the gods were angry, though our mast fell, we were  
->not intimidated. Columbus himself was despised at first, but he looked upon the  
->New World at last. Friends who applauded us, foes who fought us, we shall  
+>We boldly flew the flag of freedom, and every member of the crew did his
+>duty. In spite of the watch having been kept in vain, the voyage was good and
+>we do not regret it. Though the gods were angry, though our mast fell, we were
+>not intimidated. Columbus himself was despised at first, but he looked upon the
+>New World at last. Friends who applauded us, foes who fought us, we shall
 >meet again on the new shore. If all collapses, courage remains
 >unbroken.3
 
@@ -2316,7 +2316,7 @@ lesquelles le raisonnemont de ces articles avait été basé, manquaient de
 fondement et de tout motif raisonnable. Cette réfutation n'était point
 inconnue á Mr. le Vice-Chancelier; mais il m'a avvué, qu'elle ne
 suffisait pas, pour lui faire comprendre, comment un censeur employé par
-le gouvornement de Votre Majesté avait pu laisser passer un article
+le gouvernement de Votre Majesté avait pu laisser passer un article
 d'une nature semblable, qui, selon lui, surpassait encore do beaucoup,
 en perfidie et en violence, tout ce qui avait été publié jusqu'ici dans
 los feuilles Prussiennes contre le gouvernement Imperial. Il y a ajouté
@@ -2338,19 +2338,19 @@ assuré, que l'Empereur ne connaissait probablement pas encore l'article
 en question parce que, pour sa part, il avait hésité jusqu'ici à le
 placer sous les yeux de Sa Majesté Imperiale_.'
 
-3: _Wir liessen kühn der Freiheit Fahne wehen  
-Und ernst tat jeder Schiffman seine Pflicht,  
-War d'rum vergebens auch der Mannschaft Spähen:  
+3: _Wir liessen kühn der Freiheit Fahne wehen
+Und ernst tat jeder Schiffman seine Pflicht,
+War d'rum vergebens auch der Mannschaft Spähen:
 Die Fahrt war schön and sie gereut uns nicht_.
 
-_Dass uns der Götter Zorn hat nachgetrachtet  
-Es schreckt uns nicht, dass unser Mast gefällt.  
-Denn auch Kolumbus ward zuerst verachtet  
+_Dass uns der Götter Zorn hat nachgetrachtet
+Es schreckt uns nicht, dass unser Mast gefällt.
+Denn auch Kolumbus ward zuerst verachtet
 Und endlich sah er doch die neue Welt_.
 
-_Ihr Freunde, deren Beifall uns geworden,  
-Ihr Gegner, die ihr uns mit Kampf geehrt  
-Wir seh'n uns wieder einst an neuen Borden,  
+_Ihr Freunde, deren Beifall uns geworden,
+Ihr Gegner, die ihr uns mit Kampf geehrt
+Wir seh'n uns wieder einst an neuen Borden,
 Wenn Alles bricht, der Mut bleibt unversehrt_.
 
 ## Chapter 06: The Germans Learn French
@@ -3216,21 +3216,21 @@ afterwards with his daughter, who was barely one year old.
 
 ### Chapter 07 notes
 
-1: _Auch nach Weibergemeinschaft steht ihr Sinn,  
-Abschaffen woll'n sie die Ehe,  
-Dass alles in Zukunft ad libitum  
-Miteinander zu Bette gehe:  
-Tartar und Mongole mit Griechenfrau'n,  
-Cherusker mit gelben Chinesen,  
-Eisbären mit schwedischen Nachtigall'n,  
-Türkinnen und Irokesen,  
-Tranduftende Samoyedinnen soll'n  
-Zu Briten and Römern sich betten,  
-Plattnasige düstre Kaffern zu  
-Alabasterweissen Grisetten.  
-Ja, ändern wird sich die ganze Welt  
-Durch diese moderne Leitung-  
-Doch die schonsten Weiber bekommen die  
+1: _Auch nach Weibergemeinschaft steht ihr Sinn,
+Abschaffen woll'n sie die Ehe,
+Dass alles in Zukunft ad libitum
+Miteinander zu Bette gehe:
+Tartar und Mongole mit Griechenfrau'n,
+Cherusker mit gelben Chinesen,
+Eisbären mit schwedischen Nachtigall'n,
+Türkinnen und Irokesen,
+Tranduftende Samoyedinnen soll'n
+Zu Briten and Römern sich betten,
+Plattnasige düstre Kaffern zu
+Alabasterweissen Grisetten.
+Ja, ändern wird sich die ganze Welt
+Durch diese moderne Leitung-
+Doch die schonsten Weiber bekommen die
 Redakteure der_ Rheinischen Zeitung.
 
 2: '_C'est surtout à Paris que les communistes allemands ont établi le
@@ -3698,7 +3698,7 @@ popular poet in Germany. Devoted to the ideal of 'pure art,' he held it
 to be unworthy of the poet to descend into the contemporary arena. His
 verses:
 
->The poet stands on a high watch-tower  
+>The poet stands on a high watch-tower
 >As on the party battlements--1
 
 were later quoted to satiety. He had no objection to accepting the
@@ -3957,7 +3957,7 @@ aim--clarification.'
 
 ### Chapter 09 notes
 
-1: _Der Dichter steht auf einer höh'ren Warte  
+1: _Der Dichter steht auf einer höh'ren Warte
 Als auf den Zinnen der Partei_.
 
 ## Chapter 10: Face to Face with Primitive Communism
@@ -5091,7 +5091,7 @@ Marx was in the midst of revolutionary Paris.
 
 The first sign of revolution came from Switzerland in November, 1847.
 
->The first shot was fired in the high country  
+>The first shot was fired in the high country
 >Against the priests.1
 
 The reactionary cantons which formed the Roman Catholic League rose
@@ -5115,8 +5115,8 @@ demonstrations in Lombardy, and in some places the demonstrations
 developed into open fighting. In January insurrection broke out in the
 south, in Sicily.
 
->The dance started in the South; Scylla and Charybdis,  
->Vesuvius and Etna burst forth, outbreak on outbreak,  
+>The dance started in the South; Scylla and Charybdis,
+>Vesuvius and Etna burst forth, outbreak on outbreak,
 >blow on blow.2
 
 The revolutionaries defeated the troops of the Bourbon Ferdinand of
@@ -5694,12 +5694,12 @@ Republic was flying from the Palais Royal and Germany was in flames.
 
 ### Chapter 12 notes
 
-1: _Im Hochland fiel der erste Schuss,  
+1: _Im Hochland fiel der erste Schuss,
 Im Hochland wider die Pfaffen_.
 
-2: _Drauf ging der Tanz in Welschland los  
-Die Scyllen und Charybden,  
-Vesuv und Aetna brachen los,  
+2: _Drauf ging der Tanz in Welschland los
+Die Scyllen und Charybden,
+Vesuv und Aetna brachen los,
 Ausbruch auf Ausbruch, Stoss auf Stoss_. ...
 
 3: '_en identifiant la cause de la nationalité à la cause de la
@@ -6616,7 +6616,7 @@ Democrats of Germany, employed its most powerful arguments, used the
 glowing verses of Freiligrath, urging them to make Vienna's cause their
 own:
 
->If we could only kneel we should down on our needs  
+>If we could only kneel we should down on our needs
 >If we could only pray, we should pray for Vienna.1
 
 The Left produced their usual resounding rhetorical phrases in praise of
@@ -6741,7 +6741,7 @@ the 'social-republican revolution.'
 'Social-republican,' was the term he used, not 'Socialist' or
 'proletarian.' The seventeen points of the programme of the Communist
 League had demanded a republic with socialistic institutions, a Republic
-with equal suffagae [sic] for all, which should free the peasants of all
+with equal suffrage for all, which should free the peasants of all
 feudal burdens, assure the workers a livelihood by national workshops,
 the breaking of the power of the aristocracy of finance for the benefit
 of industry and the petty-bourgeoisie, a state bank to replace the
@@ -7072,7 +7072,7 @@ themselves 'slandered' every other minute. Among those who complained
 were Drigalski, a high official named Zweiffel, a policeman, and Hecker,
 the attorney-general. Some of their objections were so absurd that they
 had obviously been inspired from above. For instance, after Marx printed
-a repuplicam [sic] appeal by the notorious Gustav Hecker, Hecker, the
+a republican appeal by the notorious Gustav Hecker, Hecker, the
 attorney-general, protested at his not having pointed out that Gustav
 Hecker was not the same man. He claimed that this omission might
 possibly have led the reader to suppose that he, an official of royal
@@ -7348,20 +7348,20 @@ hesitation into the ranks of the insurrectionary army.
 
 ### Chapter 14 notes
 
-1: _Wenn wir noch knien könnten, wir lägen auf den Knien  
+1: _Wenn wir noch knien könnten, wir lägen auf den Knien
 Wenn wir noch beten könnten, wir beteten für Wien_.
 
-2: _...Auf der Lippe den Trotz und den zuckenden Hohn,  
-In der Hand den blitzenden Degen,  
-Noch im Sterben rufend: Die Rebellion!  
-So bin ich in Ehren erlegen...  
-Nun Ade, nun Ade, du kämpfende Welt,  
-Nun Ade, ihr ringenden Heere!  
-Nun Ade, du pulvergeschwärztes Feld,  
-Nun Ade, ihr Schwerter und Speere!  
-Nun Ade, doch nicht für immer Ade!  
-Denn sie toten den Geist nicht, ihr Brüder!  
-Bald richt'ich mich rasselnd in die Höh.  
+2: _...Auf der Lippe den Trotz und den zuckenden Hohn,
+In der Hand den blitzenden Degen,
+Noch im Sterben rufend: Die Rebellion!
+So bin ich in Ehren erlegen...
+Nun Ade, nun Ade, du kämpfende Welt,
+Nun Ade, ihr ringenden Heere!
+Nun Ade, du pulvergeschwärztes Feld,
+Nun Ade, ihr Schwerter und Speere!
+Nun Ade, doch nicht für immer Ade!
+Denn sie toten den Geist nicht, ihr Brüder!
+Bald richt'ich mich rasselnd in die Höh.
 Bald kehr ich reisiger wieder_!
 
 ## Chapter 15: The End of the Communist League
@@ -12658,8 +12658,8 @@ But that was not enough for him. He wanted to be foremost, and in order
 to enhance his reputation as a revolutionary he started inventing
 stories of his adventurous past: first he said he had been a prisoner in
 the Peter and Paul Fortress. Then he added an account of his daring
-escape. The majority of his listeners accepted all this inquestioningly
-[sic?], and were filled with indignation at the stories he told of his
+escape. The majority of his listeners accepted all this unquestioningly,
+and were filled with indignation at the stories he told of his
 treatment by the prison warders, and a students' meeting was actually
 called and a delegation actually approached the university authorities.
 Nevertheless there were some who doubted. Some of the details of
@@ -12844,7 +12844,7 @@ remarkable passages are quoted below:
 >us in the unpleasant position of being compelled to resort to less
 >civilised measures. ...
 
->'AMSKIY,  
+>'AMSKIY,
 >'Secretary to the Bureau.'
 
 Bakunin subsequently stoutly denied that he knew anything of the

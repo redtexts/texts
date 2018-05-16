@@ -8,18 +8,18 @@ keywords: USSR
 
 ## Table of Contents
 
-[Foreword][]  
-[Chapter 01: Sosso][]  
-[Chapter 02: The Years of Apprenticeship][]  
-[Chapter 03: Prologue to Revolution][]  
-[Chapter 04: A Professional Revolutionary][]  
-[Chapter 05: The Revolution][]  
-[Chapter 06: The Civil War][]  
-[Chapter 07: The Soviet Republic][]  
-[Chapter 08: The Heritage][]  
-[Chapter 09: The Inheritor][]  
-[Chapter 10: Stalin][]  
-[Postscript][]  
+[Foreword][]
+[Chapter 01: Sosso][]
+[Chapter 02: The Years of Apprenticeship][]
+[Chapter 03: Prologue to Revolution][]
+[Chapter 04: A Professional Revolutionary][]
+[Chapter 05: The Revolution][]
+[Chapter 06: The Civil War][]
+[Chapter 07: The Soviet Republic][]
+[Chapter 08: The Heritage][]
+[Chapter 09: The Inheritor][]
+[Chapter 10: Stalin][]
+[Postscript][]
 
 ## Foreword
 
@@ -131,7 +131,7 @@ new dominant class. This time Stalin dictated the notice himself:
 >Tiflis, militant from 1897 onwards, one of the original Bolsheviks;
 >imprisoned in 1901 for having directed strikes at Baku, deported to
 >Eastern Siberia, escaped and returned to the Caucasus to take part in
->the Party's illegal activities. Was present in 1905 at the Tammersfors
+>the Party's illegal activities. Was present in 1905 at the Tammerfors
 >Congress; delegate to the Stockholm and London Conferences of the
 >Russian Social-Democrats; in 1907 made the Baku organisation the
 >stronghold of Bolshevism in the Caucasus. Arrested and deported in 1908
@@ -2995,18 +2995,18 @@ impossible."
 
 The revolution died down without being able to strike the decisive blow
 because attack was not simultaneous everywhere, because there was no
-conciousness of solidarity between town and country, no co-ordination of
-the elemental forces unchained, because there was no general
+consciousness of solidarity between town and country, no co-ordination
+of the elemental forces unchained, because there was no general
 organisation or direction. Its scattered efforts were broken by an army
 in the main faithful to the old regime. But absolutism had tottered
 under the shock. An embryo constitution, a sort of parliament had been
 gained. The political impotence of the bourgeoisie as a class had been
 revealed. Its revolutionary intellectuals had thrown in their lot with
-the proletariat in the course of the struggle. All the socialist parties
-emerged from the fight greater in prestige if not in numbers. Anarchism
-had failed under the test of experience. Finally, the October strike
-left a great example, the unforgettable lesson of the St. Petersburg
-Soviet.
+the proletariat in the course of the struggle. All the socialist
+parties emerged from the fight greater in prestige if not in numbers.
+Anarchism had failed under the test of experience. Finally, the October
+strike left a great example, the unforgettable lesson of the St.
+Petersburg Soviet.
 
 No theorist had foreseen the Soviets or the role they were to play in
 the future. The Mensheviks could claim the largest share in their
@@ -4889,7 +4889,7 @@ general unification were futile. Trotsky recognised the fact, and went
 to the Balkans as war correspondent for a Kiev newspaper. There he
 studied military questions, not without profit for the future, and
 formed a close friendship with Christian Rakovsky, the leader of
-Roumanian socialism, and one of the most attractive figures in
+Romanian socialism, and one of the most attractive figures in
 international socialism. Lenin, foreseeing the approach of a
 revolutionary upheaval in Russia, left Paris for Cracow, where
 communications across the Austrian frontier were easier and more rapid.
@@ -7960,7 +7960,7 @@ armed revolt. On the lower Volga, Krasnov's Cossacks were approaching
 Tsaritsyn. In the Kuban the first volunteers of Denikin's future army
 were assembling to the south of the Caspian; Whites with some English
 officers from Persia threatened the Baku Commune, then in the hands of
-the Reds. On the Roumanian frontier Bessarabia was invaded. In the Far
+the Reds. On the Romanian frontier Bessarabia was invaded. In the Far
 East the Japanese were landing at Vladivostok, and, but for the
 opposition of the United States, would have advanced along the
 Trans-Siberian railway, and re-established "order" in Asiatic Russia,
@@ -9694,7 +9694,7 @@ the illegal arrest of "whole provincial executive committees." He said
 from the tribune: "It's all very well to talk of electoral rights, of
 the dictatorship of the proletariat, of the tendency of the Central
 Committee to the dictatorship of the Party; in fact, this leads to the
-dicatorship [sic] of the bureaucracy of the Party." And he asked Lenin
+dictatorship of the bureaucracy of the Party." And he asked Lenin
 _whether he believed that the salvation of the revolution lay in
 mechanical obedience_. A workman, Lutovinov, said: "The Central
 Committee, and especially its Orgbureau, has been transformed from a
@@ -10640,7 +10640,7 @@ a number of circumstances.
 The main idea of his Party was crystallised in the simple and almost
 mystical belief that the interests of humanity should be represented
 exclusively by an ideal proletariat, this proletariat in its turn by a
-transcendant [sic] Central Committee, and that Committee by its
+transcendent Central Committee, and that Committee by its
 Politbureau. In his capacity of Secretary Stalin might, then, regard
 himself as the pivot of the Soviet system, a miniature Russian model of
 the future universal socialist republic, the Party being identified with
@@ -11967,7 +11967,7 @@ alcohol and alcoholism involved, among other things, the danger of
 making the Soviet revenue independent of the progress of national
 prosperity, and the bureaucratic hierarchy independent of the Party. The
 prohibition of any discussion even of this unfortunate scheme was an
-indication of danger, corrobated [sic] by the dismissal of an editor of
+indication of danger, corroborated by the dismissal of an editor of
 _Pravda_ for the sole crime of having demanded free examination of the
 project.
 
@@ -12146,7 +12146,7 @@ Possible to embark upon a new stage. The democratic opposition
 understood this and worked for it. The triumvirate pretended to
 understand, but their mental reservations soon hardened. The
 ill-informed majority gave their approval to both without clearly
-understanding the divergencies [sic]. Clearly the "new course" could
+understanding the divergences. Clearly the "new course" could
 only be realised by the collective intelligence and energy of the Party;
 a handful of well-meaning men would be powerless against the
 conservatism inherent in the machine. Failing this unanimous effort, the
@@ -13717,9 +13717,9 @@ sheds light on a certain aspect of Leninism, both in essence and in form
 -- a crude Russo-Asiatic duplicity expressed in a self-styled Marxian
 terminology.
 
->4 Consider the discussion as ended.  
->5 Continue and develop the work of the Party so as to explain from begin from 1903 down to _The Lessons of October_, and charge the Political Bureau to furnish all the propaganda organisations (Party schools and others) with the necessary explanations on the subjects; insert in the curricula of political instruction explanations of the petty-bourgeois nature of Trotskyism, etc.  
->6 In addition to explanatory propaganda in the Party, the Young Communists, etc., a broad popular explanation of the deviations of Trotskyism is indispensable for the worker and the peasant masses.  
+>4 Consider the discussion as ended.
+>5 Continue and develop the work of the Party so as to explain from begin from 1903 down to _The Lessons of October_, and charge the Political Bureau to furnish all the propaganda organisations (Party schools and others) with the necessary explanations on the subjects; insert in the curricula of political instruction explanations of the petty-bourgeois nature of Trotskyism, etc.
+>6 In addition to explanatory propaganda in the Party, the Young Communists, etc., a broad popular explanation of the deviations of Trotskyism is indispensable for the worker and the peasant masses.
 
 Disparagement Of Trotsky thus took a permanent place at the moment when
 the rulers were pretending to suspend it. Any objection or
@@ -15284,7 +15284,7 @@ their allegiance to the theses of the Left which they had recently
 violently abused for imaginary "Trotskyism." Later, they worked
 themselves into a state of indignation over the permanent state of siege
 then existing in the Party, but it did not occur to them to demand the
-restitution of consitutional [sic] liberty for everyone else in the
+restitution of constitutional liberty for everyone else in the
 State at the same time. Their opponents reminded them in vain of their
 own violent attacks on Trotsky, their demands for his expulsion, even
 his imprisonment, with quotations from their own articles and oratorical
@@ -18902,7 +18902,7 @@ executions decided by the G.P.U. without any other form of trial. At
 this period thousands of such cases were to be found in the press,
 though it did not announce all of them; and the orgy of murders was to
 continue further. This is borne out by the execution (March 1933) of
-thirty-five functionaries of the Commissiariat [sic] of Agriculture
+thirty-five functionaries of the Commissariat of Agriculture
 accused of having "allowed weeds to grow in the fields" and other
 charges of the same nature. Publicity was only given in certain cases
 and where it might serve to set an example. It happened sometimes that
@@ -19193,17 +19193,17 @@ In the elementary style which is so typical of him, Stalin summed up
 before the Central Committee the general balance-sheet of
 industrialisation carried out according to his methods:
 
->Formerly we did not have an iron and steel industry, the basis of the industrialisation of the country. Now we have such an industry.  
->We did not have a tractor industry. Now we have one.  
->We did not have an automobile industry. Now we have one.  
->We did not have an engineering industry. Now we have one.  
->We did not have an important and modern chemical industry. Now we have one.  
->We did not have a real and important industry for the production of modern agricultural machinery. Now we have one.  
->We did not have an aircraft industry. Now we have one.  
->In the production of electric power, we were last in the list. Now we are among the first in the list.  
->In the production of oil products and coal we were last in the list. Now we are among the first in the list.  
->We had only one single coal and metallurgical base, the Ukraine, which we could hardly manage. We have not only succeeded in improving this base, but we have created a new coal and metallurgical base -- in the east, which is the pride of our country.  
->We had only one single textile industry base-in the north of our country. In the very near future we will have two new bases of the textile industry, in Central Asia and Eastern Siberia.  
+>Formerly we did not have an iron and steel industry, the basis of the industrialisation of the country. Now we have such an industry.
+>We did not have a tractor industry. Now we have one.
+>We did not have an automobile industry. Now we have one.
+>We did not have an engineering industry. Now we have one.
+>We did not have an important and modern chemical industry. Now we have one.
+>We did not have a real and important industry for the production of modern agricultural machinery. Now we have one.
+>We did not have an aircraft industry. Now we have one.
+>In the production of electric power, we were last in the list. Now we are among the first in the list.
+>In the production of oil products and coal we were last in the list. Now we are among the first in the list.
+>We had only one single coal and metallurgical base, the Ukraine, which we could hardly manage. We have not only succeeded in improving this base, but we have created a new coal and metallurgical base -- in the east, which is the pride of our country.
+>We had only one single textile industry base-in the north of our country. In the very near future we will have two new bases of the textile industry, in Central Asia and Eastern Siberia.
 >And we have not only created these new enormous branches of industry,
 >but we have created them on such a scale and of such dimensions that
 >they make the scale and dimensions of European industry pale into
@@ -19355,7 +19355,7 @@ of cables to carry the current, or motors to transform the energy, or
 factories to use it. In France, the hydro-electric stations of Kembs and
 La Truyière, established without any bluff or noisy plan, are scarcely
 less formidable than the Dnieprostroy and have notable differences in
-their favour. The Colerado [sic] Central takes the prize for audacity
+their favour. The Colorado Central takes the prize for audacity
 and power, but is not worth to President Hoover, whose name it bears,
 the consideration that Stalin would give it. The joint use of the
 Magnitogorsk minerals and the Kuznetsk coal, more than 2,000 kilometres
@@ -20177,7 +20177,7 @@ three years previously inflicted a military "lesson" on the Chinese to
 safeguard Russian "rights" in a railway, that the love of peace now
 counselled a retreat before the Japanese. From 1932 onwards, the
 U.S.S.R. concluded a series of non-aggression pacts or friendly
-ententes, first with Roumania and Poland and later with France and the
+ententes, first with Romania and Poland and later with France and the
 United States, those very States whose anti-Soviet machinations and
 "war-like designs" the rulers of Russia were incessantly unmasking and
 branding.
@@ -21328,7 +21328,7 @@ astonished universe the ideal regime -- on paper -- in contrast to
 fascist Italy, and above all, to national-socialist Germany.
 
 Now was not this democracy of the future supposed to exist in its
-fulness and entirety at that very time? And if it was a question of
+fullness and entirety at that very time? And if it was a question of
 replying to Hitler, would not the promised democracy owe its origin to
 him rather than to Stalin? Objections, which no one in the U.S.S.R. was
 allowed to formulate under pain of death, were of little importance to

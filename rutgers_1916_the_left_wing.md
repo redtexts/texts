@@ -27,7 +27,7 @@ a series of mass actions on the industrial as well as on the political
 field.
 
 In compromising with those who did not even recognize that a split in
-the old parties is enevitable [sic] and necessary, that a reorganization
+the old parties is inevitable and necessary, that a reorganization
 of the old International with the old leaders, who surrendered to the
 enemy when their resistance was needed most, is impossible, the
 Zimmerwalder Conference lost its practical influence. It was a first
@@ -112,9 +112,9 @@ The Resolution reads as follows:
 >political reaction.
 
 >The overcoming of Imperialism is only possible by doing away with the
->antithesis, from which it originated, which means Socialist Organizaton
->[sic] of the Capitalist Society, for which objective conditions are
->ripe.
+>antithesis, from which it originated, which means Socialist
+>Organization of the Capitalist Society, for which objective conditions
+>are ripe.
 
 >At the beginning of the war the majority of the labor leaders failed to
 >apply this only possible tactic against imperialism. Overwhelmed by
@@ -126,8 +126,8 @@ The Resolution reads as follows:
 >Social patriotism and social imperialism, as accepted in Germany, not
 >only by the openly patriotic majority of the former Socialist leaders,
 >but also by-the center of the party around Kautsky, in France by the
->majority, in England and Russia by a part of the leaders (Hyndmann, the
->Fabians, the trade-unionists, Plechanow, Rubanowics, the group Nasche
+>majority, in England and Russia by a part of the leaders (Hyndman, the
+>Fabians, the trade-unionists, Plekhanov, Rubanowics, the group Nasche
 >Djelo), form a greater danger to the working class then the bourgeois
 >apostles of Imperialism, because they mislead the class-conscious
 >workers by abusing the Socialist flag. _The uncompromising fight
@@ -273,7 +273,7 @@ Socialists now mean when they speak of Imperialism. In this sense
 Imperialism is _the_ present day form of the class struggle.
 
 Among the characteristics of this new class-policy in Europe are:
-Agressive [sic], brutal home policy; no results from parliamentary
+Aggressive, brutal home policy; no results from parliamentary
 action; declining influence of congress with increasing power of the
 executive; brutal police; reactionary judges; growing influence of
 militarism; attack on free speech and a free press.
@@ -512,7 +512,7 @@ continued along the old lines of capitalistic production.
 Now we all know, that "free competition" is one of the fundamentals of
 capitalist economics; that in the early days of capitalism this free
 competition was the all-important slogan from which developed the
-idealogy [sic] of "freedom," which played so important a part in the
+ideology of "freedom," which played so important a part in the
 French Revolution, as well as in the policy of the bourgeois at a time
 when they still believed in bringing in a better world.
 
@@ -583,7 +583,7 @@ there is the same tendency to reduce this standard gradually.
 There remains, of course, a competition among the smaller capitalists
 themselves, to get a greater share of what is left by Big Capital, and
 besides, we must not forget that there is no such thing as a complete
-monopoly. But the tentendency [sic] to increase the profits of Big
+monopoly. But the tendency to increase the profits of Big
 Capital at the expense of the other capitalist groups is indisputable,
 and has most important results.
 
@@ -598,7 +598,7 @@ higher capitalist form is a process that cannot be forced in a given
 situation, beyond certain technical and social limits. Thus the second
 possibility, that of extending the existing monopolistic enterprises,
 becomes of first importance. And here we are at the bottom of
-imperialism in its foreign aggresion [sic], with steel and oil interests
+imperialism in its foreign aggression, with steel and oil interests
 and the extractive industries in control, preferably in their
 generalized form of financing banking capital.
 
@@ -696,7 +696,7 @@ means the highest form of capitalist organization of industries, and at
 the same time constitutes the political form best adapted to serve the
 interests of the various capitalist groups.
 
-The large group of better-paid employes [sic] and officials, the
+The large group of better-paid employees and officials, the
 so-called new middle class, who depend upon their salaries, may
 reasonably expect to be better protected in their standard of living by
 a state organization, with an official standardization of salaries, than
@@ -912,7 +912,7 @@ workers than Congress. What becomes of your freedom of speech and press,
 as soon as you use them for a real attack on capitalist institutions?
 
 If you look beyond the form to the facts, there proves to be no greater
-lie than that o [sic] political democracy in the United States.
+lie than that of political democracy in the United States.
 
 Some clever headed theoreticians will answer: we cannot deny the facts,
 but there is something in the form, because this will enable us to have
@@ -1087,7 +1087,7 @@ leaders to make the best of it, has utterly failed. The German Socialist
 party certainly is the best and unmistakable example. There evidently is
 no other alternative to the old "democracy" than a permanent and
 effective influence and control by the masses. We have so long
-worshipped [sic] the old forms of democracy that we can hardly imagine
+worshipped the old forms of democracy that we can hardly imagine
 how to do without a complicated system of more or less independent
 leaders, but we must understand that the spirit and capacities necessary
 to have democratic mass control will develop gradually, together with
@@ -1178,7 +1178,7 @@ the ideals of social democrats and industrialists.
 There is another feature in this conception of political mass action
 which is not less important to us. It solves the dualism in the
 conception of the "Revolution." In reading some of the excellent
-articles in your REIVEW [sic], I often found that, up to a certain
+articles in your REVIEW, I often found that, up to a certain
 point, there was a climax, leading to a final peroration about the
 Revolution. Almost without exception however, there was an absolute lack
 of sense for reality, as to how this revolution could be expected.
@@ -1321,7 +1321,7 @@ members should take a firm stand against all militarism, including
 compulsory military service, as well as defensive wars.
 
 It was inspiring to meet the Boston comrades who took the initiative for
-this "Socialist Propanganda [sic] League," a bunch of class-conscious
+this "Socialist Propaganda League," a bunch of class-conscious
 workers who, mostly through every-day facts and experiences of life, had
 come to realize the new forces of imperialism as it develops all over
 the world and who rightly responded by an _act_. Organizing means

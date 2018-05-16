@@ -7,16 +7,16 @@ description: Published in German in 1928, in English in 1929. In contrast to oth
 
 ## Table of Contents
 
-[Chapter 01: Preliminaries][]  
-[Chapter 02: Clarification, Part 1][]  
-[Chapter 03: Clarification, Part 2][]  
-[Chapter 04: The Trial, Part 1][]  
-[Chapter 05: The Trial, Part 2][]  
-[Chapter 06: Achievement, Part 1][]  
-[Chapter 07: Achievement, Part 2][]  
-[Chapter 08: Achievement, Part 3][]  
-[Chapter 09: Achievement, Part 4][]  
-[Chapter 10: Appraisement][]  
+[Chapter 01: Preliminaries][]
+[Chapter 02: Clarification, Part 1][]
+[Chapter 03: Clarification, Part 2][]
+[Chapter 04: The Trial, Part 1][]
+[Chapter 05: The Trial, Part 2][]
+[Chapter 06: Achievement, Part 1][]
+[Chapter 07: Achievement, Part 2][]
+[Chapter 08: Achievement, Part 3][]
+[Chapter 09: Achievement, Part 4][]
+[Chapter 10: Appraisement][]
 
 ## Chapter 01: Preliminaries
 
@@ -1521,7 +1521,7 @@ volume. The design had been to publish twelve parts in a year, but this
 double part was all that ever went through the press.
 
 From a business standpoint, the undertaking was stillborn. From the
-strandpoint [sic] of socialist evolution, it was a bold onrush into a
+standpoint of socialist evolution, it was a bold onrush into a
 new world, a world whose first need was self-knowledge!
 
 ### The "Deutsch-Französische Jahrbücher"
@@ -6482,14 +6482,14 @@ policy, adopted a definite attitude towards panslavism, towards the
 Indian Mutiny, towards the Eastern question, towards the Italian war,
 towards the North-American civil war, and so on.
 
-Ryazanoff has been at pains to make a careful examination of the files
+Ryazanov has been at pains to make a careful examination of the files
 of the "New York Tribune" from 1852 to 1862, in order to discover the
 articles contributed by Marx and Engels.
 
 The result has been rather unsatisfactory, for most of the articles were
 unsigned. The name of Marx does not appear in the newspaper after 1855;
 and many of the contributions were published as leading articles,
-anonymously. As Ryazanoff says, to begin with, Marx and Engels wrote
+anonymously. As Ryazanov says, to begin with, Marx and Engels wrote
 exclusively from a bourgeois-democratic outlook. Only by degrees did
 they free themselves from this influence, and consistently present a
 proletarian standpoint. "They recognized that the great aim they had set
@@ -12013,18 +12013,18 @@ hardly one personal enemy.
 
 The inscription on the tomb reads as follows:
 
-Jenny von Westphalen  
-The Beloved Wife of  
-Karl Marx  
-Born 12. February 1814  
-Died 2. December 1881  
-And Karl Marx  
-Born May 5. 1818; Died March 14. 1883  
-And Harry Longuet  
-Their Grandson  
-Born July 4. 1878; Died March 20. 1883  
-And Helene Demuth  
-Born January 1. 1823; Died November 4. 1890.  
+Jenny von Westphalen
+The Beloved Wife of
+Karl Marx
+Born 12. February 1814
+Died 2. December 1881
+And Karl Marx
+Born May 5. 1818; Died March 14. 1883
+And Harry Longuet
+Their Grandson
+Born July 4. 1878; Died March 20. 1883
+And Helene Demuth
+Born January 1. 1823; Died November 4. 1890.
 
 ## Chapter 10: Appraisement
 

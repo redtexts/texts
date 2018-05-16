@@ -11,7 +11,7 @@ It is almost nine years since we together broke definitely with the
 counter-revolutionary wing that once led the Communist Party. Our split
 was supposed to represent a Marxian reaction to the opportunist line
 that brought the world proletariat from one defeat to another. Although
-we broke together from the Stalinist-Bucharin line ideologically and
+we broke together from the Stalinist-Bukharin line ideologically and
 organizationally, we stood apart from you for the reason that
 ideologically we were part of the left faction of the Italian Communist
 Party which fundamental documents are to be found in the Roma thesis.
@@ -67,7 +67,7 @@ that the ideas and programs could show their ability when they were
 tested by events. The Spanish conflict offers the opportunity to each
 and every group the test for their theories and principles and to learn
 the strengths and weakness of their line; who ever lost their chance to
-learn from the Spanish events, the tactics and technic of a well
+learn from the Spanish events, the tactics and technique of a well
 developed capitalism is not a Marxists.
 
 Our faction did not take anything from the Permanent Revolution and

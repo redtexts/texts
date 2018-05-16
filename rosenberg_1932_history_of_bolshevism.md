@@ -93,25 +93,24 @@ Berlin-Zehlendorf, June 1932
 
 ## Table of Contents
 
-[Chapter 01: Marx to Lenin, 1843-1893][]  
-[Chapter 02: Revolution in Russia, 1893-1914][]  
-[Chapter 03: The World War, August 1914 to February 1917][]  
-[Chapter 04: The Third International, August 1914 to February 1917][]  
-[Chapter 05: March to October 1917][]  
-[Chapter 06: The Bolshevik Revolution and Wartime Communism, 1917-1921][]  
-[Chapter 07: The Third International at the Height of its Revolutionary Power, 1919-1921][]  
-[Chapter 08: The Great Change: NEP and the Third World Congress, 1921][]  
-[Chapter 09: Lenin's Testament, 1922-1924][]  
-[Chapter 10: Stalin Versus Trotsky, 1924-1927][]  
-[Chapter 11: 'Socialism in a Single Land', 1927-1932][]  
-[Bibliography][]  
+[Chapter 01: Marx to Lenin, 1843-1893][]
+[Chapter 02: Revolution in Russia, 1893-1914][]
+[Chapter 03: The World War, August 1914 to February 1917][]
+[Chapter 04: The Third International, August 1914 to February 1917][]
+[Chapter 05: March to October 1917][]
+[Chapter 06: The Bolshevik Revolution and Wartime Communism, 1917-1921][]
+[Chapter 07: The Third International at the Height of its Revolutionary Power, 1919-1921][]
+[Chapter 08: The Great Change: NEP and the Third World Congress, 1921][]
+[Chapter 09: Lenin's Testament, 1922-1924][]
+[Chapter 10: Stalin Versus Trotsky, 1924-1927][]
+[Chapter 11: 'Socialism in a Single Land', 1927-1932][]
+[Bibliography][]
 
 ## Chapter 01: Marx to Lenin, 1843-1893
 
 While on a journey in Holland in March 1843, the twenty-five-year-old Dr
-Karl Marx wrote to his friend Rugge [sic; hereafter Ruge - RT] a letter
-in which he described the follies of Frederick William IV of Prussia. He
-added:
+Karl Marx wrote to his friend Ruge a letter in which he described the
+follies of Frederick William IV of Prussia. He added:
 
 >The state is too serious a concern to be turned into a harlequinade. It
 >is possible that a ship manned by idiots might run before the storm for
@@ -2852,7 +2851,7 @@ Hoffmann. Rosa Luxemburg's Spartacist Union was represented by three
 delegates. Julian Borchardt came to voice the views of a small private
 body of opinion. Two delegates came from France. The delegates from
 England were refused their passports. Other countries represented were
-Bulgaria, Rumania, Sweden, Norway and Holland. Russia was represented by
+Bulgaria, Romania, Sweden, Norway and Holland. Russia was represented by
 the following delegates: Lenin and Zinoviev represented the Bolsheviks;
 Martov and Axelrod, the Mensheviks; Trotsky, his own group; two
 delegates, the Left-Wing Social Revolutionaries; and, finally, left-wing

@@ -2,7 +2,7 @@
 title: Aspects of the Russian Question
 author: American Fraction of the Left Communist International
 date: 1949
-description: Written by D for the March-April 1949 issue of International Bulletin, the publication of the American Fraction of the Left Communist International. Punctuation errors in the text below were present in the original.
+description: Written by D for the March-April 1949 issue of International Bulletin, the publication of the American Fraction of the Left Communist International. Some errors in the text below were present in the original.
 keywords: USSR
 ...
 
@@ -35,7 +35,7 @@ capital.
 
 The bourgeois right of inheriting property is part of "Soviet" law. The
 state capitalist has the right to bequeath to heirs his share of state
-bonds. Thus, he who owns bonds posseses [sic] the right of exploitation
+bonds. Thus, he who owns bonds possesses the right of exploitation
 of the workers through the State.
 
 In addition, the position of the Russian ruling class inside the State
@@ -70,7 +70,7 @@ to need). Lenin, "State and Revolution, Int'l Publishers, 1932, P. 77.
 An abomination because there is no evidence of any tendency to equalize
 or abolish the wages system in Russia. On the contrary, the rise of a
 new capitalist class has revived the most varied, contrasting wage
-differentials as great as in Wester [sic] capitalism. The peasantry
+differentials as great as in Western capitalism. The peasantry
 still exists as a class and is permitted shares in the collective farms.
 These collectives are like capitalist corporations in that the
 petty-bourgeois shareholder in the collective, receives a return on his
@@ -207,18 +207,18 @@ of arms to coerce the working class of other nations into submission.
 The latter would mean the complete collapse of the whole of all
 proletarian movements and the Fall of the Revolution".
 
-What Lenin and the Bolsheviks imagined has com [sic] to pass.
+What Lenin and the Bolsheviks imagined has come to pass.
 
 The Russian State under Stalin expands by export of capital, military
 conquests, land grabbing and propaganda pressure. It builds mixed
-capitalist corporations thruout [sic] Europe i.e., with Russian state
+capitalist corporations throughout Europe i.e., with Russian state
 bank representatives and native boards of directors. Russia employs her
-military occupation and communist parties to reenforce [sic] her state
+military occupation and communist parties to reinforce her state
 capitalist rule in order to produce the capital goods on which depend
 her imperial position.
 
 The revival of revolutionary communism on an international scale demands
-an understand [sic] of all the essential aspects of the Russian
-question. The princeples [sic] flowing from that understanding will
+an understand of all the essential aspects of the Russian
+question. The principles flowing from that understanding will
 eventually unite all revolutionary elements of society on the platform
 of revolutionary communism.

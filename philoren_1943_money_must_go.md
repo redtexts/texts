@@ -78,7 +78,7 @@ lifetime, it will have served its purpose.
 
 In this book I am not the Professor. I am George. I am YOU.
 
-PHILOREN.  
+PHILOREN.
 October, 1939--May, 1943.
 
 "You, the people, have the power to make this life free and beautiful,
@@ -733,7 +733,7 @@ relieve those people who were suffering from the evil effects of the old
 system and to supply the needs of those who were in the process of
 transferring themselves from obsolete to useful occupations. For
 example, it would be necessary at once to produce lots of clothes of all
-sorts to be distributed to the millions of poverty-striken people who
+sorts to be distributed to the millions of poverty-stricken people who
 always lack them nowadays. The agricultural parts of the world, freed
 from the restraints of the present "money-based system" would pour out
 the abundance of health-giving foodstuffs to feed the half-starved
@@ -1578,9 +1578,9 @@ P.W. ... Trolleybus.
 
 P.W. ... Coach.
 
-P.W.G. ... Trains--short distance (and tubes).  
-P.W.G. ... Trains--medium distance (suburban).  
-P.W.G. ... Trains--long distance.  
+P.W.G. ... Trains--short distance (and tubes).
+P.W.G. ... Trains--medium distance (suburban).
+P.W.G. ... Trains--long distance.
 
 P.G. ... Ships.
 
@@ -1791,7 +1791,7 @@ FIG. 3.
 running throughout; above the inner-most circle is the letter X, while
 below the inner-most circle is the letter Y.\]
 
-Inner Circle=Town.  
+Inner Circle=Town.
 Outer Circle=Country and Suburb.
 
 **Professor**: I have already included that in the P.W.G. class. They
@@ -4867,10 +4867,10 @@ well if we begin by studying what newspapers are published nowadays,
 and--more important--why. For simplicity I will use the word "paper" to
 cover all newsprint published periodically. It will thus include:
 
-(a) newspapers "proper"--day, evening and weekly;  
-(b) weeklies--catering for various hobbies, interests, etc.,  
-(c) monthlies--somewhat similar to those under (b);  
-(d) quarterlies--catering mainly for scientific interests;  
+(a) newspapers "proper"--day, evening and weekly;
+(b) weeklies--catering for various hobbies, interests, etc.,
+(c) monthlies--somewhat similar to those under (b);
+(d) quarterlies--catering mainly for scientific interests;
 (e) biannuals and annuals--interests many and various
 
 If you are a stickler for accuracy you may find many flaws in this
@@ -4896,7 +4896,7 @@ still more. And so a circle, but not necessarily a vicious one, since
 almost as fast as new papers appear--group (a) particularly--old ones
 die.
 
-**George**: The death of a newspaper is a comparatively rare occurence,
+**George**: The death of a newspaper is a comparatively rare occurrence,
 Professor.
 
 **Professor**: The fact that such demises are rare is proof that there
@@ -5340,7 +5340,7 @@ fashionable to watch the sufferings of a cat with tin can appended, it
 is because ideas have changed and are ever changing. There is no other
 reason. And freedom! Yes, George, freedom of expression of opinion. But
 it has been fought for--bitterly, and against the most vicious,
-shameful, immoral, and iniquitious opposition; the opposition of both
+shameful, immoral, and iniquitous opposition; the opposition of both
 State and Church.
 
 **George**: The Church?
