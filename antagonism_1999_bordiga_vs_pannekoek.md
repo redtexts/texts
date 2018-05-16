@@ -195,7 +195,7 @@ with Marx, Luxembourg, Kautsky, Lenin, through reading, and political
 discussion, and not just participation in a strike, or strike movement.
 The tension between spontaneity and conscious minorities has been a
 continuing problematic for the German left, and has tended to find a
-resolution in liquidation. The councillists theorise themselves out of
+resolution in liquidation. The councilists theorise themselves out of
 existence.
 
 Consciousness develops unevenly; it often develops first of all in
@@ -499,7 +499,7 @@ and Russian revolutions, has tended to be superseded in certain
 highpoints of class struggle. This can be seen in the examples of some
 struggles organised by mass assemblies, for instance in Spain in the
 period 1976-78. One particular instance of a conflict of this form was
-the struggle of dockworkers in Gijon, northern Spain between 1983
+the struggle of dockworkers in Gijón, northern Spain between 1983
 and 1985. The struggle was organised through an assembly that met in a
 disused cinema. All those involved in the struggle were involved in the
 assembly, irrespective of whether they were dockers, or miners or

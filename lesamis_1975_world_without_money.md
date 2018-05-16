@@ -6912,7 +6912,7 @@ after the second world war, developed his analysis of the capitalist
 counterrevolution in Russia and his conception of communism. Communism
 is not built; commodity society is destroyed.
 
-Despite its profound contributions, Bordiguism did not succeed in
+Despite its profound contributions, Bordigism did not succeed in
 freeing itself from its Leninist ambiance. Its radicalism and its
 perspicacity became mired in the worst dead ends.
 

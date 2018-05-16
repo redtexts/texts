@@ -1518,7 +1518,7 @@ a supply centre for the South.
 After other important coastal conquests by the North, their luck seemed
 to have run out when suddenly a new and deadly weapon appeared in
 the bay of Norfolk (in southern hands but blockaded by the North):
-a battleship. This was the Merrimac (re-christened the Virginia)
+a battleship. This was the Merrimack (re-christened the Virginia)
 a wholly new concept in ships, impenetrable to the cannon shot then
 available and therefore able to get alongside war ships and sink them
 at its leisure.  It should have given them an advantage capable of

@@ -6442,7 +6442,7 @@ a cow.
 
 4: Finally, in this way cattle become the _concept of wealth_. Now
 people do not say, this or that person is rich because he has a great
-deal of corn, flocks, clothes, jewelery or servants, but rather: he has
+deal of corn, flocks, clothes, jewelry or servants, but rather: he has
 a good deal of cattle. People say, hats off to that man, he's "worth"
 ten thousand oxen. Or they say, poor fellow, he doesn't have any cattle!
 

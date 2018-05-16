@@ -255,7 +255,7 @@ of the policies since 1921 (united fronts or rapprochements with
 capitalist states). Trotsky did write on these matters but, as an
 endorser of the united front and National Bolshevism in Germany, was
 regarded abroad as on the right of the Party. Meanwhile the "left wing"
-in the German Party (Maslow, Fischer and Thaelman) had Zinoviev and
+in the German Party (Maslow, Fischer and Thälmann) had Zinoviev and
 Stalin as their allies!
 
 Trotsky's ventures into foreign policy such as the _Lessons of October_
@@ -696,7 +696,7 @@ by examining the juridical or legal forms of the State in order to reach
 the conclusion that they constitute "the proletarian basis of the
 state." Thus, though scores of Trotsky's texts testify to the changing
 class composition of the CPSU (part of the process which saw all the
-Oppositions annihilated), and despite recognisng the "parasitic" nature
+Oppositions annihilated), and despite recognising the "parasitic" nature
 of the bureaucracy would require a "political revolution" he still
 maintained that a regime which
 

@@ -11,7 +11,7 @@ all the more important because:
 
 1. it has usually been pushed back behind analyses that display more
    ideology than truly scientific thought (we are thinking particularly
-   of Bordiguism's theorization of anti-democratism)
+   of Bordigism's theorization of anti-democratism)
 2. contrary to what we, among others, had thought, the democratic
    movement has, over the last two decades, shown itself capable of
    historic initiative. We are thinking of the German reunifications,

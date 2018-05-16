@@ -775,7 +775,7 @@ Otherwise, as the Russian revolution was still going fairly well in its
 proletarian part, the European workers were already completely infected
 (and for so many years) by the capitalist principle of the party
 dictatorship, parliamentarianism, and trade union organization, and
-they.were totally destroyed for the revolution.
+they were totally destroyed for the revolution.
 
 Even the Third International proletarians are thus the revolution's
 enemies.

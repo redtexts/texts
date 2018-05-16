@@ -330,7 +330,7 @@ strengthening the revolution in fact only opened up the road to its
 degeneration.
 
 The 10th Congress saw, at the same time as this resolution was adopted,
-the crushing by state violence of the workers' revolt at Krondstadt and
+the crushing by state violence of the workers' revolt at Kronstadt and
 the beginning of the massive deportation of oppositionists in the Party
 to Siberia. Ideological suffocation within the Party could only be
 conceived together with violence within the class. The state organ of

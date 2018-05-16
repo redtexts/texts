@@ -2,7 +2,7 @@
 title: Roosevelt
 author: Pannekoek, Anton
 date: 1913
-description: An article on the class interests of American politcal parties in the early part of the 20th century. Published in New Review, volume 1, number 17, June 1913. Scans of of New Review are available at <https://www.marxists.org/history/usa/pubs/newreview/>.
+description: An article on the class interests of American political parties in the early part of the 20th century. Published in New Review, volume 1, number 17, June 1913. Scans of of New Review are available at <https://www.marxists.org/history/usa/pubs/newreview/>.
 ...
 
 Many attempts have been made to explain the causes of Roosevelt's

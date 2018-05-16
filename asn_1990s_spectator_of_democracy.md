@@ -174,7 +174,7 @@ Now that capital has perfected democratic participation, all previous
 forms of capitalism can be seen as instances of democracy. It is thus
 not surprising that democratic think-tanks are able to give good advice
 to dictatorships like Pinochet's Chile. It is not surprising that Hitler
-came to power through the democratic operations of the Wiemar republic.
+came to power through the democratic operations of the Weimar republic.
 (There was some cheating but we already know cheating is part of any
 game.)
 

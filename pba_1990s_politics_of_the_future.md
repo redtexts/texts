@@ -180,7 +180,7 @@ anti-human and counter-revolutionary, a psychological disease of class
 society closely akin to racism. Anyone, including self-proclaimed
 Marxists and anarchists, who supports any form of nationalism or the
 state in time of peace or war is on the side of capital against the
-interests of the vast majority of humanity. This includes Subcommandante
+interests of the vast majority of humanity. This includes Subcomandante
 Marcos!
 
 Our class has to fight alone for what we need against the

@@ -513,7 +513,7 @@ Some see this form of exploitation as the beginnings of a return to
 slavery. To prove this you would have to show that the capitalist law of
 value had disappeared absolutely. It's worth pointing out that, when a
 slave was punished in antiquity, he received corporal punishment (the
-rod, branding, gladitorial games). The Russian worker convicted of
+rod, branding, gladiatorial games). The Russian worker convicted of
 'sabotage' is punished in value: he's forced to work a certain number of
 extra hours, unpaid. What's more, the 'good' Stakhanovist gets extra
 wages and especially better housing and leisure facilities. Politically

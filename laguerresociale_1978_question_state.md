@@ -995,7 +995,7 @@ democratisation.
 ## 19
 
 In spite of its critique of anarchism on the economic level, where it
-tries to define communism as going beyond the law of value, councillism
+tries to define communism as going beyond the law of value, councilism
 retains divisions in its administrative and territorial vision: "the
 anarcho-syndicalists recognise the necessity for planning economic life
 and think that this is unrealisable without a centralisation of
@@ -1010,7 +1010,7 @@ to the production of goods, and the democratic system of councils, both
 have as their objective the management of a particular zone, to organise
 factories, associated groups of producers and their mutual association.
 
-Councillism does not make a critique of the economy and of politics as
+Councilism does not make a critique of the economy and of politics as
 such, as separated activities: its point of departure is the need to
 produce, and to organise this production. It thus only amounts to
 envisaging a total decentralisation of society in each council, as well
@@ -1020,7 +1020,7 @@ Pannekoek was satisfied with the notion of the council resting on the
 "natural regrouping of workers in the process of production".
 
 This perspective had some merit in the past, but today all that can be
-established by it is a generalised self-management. Councillism also
+established by it is a generalised self-management. Councilism also
 contributed to a vision of communism as a great democratic
 reorganisation, in which first a minority (however numerous) of workers
 participated, and then the whole of society, in "communism realised".
@@ -1032,20 +1032,20 @@ will be dictatorial, but because it turns discussion, which is often
 fruitless and paralysing, into a privileged moment and an essential
 preliminary to action.
 
-In councillism, the system of councils is conceived as a generalisation
+In councilism, the system of councils is conceived as a generalisation
 of parliamentarism. The council is the parliament of the working class.
 So the dividing line between reform and revolution in this false
 perspective is made in the following way: reformists (Stalinists,
 leftists etc.) want to transform the existing decision-making organs,
 democratising them little by little, injecting them with stronger and
-stronger doses of participation by the masses. The councillists want to
+stronger doses of participation by the masses. The councilists want to
 create other ones, setting up a "true" democracy immediately, a real
 structure for discussion and decision.
 
 Some want to work on the inside, others want to work on the outside, but
 the error is identical: all privilege the moment of decision, and adapt
 the revolution to the creation of a new decision-making process.
-Councillists want to transfer this process from statist bodies to the
+Councilists want to transfer this process from statist bodies to the
 factories and local communities. Because they have not extricated
 themselves from the political illusion, they can speak of the "abolition
 of wage-labour", and of the suppression of the commodity-form, without
@@ -1165,7 +1165,7 @@ in Leninist terms or in terms symmetrical to Leninism: against a
 perspective which foregrounds the socialisation of the economy, the
 "Italian Left", for example, privileges the question of power; the
 revolution would be primarily political, and only then social and
-economic. For the councillists, on the other hand, it is enough to
+economic. For the councilists, on the other hand, it is enough to
 overturn the management of the economy to overturn society in its
 entirety.
 

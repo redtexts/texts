@@ -52,7 +52,7 @@ So, starting after World War One and the Russian Revolution, the big
 problem in Italy was the problem of establishing a communist party which
 could affiliate to the Third International which had been set up
 in 1919. The problem that the Left faced was the deliberate confusion
-spread by the PSI (Italian Socialist Party) under Serratti, which kept
+spread by the PSI (Italian Socialist Party) under Serrati, which kept
 the option of affiliating to the Third International open without
 actually doing it. To add to the confusion, the PSI had been able to
 maintain a "neither support nor sabotage" position on the war since

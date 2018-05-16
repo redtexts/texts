@@ -85,7 +85,7 @@ agrarian question ^[A. Ulam, _The Unfinished Revolution_, (New York,
 1960).]; his objective was to discredit "Marxism" (which he equated with
 Soviet ideology) by showing that it was the product of underdevelopment,
 not of capitalism. Gerschenkron, historically much richer than Ulam,
-also seemed to be a shadow of Trotsky ^[A. Gershenkron. _Economic
+also seemed to be a shadow of Trotsky ^[A. Gerschenkron. _Economic
 Backwardness in Historical Perspective_, (Boston, 1962).].
 
 Undoubtedly the most important 20th century book influencing Marxist
@@ -102,7 +102,7 @@ agrarian petty producers into factory workers. (It was left to Stalin to
 realize this transformation consciously and bloodily.)
 
 On the margins of this discussion, where most of the Western left is
-concerned, have been the ideas of the fascinating character of Amado
+concerned, have been the ideas of the fascinating character of Amadeo
 Bordiga. First General Secretary of the PCI, and, with Gramsci, its most
 important founder, Bordiga was the last Western revolutionary who told
 off Stalin to his face (in 1926) as the gravedigger of the revolution
@@ -474,7 +474,7 @@ base of much post-1924 Stalinism had entered the Western CPs through the
 inexperienced or simply careerist members easily manipulated by the
 Stalinists against the remnants of the Old Guard. The international
 counterparts of this transformation of the Communist International were
-figures such as Cachin in the PCF or Thaelman in the KPD.]. Bordiga
+figures such as Cachin in the PCF or Thälmann in the KPD.]. Bordiga
 provided a way of seeing a fundamental degeneration in the world
 communist movement in 1921 (instead of in 1927 with the defeat of
 Trotsky) without sinking into mere empty calls for "more democracy". The
@@ -516,7 +516,7 @@ Bukharin was right about imperialism.
 To merely enumerate the major events of world history since 1975 is to
 see how profoundly the way we see the world has changed; we need only
 conjure up the 1980's realities of Thatcher's Britain, Reagan's America,
-Mitterand's France, Gorbachev's Russia, Teng's China, i.e. the
+Mitterrand's France, Gorbachev's Russia, Teng's China, i.e. the
 "neo-liberal" (in the von Hayek/von Mises sense of that term) tidal wave
 that has overwhelmed the statism of Social Democracy, Stalinism,
 Keynesianism and Third World Bonapartism. A thorough knowledge of the
@@ -525,7 +525,7 @@ it seems a poor guide to China's post 76-evolution, Russia under
 Gorbachev, the appearance of the NICS, the China/Vietnam/Cambodia war,
 the collapse of the Western European CPs, the utter containment of the
 British Labour Party, the American Democratic Party and the German SPD
-by the right, the evolution of Mitterand to neo-liberalism, or the
+by the right, the evolution of Mitterrand to neo-liberalism, or the
 appearance of significant "anti-statist" currents even in mercantilist
 regimes like Mexico or India. One might well add to this list a workers'
 movement in Poland with a heavy dose of clericalist nationalism and the
@@ -987,7 +987,7 @@ development regime, and that its **economics**, codified in the Leninist
 theory of imperialism, were also the economics of that stratum. It is
 not real Marxism, because it tends to replace analyses of relations and
 forces of production with (ultimately Duehringian) analyses of "force".
-From Lenin and Bukharin via Baran and Sweezy to Bettleheim and Amin to
+From Lenin and Bukharin via Baran and Sweezy to Bettelheim and Amin to
 Pol Pot (recognizing tremendous discontinuity and degeneration but also
 continuity) the "monopoly capital" theory is the theory of state
 bureaucrats. It is fundamentally anti-working class. It sees the Western
@@ -1101,7 +1101,7 @@ this issue were written or approved by Bordiga himself.
 
 Two further works of interest which draw critically on Bordiga are Jean
 Barrot, _Le mouvement communiste_ (Ed. Champ Libre, Paris, 1972), and
-Jacques Camatte, _Capital et Gemeinwesein: Le 6e chapitre inédit du
+Jacques Camatte, _Capital et Gemeinwesen: Le 6e chapitre inédit du
 capital et l'oeuvre économique de Marx_ (Ed. Spartacus, Paris 1978).
 
 Much information on Bordiga in his period of greatest mass influence is

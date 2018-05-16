@@ -428,7 +428,7 @@ own tradition. The IS's success with TDU came at the price of burying
 socialists, not merely honest trade-unionists (it turned out that Carey
 wasn't even that). Anyone educated in a Trotskyist group (and the IS,
 despite its rejection of the socialist character of the so-called
-"workers's states" was Trotskyist on every other question), in contrast
+"workers' states" was Trotskyist on every other question), in contrast
 to most Stalinist and Maoist groups, develops a healthy aversion to the
 trade-union bureaucracy and to the Democratic Party. Elbaum provides a
 long history of how Maoism evolved out of the wreckage of the old CPUSA

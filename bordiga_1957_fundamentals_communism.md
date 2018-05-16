@@ -704,7 +704,7 @@ far more powerful and irrevocable analysis it is, on the contrary,
 history's first great example of the Dictatorship of the Proletariat, of
 a centralised, though here only territorial, proletarian State.
 
-The French capitalist State, as embodied in Thier's 3rd Republic, moved
+The French capitalist State, as embodied in Thiers's 3rd Republic, moved
 to crush proletarian Paris and eject it from its capital city, having
 prepared its assault from behind the Prussian army lines. After the
 desperate resistance and horrifying massacre, Marx was able to write
@@ -796,7 +796,7 @@ confusion, and sacrificing it on the altar of counter-revolution.
 By the end of the 19th century, the political parties of the proletarian
 class in Europe had become large and powerful organisations. Their role
 model was the German "Sozialdemokratie", which after a long struggle had
-forced the bourgeois Kaiserist State to repeal Bismark's special
+forced the bourgeois Kaiserist State to repeal Bismarck's special
 anti-socialist laws, and had also steadily increased its share of the
 votes and the parliamentary seats at each successive general election.
 This party was supposed to be the depository of Marx and Engel's
@@ -2094,7 +2094,7 @@ As to the fundamental concept of a "unitary" society in place of the
 antithesis between capitalists and proletarians -- between producers and
 consumers too -- it is worth tracing the evolution of this idea as it
 appeared in the various, highly criticised, programmes of the German
-party. It was the Lassalean programme (Leipzig, 1863) which contained
+party. It was the Lassallean programme (Leipzig, 1863) which contained
 the formula which Marx felt obliged to lash out at: elimination of class
 antagonisms, whereas Marx would say that classes themselves needed to be
 eliminated, and the means of achieving that was precisely through the

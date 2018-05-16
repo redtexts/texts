@@ -2126,7 +2126,7 @@ The two had corresponded before, and had even had a brief interview,
 when Marx was still editor of the "Rheinische Zeitung." Engels had
 contributed to the paper. Later he had sent from England two articles
 for the "Deutsch-Französische Jahrbücher," _Die Lage Englands_ [The
-Position of England], and _Umrisse zu einer Krtik der Nationalökonomie_
+Position of England], and _Umrisse zu einer Kritik der Nationalökonomie_
 [Outlines of a Critique of Political Economy]. Now, at length, he and
 Karl Marx came into close contact.
 
