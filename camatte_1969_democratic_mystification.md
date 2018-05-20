@@ -20,25 +20,33 @@ is rotten to its core.
 >and in the comprehension of this practice." (Marx, Eighth thesis on
 >Feuerbach)
 
-5.1.1. Broadly speaking, one can define democracy as the behaviour of
+### 5.1.1.
+
+Broadly speaking, one can define democracy as the behaviour of
 humans, the organisation of those who have lost their original organic
 unity with the community. Thus it exists during the whole period which
 separates primitive communism from scientific communism.
 
-5.1.2. Democracy was born from the moment that there was a division
+### 5.1.2.
+
+Democracy was born from the moment that there was a division
 between men and the allocation of possession. That is to say, it arose
 with private property, individuals and the class division of society,
 with the formation of the state. It follows that it becomes increasingly
 pure as private property becomes more general and as classes appear more
 distinctly in society.
 
-5.1.3. It presupposes a common good which is divided-up. Limited
+### 5.1.3.
+
+It presupposes a common good which is divided-up. Limited
 democracy in ancient society presupposed the existence of the ager
 publicus and slaves who were not men. In modern society this common good
 is more universal (touches a greater number of men). It is also more
 abstract and illusory: the homeland.
 
-5.1.4. Democracy in no way excludes authority, dictatorship and thus the
+### 5.1.4.
+
+Democracy in no way excludes authority, dictatorship and thus the
 State. On the contrary, it needs the State as a foundation. Who can
 guarantee the allocation, who can regulate the relations between
 individuals and between them and the common good, if not the State?
@@ -49,7 +57,9 @@ the proletariat from nibbling away the surplus-value and it guarantees
 the distribution of this surplus value as profit, interest, rent, etc.,
 among the different capitalist spheres.
 
-5.1.5. Democracy thus implies the existence of individuals, classes and
+### 5.1.5.
+
+Democracy thus implies the existence of individuals, classes and
 the State; with the result that it is simultaneously a mode of
 government, a mode of domination by one class, and a mechanism of union
 and conciliation.
@@ -73,7 +83,9 @@ within the old capitalist world. Democracy seems like a conciliation
 between the past, still acting on our actual present, and the future --
 communist society. Mystification is reactionary.
 
-5.1.6. It is often said that the seeds (or some even say the forms) of
+### 5.1.6.
+
+It is often said that the seeds (or some even say the forms) of
 democracy are to be found in the origins of the life of our species, in
 primitive communism. However it is a misunderstanding to see the
 manifestation of the seeds of a higher form appearing sporadically in an
@@ -97,7 +109,9 @@ Communism can sometimes manifest itself in this society, but it is
 always reabsorbed. It will only be able to really develop from the
 moment when the material community has been destroyed.
 
-5.1.7. The democratic phenomenon appears with clarity in two historical
+### 5.1.7.
+
+The democratic phenomenon appears with clarity in two historical
 periods: at the time of the dissolution of the primitive community in
 Greece; and at the time of the dissolution of feudal society in western
 Europe. It is incontestable, that during this second period the
@@ -124,7 +138,9 @@ enclose men in the prisons of capital: fascism. At both extremes,
 democracy is at the heart of this search: first political democracy,
 then social democracy.
 
-5.1.8. Mystification is not a phenomenon planned by the members of the
+### 5.1.8.
+
+Mystification is not a phenomenon planned by the members of the
 ruling class, a hoax that they perpetrate. If so it would be enough to
 have a simple adequate propaganda to eradicate it from men's minds. In
 fact it acts in the depths of the social structure, within social
@@ -143,7 +159,9 @@ It is thus necessary to explain in what ways reality is mystifying and
 how this simple mystification at the beginning, becomes greater and
 greater and reaches its maximum with capitalism.
 
-5.1.9. Originally, the human community was subject to the dictatorship
+### 5.1.9.
+
+Originally, the human community was subject to the dictatorship
 of nature. It had to fight against it to survive. The dictatorship was
 direct and the community in its totality was subjected it.
 
@@ -155,7 +173,9 @@ mediated by the state and weighs especially on the most underprivileged
 strata. When the state defines man, it takes the man of the dominant
 class as the substratum of its definition. Mystification is complete.
 
-5.1.10. Under capitalism, there is a first period when, although the
+### 5.1.10.
+
+Under capitalism, there is a first period when, although the
 bourgeoisie has taken power, capital only dominates formally. Many
 remainders of previous social formations persist, hindering capital's
 domination over the whole of society. This is the epoch of political
@@ -181,7 +201,7 @@ men. However this is a mystification because:
 >anathematising by the socialists." (Marx, 'Grundrisse', Collected Works
 >V. 29, p. 40)
 
-5.1.11.
+### 5.1.11.
 
 >"Democracy and parliamentarianism are indispensable for the bourgeoisie
 >after its victory by force and terror because the bourgeoisie want to
@@ -202,7 +222,9 @@ between classes and that would amount to doubting that communism is the
 solution to all antagonisms, that it is the reconciliation of man with
 himself.
 
-5.1.12. With capital, the economic movement is no longer separate from
+### 5.1.12.
+
+With capital, the economic movement is no longer separate from
 the social movement. The union took place with the purchase and sale of
 labour power, but it led to the submission of men to capital. Capital
 constitutes itself as material community and there are no more politics
@@ -223,7 +245,9 @@ receive a certain distribution of products through the intermediary of a
 wage. We have a social democracy. Incomes policy is a means of achieving
 it.
 
-5.1.13. In the period of the formal domination of capital (political
+### 5.1.13.
+
+In the period of the formal domination of capital (political
 democracy) democracy is not a form of organisation opposed as such to
 capital, it is a mechanism used by the capitalist class to attain
 domination over society. During this period all the organisational forms
@@ -249,7 +273,9 @@ no more than:
 >people is substituted for nation to match the French translation cited
 >in the original)
 
-5.1.14. The democratic state represents the illusion of control over
+### 5.1.14.
+
+The democratic state represents the illusion of control over
 society by man (that man can direct the economic phenomenon). It
 proclaims man sovereign. The fascist State is the realisation of this
 mystification (in this sense it can appear as its negation). Man is not
@@ -270,7 +296,9 @@ duality, the reality/thought imbalance), it is necessary to oppose to it
 the liberatory being which represents the human community: the communist
 party.
 
-5.1.15. Hence most nineteenth century theorists were statists. They
+### 5.1.15.
+
+Hence most nineteenth century theorists were statists. They
 thought that they could resolve the social facts at the level of the
 state. They were mediatists.
 
@@ -295,7 +323,9 @@ seems to evade the state, it is necessary to highlight it and, at the
 same time, to indicate the need for another transitory state: the
 dictatorship of the proletariat.
 
-5.1.16. The development towards social democracy was discounted from the
+### 5.1.16.
+
+The development towards social democracy was discounted from the
 start:
 
 >"While the power of money is not the relation of things and men, social
@@ -330,7 +360,9 @@ dictatorship are also integrated. It is a means for overcoming anarchy.
 >other they also determine each other." ('The Holy Family', Collected
 >Works, Vol. 4, p. 117)
 
-5.1.17. Now that the bourgeois class, which led the revolution which
+### 5.1.17.
+
+Now that the bourgeois class, which led the revolution which
 allowed the development of capital, has disappeared, and been replaced
 by the capitalist class which lives on capital and its valorization
 process, capital's domination has been assured (fascism) and because of
@@ -348,7 +380,9 @@ slaves to capital.
 With the development of the new middle classes the demand for democracy
 takes on a tinge -- only -- of communism.
 
-5.1.18. What has been written above deals with the European/North
+### 5.1.18.
+
+What has been written above deals with the European/North
 American area and has no validity for the countries where the Asiatic
 mode of production for a long time predominated (Asia, Africa) or where
 it still dominates (e.g., India). In these countries, the individual has
@@ -387,7 +421,9 @@ reconstitute itself as class and thus as party, in this way superseding
 the cramped limits of all class societies. The human species will
 finally be unified and form a single being.
 
-5.1.19. All historical forms of democracy corresponded to stages of
+### 5.1.19.
+
+All historical forms of democracy corresponded to stages of
 development where production was limited. The various revolutions which
 followed one another were partial revolutions. Economic progress was
 unable to take place, and to advance, without the exploitation of a
@@ -418,7 +454,9 @@ addition, the communist revolution is no longer a partial revolution.
 With it, progressive emancipation finishes, and radical emancipation is
 achieved. Here again there is a qualitative leap.
 
-5.1.20. Democracy is based on a dualism, and is the means to surmount
+### 5.1.20.
+
+Democracy is based on a dualism, and is the means to surmount
 it. Thus it resolves the dualism between spirit and matter, which is
 equivalent to that between great men and mass, through delegation of
 powers; that between citizen and man, through the ballot paper and
@@ -434,7 +472,9 @@ to the other being assured by violence.
 The democratic principle in reality is only the acceptance of a given
 fact: the scission of reality, the dualism linked to class society.
 
-5.1.21. Often some wish to oppose democracy in general, an empty
+### 5.1.21.
+
+Often some wish to oppose democracy in general, an empty
 concept, to a form of democracy which would be the key to human
 emancipation. Now what is a fact, whose characteristic is not only in
 contradiction with its general concept, but must be its negation? In
