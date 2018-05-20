@@ -4848,7 +4848,7 @@ principle and for adventurism. These were his actual expressions:
 >One can and should discuss with convinced adherents of the Right and
 >the Left, but not with a man who plays at concealing the faults of one
 >to the others; he is to be unmasked as a diplomat of the basest
->metal...Trotsky has never had any political colour; he comes and goes
+>metal ... Trotsky has never had any political colour; he comes and goes
 >between the liberals and the Marxists, with shreds of sonorous phrases
 >stolen right and left. Not all is gold that glitters. Trotsky's phrases
 >are full of glitter and noise but they lack content.
@@ -17284,7 +17284,7 @@ of the Moscow Committee. The higher functionaries in Leningrad "are
 mainly with us, but they are terrified when we speak of removing
 Stalin," so they oscillate without being able to make up their minds.
 "Andreyev is with us, but he is being removed from the Urals. Stalin
-bought the Ukrainians by withdrawing Kaganovich from Ukraine...Yagoda
+bought the Ukrainians by withdrawing Kaganovich from Ukraine ... Yagoda
 and Trilisser are with us. There have been 150 small rebellions.
 Voroshilov and Kalinin funked at the last minute.... Stalin has some
 special hold on them that I do not know of.... The Orgbureau is with

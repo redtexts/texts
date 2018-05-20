@@ -166,7 +166,7 @@ men. However this is a mystification because:
 >"In free competition, it is capital that is set free, not the
 >individuals." (Marx, 'Grundrisse', Collected Works V. 29, p. 38)
 
->"Hence...the absurdity of regarding free competition as the ultimate
+>"Hence ... the absurdity of regarding free competition as the ultimate
 >development of human freedom, and the negation of free competition as
 >equivalent to the negation of individual freedom and of social
 >production based upon individual freedom. It is merely the kind of free

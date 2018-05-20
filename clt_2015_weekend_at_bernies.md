@@ -336,10 +336,10 @@ place within the broader international system of capitalism. This being
 the case, it should come as no surprise that Sanders has such shitty
 attitudes toward immigration:
 
->"Open borders? No, that's a Koch brothers proposal...That's a
+>"Open borders? No, that's a Koch brothers proposal ... That's a
 >right-wing proposal, which says essentially there is no United
->States... It would make everybody in America poorer...You're doing away
->with the concept of a nation state, and I don't think there's any
+>States ... It would make everybody in America poorer ... You're doing
+>away with the concept of a nation state, and I don't think there's any
 >country in the world that believes in that..."
 
 If you turned the last sentence on its head, you might have a statement

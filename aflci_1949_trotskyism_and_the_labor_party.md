@@ -2,7 +2,7 @@
 title: Trotskyism and the Labor Party
 author: American Fraction of the Left Communist International
 date: 1949
-description: Written by D.A. for the January-February 1949 issue of International Bulletin. This issue and others are available on archive.org. International Bulletin was a periodical put out by the so-called American Fraction of the Left Communist International. In this version we have cleaned up only minor punctuation and formatting issues. Any errors below are present in the original.
+description: Written by D.A. for the January-February 1949 issue of International Bulletin. This issue and others are available on archive.org. International Bulletin was a periodical put out by the so-called American Fraction of the Left Communist International. In this version we have cleaned up only minor punctuation, formatting issues, and spelling issues. Any errors below are present in the original.
 keywords: Trotsky
 ...
 
@@ -67,28 +67,28 @@ need of the capitalist state to rct [?] in the support of the workers
 for its system of exploitation, for its wars, for its colonial
 oppression, through the labor party.
 
-Trotskyism (Cannon and Shactman) is well aware that the British Labor
+Trotskyism (Cannon and Shachtman) is well aware that the British Labor
 Party, for example, performs the duty of rescuing British Imperialism
 from its death agony, by centralizing production through
 nationalization, maneuvering by changing the juridical relation of the
 colonies and dominions to the mother oppressor (England), and
-demagogically propagandizing this as the millenium of freedom for the
-colonial oppressed. Trotskyism (Cannon & Shactman) is well aware that
+demagogically propagandizing this as the millennium of freedom for the
+colonial oppressed. Trotskyism (Cannon & Shachtman) is well aware that
 the British Labor Party is busy preparing English Imperialism with its
 American partner, the U.S. Imperialism and their competitor, Russian
 Imperialism for Imperialist War III. Trotskyism is aware of the fact
 that the sum-total of the purposes of a Labor Party are, "preserve
 capitalism."
 
-Trotskyism (Cannon and Shactman) know the petty treacherous character of
-labor parties in the U.S. The American Labor Party, for example, which
-began its existence by supporting the representative of big capital,
-Roosevelt, and to date supported a representative of smaller capital,
-Wallace, continually, makes deals between the Republican and Democratic
-ward heelers and their masters, and above all was a patriotic defender
-of the American Imperialism in War II. Now, under purely Stalinist
-tutelage it clings still to that part of the C.I.O. bureaucracy friendly
-to Russian Imperialism.
+Trotskyism (Cannon and Shahctman) know the petty treacherous character
+of labor parties in the U.S. The American Labor Party, for example,
+which began its existence by supporting the representative of big
+capital, Roosevelt, and to date supported a representative of smaller
+capital, Wallace, continually, makes deals between the Republican and
+Democratic ward heelers and their masters, and above all was a
+patriotic defender of the American Imperialism in War II. Now, under
+purely Stalinist tutelage it clings still to that part of the C.I.O.
+bureaucracy friendly to Russian Imperialism.
 
 The same is essentially true of the Liberal Party, which is also a
 "Labor" party, but antagonistic to Russia, and friendly to Social
@@ -103,7 +103,7 @@ The Trotskyites are well aware of the facts therefore, that Labor
 Parties support, defend, and prop up, the capitalist economy; capitalist
 democracy; exploitation of the wage-workers; and Imperialist War.
 
-Knowing all this, why do the Trotskyites (Cannon and Shactman) advocate
+Knowing all this, why do the Trotskyites (Cannon and Shachtman) advocate
 a Labor Party? The Trotskyites answer, "We are not sectarians; we cannot
 remain isolated; we must follow the mass movement." Since, however, with
 the victory of Truman in the presidential elections, the Labor Party
@@ -128,7 +128,7 @@ In other words, they spread the lie that counter-revolution can be
 _reformed_ into revolution (a la Labor Party). Trotskyism flies in the
 face of history and of present political reality.
 
-We must characterize Trotskyism (both of the Cannon and Shactman
+We must characterize Trotskyism (both of the Cannon and Shachtman
 varieties) as an obstacle on the Road to Proletarian Revolution, because
 it advocates a political instrument whose only aim is to save a dying
 system, capitalism; because it does not paint the instrumentality of the

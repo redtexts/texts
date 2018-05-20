@@ -2517,7 +2517,7 @@ arguments.
 * **1922 March** Zinoviev proposed Stalin as General Secretary of the
   Communist Party.
 * **1923 February** In Italy Bordiga arrested.
-* **May** Lenin's first stroke. Lenin wrote his _Testament_ crticising
+* **May** Lenin's first stroke. Lenin wrote his _Testament_ criticising
   both Stalin and Trotsky but urging removal of Stalin.
 * **June** Third Enlarged Executive of the Comintern installed new,
   'mixed' leadership in PCd'I.

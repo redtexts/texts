@@ -478,7 +478,7 @@ will understand we're not advocating universal organic vegan meals.
     life." But it's important to understand that it is just one aspect,
     and also that the seed cannot grow in just any situation.
 
-[^fn-2]: This quote comes from the group Kammunist Kranti in India. It
+[^fn-2]: This quote comes from the group Kamunist Kranti in India. It
     can be said that capital has survived those attacks because these
     termites also work for capital. This is true, but it is also true
     that capital needs and tries to control and destroy all these secret

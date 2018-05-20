@@ -7074,7 +7074,7 @@ tends to become an open struggle or is destroyed and recuperated to
 become an image used to disguise reality. The growing influence of
 capital over life increasingly expels and renders impossible all real
 humanity, all love, all creation and exploration. Men are being turned
-into empty carcases that walk without life to the rhythms of capital.
+into empty carcasses that walk without life to the rhythms of capital.
 Revolt and reaction must therefore obtain a more and more human
 character. This humanity that contradicts capital, the necessary stage
 of the becoming of the species, is what we call communism. This label is
