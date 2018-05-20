@@ -701,7 +701,7 @@ liberal and middle-class English trade unions and Latin anarchists. Two
 small labour parties founded by Lassalle and Wilhelm Liebknecht in
 Germany in the 1860s were among the closest supporters of Marx within
 the International -- a fact that did not prevent Marx and Lassalle from
-criticising their leaders in a forcible and unjust manner.1
+criticising their leaders in a forcible and unjust manner [^01].
 
 Throughout the constitutional struggles in Prussia from 1862 to 1866,
 when Bismarck was making war upon the liberal majority in the Prussian
@@ -813,11 +813,6 @@ development open to it in Tsarist Russia.
 
 The young revolutionary Lenin arrived in St Petersburg from the Volga in
 1893 to put the theories of Marx into practice.
-
-### Chapter 01 notes
-
-1. Engels seems to have been meant here, rather than Lassalle. --
-   Marxist Internet Archive.
 
 ## Chapter 02: Revolution in Russia, 1893-1914
 
@@ -1061,7 +1056,7 @@ Again Lenin wrote:
 >of democracy without for a moment concealing our socialist convictions,
 >is no true Social-Democrat. Nor is he a Social-Democrat who forgets his
 >duty to go a step ahead of all others in the formulation, provocation
->and solution of every general democratic problem.1
+>and solution of every general democratic problem [^02].
 
 Lenin regarded Social-Democracy as the great leader of the Russian
 nation in its struggle for freedom. If, however, that was to be its
@@ -1597,14 +1592,6 @@ represented in the Duma by half a dozen deputies. At the same time they
 organised illegal and subversive associations. They bided their time
 until the outbreak of the World War in 1914 once again resuscitated the
 possibility of a Russian Revolution.
-
-### Chapter 02 notes
-
-1. The word 'provocation' is a mistranslation. The standard translation
-   of this passage in _What Is To Be Done?_ is: 'He is no
-   Social-Democrat who forgets in practice his obligation to be _ahead
-   of all_ in raising, accentuating and solving _every_ general
-   democratic question.' -- Marxist Internet Archive.
 
 ## Chapter 03: The World War, August 1914 to February 1917
 
@@ -8987,3 +8974,12 @@ convenience.
   _The Revolution of 1905_.
 * N Krupskaya, _Erinnerungen an Lenin_, translated under the title
   _Memories of Lenin_.
+
+[^01]: Engels seems to have been meant here, rather than Lassalle. --
+   Marxist Internet Archive.
+
+[^02]: The word 'provocation' is a mistranslation. The standard
+   translation of this passage in _What Is To Be Done?_ is: 'He is no
+   Social-Democrat who forgets in practice his obligation to be _ahead
+   of all_ in raising, accentuating and solving _every_ general
+   democratic question.' -- Marxist Internet Archive.
