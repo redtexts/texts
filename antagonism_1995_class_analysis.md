@@ -49,7 +49,7 @@ was nevertheless the case that there existed some reference point around
 which important disputes would turn. In particular, revolutionary class
 struggles in the Middle Ages seemed always to have religious
 disagreements that corresponded to the opposing class forces. (For
-instance, the Muenster commune was created by Anabaptists, the Taborites
+instance, the Münster commune was created by Anabaptists, the Taborites
 were also protestants who fought against the established church, and the
 various class forces in the English civil war also had their own
 religious sects.)
@@ -164,7 +164,7 @@ powerlessness. The ruling class, the capitalist class of the USSR were
 the top managers who commanded its economy, its state and its
 ideological apparatus. The intermediate class between capital and labour
 was primarily that of the lower managers, whose job it was to rule the
-enterprises on a day to day basis [^01]. This recognition of the forms
+enterprises on a day to day basis.[^01] This recognition of the forms
 of class power in the USSR leads us directly to an examination of
 so-called mixed economies such as Britain. In Britain too there is state
 ownership of certain industries. Certainly traditional bourgeois benefit
@@ -184,7 +184,7 @@ ownership by both individuals and institutions. They are not operated
 primarily by individual bourgeois but by top managers. In free market
 societies, as in state controlled societies, the capitalist class
 includes top managers, the middle class includes lower managers. In the
-free market these strata exist along side private capitalists and petty
+free market these strata exist alongside private capitalists and petty
 bourgeois. The bourgeoisie, the owners of capital, are ruling class not
 because they are rich and we aren't. The bourgeoisie are ruling class
 because their ownership of capital gives them certain rights, abilities,
