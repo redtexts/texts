@@ -2,30 +2,9 @@
 title: Against the Myth of Democratic Rights and Liberties
 author: Internationalist Communist Group
 date: 1993
-description: Published in 1993 in issue 8 of Communism, the ICG's English-language review. Available in its original electronic form at <http://gci-icg.org/english/communism8.htm#mythdemo>.
+description: The source of this text is a new English translation published in 1993 in issue 8 of _Communism_, the ICG's English-language review. Available in its original electronic form at <http://gci-icg.org/english/communism8.htm#mythdemo>. An earlier English translation from Spanish was published in November 1983 in the first issue of _Communism_.
 keywords: Democracy
 ...
-
-### Note
-
-We are reproducing here an article that was first published 10 years
-ago, in November 1983, in the first issue of _Communism_, our central
-review in English. Two reasons have led us to republish this article on
-the "Myth of Democratic Rights and Liberties":
-
-* the contents of the article that remains very crucial in all struggles
-  today insofar as it denounces the democratic rights and liberties as
-  they are systematically being used against the strength, the unity and
-  the autonomous organisation of the proletariat;
-* the fact that this article, published in the first issue of Communism,
-  was a rather bad translation of the original Spanish text, while today
-  we can publish a much better version of it. As we explained in the
-  introduction of Communism No.7 in April 1992, we depend nearly
-  entirely on our contacts and sympathizers to help us with the
-  translations of our texts into English. We are satisfied that today we
-  can republish this article and we call upon our sympathizers to
-  continue to contribute to the task of improving the quality of our
-  reviews and of spreading important text of the communist movement.
 
 ## Introduction
 
