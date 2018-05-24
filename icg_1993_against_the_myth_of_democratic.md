@@ -313,7 +313,7 @@ The liberty of press and propaganda simply insures the free market in
 such a way that only the economic potential and the financial capacity
 of the different parties would assume the control and domination of
 public opinion and would guarantee the free application of the majority
-principle. In front of this economico-political apparatus of the
+principle. In front of this economical-political apparatus of the
 dominant class, the workers have as alternative: either the liberty,
 right and duty to resign themselves, or the force and the will to
 organize themselves as a class, for which no right or liberty will ever
