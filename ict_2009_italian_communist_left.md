@@ -166,10 +166,10 @@ order to win it for a real communist struggle. Those who opposed them
 also went to Spain to try to win them back to communist positions. In
 the event, the comrades who entered the militias soon found to their
 cost that it was not possible in what had become an imperialist war to
-win the workers to communism. The major gain was that the Bilan comrades
-recognised that the anti-fascist war was the prelude to the dragooning
-of the working class into support for imperialism in one form or
-another.
+win the workers to communism. The major gain was that the _Bilan_
+comrades recognised that the anti-fascist war was the prelude to the
+dragooning of the working class into support for imperialism in one form
+or another.
 
 However two tendencies, at least, existed inside _Bilan_. For instance,
 while a part denied the possibility to characterize decisively the
@@ -225,7 +225,7 @@ formed the ICC.
 
 The failure of the GCF to join the PCint was a mistake as even the ICC
 history of the Italian Left demonstrates. The PCInt had taken up the
-work of Bilan but had resolved many of its confusions. Damen insisted
+work of _Bilan_ but had resolved many of its confusions. Damen insisted
 that:
 
 1. Rosa Luxemburg and not Lenin was right on the national question.
