@@ -246,7 +246,7 @@ not even to its political party." (Theses of the Damen Tendency at the
 
 And Bordiga? Bordiga remained at home during the fascist period and
 during the war and never joined the Party, though he collaborated with
-its publications. In 1945, at the end of the war [and the reunification
+its publications. In 1945, at the end of the war (and the reunification
 of Italy) several comrades from the South close to Amadeo Bordiga,
 joined the Party. At this time the Party had 5000 members all over Italy
 with some supporters in France, Belgium and the USA.
@@ -313,7 +313,7 @@ of transition between capitalism and communism and there was growing
 rapprochement on the question of the party, given the critique the PCInt
 had made of the CWO's Platform of 1975. On all other issues (national
 liberation, the unions (despite some nuances), decadence, and the nature
-of the USSR, social democracy, etc., both organisations shared the same
+of the USSR, social democracy, etc.), both organisations shared the same
 positions as the ICC. What increasingly emerged in the conferences
 though was a further difference on perspectives and method, and this,
 together with the key issue of the party, would eventually lead to the
