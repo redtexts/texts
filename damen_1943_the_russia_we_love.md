@@ -87,7 +87,7 @@ is that Russia of the proletariat and poor peasantry who under the
 guidance of Lenin and the revolutionary party dared to break the
 framework of feudalism and capitalism and to pose the class dictatorship
 -- the transitional proletarian state power whose goal has to be to
-signal the destruction of that very state and that very class, The
+signal the destruction of that very state and that very class. The
 Russia which we love and defend is that Russia which for years its
 proletariat and to the international proletariat the consciousness of
 its force, the historic sense of its revolutionary role, the organic
