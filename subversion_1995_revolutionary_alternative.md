@@ -67,22 +67,22 @@ of capitalism (this was especially true in Russia, where **State
 Capitalism**, introduced by the Bolsheviks, a supposedly working class
 party, was the only way capitalism could be developed.
 
-## So what does leftism consist of?
+# So what does leftism consist of?
 
 At first blush it seems to be about supporting the struggle of the
 workers, but when you look more closely everything is on the terrain of
 capitalist politics. The main features of Leftism are:
 
-### Support for radical capitalist parties
+## Support for radical capitalist parties
 
 Such as the Labour Party in this country and the ANC in South Africa
-precisely because its goal is to widen **bourgeois democracy** -- the
+(precisely because its goal is to widen **bourgeois democracy** -- the
 vote etc.), and support for **Parliament**. Some "revolutionary" groups
 who don't support the Labour Party nevertheless **still** support
 participation in **parliament** -- thereby helping in **practice** to
 uphold the ideology of bourgeois democracy.
 
-### Support for state capitalism
+## Support for state capitalism
 
 Already referred to above, State Capitalism (a term with various
 meanings, but here we mean the form of society that developed in Russia
@@ -107,7 +107,7 @@ support for anti-working class dictatorships like Russia, China, Cuba
 etc., but creates the very real danger of such a society being created
 in any future revolution.
 
-### Support for Nationalism in its "radical" form
+## Support for Nationalism in its "radical" form
 
 Left wing groups routinely advocate support for weaker, e.g. "third
 world", nation states -- meaning the **governments** of nation states,
@@ -142,7 +142,7 @@ Siding with the working class against all capitalist factions
 necessitates opposing all **forms of nationalism whatsoever**. Any
 wobbling on this will lead the working class to defeat yet again.
 
-### Support for Trade Unionism
+## Support for Trade Unionism
 
 Seemingly the most working class activity of all, Trade Unionism is
 above all a movement to **reconcile** the workers to capitalism. Its
@@ -174,7 +174,7 @@ Unions, if the struggle is to go forward. Left wing groups' support for
 Trade Unions is just one more way in which they help shackle the working
 class to capitalism._
 
-### And last but certainly not least, advocacy of the Leadership of "revolutionaries" over the working class
+## And last but certainly not least, advocacy of the Leadership of "revolutionaries" over the working class
 
 This division between a mass of followers and an elite of leaders
 mirrors the divide in mainstream capitalism (and indeed all forms of
@@ -216,7 +216,7 @@ all stand united **against** the fake radicalism of the Left, and for a
 genuinely communist alternative. We in SUBVERSION are a part of this
 movement.
 
-## What is the Alternative?
+# What is the Alternative?
 
 We believe that, despite the obstacles put in its way by both Right and
 Left, the working class has the power to destroy capitalism for real,
