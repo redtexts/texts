@@ -117,7 +117,7 @@ further, in the hope of becoming wise after all from the previous one;
 so it happens that the fool becomes more and more stupid.
 
 In whatever shape the police commanding public peace, who the West is so
-disgusted at  (where the means of dulling and standardizing the skulls
+disgusted at (where the means of dulling and standardizing the skulls
 are ten times bigger and more repugnant): The definition of the social
 stage reached and the running economic wheel-work in Russia is a
 question that imposes itself -- leading to the following dilemma: Should
@@ -467,7 +467,7 @@ that commodity exchange always follows equivalents: the appearance of
 "freedom, equality and Bentham[^12]", which Marx destroyed, when he
 showed that capitalism doesn't produce for the product, but for
 profit. Command and control of the economic laws -- between those two
-cliffs Stalin's "manifesto" maneuvers  back and forth and thus confirms
+cliffs Stalin's "manifesto" maneuvers back and forth and thus confirms
 our thesis: In its most powerful form, capital subordinates itself to
 the state, even when the state appears as the judicial sole owner of all
 businesses.
@@ -935,7 +935,7 @@ slavery, feudalism, capitalism. But Stalin wants to point out that
 "certain laws" are common to all epochs and thus also assert themselves
 in socialism, which allegedly has an own "political economy". Stalin
 ridicules Yaroshenko and Bukharin, that said, that political economy is
-succeeded by a "technique of social organsiation" \[Stalin,
+succeeded by a "technique of social organisation" \[Stalin,
 p.65\]. Harshly he replies to that, that this new discipline, which
 pseudo-Marxist and trembling before the Tsarist police economists[^18]
 would have attended to, is in reality an "economic policy" -- and as
@@ -1078,7 +1078,7 @@ as those, that are depicted in "Capital": sometime it hits the
 kolkhozniki, who suddenly stand there without their cow; sometime the
 nomadic shepherds of Asia, which get snatched from their submersion into
 the view of the Ursa Major; or the feudal serfs in Mongolia, which are
-uprooted from their millenniums-old soil. The slogan is with certainity:
+uprooted from their millenniums-old soil. The slogan is with certainty:
 more production goods, more workers, longer work time, higher work
 intensity -- in other words: expanded accumulation and reproduction of
 capital in infernal pace.
@@ -1106,7 +1106,7 @@ trash their reeking flag of freedom and parliamentarism.
 ## Socialism and Communism
 
 We will conclude the economic argument with a synthesis of the stages of
-the future society --  a topic, in which the whole of Stalin's
+the future society -- a topic, in which the whole of Stalin's
 "document" (we were looking for that word the entire time) is causing
 confusion. "France Press" accused Stalin of plagiarizing the scripture
 of Nikolai Bukharin about the economic laws of the transition
@@ -1651,7 +1651,7 @@ the pockets of the bourgeois.
 Let's now determine the value of total production. Let's assume that
 between 1848 and 1929 thanks to improved machines and with same number
 of workers ten times more raw materials than before could be
-processed. We can quietly assume those low numbers: with the certainity
+processed. We can quietly assume those low numbers: with the certainty
 of one, who is somewhat familiar with scientific syntheses and therefore
 without problems starts with preconditions which are inconvenient for
 the own thesis and which benefit the enemy, those hair-splitters, which
@@ -1754,7 +1754,7 @@ is only noon. The "morning" might have been as hard and complicated as a
 symphony by Wagner.
 
 Will the concluding "afternoon" play a lighter music on the steep way?
-Maybe. „L'après-midi d'une faune"[^22]? However, our faun appears in the
+Maybe. "L'après-midi d'une faune"[^22]? However, our faun appears in the
 coarse figure and with the threatening gesture of the blood red mars.
 
 # Third Day (Afternoon)
@@ -1824,7 +1824,7 @@ on the second, four on the third... all corn chambers of the heavenly
 empire wouldn't have sufficed to fill the 64 squares.
 
 Now, his law is de facto nothing else than the categorical imperative:
-produce evermore!  This imperative belongs solely to capitalism and the
+produce evermore! This imperative belongs solely to capitalism and the
 following chain of causes is at its foundation: Increase of labour
 productivity -- increase of constant capital in relation to variable
 capital, thus the organic composition -- fall in the rate of profit --
@@ -1998,18 +1998,18 @@ assumption: that England was to be the one great manufacturing centre of
 an agricultural world. And the actual fact is that this assumption has
 turned out to be a pure delusion. The conditions of modern industry,
 steam-power and machinery, can be established wherever there is fuel,
-especially coals. And other countries besides England-France, Belgium,
-Germany, America, even Russiahave coals. And the people over there did
-not see the advantage of being turned into Irish pauper farmers merely
-for the greater wealth and glory of English capitalists. They set
-resolutely about manufacturing, not only for themselves, but for the
-rest of the world; and the consequence is that the manufacturing
+especially coals. And other countries besides England -- France,
+Belgium, Germany, America, even Russia -- have coals. And the people
+over there did not see the advantage of being turned into Irish pauper
+farmers merely for the greater wealth and glory of English capitalists.
+They set resolutely about manufacturing, not only for themselves, but
+for the rest of the world; and the consequence is that the manufacturing
 monopoly enjoyed by England for nearly a century is irretrievably broken
 up."
 
 A paradox? We could only refute the comedy of "liberal" capitalism
 because this was the -- for a limited period -- unprecedented historical
-fall of a world monopoly. „Laissez faire, laissez passer"[^23], but keep
+fall of a world monopoly. "Laissez faire, laissez passer"[^23], but keep
 the fleet (larger than all the others put together) on alert so that
 none of the Napoleons escape from the Saint Helena's....
 
@@ -2139,7 +2139,7 @@ This has, of course, stirred up some dust; while various puppets have
 been sent off, of the batch of an Ehrenburg or a Nenni[^26] to fight for
 "peaceful coexistence" and "competition" between the parallel economic
 areas, Moscow is sending the message that it is still expecting the West
-to suffocate under a mountain of unsaleable commodites (which could not
+to suffocate under a mountain of unsaleable commodities (which could not
 even be given away because then the debts would pile up even more) and
 blow up as a result of this crisis. Not even in the unbridled arms race
 or in the Korean war and other imperialist raids, Moscow sees an
@@ -2418,7 +2418,7 @@ But even from this dark experience IT will arise again.
 [^7]: All quotes marked with "Stalin" are taken from: "Economic Problems
 	of Socialism in the USSR". 1952.
 
-[^8]: V.I. Lenin: „Karl Marx", 1914, Lenin's Collected Works, Moscow,
+[^8]: V.I. Lenin: "Karl Marx", 1914, Lenin's Collected Works, Moscow,
 	1974, Volume 21, pp. 43-91.
 
 [^9]: See among others: Filo 92,"In the Vortex of Capitalist Anarchy";
