@@ -2,7 +2,7 @@
 title: Commodity Fetishism
 author: Perlman, Fredy
 date: 1968
-description: "Written as an introduction to the translation of I. I. Rubin\'s \"Essays on Marx\'s Theory of Value\". Based on a text form [the Anarchist Library](https://theanarchistlibrary.org/library/fredy-perlman-commodity-fetishism-an-introduction-to-i-i-rubin-s-essay-on-marx-s-theory-of-valu), with minor correction based on the _Black Rose Book_ version (1990). An alternative version can be found on [libcom.org](https://libcom.org/library/commodity-fetishism-fredy-perlman). The book itself can be found [here](https://www.marxists.org/archive/rubin/value/index.htm)."
+description: Written as an introduction to the translation of I. I. Rubin\'s \"Essays on Marx\'s Theory of Value\". Based on a text from [the Anarchist Library](https://theanarchistlibrary.org/library/fredy-perlman-commodity-fetishism-an-introduction-to-i-i-rubin-s-essay-on-marx-s-theory-of-valu), with minor correction based on the _Black Rose Book_ version (1990). An alternative version can be found on [libcom.org](https://libcom.org/library/commodity-fetishism-fredy-perlman). The book itself can be found [here](https://www.marxists.org/archive/rubin/value/index.htm).
 keywords: Political Economy
 ...
 
@@ -890,7 +890,7 @@ conclusion of the theory of fetishism, which explains the inevitability
 of 'reification' of production relations among people in a commodity
 economy" (Rubin, p. 72). Thus the theory of value is about the regulation
 of labor; it is this fact that most critics of the theory failed to
-grasp. 
+grasp.
 
 The question Marx raises is how the working activity of people is
 regulated in capitalist society. His theory of value is offered as an
@@ -1229,7 +1229,7 @@ between the two processes (p. 237).
 
 In his analysis, Rubin assumes "the existence of competition among
 capitalists engaged in different branches of production" and also "the
-possibility for the transfer of capital from one branch to another" (p. 
+possibility for the transfer of capital from one branch to another" (p.
 230).[^91] With these assumptions, "the rate of profit becomes the
 regulator of the distribution of capital" (p. 229). Rubin defines profit
 as "the surplus of the selling price of the commodity over the costs of
