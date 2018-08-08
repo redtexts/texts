@@ -1,6 +1,6 @@
 ---
 title: "Karl Kautsky: From Marx to Hitler"
-author: Paul Mattick
+author: Mattick, Paul
 date: 1939
 description: Published in June 1939 in Living Marxism, vol. 4, no. 7. Later collected in the Mattick anthology Anti-Bolshevik Communism. From <https://www.marxists.org/archive/mattick-paul/1939/kautsky.htm>.
 ...
@@ -60,7 +60,7 @@ due time find adequate popularisation, a feat that should be easy after
 the scientific basis had been laid. "My life work became clear to me in
 1883," wrote Kautsky; "it was to be designated to the propagandising and
 popularisation, and, as far as I am able to, the continuation of the
-scientific results of Marx's thinking and research[^03]. However, not
+scientific results of Marx's thinking and research.[^03] However, not
 even he, the greatest populariser of Marx, has fulfilled Marx's hope;
 his simplifications turned out to be new mystifications unable to
 comprehend the true character of capitalist society. Nevertheless, even
@@ -194,8 +194,7 @@ during peace times, during times of war, cut your throats."[^05]
 The war and its aftermath destroyed the legend of Kautsky's Marxist
 orthodoxy'. Even his most enthusiastic pupil, Lenin, had to turn away
 from the master. In October 1914 he had to admit that as far as Kautsky
-was concerned, Rosa Luxemburg had been right. In a letter to Shlyapnikow
-[^06], he wrote, "She saw long ago that Kautsky, the servile
+was concerned, Rosa Luxemburg had been right. In a letter to Shlyapnikow,[^06] he wrote, "She saw long ago that Kautsky, the servile
 theoretician, was cringing to the majority of the Party, to Opportunism.
 There is nothing in the world at present more harmful and dangerous for
 the ideological independence of the proletariat than this filthy, smug
