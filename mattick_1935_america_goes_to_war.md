@@ -1,6 +1,6 @@
 ---
 title: What will I do when America goes to War?
-author: Paul Mattick
+author: Mattick, Paul
 date: 1935
 description: Paul Mattick answers three questions put to him by the magazine Modern Monthly. The article also featured answers from other radicals. From <https://www.marxists.org/archive/mattick-paul/1935/war-america.htm>.
 ...
