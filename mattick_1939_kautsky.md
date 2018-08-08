@@ -24,7 +24,7 @@ Imperial Theatre in Vienna. As early as 1875, though not as yet a
 Marxist, he contributed to German and Austrian labour papers. He became
 a member of the German Social Democratic Party in 1880, and "only now,"
 he said of himself, "began my development towards a consistent
-methodical Marxism.[^02] He was inspired, like so many others, by
+methodical Marxism."[^02] He was inspired, like so many others, by
 Engels' _Anti-Dühring_ and was helped in his orientation by Eduard
 Bernstein, who was then the secretary to the 'millionaire' socialist
 Hoechberg. His first works were published with Hoechberg's help and he
@@ -95,7 +95,7 @@ Even the class struggle of the workers could serve the needs not of the
 individual capitalists but of capital. The victories of the workers
 turned always against the victors. The more the workers gained, the
 richer capital became. The gap between wages and profits became wider
-with each increase of the 'workers' share'. The apparently increasing
+with each increase of the 'workers\' share'. The apparently increasing
 strength of labour was in reality the continuous weakening of its
 position in relation to that of capital. The 'successes' of the workers,
 hailed by Eduard Bernstein as a new era of capitalism, could, in this
@@ -192,7 +192,7 @@ _Communist Manifesto_ it now reads: Proletarians of all countries unite
 during peace times, during times of war, cut your throats."[^05]
 
 The war and its aftermath destroyed the legend of Kautsky's Marxist
-orthodoxy'. Even his most enthusiastic pupil, Lenin, had to turn away
+'orthodoxy'. Even his most enthusiastic pupil, Lenin, had to turn away
 from the master. In October 1914 he had to admit that as far as Kautsky
 was concerned, Rosa Luxemburg had been right. In a letter to Shlyapnikow,[^06] he wrote, "She saw long ago that Kautsky, the servile
 theoretician, was cringing to the majority of the Party, to Opportunism.
@@ -531,14 +531,14 @@ profit but to satisfy needs. The socialist mode of production has its
 own rules, in many respects different from the laws of commodity
 production. However, as long as commodity production prevails, it will
 best function if those laws of motion discovered in the era of
-liberalism are respected.[^21]
+liberalism are respected."[^21]
 
 These ideas are quite surprising in a man who had edited Marx's
 "Theories of Surplus Value", a work which proved exhaustively "that Marx
 at no time in his life countenanced the opinion that the new contents of
 his socialist and communist theory could be derived, as a mere logical
 consequence, from the utterly bourgeois theories of Quesnay, Smith and
-Ricardo.[^22] However, this position of Kautsky's gives the necessary
+Ricardo."[^22] However, this position of Kautsky's gives the necessary
 qualifications to our previous statement that he was an excellent pupil
 of Marx and Engels. He was such only to the extent that Marxism could be
 fitted into his own limited concepts of social development and of
@@ -580,7 +580,7 @@ of social development, he is sure to arrive sooner or later at that
 borderline of thought where idealism turns into insanity.[^24] There is
 a report current in Germany that when Hindenburg was watching a Nazi
 demonstration of storm troops he turned to a General standing beside him
-saying, 'I did not know we had taken so many Russian prisoners."
+saying, "I did not know we had taken so many Russian prisoners."
 Kautsky, too, in this his last book, is mentally still at 'Tannenberg'.
 His work is a faithful description of the different attitudes taken by
 socialists and their forerunners to the question of war since the
@@ -604,7 +604,7 @@ all socialists will stand on the side of democracy." After the
 experiences of the last war and the history since then, there is no need
 to search for the black sheep that causes wars, nor is it a secret any
 longer why wars are fought. However, to pose such questions is not
-stupidity as one may believe. Behind this apparent naivete; lies the
+stupidity as one may believe. Behind this apparent naïveté; lies the
 determination to serve capitalism in one form by fighting capitalism in
 another. It serves to prepare the workers for the coming war, in
 exchange for the right to organise in labour organisations, vote in
@@ -631,10 +631,10 @@ capitalism. He really believed in a war for democracy, to allow
 capitalism to proceed in its logical course towards a real commonwealth.
 And his 1937 predictions incorporated sentences like the following: "The
 time has arrived where it is finally possible to do away with wars as a
-means of solving political conflicts between the states.[^26] Or, "The
+means of solving political conflicts between the states."[^26] Or, "The
 policy of conquest of the Japanese in China, the Italians in Ethiopia,
 is a last echo of a passing time, the period of imperialism. More wars
-of such a character can hardly be expected.[^27] There are hundreds of
+of such a character can hardly be expected."[^27] There are hundreds of
 similar sentences in Kautsky's book, and it seems at times that his
 whole world must have consisted of no more than the four walls of his
 library, to which he neglected to add the newest volumes on recent
@@ -644,7 +644,7 @@ peaceful development towards socialism, like the period in the days
 before fascism. The essential weakness of fascism he illustrated with
 the remark that "the personal character of the dictatorships indicates
 already that it limits its own existence to the length of a human
-life.[^28] He believed that after fascism there would be the return to
+life."[^28] He believed that after fascism there would be the return to
 the 'normal' life on an increasingly socialistic abstract democracy to
 continue the reforms begun in the glorious time of the social democratic
 coalition policy. However, it is obvious now that the only capitalistic
