@@ -1374,8 +1374,6 @@ Radical parties with several smaller groups)
 * PCE -- Partido Comunista de España
 * UGT -- Unión General de Trabajadores
 
-## Notes
-
 [^fn-01]: Public opinion does not condemn Nazism so much for its
   horrors, because since then other States -- in fact the capitalist
   organisation of the world economy -- have proven to be just as

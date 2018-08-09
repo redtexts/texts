@@ -4491,8 +4491,6 @@ productive forces which you have before your eyes and even in your
 hands, what you must find in them: the new truth, the socialist vision
 of the world. And spread it!
 
-## Notes
-
 [^fn-01]: _Neue Zeit_, XXII, 1, p. 5.
 
 [^fn-02]: _A Plot against the International_, 1874, p. 33.

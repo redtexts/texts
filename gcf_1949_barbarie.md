@@ -344,8 +344,6 @@ make a deeper study of the many, though hard-to-find, documents of these
 left currents, it might perhaps have lost its pretensions to
 originality, but it would assuredly have gained in depth.
 
-## Notes
-
 [^01]: _Internationalisme_ 41, January 1949, in the article 'Where are
   we?'.
 
