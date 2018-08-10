@@ -679,8 +679,6 @@ democracy, the struggle against Kautskyism. The life of Kautsky can, in
 all truth and without malicious intent, be summed up in the words: From
 Marx to Hitler.
 
-## Notes
-
 [^01]: _Der Sozialistische Kampf_. Paris, November 5, 1938, p. 271.
 
 [^02]: K. Kautsky, _Aus der Frühzeit des Marxismus_. Prague, 1935, p.
