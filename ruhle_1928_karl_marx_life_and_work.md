@@ -3,20 +3,9 @@ title: "Karl Marx: His Life and Work"
 author: Rühle, Otto
 date: 1928
 description: Published in German in 1928, in English in 1929. In contrast to other biographies, such as that of Nicolaievsky and Maenchen-Helfen, Rühle is more critical of Marx and more sympathetic to Bakunin, etc. The work is also marked by Rühle's interest in psychology. From <https://www.marxists.org/archive/ruhle/1928/marx/index.htm> and <https://archive.org/details/in.ernet.dli.2015.58873>.
+toc: true
+toc-depth: 1
 ...
-
-## Table of Contents
-
-[Chapter 01: Preliminaries][]
-[Chapter 02: Clarification, Part 1][]
-[Chapter 03: Clarification, Part 2][]
-[Chapter 04: The Trial, Part 1][]
-[Chapter 05: The Trial, Part 2][]
-[Chapter 06: Achievement, Part 1][]
-[Chapter 07: Achievement, Part 2][]
-[Chapter 08: Achievement, Part 3][]
-[Chapter 09: Achievement, Part 4][]
-[Chapter 10: Appraisement][]
 
 ## Chapter 01: Preliminaries
 
