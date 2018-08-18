@@ -52,6 +52,9 @@ sure your texts adhere to to following rules/don't contain the following
   and **must** contain at least the fields `title`, `author`, `date` and
   `description`. The `keywords` field is optional. `author` and
   `keywords` can contain more than one item, by using simple lists.
+- To enable tables of content for longer documents, set `use-toc` to
+  true, and optionally set `toc-depth` to set how deep the table of
+  contents should go in terms of heading levels.
 - Pay attention to [correct YAML syntax][yaml-ref], since otherwise the
   field will be ignored.
 - When adding keywords, try to check what keywords other articles use,
