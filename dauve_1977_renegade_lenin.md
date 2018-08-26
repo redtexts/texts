@@ -1,8 +1,8 @@
 ---
-title: The "Renegade" Kautsky and his Disciple Lenin
+title: "The \"Renegade\" Kautsky and his Disciple Lenin"
 author: Dauvé, Gilles
 date: 1977
-description: Originally published as an afterword to Kautsky's Three Sources of Marxism, which is mentioned throughout. From <https://libcom.org/library/renegade-kautsky-disciple-lenin-dauve>, with some formatting fixes from <https://www.oocities.org/~johngray/barrotk.htm>.
+description: "Originally published as an afterword to Kautsky's Three Sources of Marxism, which is mentioned throughout. From <https://libcom.org/library/renegade-kautsky-disciple-lenin-dauve>, with some formatting fixes from <https://www.oocities.org/~johngray/barrotk.htm>."
 ...
 
 _The three sources of Marxism; the historic work of Marx_ is clearly of
@@ -26,7 +26,7 @@ at the same time as the Second International. Quite the contrary, it
 survived and equally formed the basis of the Third International through
 the medium of "Leninism" and its Stalinist and Trotskyist avatars.
 
-## Leninism, by-product of Kautskyism!
+# Leninism, by-product of Kautskyism!
 
 Leninism, by-product of Kautskyism! This will startle those who only
 know Kautsky from the abuse hurled at him by Bolshevism, and in
@@ -73,16 +73,16 @@ much as to the working class movement. They can be summarised in a few
 words, and a couple of quotations will be enough to reveal their
 substance:
 
->"A working class movement that is spontaneous and bereft of any theory
-rising in the labouring classes against _ascendant_ capitalism, is
-incapable of accomplishing ... revolutionary work."
+> A working class movement that is spontaneous and bereft of any theory
+> rising in the labouring classes against _ascendant_ capitalism, is
+> incapable of accomplishing... revolutionary work.
 
 It is also necessary to bring about what Kautsky calls _the union of the
 working class movement and socialism_.
 
 Now: "Socialist consciousness today (?!) can only arise on the basis of
-deep scientific knowledge ... But the bearer of science is not the
-proletariat but the bourgeois intellectuals; ... so then socialist
+deep scientific knowledge... But the bearer of science is not the
+proletariat but the bourgeois intellectuals;... so then socialist
 consciousness is something brought into the class struggle of the
 proletariat from outside and not something that arises spontaneously
 within it." These words of Kautsky's are according to Lenin "profoundly
@@ -126,7 +126,7 @@ surrendering to it_ (Marx). If they "have the choice" it's because they
 are no longer revolutionary, and their theoretical criticism is already
 rotten. The problem of the penetration of revolutionary ideas which
 _they share_ in the working class milieu is entirely transformed through
-that milieu.... when the historical conditions, the balance of power
+that milieu... when the historical conditions, the balance of power
 between the warring classes, (principally determined by the autonomised
 movement of capital) prevents any revolutionary eruption of the
 proletariat onto the scene of history the intellectual does the same as
@@ -164,7 +164,7 @@ to say because the balance of power, on the international scale, between
 capital and proletariat, did not allow the latter to carry through its
 practical and theoretical critique.
 
-## The True Role of Bolshevism
+# The True Role of Bolshevism
 
 This is what we shall try to demonstrate by analysing, in summary, what
 happened in Russia and the true role of Bolshevism. In thinking that he
@@ -274,12 +274,12 @@ also contains several errors of detail and of substance concerning this
 model "working class leader", and concerning the history of the Second
 International).
 
->"The basis of the parliamentary tactics of German (and international)
-Social-democracy, which doesn't give an inch to the enemy, which doesn't
-miss the slightest opportunity to obtain some improvement, however
-small, for the workers, which at the same time shows itself
-uncompromising on its principles and always aims towards achieving its
-objectives, the basis of these tactics was established by Bebel..."
+> The basis of the parliamentary tactics of German (and international)
+> Social-democracy, which doesn't give an inch to the enemy, which doesn't
+> miss the slightest opportunity to obtain some improvement, however
+> small, for the workers, which at the same time shows itself
+> uncompromising on its principles and always aims towards achieving its
+> objectives, the basis of these tactics was established by Bebel...
 
 Lenin addressed these words of praise to "the parliamentary tactics of
 German (and international) Social Democracy", "uncompromising its
@@ -318,9 +318,7 @@ party separate from the workers, bringing them consciousness of
 themselves), whoever rejected the Lenino-Stalinist theory fell into
 "the morass of opportunism, social-democracy and Menshevism".
 
-<!-- Resume here -->
-
-## What Is To Be Done?
+# What Is To Be Done?
 
 For their part, the Trotskyists clung to Lenin's ideas and recited _What
 Is To Be Done?_ Humanity's crisis is nothing but _the crisis of
