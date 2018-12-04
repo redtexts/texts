@@ -733,8 +733,8 @@ owners of different factors of productions, do not exist. The
 capitalist, the wage laborer, as well as the landowner, are commodity
 owners who are formally independent from each other. Direct production
 relations among them have yet to be established, and then in a form
-which is usual for commodity owners, namely in the form of purchase and
-sale" (Rubin, p. 18; italics in original). It is on the basis of these
+which is usual for commodity owners, namely in the form of _purchase and
+sale_" (Rubin, p. 18; italics in original). It is on the basis of these
 reified social relations, namely on the basis of production relations
 which are realized through the exchange of things, that the process of
 production is carried out in the capitalist society, because the
