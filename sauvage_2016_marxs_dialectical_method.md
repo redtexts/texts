@@ -2,7 +2,7 @@
 title: Marx's Dialectical Method
 author: Sauvage, Eden
 date: 2016
-description: This work elaborates on many of the misunderstandings of "dialectics" and of Hegel/Marx in leftist discourse, while trying to compensate for the Marx's unfortunate inability to finish his work "Logic". Revised version From <https://edensauvage.wordpress.com/2016/12/09/marxs-dialectical-method/>.
+description: This work elaborates on many of the misunderstandings of "dialectics" and of Hegel/Marx in leftist discourse, while trying to compensate for the Marx's unfortunate inability to finish his work "Logic". Revised version From <https://web.archive.org/web/20170606184818/https://edensauvage.wordpress.com/2016/12/09/marxs-dialectical-method/>.
 keywords: Philosopy
 ...
 
@@ -215,7 +215,7 @@ said subject matter. However, dialectics in the Hegelian or Marxian
 sense is a strange sort of "dialogue" in that there are not really any
 other people and thus the "dialogue between persons" is completely
 abstract. **Dialectics for Hegel and Marx are a kind of sustained
-inquiry into or ruthless criticism** **of a subject matter from its own
+inquiry into or ruthless criticism of a subject matter from its own
 internal logic** that *lays bare the internal contradictions manifested
 within said subject matter*. By locating the internal contradictions,
 the dialectician is able to do a contextual analysis, revealing *the
