@@ -590,7 +590,7 @@ relations. Rubin traces certain stages in Marx's formulation of the
 concept of reification. In the *Contribution to the Critique of
 Political Economy* of 1859, Marx noted that in capitalist society, where
 labor creates commodities, "the social relations of men appear in the
-reversed form -a social relation of things."[^45] In this work, social
+reversed form of a social relation of things."[^45] In this work, social
 relations among people merely "appear" to take the form of things, they
 merely seem to be reified. Consequently, Marx calls this reification a
 "mystification", and he attributes to "the habit of everyday life".[^46]
