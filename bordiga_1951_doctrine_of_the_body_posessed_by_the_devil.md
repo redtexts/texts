@@ -2,7 +2,7 @@
 title: Doctrine of the Body Possessed by the Devil
 author: Bordiga, Amadeo
 date: 1951
-description: This was published in _Battaglia Comunista_ no. 21. This version is based on the online copy found at <https://www.marxists.org/archive/bordiga/works/1951/doctrine.htm>, but changed some emphasis to be more in line with an italian version found at <http://www.quinterna.org/archivio/filitempo/081_1951_diavolo.htm>.
+description: This was published in _Battaglia Comunista_ no. 21. This version is based on the online copy found at <https://www.marxists.org/archive/bordiga/works/1951/doctrine.htm>, but changed some emphasis to be more in line with an Italian version found at <http://www.quinterna.org/archivio/filitempo/081_1951_diavolo.htm>.
 ...
 
 It is vital to be quite clear about the question of state capitalism
@@ -467,11 +467,11 @@ by the devil'."[^fn-11]
 Capital must be seized by the horns.
 
 [^fn-1]: Cf. _Bussole impazzite_ (compasses struck with madness).
-[^fn-2]: _Proprieta' e capitale_ (Iskra, Milan, 1980) p. 130 
+[^fn-2]: _Proprieta' e capitale_ (Iskra, Milan, 1980) p. 130
 [^fn-3]: Henry Kaiser proposed "social" capitalism with workers sharing
 the profits.
-[^fn-4]: A bulletin issued in September 1951 by the group that later 
-became the French section of the International Communist Party. 
+[^fn-4]: A bulletin issued in September 1951 by the group that later
+became the French section of the International Communist Party.
 Chaulieu = Castoriadis, a founder of the group _Socialisme ou barbarie_.
 [^fn-5]: "Il rovesciamento della prassi" now in _Partito e
 classe_ (Milan, 1972) pp. 120-1, 130. "This theory (of the descending
@@ -479,16 +479,16 @@ curve) comes from gradualist reformism: there are no drops, shaking or
 leaps." (Point 4)
 [^fn-6]: Reference to the Stalin-Khruschev attempt
 to increase corn yields.
-[^fn-7]: Publishers Note -- Bordiga's use of the term "labour time" is 
-perhaps a slip of the pen. Basic for Marx is that despite the 
-appearance that workers are paid for their labour or labour time, they 
-actually sell and receive payment for their labour power -- their 
-capacity to labour. The value of this labour power is its cost of 
-reproduction: "the value of the means of subsistence necessary for the 
-maintenance of its owner." (_Capital_ Vol. I, p 274) While the wage 
-form gives the appearance that all a worker's labour is paid for, for 
-Marx part of workers' labour time reproduces the value of their labour 
-power and is thus "paid" -- and the rest of it is surplus to this and 
+[^fn-7]: Publishers Note -- Bordiga's use of the term "labour time" is
+perhaps a slip of the pen. Basic for Marx is that despite the
+appearance that workers are paid for their labour or labour time, they
+actually sell and receive payment for their labour power -- their
+capacity to labour. The value of this labour power is its cost of
+reproduction: "the value of the means of subsistence necessary for the
+maintenance of its owner." (_Capital_ Vol. I, p 274) While the wage
+form gives the appearance that all a worker's labour is paid for, for
+Marx part of workers' labour time reproduces the value of their labour
+power and is thus "paid" -- and the rest of it is surplus to this and
 thus is "unpaid". (See _Capital_ Vol. I, chapters 6 & 7)
 [^fn-8]: Don Sturzo: former priest, leader of the catholic right in
 the Christian Democrats, opposed to corruption in the party and the
@@ -501,7 +501,7 @@ p. 307). It could therefore operate in the way described in the text.
 [^fn-9]: Publisher's Note -- Vanoni was the Italian Minister of Finance
 of the day.
 [^fn-10]: Cf. footnote 8 above.
-[^fn-11]: _Capital_ Vol. I, p. 302. The final quotation from Goethe's 
-Faust, is more correctly translated as "as if its body were by love 
+[^fn-11]: _Capital_ Vol. I, p. 302. The final quotation from Goethe's
+Faust, is more correctly translated as "as if its body were by love
 possessed".
 
