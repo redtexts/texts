@@ -1372,7 +1372,7 @@ distinguishes value from labour as the content of value.
 > that such a product becomes a commodity, viz., at the epoch when the
 > labour spent on the production of a useful article becomes expressed as
 > one of the objective qualities of that articles i.e. as its value.
-> (_Capital_ p.6l)
+> (_Capital_ p.61)
 
 Thus the content of value (i.e. labour) and the social form of value are
 also included in the concept of value. What then is this 'form of value'
