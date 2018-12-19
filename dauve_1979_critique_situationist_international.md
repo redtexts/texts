@@ -70,7 +70,7 @@ be living in a world made purely of signs[^2].
 
 What are the consequences for the revolutionary movement of the "the
 function of social appearances in modern capitalism" (I.S. 10, p. 79) ?
-As Marx and Dejacque[^3] put it, communism has always been the dream of
+As Marx and Déjacque[^3] put it, communism has always been the dream of
 the world. Today, the dream also serves not to change reality. One
 cannot content oneself with "telling" the truth: this can only exist as
 practice, as relationship between subject and object, saying and doing,
@@ -996,11 +996,11 @@ It is conceivable to denounce deformations in revolutionary theory in
 order to make things absolutely precise -- on the condition, however,
 that there is more than just a denunciation. In Semprun's book, there is
 not an ounce of theory to be found. Let us take two examples. In his
-critique of G. Guegan[^20], Semprun shows what he considers
+critique of G. Guégan[^20], Semprun shows what he considers
 important. Why demolish this personage? To demarcate oneself, even with
 violent language, has no meaning unless one Puts oneself at a higher
-level. Semprun spreads Guegan's life over several pages. But if it is
-really necessary to talk about Guegan, there is something that must be
+level. Semprun spreads Guégan's life over several pages. But if it is
+really necessary to talk about Guégan, there is something that must be
 got straight concerning Cahiers du futur (Future Notebooks), the journal
 he edited. If the first issue was uselessly pretentious, the second,
 devoted to the counter-revolution, is particularly detestable. It
@@ -1200,7 +1200,7 @@ into the pivot of the revolution.
 	example of a "sign" would be the credit extended in ever greater quantities
 	to bankrupt nations by large banks, credit which cannot possibly be repaid:
 	it is a representation of commodities which will never be produced.)
-[^3]: Translator's footnote: Joseph Dejacque: French communist artisan active
+[^3]: Translator's footnote: Joseph Déjacque: French communist artisan active
 	in the 1848 rising. A collection of his writings is available under the
 	title A Bas les chefs (Champ Libre, Paris 1974).
 [^4]: Translator's footnote: The struggle over Radio Renascensa in Portugal
@@ -1258,7 +1258,7 @@ into the pivot of the revolution.
 [^19]:Translator's footnote: The translator disagrees with this
 	estimation; c.f. the account of the TAP strike in Portugal:
 	Anti-Fascism or Anti-Capitalism, Root and Branch, 1976.
-[^20]: Translator's footnote: Geugan was the manager and the real founder of
+[^20]: Translator's footnote: Guégan was the manager and the real founder of
 	Champ Libre Publications until he was fired in 1975. He is now a fashionable
 	figure in literary and avant-garde circles.
 [^21]: Translator's footnote: Cardan - Chaulieu's real name. (tr)
