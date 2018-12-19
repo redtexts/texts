@@ -482,7 +482,7 @@ description: Smith elaborates on the humanist conception of Marxism, and it's hi
 	the famous passage on religion from the Introduction.
 
 	The basis of irreligious criticism is: Man makes religion, religion
-	does not make man. Religion is the self- consciousness and
+	does not make man. Religion is the self-consciousness and
 	self-esteem of man who has either not yet found himself or has
 	already lost himself again. But man is no abstract being encamped
 	outside the world. Man is the world of men, the state, society. This
@@ -690,7 +690,7 @@ description: Smith elaborates on the humanist conception of Marxism, and it's hi
 	their own interrelations.
 
 [^1]: I used to link the critiques of political economy and Utopia with
-	the critique of Hegeliandialectic, but I now want to place this
+	the critique of Hegelian dialectic, but I now want to place this
 	third critical operation on a separate plane, for it includes and
 	underlies each of the other two.
 [^2]: Those who say that Marx did not completely understand Hegel are,
