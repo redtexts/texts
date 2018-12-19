@@ -155,7 +155,7 @@ In 1932, within a few months of the first publication of Marx's Paris
 Manuscripts, Herbert Marcuse's extraordinary essay on them appeared. It
 is one of his most brilliant works, and undoubtedly completely original,
 since nobody had yet commented on the Manuscripts.^[ Reprinted in H
-Marcuse, Studies in Critical Philosophy, NLB,1972.]
+Marcuse, Studies in Critical Philosophy, NLB, 1972.]
 
 But we would search it in vain for a direct reference to the topic
 announced in its title: 'New Sources of the Foundations of Historical
