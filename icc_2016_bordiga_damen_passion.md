@@ -740,7 +740,7 @@ focus of awareness shifts, not merely intellectually, but through a
 direct and very bodily experience, from the isolated atom to the
 standpoint of the species -- indeed, the standpoint of something even
 more than the species: of nature, of an evolving universe, becoming
-conscious of itself
+conscious of itself.
 
 It is difficult to read the above passages by Bordiga and conclude that
 he is talking about something entirely different. And it is important to
