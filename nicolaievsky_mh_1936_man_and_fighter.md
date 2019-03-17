@@ -1517,7 +1517,7 @@ necessarily follow from the new interpretation put upon it by
 philosophers. In other words a virtue was made of impotence. This earned
 the club the following lampoon in classical metre:
 
->So far our deeds are all words and are like to remain so;
+>So far our deeds are all words and are like to remain so;  
 >Abstractions we have in our minds are bound to come true of
 themselves [^01].
 
@@ -1559,13 +1559,13 @@ turbulent, quick-witted, as bold in posing problems as in solving them.
 In the _Christliches Heldengedicht_, written in 1842, after Marx had
 left Berlin, Marx appeared as the club remembered him:
 
->Who's this approaching who thus rants and raves?
->'Tis the wild fury, black-maned Marx of Treves;
->See him advance, nay spring upon the foe
->As though to seize and never let him go.
->See him extend his threatening arms on high
->To seize the heavenly canopy from the sky;
->See his clenched fists, and see his desperate air,
+>Who's this approaching who thus rants and raves?  
+>'Tis the wild fury, black-maned Marx of Treves;  
+>See him advance, nay spring upon the foe  
+>As though to seize and never let him go.  
+>See him extend his threatening arms on high  
+>To seize the heavenly canopy from the sky;  
+>See his clenched fists, and see his desperate air,  
 >As though ten thousand devils had him by the hair [^02].
 
 It must not be supposed that the 'Doktorklub' confined itself to
@@ -3593,7 +3593,7 @@ popular poet in Germany. Devoted to the ideal of 'pure art,' he held it
 to be unworthy of the poet to descend into the contemporary arena. His
 verses:
 
->The poet stands on a high watch-tower
+>The poet stands on a high watch-tower  
 >As on the party battlements--[^08]
 
 were later quoted to satiety. He had no objection to accepting the
@@ -4955,7 +4955,7 @@ Marx was in the midst of revolutionary Paris.
 
 The first sign of revolution came from Switzerland in November, 1847.
 
->The first shot was fired in the high country
+>The first shot was fired in the high country  
 >Against the priests [^10].
 
 The reactionary cantons which formed the Roman Catholic League rose
@@ -4979,8 +4979,8 @@ demonstrations in Lombardy, and in some places the demonstrations
 developed into open fighting. In January insurrection broke out in the
 south, in Sicily.
 
->The dance started in the South; Scylla and Charybdis,
->Vesuvius and Etna burst forth, outbreak on outbreak,
+>The dance started in the South; Scylla and Charybdis,  
+>Vesuvius and Etna burst forth, outbreak on outbreak,  
 >blow on blow [^11].
 
 The revolutionaries defeated the troops of the Bourbon Ferdinand of
@@ -6391,7 +6391,7 @@ Democrats of Germany, employed its most powerful arguments, used the
 glowing verses of Freiligrath, urging them to make Vienna's cause their
 own:
 
->If we could only kneel we should down on our needs
+>If we could only kneel we should down on our needs  
 >If we could only pray, we should pray for Vienna [^17].
 
 The Left produced their usual resounding rhetorical phrases in praise of
@@ -12534,7 +12534,7 @@ moral duty to continue with the work of translation. ..."
 us in the unpleasant position of being compelled to resort to less
 civilised measures. ...
 
->'AMSKIY,
+>'AMSKIY,  
 >'Secretary to the Bureau.'
 
 Bakunin subsequently stoutly denied that he knew anything of the
@@ -13622,16 +13622,16 @@ workers of the world.
 
 His name, and his work, will re-echo down the centuries.
 
-[^01]: _Unsere Taten sind Worte bis jetzt und noch lange
+[^01]: _Unsere Taten sind Worte bis jetzt und noch lange  
   Hinter die Abstraktion stellt sich die Praxis von selbst_.
 
-[^02]: _Wer jaget hinterdrein mit wildem Ungestüm?
-  Ein schwarzer Kerl aus Trier, ein markhaft Ungetüm.
-  Er gehet, hüpfet nicht, er springet auf den Hacken
-  Und raset voller Wut und gleich als wollt' er packen
-  Das weite Himmelszelt und zu der Erde ziehn
-  Streckt er die Arme sein weit in die Lüfte hin.
-  Geballt die böse Faust, so tobt er sonder Rasten,
+[^02]: _Wer jaget hinterdrein mit wildem Ungestüm?  
+  Ein schwarzer Kerl aus Trier, ein markhaft Ungetüm.  
+  Er gehet, hüpfet nicht, er springet auf den Hacken  
+  Und raset voller Wut und gleich als wollt' er packen  
+  Das weite Himmelszelt und zu der Erde ziehn  
+  Streckt er die Arme sein weit in die Lüfte hin.  
+  Geballt die böse Faust, so tobt er sonder Rasten,  
   Als wenn ihn bei den Schopf zehntausend Teufel fassten_.
 
 [^03]: The German for peasant is _Bauer_.
@@ -13678,36 +13678,36 @@ His name, and his work, will re-echo down the centuries.
   l'article en question parce que, pour sa part, il avait hésité
   jusqu'ici à le placer sous les yeux de Sa Majesté Imperiale_.'
 
-[^05]: _Wir liessen kühn der Freiheit Fahne wehen
-  Und ernst tat jeder Schiffman seine Pflicht,
-  War d'rum vergebens auch der Mannschaft Spähen:
+[^05]: _Wir liessen kühn der Freiheit Fahne wehen  
+  Und ernst tat jeder Schiffman seine Pflicht,  
+  War d'rum vergebens auch der Mannschaft Spähen:  
   Die Fahrt war schön and sie gereut uns nicht_.
+  
+	_Dass uns der Götter Zorn hat nachgetrachtet  
+	Es schreckt uns nicht, dass unser Mast gefällt.  
+	Denn auch Kolumbus ward zuerst verachtet  
+	Und endlich sah er doch die neue Welt_.
+  
+	_Ihr Freunde, deren Beifall uns geworden,  
+	Ihr Gegner, die ihr uns mit Kampf geehrt  
+	Wir seh'n uns wieder einst an neuen Borden,  
+	Wenn Alles bricht, der Mut bleibt unversehrt_.
 
-  _Dass uns der Götter Zorn hat nachgetrachtet
-  Es schreckt uns nicht, dass unser Mast gefällt.
-  Denn auch Kolumbus ward zuerst verachtet
-  Und endlich sah er doch die neue Welt_.
-
-  _Ihr Freunde, deren Beifall uns geworden,
-  Ihr Gegner, die ihr uns mit Kampf geehrt
-  Wir seh'n uns wieder einst an neuen Borden,
-  Wenn Alles bricht, der Mut bleibt unversehrt_.
-
-[^06]: _Auch nach Weibergemeinschaft steht ihr Sinn,
-  Abschaffen woll'n sie die Ehe,
-  Dass alles in Zukunft ad libitum
-  Miteinander zu Bette gehe:
-  Tartar und Mongole mit Griechenfrau'n,
-  Cherusker mit gelben Chinesen,
-  Eisbären mit schwedischen Nachtigall'n,
-  Türkinnen und Irokesen,
-  Tranduftende Samoyedinnen soll'n
-  Zu Briten and Römern sich betten,
-  Plattnasige düstre Kaffern zu
-  Alabasterweissen Grisetten.
-  Ja, ändern wird sich die ganze Welt
-  Durch diese moderne Leitung-
-  Doch die schonsten Weiber bekommen die
+[^06]: _Auch nach Weibergemeinschaft steht ihr Sinn,  
+  Abschaffen woll'n sie die Ehe,  
+  Dass alles in Zukunft ad libitum  
+  Miteinander zu Bette gehe:  
+  Tartar und Mongole mit Griechenfrau'n,  
+  Cherusker mit gelben Chinesen,  
+  Eisbären mit schwedischen Nachtigall'n,  
+  Türkinnen und Irokesen,  
+  Tranduftende Samoyedinnen soll'n  
+  Zu Briten and Römern sich betten,  
+  Plattnasige düstre Kaffern zu  
+  Alabasterweissen Grisetten.  
+  Ja, ändern wird sich die ganze Welt  
+  Durch diese moderne Leitung-  
+  Doch die schonsten Weiber bekommen die  
   Redakteure der_ Rheinischen Zeitung.
 
 [^07]: '_C'est surtout à Paris que les communistes allemands ont établi
@@ -13716,7 +13716,7 @@ His name, and his work, will re-echo down the centuries.
   Angleterre, ils n'osent affronter avec une égale audace la sévérité
   des lois et celle des magistrats_.'
 
-[^08]: _Der Dichter steht auf einer höh'ren Warte
+[^08]: _Der Dichter steht auf einer höh'ren Warte  
   Als auf den Zinnen der Partei_.
 
 [^09]: '_Conjointement avec deux de mes amis Fréderic Engels et Philippe
@@ -13738,18 +13738,18 @@ His name, and his work, will re-echo down the centuries.
   instruit de l'état des afi'aires à l'étranger aussi bien que chez
   lui_.
 
-  '_Outre les communistes en Allemagne notre correspondence comprendra
-  aussi les socialistes allemands à Paris et à Londres. Nos rapports
-  avec l'Angleterre sont déjà établis; quant à la France nous croyons
-  tous que nous ne pouvons y trouver un meilleur correspondent que
-  vous_...'
+	'_Outre les communistes en Allemagne notre correspondence
+	comprendra aussi les socialistes allemands à Paris et à
+	Londres. Nos rapports avec l'Angleterre sont déjà établis;
+	quant à la France nous croyons tous que nous ne pouvons y
+	trouver un meilleur correspondent que vous_...'
 
-[^10]: _Im Hochland fiel der erste Schuss,
+[^10]: _Im Hochland fiel der erste Schuss,  
   Im Hochland wider die Pfaffen_.
 
-[^11]: _Drauf ging der Tanz in Welschland los
-  Die Scyllen und Charybden,
-  Vesuv und Aetna brachen los,
+[^11]: _Drauf ging der Tanz in Welschland los  
+  Die Scyllen und Charybden,  
+  Vesuv und Aetna brachen los,  
   Ausbruch auf Ausbruch, Stoss auf Stoss_. ...
 
 [^12]: '_en identifiant la cause de la nationalité à la cause de la
@@ -13770,83 +13770,87 @@ His name, and his work, will re-echo down the centuries.
   d'expulsion que la Belgique m'avait délivré il y avait quelques
   heures seulement_.
 
-  '_Je ne vous aurais pas parlé, monsieur, de mon arrestation et des
-  brutalités que j'ai souflertes, s'il ne s'y rattachait une
-  circonstance qu'on aura peine à comprendre, même en Autriche_.
+	'_Je ne vous aurais pas parlé, monsieur, de mon arrestation et
+	des brutalités que j'ai souflertes, s'il ne s'y rattachait une
+	circonstance qu'on aura peine à comprendre, même en Autriche_.
+	
+	'_Immédiatement après mon arrestation, ma femme se fait
+	conduire chez M. Jottrand, président de l'association
+	démocratique de Belgique, pour l'engager à prendre les mesures
+	nécessaires. En rentrant chez elle, elle trouve à la porte un
+	sergent de ville qui lui dit, avec une politesse exquise, que,
+	si elle voulait parler à M. Marx, elle n'aurait qu' à le
+	suivre. Ma femme accepte l'offre avec empressement. On la
+	conduit au bureau de la police, et le commissaire lui déclare
+	d'abord que M. Marx n'y était pas; puis il lui demande
+	brutalement qui elle était, ce qu'elle allait faire chez M.
+	Jottrand, et si elle avait ses papiers sur elle. Un démocrate
+	belge, M. Gigot, qui avait suivi ma femme au bureau de la
+	police avec la garde municipal, se révoltant des questions à la
+	fois absurdes et insolentes du commissaire, est réduit au
+	silence par des gardes qui s'emparent de lui et le jettent en
+	prison. Sous le prétexte de vagabondage, ma femme est amenée à
+	la prison de l'Hôtel-de-Ville, et enfermée avec des femmes
+	perdues, dans une salle obscure. A onze heures du matin, elle
+	est conduite en plein jour, sous toute une escorte de
+	gendarmerie, au cabinet du juge d'instruction. Pendant deux
+	heures, elle est mise au secret, malgré les plus vives
+	réclamations qui arrivent de toutes parts. Elle reste là
+	exposée à toute la rigeur de la saison et aux propos les plus
+	indignes des gendarmes_.
 
-  '_Immédiatement après mon arrestation, ma femme se fait conduire chez
-  M. Jottrand, président de l'association démocratique de Belgique, pour
-  l'engager à prendre les mesures nécessaires. En rentrant chez elle,
-  elle trouve à la porte un sergent de ville qui lui dit, avec une
-  politesse exquise, que, si elle voulait parler à M. Marx, elle
-  n'aurait qu' à le suivre. Ma femme accepte l'offre avec empressement.
-  On la conduit au bureau de la police, et le commissaire lui déclare
-  d'abord que M. Marx n'y était pas; puis il lui demande brutalement
-  qui elle était, ce qu'elle allait faire chez M. Jottrand, et si elle
-  avait ses papiers sur elle. Un démocrate belge, M. Gigot, qui avait
-  suivi ma femme au bureau de la police avec la garde municipal, se
-  révoltant des questions à la fois absurdes et insolentes du
-  commissaire, est réduit au silence par des gardes qui s'emparent de
-  lui et le jettent en prison. Sous le prétexte de vagabondage, ma
-  femme est amenée à la prison de l'Hôtel-de-Ville, et enfermée avec
-  des femmes perdues, dans une salle obscure. A onze heures du matin,
-  elle est conduite en plein jour, sous toute une escorte de
-  gendarmerie, au cabinet du juge d'instruction. Pendant deux heures,
-  elle est mise au secret, malgré les plus vives réclamations qui
-  arrivent de toutes parts. Elle reste là exposée à toute la rigeur de
-  la saison et aux propos les plus indignes des gendarmes_.
+	'_Elle paraît enfin devant le juge d'instruction, qui est tout
+	étonné que la police, dans sa sollicitude, n'a pas arrêté
+	egalement les enfants de bas-âge. L'interrogatoire ne pouvait
+	étre que factice, et tout le crime de ma femme consiste en ce
+	que, bien qu'appartenant à l'aristocratie prussienne, elle
+	partage les sentiments démocratiques de son mari_.
 
-  '_Elle paraît enfin devant le juge d'instruction, qui est tout étonné
-  que la police, dans sa sollicitude, n'a pas arrêté egalement les
-  enfants de bas-âge. L'interrogatoire ne pouvait étre que factice, et
-  tout le crime de ma femme consiste en ce que, bien qu'appartenant à
-  l'aristocratie prussienne, elle partage les sentiments démocratiques
-  de son mari_.
-
-  '_Je n'entre pas dans tous les détails de cette révoltante afiaire. Je
-  dirai seulement que, lorsque nous étions relâchés, les vingt-quatre
-  heures étaient justement expirées, et qu'il nous fallait partir sans
-  pouvoir seulement emporter les effets les plus indispensables_.'
+	'_Je n'entre pas dans tous les détails de cette révoltante
+	afiaire. Je dirai seulement que, lorsque nous étions relâchés,
+	les vingt-quatre heures étaient justement expirées, et qu'il
+	nous fallait partir sans pouvoir seulement emporter les effets
+	les plus indispensables_.'
 
 [^15]: _Mourir pour la patrie C'est le sort le plus beau Le plus digne
   d'envie_.
 
 [^16]: '_Appel au Citoyens Français_.
 
-  '_Des Armes_!
+	'_Des Armes_!
 
-  '_Pour les Allemands marchant au secours de leur frères qui combattent
-  en ce moment pour la liberté, qui se font égorger pour leur droits, et
-  qu'on veut tromper de nouveau_.
+	'_Pour les Allemands marchant au secours de leur frères qui
+	combattent en ce moment pour la liberté, qui se font égorger
+	pour leur droits, et qu'on veut tromper de nouveau_.
 
-  '_Les démocrates allemands de Paris se sont formés en légion pour
-  aller proclamer ensemble la République allemande_.
+	'_Les démocrates allemands de Paris se sont formés en légion
+	pour aller proclamer ensemble la République allemande_.
 
-  '_Il leur faut des armes, des munitions, de l'argent, des objets
-  d'habillement. Prêtez-leur votre assistance; vos dons seront reçus
-  avec gratitude. Ils serviront à délivrer l'Allemagne et en même temps
-  la Pologne_.
+	'_Il leur faut des armes, des munitions, de l'argent, des
+	objets d'habillement. Prêtez-leur votre assistance; vos dons
+	seront reçus avec gratitude. Ils serviront à délivrer
+	l'Allemagne et en même temps la Pologne_.
 
-  '_Démocrates allemands et polonais marcheront ensemble à la conquête
-  de la liberté_.
+	'_Démocrates allemands et polonais marcheront ensemble à la
+	conquête de la liberté_.
 
-  '_Vive la France! Vive la Pologne! Vive l'Allemagne unie et
-  républicaine! Vive la fraternité des peuples_!'
+	'_Vive la France! Vive la Pologne! Vive l'Allemagne unie et
+	républicaine! Vive la fraternité des peuples_!'
 
-[^17]: _Wenn wir noch knien könnten, wir lägen auf den Knien
+[^17]: _Wenn wir noch knien könnten, wir lägen auf den Knien  
   Wenn wir noch beten könnten, wir beteten für Wien_.
 
-[^18]: _...Auf der Lippe den Trotz und den zuckenden Hohn,
-  In der Hand den blitzenden Degen,
-  Noch im Sterben rufend: Die Rebellion!
-  So bin ich in Ehren erlegen...
-  Nun Ade, nun Ade, du kämpfende Welt,
-  Nun Ade, ihr ringenden Heere!
-  Nun Ade, du pulvergeschwärztes Feld,
-  Nun Ade, ihr Schwerter und Speere!
-  Nun Ade, doch nicht für immer Ade!
-  Denn sie toten den Geist nicht, ihr Brüder!
-  Bald richt'ich mich rasselnd in die Höh.
+[^18]: _...Auf der Lippe den Trotz und den zuckenden Hohn,  
+  In der Hand den blitzenden Degen,  
+  Noch im Sterben rufend: Die Rebellion!  
+  So bin ich in Ehren erlegen...  
+  Nun Ade, nun Ade, du kämpfende Welt,  
+  Nun Ade, ihr ringenden Heere!  
+  Nun Ade, du pulvergeschwärztes Feld,  
+  Nun Ade, ihr Schwerter und Speere!  
+  Nun Ade, doch nicht für immer Ade!  
+  Denn sie toten den Geist nicht, ihr Brüder!  
+  Bald richt'ich mich rasselnd in die Höh.  
   Bald kehr ich reisiger wieder_!
 
 [^19]: '_La République française n'emploie jamais ses forces contre la
