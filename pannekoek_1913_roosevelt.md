@@ -150,9 +150,9 @@ bourgeois order was to the common interest of the entire bourgeoisie.
 On the other hand, the American bourgeoisie has never had to carry on
 great class struggles.
 
-Amerika, du hast es besser
-Als unser Weltteil, der alte,
-Hast keine verfallene Schlösser
+Amerika, du hast es besser  
+Als unser Weltteil, der alte,  
+Hast keine verfallene Schlösser  
 Und keine Basalte.[^fn-1]
 
 In these lines of a German poet is expressed the reason why America is
