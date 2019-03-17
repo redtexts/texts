@@ -2,7 +2,7 @@
 title: Theses
 author: World Communist Group
 date: 1993
-description: Theses of the World Communist Group. This appears to be a rather rough translation from French. From <https://web.archive.org/web/20100211011333/http://groupe-communiste-mondial.org:80/en/publications/publications1.html>.
+description: Theses of the World Communist Group. This appears to be a rather rough translation from French. From <http://groupe-communiste-mondial.org/en/publications/publications3.html>.
 ...
 
 1. In the modern conditions of the capitalist production through which

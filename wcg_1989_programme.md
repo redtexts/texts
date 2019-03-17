@@ -2,7 +2,7 @@
 title: Programme
 author: World Communist Group
 date: 1989
-description: The World Communist Group has or had its origins in the group around Jacques Camatte. See url for more details. The original text has been cleaned up some for this red texts version. Certain words that were mistranslated into English have been corrected. Theorically becomes theoretically, egality becomes equality, inconditionnal becomes unconditional, etc. Obvious typos have been fixed. From <https://web.archive.org/web/20100211011333/http://groupe-communiste-mondial.org:80/en/publications/publications1.html>.
+description: The World Communist Group has or had its origins in the group around Jacques Camatte. See url for more details. The original text has been cleaned up some for this red texts version. Certain words that were mistranslated into English have been corrected. Theorically becomes theoretically, egality becomes equality, inconditionnal becomes unconditional, etc. Obvious typos have been fixed. From <http://groupe-communiste-mondial.org/en/publications/publications3.html>.
 ...
 
 >"Before achieving a socialist change, a dictatorship of the
