@@ -1552,10 +1552,10 @@ and the rest of the natural world.
 ## Sources
 
 * Adams, Carol (1990), The sexual politics of meat.
-* Animal magazine (1998, no.3), The battle of Hillgrove.
-* Animal magazine (1998, no.3), New Alliances on the Right.
-* Arkangel magazine (1999, no.21), Feminists for Animal Rights.
-* Aufheben magazine (1995, no.4), Kill or chill: analysis of the
+* Animal magazine (1998, no. 3), The battle of Hillgrove.
+* Animal magazine (1998, no. 3), New Alliances on the Right.
+* Arkangel magazine (1999, no. 21), Feminists for Animal Rights.
+* Aufheben magazine (1995, no. 4), Kill or chill: analysis of the
   opposition to the Criminal Justice Bill.
 * Baker, Steve (1993), Picturing the Beast: Animals, identity and
   representation.
@@ -1571,7 +1571,7 @@ and the rest of the natural world.
 * Dauvé, Gilles and Martin, François (1998), The eclipse and
   re-emergence of the communist movement.
 * Detienne, Marcel (1979), Dionysus Slain.
-* Do or Die! -- voices from Earth First! (no.5), Shoreham: live exports
+* Do or Die! -- voices from Earth First! (no. 5), Shoreham: live exports
   and community defence.
 * Ehrenberg, Margaret (1989), Women in Prehistory.
 * Hodder, Ian (1990), The Domestication of Europe: structure and
