@@ -2,7 +2,7 @@
 title: Open Letter to Comrade Lenin
 author: Gorter, Herman
 date: 1920
-description: Written in German in 1920 in German and published in English in 1921 in Workers' Dreadnought. Republished again by Wildcat in 1989, and then published online by Antagonism Press in 2004. This red texts version is based on the Marxists Internet Archive version at <https://www.marxists.org/archive/gorter/1920/open-letter/index.htm>, but incorporates the introductions and some corrections from the Antagonism Press version, available at <https://www.oocities.org/capitolhill/lobby/3909/gorter/gortertoc.html>.
+description: Written in German in 1920 in German and published in English in 1921 in Workers' Dreadnought. Republished again by Wildcat in 1989, and then published online by Antagonism Press in 2004. This red texts version is based on the Marxists Internet Archive version at <https://www.marxists.org/archive/gorter/1920/open-letter.htm>, but incorporates the introductions and some corrections from the Antagonism Press version, available at <https://www.oocities.org/capitolhill/lobby/3909/gorter/gortertoc.html>.
 ...
 
 ## Antagonism Press introduction, 2004
@@ -2967,7 +2967,7 @@ example. And it is on such mistaken notions that the tactics of the
 Executive and of the International are based!^[I point out here the
 contradiction between this opinion and the effort of winning millions of
 wavering elements to the Third International. This contradiction is
-another proof of the opportunism of your tactics.].
+another proof of the opportunism of your tactics.]
 
 Those however who think, and say, and propagate these views, do not
 understand class relations in Western Europe and North
