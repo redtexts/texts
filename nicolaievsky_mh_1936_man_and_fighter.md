@@ -118,31 +118,32 @@ give the source of our quotations will be welcome to many readers.
 
 June 1936
 
-B. NICOLAIEVSKY OTTO MAENCHEN-HELFEN
+B. NICOLAIEVSKY
+OTTO MAENCHEN-HELFEN
 
 ## Contents
 
-[Chapter 01: Origins and Childhood][]
-[Chapter 02: A Happy Year at Bonn][]
-[Chapter 03: Jenny von Westphalen][]
-[Chapter 04: Student Years in Berlin][]
-[Chapter 05: Philosophy under Censorship][]
-[Chapter 06: The Germans Learn French][]
-[Chapter 07: The Communist Artisans of Paris][]
-[Chapter 08: The Life-long Friend][]
-[Chapter 09: Clarification][]
-[Chapter 10: Face to Face with Primitive Communism][]
-[Chapter 11: The Communist League][]
-[Chapter 12: The Revolutionary Tempest][]
-[Chapter 13: The 'Mad Year' in Cologne][]
-[Chapter 14: Defeat with Honour][]
-[Chapter 15: The End of the Communist League][]
-[Chapter 16: The Sleepless Night of Exile][]
-[Chapter 17: The International Working Men's Association][]
-[Chapter 18: Michael Bakunin][]
-[Chapter 19: The Franco-Prussian War][]
-[Chapter 20: The Downfall of the International][]
-[Chapter 21: The Last Ten Years][]
+* Chapter 01: Origins and Childhood
+* Chapter 02: A Happy Year at Bonn
+* Chapter 03: Jenny von Westphalen
+* Chapter 04: Student Years in Berlin
+* Chapter 05: Philosophy under Censorship
+* Chapter 06: The Germans Learn French
+* Chapter 07: The Communist Artisans of Paris
+* Chapter 08: The Life-long Friend
+* Chapter 09: Clarification
+* Chapter 10: Face to Face with Primitive Communism
+* Chapter 11: The Communist League
+* Chapter 12: The Revolutionary Tempest
+* Chapter 13: The 'Mad Year' in Cologne
+* Chapter 14: Defeat with Honour
+* Chapter 15: The End of the Communist League
+* Chapter 16: The Sleepless Night of Exile
+* Chapter 17: The International Working Men's Association
+* Chapter 18: Michael Bakunin
+* Chapter 19: The Franco-Prussian War
+* Chapter 20: The Downfall of the International
+* Chapter 21: The Last Ten Years
 
 ## Chapter 01: Origins and Childhood
 
@@ -365,12 +366,12 @@ sister, who married a lawyer named Schmalhausen and lived at Maastricht.
 Karl was born at half-past one on the morning of May 5, 1818. Of Karl's
 two younger brothers, Hermann died at the age of twenty-three and Eduard
 at the age of eleven. Both succumbed to tuberculosis, the hereditary
-family disease, as did two others [sic] sisters, Henriette and Karoline.
-Louise, born in 1821, married Jan Karl Juta, a Dutchman, and settled in
-Cape Town with him. She and her husband twice visited Marx in London,
-and in 1853 Marx wrote some articles for the _Zuid-Afrikaan_, which his
-brother-in-law edited. Emilie, born in 1822, married an engineer named
-Conradi and lived in Trier until her death in 1888.
+family disease, as did two others \[sic\] sisters, Henriette and
+Karoline. Louise, born in 1821, married Jan Karl Juta, a Dutchman, and
+settled in Cape Town with him. She and her husband twice visited Marx in
+London, and in 1853 Marx wrote some articles for the _Zuid-Afrikaan_,
+which his brother-in-law edited. Emilie, born in 1822, married an
+engineer named Conradi and lived in Trier until her death in 1888.
 
 In 1815, when the Moselle country became Prussian, Heinrich Marx was a
 lawyer attached to the Trier court. In 1820 he was attached to the newly
@@ -1518,7 +1519,7 @@ the club the following lampoon in classical metre:
 
 >So far our deeds are all words and are like to remain so;
 >Abstractions we have in our minds are bound to come true of
->themselves.1
+themselves [^01].
 
 Bruno Bauer was still faithful to this view when he moved from Berlin to
 Bonn in 1838. In 1840 and 1841 the Berlin group moved faster and faster
@@ -1565,7 +1566,7 @@ left Berlin, Marx appeared as the club remembered him:
 >See him extend his threatening arms on high
 >To seize the heavenly canopy from the sky;
 >See his clenched fists, and see his desperate air,
->As though ten thousand devils had him by the hair.2
+>As though ten thousand devils had him by the hair [^02].
 
 It must not be supposed that the 'Doktorklub' confined itself to
 bringing together a collection of academic intellectuals for the purpose
@@ -1632,27 +1633,13 @@ able to teach at Bonn by his friend's side.
 
 On March 30, 1841, he received his leaving-certificate from Berlin
 University. On April 6 he sent to Jena a dissertation on 'The difference
-between the natural philosophies of Democritus and the
-Epicureans.' Certain negotiations appear to have preceded this step. The
-University of Jena was celebrated at the time for the readiness with
-which it granted doctor's degrees. It lived up to its reputation. A week
-later the dean of Jena University presented the candidate Karl Heinrich
-Marx to the faculty of philosophy. The diploma was dated April 15.
-Marx's official student years were at an end.
-
-### Chapter 04 notes
-
-1: _Unsere Taten sind Worte bis jetzt und noch lange
-Hinter die Abstraktion stellt sich die Praxis von selbst_.
-
-2: _Wer jaget hinterdrein mit wildem Ungestüm?
-Ein schwarzer Kerl aus Trier, ein markhaft Ungetüm.
-Er gehet, hüpfet nicht, er springet auf den Hacken
-Und raset voller Wut und gleich als wollt' er packen
-Das weite Himmelszelt und zu der Erde ziehn
-Streckt er die Arme sein weit in die Lüfte hin.
-Geballt die böse Faust, so tobt er sonder Rasten,
-Als wenn ihn bei den Schopf zehntausend Teufel fassten_.
+between the natural philosophies of Democritus and the Epicureans.'
+Certain negotiations appear to have preceded this step. The University
+of Jena was celebrated at the time for the readiness with which it
+granted doctor's degrees. It lived up to its reputation. A week later
+the dean of Jena University presented the candidate Karl Heinrich Marx
+to the faculty of philosophy. The diploma was dated April 15. Marx's
+official student years were at an end.
 
 ## Chapter 05: Philosophy under Censorship
 
@@ -1740,8 +1727,8 @@ as Bauer refrained from political allusions in the lecture-room it was
 difficult to take any active steps against him without tearing the last
 shreds from the pretence of academic freedom.
 
-The Government found their long-awaited opportunity in the autumn
-of 1841. Bauer tied the rope round his own neck by taking part in the
+The Government found their long-awaited opportunity in the autumn of
+1841. Bauer tied the rope round his own neck by taking part in the
 demonstrations that took place in Berlin in honour of Welcker, who was a
 professor at Karlsruhe and leader of the opposition in the Parliament of
 Baden. Welcker's journey through Prussia was the signal for an
@@ -1789,12 +1776,12 @@ Hegel, and not Hegel as interpreted by his misguided pupils; Hegel who
 had so long passed as a column of the existing order. The deception was
 so well carried out that at first even men like Arnold Ruge took it for
 the real thing. The cat was only let out of the bag by that section of
-the Press which was friendly to the Hegelians. Every _peasant_,1 one
-paper wrote plainly enough, would understand that the book had not been
-written by a religious man at all but by an artful rebel. Marx prepared
-a sequel intended to demonstrate the revolutionary element in Hegel's
-art teaching. But the censor made it impossible to continue the series
-of pamphlets which was planned.
+the Press which was friendly to the Hegelians. Every _peasant_ [^03],
+one paper wrote plainly enough, would understand that the book had not
+been written by a religious man at all but by an artful rebel. Marx
+prepared a sequel intended to demonstrate the revolutionary element in
+Hegel's art teaching. But the censor made it impossible to continue the
+series of pamphlets which was planned.
 
 The philosophers, whether they wanted it or not, found themselves
 assailed on every side by the demands of practical, everyday life. Marx
@@ -1985,9 +1972,9 @@ study-circle for the discussion of social problems.
 
 Marx took part in it himself. At the beginning of October he defended
 his paper against a charge of Communism. The article he wrote
-demonstrates how slight Marx's knowledge of social problems still was
-in 1842. He was still under the influence of ideas recently elaborated
-by Hess. Hess was the first of the Young Hegelian camp to turn his
+demonstrates how slight Marx's knowledge of social problems still was in
+1842. He was still under the influence of ideas recently elaborated by
+Hess. Hess was the first of the Young Hegelian camp to turn his
 attention to Communism, and Engels says that he was the first of the
 three of them to come over to Communism. What Marx intended to write was
 a 'fundamental critique of Communism' based on 'a long-continued and
@@ -2255,7 +2242,7 @@ my duty very humbly to add that during my conversation with the
 Vice-Chancellor the day before yesterday he assured me definitely that
 in all probability the Emperor has not yet seen the article in question,
 because he on his part had hesitated to lay it before His Imperial
-Majesty's eyes.'2
+Majesty's eyes' [^04].
 
 The Prussian Government trembled at the thought that the infamous
 article might yet come to the eyes of the Tsar. It was decided
@@ -2278,72 +2265,13 @@ so sought after that as much as from eight to ten silver groschen were
 paid for a copy. The _Rheinische Zeitung_ took its departure with a
 poem:
 
->We boldly flew the flag of freedom, and every member of the crew did his
->duty. In spite of the watch having been kept in vain, the voyage was good and
->we do not regret it. Though the gods were angry, though our mast fell, we were
->not intimidated. Columbus himself was despised at first, but he looked upon the
->New World at last. Friends who applauded us, foes who fought us, we shall
->meet again on the new shore. If all collapses, courage remains
->unbroken.3
-
-### Chapter 05 notes
-
-1: The German for peasant is _Bauer_.
-
-2: '_Depuis l'expédition de mon dernier très-humble rapport, j'ai eu
-aussi occasion do rencontrer Mr. le Comte de Nesselrode, dans le salon
-de son épouse, et de lui parler; mais au lieu de me fournir des
-renseignements qui auraient pu m'être utiles, ou intéressants, sous le
-rapport de la politique Mr. le Vice-Chancelier a saisi cette occasion
-pour me demander: si j'avais lu déjà l'article véritablement infame, que
-*la gazette Rhénane*, publiée à Cologne avait lancé dernièrement contre
-le Cabinet Russe,--en basant ses déclamations furibondes sur le faux
-prétexte d'une note qui m'aurait été adressée par lui, relativement à la
-tendance de la presse Allomande. J'ai répondu à Mr. le Comte de
-Nesselrode, que je ne connaissais pas textuellement cet article, mais
-que je me rappelais fort bien, que *la gazette d'Etat* avait publié, il
-n'y a pas longtems, une réfutation de quelques articles semblables, on
-déclarant brièvement, mais assez positivement, que les suppositions sur
-lesquelles le raisonnemont de ces articles avait été basé, manquaient de
-fondement et de tout motif raisonnable. Cette réfutation n'était point
-inconnue á Mr. le Vice-Chancelier; mais il m'a avvué, qu'elle ne
-suffisait pas, pour lui faire comprendre, comment un censeur employé par
-le gouvernement de Votre Majesté avait pu laisser passer un article
-d'une nature semblable, qui, selon lui, surpassait encore do beaucoup,
-en perfidie et en violence, tout ce qui avait été publié jusqu'ici dans
-los feuilles Prussiennes contre le gouvernement Imperial. Il y a ajouté
-encore qu'afin que je puisse en juger pour moi-même, en toute
-connaissance de cause, il m'enverait la feuille de *la gazette Rhénane*,
-qui renfermait l'article en question, et il l'a fait, en effet, encore
-le même soir.--Je suis donc véritablement heureux d'avoir trouvé, cette
-nuit, en revenant du bal patriotique, dans le numéro *de la gazette
-d'Etat* du 31. janvier, qui venait d'arriver par la poste, l'ordre émané
-tout récemment des trois Ministères de Votre Majesté qui président aux
-afi'aires de censure, et en vertu duquel *la gazette Rhénane* doit
-cesser de paraître à dater du 1. avril prochain! Aussi me ferai-je un
-devoir des plus empressés de faire valoir cette mesure énergique auprès
-de Mr. le Comte de Nesselrode aujourd'hui même à l'occasion d'un dîner
-auquel il m'a engagé. je crois, du reste, devoir faire observer encore
-très-humblement à ce sujet, que lors de la conversation que j'ai eu,
-avant-hier, avec Mr. le Vice-Chancelier, il m'avait très expressément
-assuré, que l'Empereur ne connaissait probablement pas encore l'article
-en question parce que, pour sa part, il avait hésité jusqu'ici à le
-placer sous les yeux de Sa Majesté Imperiale_.'
-
-3: _Wir liessen kühn der Freiheit Fahne wehen
-Und ernst tat jeder Schiffman seine Pflicht,
-War d'rum vergebens auch der Mannschaft Spähen:
-Die Fahrt war schön and sie gereut uns nicht_.
-
-_Dass uns der Götter Zorn hat nachgetrachtet
-Es schreckt uns nicht, dass unser Mast gefällt.
-Denn auch Kolumbus ward zuerst verachtet
-Und endlich sah er doch die neue Welt_.
-
-_Ihr Freunde, deren Beifall uns geworden,
-Ihr Gegner, die ihr uns mit Kampf geehrt
-Wir seh'n uns wieder einst an neuen Borden,
-Wenn Alles bricht, der Mut bleibt unversehrt_.
+>We boldly flew the flag of freedom, and every member of the crew did
+his duty. In spite of the watch having been kept in vain, the voyage
+was good and we do not regret it. Though the gods were angry, though
+our mast fell, we were not intimidated. Columbus himself was despised
+at first, but he looked upon the New World at last. Friends who
+applauded us, foes who fought us, we shall meet again on the new shore.
+If all collapses, courage remains unbroken [^05].
 
 ## Chapter 06: The Germans Learn French
 
@@ -2425,7 +2353,7 @@ time been hesitating as to whether it might not perhaps be better to
 stay on in Dresden after all if the minister made concessions--it would
 at best be a feeble imitation of the "dear departed," and that would no
 longer be good enough. In comparison the _Deutsche-Französische
-Jahrbücher_ [sic] would be an enterprise of high principle, a thing of
+Jahrbücher_ \[sic\] would be an enterprise of high principle, a thing of
 consequence, an undertaking to which one could devote oneself with
 enthusiasm.' Ruge had considered whether it might not be a good idea to
 make the proposed review one of more than three hundred and twenty
@@ -2965,14 +2893,14 @@ colleague of his on the _Neue Rheinische Zeitung_, wrote this comic
 poem:
 
 >They are also minded to communalise women; they want to abolish
->marriage, so everybody in the future may go to bed with one another _ad
->libitum_; Tartars and Mongols with Greek women; Cheruscans with yellow
->Chinese; polar bears with Swedish nightingales, Turkish girls and
->Iroquois; oil-scented Samoyed women shall bed with Britons and Romans,
->and swarthy flat-nosed Kaffirs with alabaster-white _grisettes_. Yes,
->we shall alter the whole world under this modern management, but the
->most beautiful women will be reserved for the editorial staff of the
->_Rheinische Zeitung_.1
+marriage, so everybody in the future may go to bed with one another _ad
+libitum_; Tartars and Mongols with Greek women; Cheruscans with yellow
+Chinese; polar bears with Swedish nightingales, Turkish girls and
+Iroquois; oil-scented Samoyed women shall bed with Britons and Romans,
+and swarthy flat-nosed Kaffirs with alabaster-white _grisettes_. Yes, we
+shall alter the whole world under this modern management, but the most
+beautiful women will be reserved for the editorial staff of the
+_Rheinische Zeitung_ [^06].
 
 The influence on the secret societies of the Primitive Christian
 Communism of the various sects also came out in phraseology. In the
@@ -3066,7 +2994,7 @@ report of the Ministry of the Interior stated, 'have made Paris their
 headquarters and the centre from which all their intrigues radiate. It
 is through France that they hope to act. Outside the kingdom of France
 there is no country, except, perhaps, England, where they dare affront
-the severity of the laws and the magistrates with such audacity.'2
+the severity of the laws and the magistrates with such audacity [^07].'
 
 The possibility of creating a popular paper which should be intelligible
 to the German Communist workers presented itself in _Vorwärts_. The
@@ -3205,31 +3133,6 @@ prospect of staying any longer in the French capital.'
 
 Marx arrived in Brussels on February 5, 1845. His wife followed him soon
 afterwards with his daughter, who was barely one year old.
-
-### Chapter 07 notes
-
-1: _Auch nach Weibergemeinschaft steht ihr Sinn,
-Abschaffen woll'n sie die Ehe,
-Dass alles in Zukunft ad libitum
-Miteinander zu Bette gehe:
-Tartar und Mongole mit Griechenfrau'n,
-Cherusker mit gelben Chinesen,
-Eisbären mit schwedischen Nachtigall'n,
-Türkinnen und Irokesen,
-Tranduftende Samoyedinnen soll'n
-Zu Briten and Römern sich betten,
-Plattnasige düstre Kaffern zu
-Alabasterweissen Grisetten.
-Ja, ändern wird sich die ganze Welt
-Durch diese moderne Leitung-
-Doch die schonsten Weiber bekommen die
-Redakteure der_ Rheinischen Zeitung.
-
-2: '_C'est surtout à Paris que les communistes allemands ont établi le
-foyer et le point de départ de leurs intrigues; c'est par la France
-qu'ils espèrent agir; en dehors de ce royaume, si ce n'est en
-Angleterre, ils n'osent affronter avec une égale audace la sévérité des
-lois et celle des magistrats_.'
 
 ## Chapter 08: The Life-long Friend
 
@@ -3601,8 +3504,8 @@ were not taken very seriously; the rising of the weavers, the first
 movements among the industrial workers, all entirely new features in the
 picture that educated society, leading its own life, had formed of
 Germany, troubled and disturbed the bourgeoisie and forced them to face
-the problems that had arisen. A wave of strikes passed over Germany
-in 1844. Workers in the calico factories in Berlin rose in insurrection,
+the problems that had arisen. A wave of strikes passed over Germany in
+1844. Workers in the calico factories in Berlin rose in insurrection,
 railway workers in Westphalia did the same. There were strikes in
 Saxony, Hamburg and elsewhere. People discovered that there was
 something rumbling down below, something with a menace. That something
@@ -3675,7 +3578,7 @@ beginning of April, 1845, Engels went to Brussels.
 ## Chapter 09: Clarification
 
 'After we had passed a night in Brussels, almost the first thing Marx
-said to me [H. Bürgers] in the morning was: "We must go and see
+said to me \[H. Bürgers\] in the morning was: "We must go and see
 Freiligrath to-day. He is here, and I must make good the wrong the
 _Rheinische Zeitung_ did him before he stood 'on the party battlements.'
 His confession of faith has wiped out everything."'
@@ -3691,7 +3594,7 @@ to be unworthy of the poet to descend into the contemporary arena. His
 verses:
 
 >The poet stands on a high watch-tower
->As on the party battlements--1
+>As on the party battlements--[^08]
 
 were later quoted to satiety. He had no objection to accepting the
 pension of three hundred thalers which Frederick William IV granted him
@@ -3946,11 +3849,6 @@ At the time, however, he bore the blow heavily. But it all lay a long
 time behind him when he wrote: 'We left the manuscript to the nibbling
 criticism of mice all the more willingly as we had attained our chief
 aim--clarification.'
-
-### Chapter 09 notes
-
-1: _Der Dichter steht auf einer höh'ren Warte
-Als auf den Zinnen der Partei_.
 
 ## Chapter 10: Face to Face with Primitive Communism
 
@@ -4289,7 +4187,7 @@ informed of the state of affairs abroad as well as at home.
 'Besides the Communists in Germany our correspondence will include
 German Socialists in Paris and London. Our relations with England are
 already established; as for France we all believe that it would be
-impossible to find a better correspondent than you.'1
+impossible to find a better correspondent than you [^09].'
 
 Beside the Communists in Germany our correspondence will include German
 Socialists in Paris and London. Our relations with England are already
@@ -4466,12 +4364,11 @@ Marx was striding up and down the room in unusually angry excitement I
 quickly said good-bye to him and the others and went home, greatly
 surprised by what I had seen and heard.'
 
-The definite breach between Marx and Weitling did not come till
-May, 1848. Weitling even sent Marx an article for the paper he was going
-to start at the time, and he had no objection to accepting the help
-which the 'chief of the intellectuals,' whom he alleged to be 'sitting
-on the funds' though he was in fact short of them, continued to give
-him.
+The definite breach between Marx and Weitling did not come till May,
+1848. Weitling even sent Marx an article for the paper he was going to
+start at the time, and he had no objection to accepting the help which
+the 'chief of the intellectuals,' whom he alleged to be 'sitting on the
+funds' though he was in fact short of them, continued to give him.
 
 But Marx insisted on the sifting of the party and the first blow fell
 upon Hermann Kriege, a close friend of Weitling's and a man of the same
@@ -4495,31 +4392,6 @@ Weitling alone refused to sign. On May 16 the lithographed circular was
 dispatched to the correspondence committees in Germany, Paris, London
 and New York. On the same day Weitling demanded the immediate return of
 his manuscript from Marx. This was the final rupture.
-
-### Chapter 10 notes
-
-1: '_Conjointement avec deux de mes amis Fréderic Engels et Philippe
-Gigot (tous deux à Bruxelles) j'ai organisé avec les communistes et
-socialistes allemands une correspondence suivie, qui devra s'occuper et
-de la discussion de questions scientifiques et de la surveillance à
-exercer sur les écrits populaires et la propagande socialiste, qu'on
-peut faire en Allemagne par ce moyen. Le but principal de notre
-correspondence sera pourtant celui, de mettre les socialistes allemands
-en rapport avec les socialistes français et anglais, de tenir les
-étrangers au courant des mouvements socialistes qui seront opérés en
-Allemagne et d'informer les Allemands en Allemagne des progrès du
-socialisme en France et en Angleterre. De cette manière des différences
-d'opinion pourront se fair jour; on arrivera à un échange d'idées et à
-une critique impartiale. C'est là un pas, que le mouvement social aura
-fait dans son expression_ littéraire _afin de se débarrasser des limites
-de la_ nationalité. _Et au moment de l'action, il est certainement d'un
-grand interêt pour chacun, d'être instruit de l'état des afi'aires à
-l'étranger aussi bien que chez lui_.
-
-'_Outre les communistes en Allemagne notre correspondence comprendra
-aussi les socialistes allemands à Paris et à Londres. Nos rapports avec
-l'Angleterre sont déjà établis; quant à la France nous croyons tous que
-nous ne pouvons y trouver un meilleur correspondent que vous_...'
 
 ## Chapter 11: The Communist League
 
@@ -5084,7 +4956,7 @@ Marx was in the midst of revolutionary Paris.
 The first sign of revolution came from Switzerland in November, 1847.
 
 >The first shot was fired in the high country
->Against the priests.1
+>Against the priests [^10].
 
 The reactionary cantons which formed the Roman Catholic League rose
 against the decision of the Federal Council to expel the Jesuits. The
@@ -5109,7 +4981,7 @@ south, in Sicily.
 
 >The dance started in the South; Scylla and Charybdis,
 >Vesuvius and Etna burst forth, outbreak on outbreak,
->blow on blow.2
+>blow on blow [^11].
 
 The revolutionaries defeated the troops of the Bourbon Ferdinand of
 Naples in a five-day street-battle. Insurrection broke out in one
@@ -5152,11 +5024,11 @@ winter of 1847-8 three great democratic demonstrations on behalf of
 Poland took place in Brussels. On February 14 Belgians, Poles and
 Germans demonstrated in honour of the heroes of the 1830 revolution and
 the martyrs of the rising of the Russian Dekabrists. A week later, on
-February 22, Marx spoke at a meeting in memory of the Cracow rising
-of 1846. Marx extolled the Polish revolution and lauded the rising at
+February 22, Marx spoke at a meeting in memory of the Cracow rising of
+1846. Marx extolled the Polish revolution and lauded the rising at
 Cracow for the glorious example it set Europe, 'in identifying the cause
 of nationality with that of democracy and the emancipation of the
-oppressed class.'3 The meeting closed with a pathetic scene. Old
+oppressed class [^12].' The meeting closed with a pathetic scene. Old
 Lelevel, the veteran of the Polish revolution, embraced Marx and kissed
 him.
 
@@ -5296,10 +5168,10 @@ who were to be expelled. Marx's name was at the top of the list.
 Marx had no intention of staying in Belgium in any case. The
 revolutionary centre of Europe was Paris, where his old acquaintance,
 Flocon, now a member of the Provisional Government, summoned him. He
-invited the 'dear and brave [_cher et vaillant_]' Marx to return to the
-land from which tyranny had banished him. 'Tyranny has banished you;
+invited the 'dear and brave \[_cher et vaillant_\]' Marx to return to
+the land from which tyranny had banished him. 'Tyranny has banished you;
 free France flings wide her portals for you, and all who struggle in the
-sacred cause of the brotherhood of the peoples.'4
+sacred cause of the brotherhood of the peoples [^13].'
 
 The letter was sent from Paris on the first of March. Marx received it
 on the second or the third and its arrival practically coincided with a
@@ -5372,7 +5244,7 @@ origin.
 merely add that when we were released the twenty-four hours' grace had
 just expired and we were compelled to leave the country without even
 being able to take with us even the most indispensable personal
-effects.'5
+effects [^14].'
 
 The Belgian Liberal Press made a vigorous protest against the ignominy
 with which their country was covering itself. Engels mobilised the
@@ -5425,7 +5297,7 @@ the bourgeoisie hid in their houses all day long, trying to mollify the
 fury of the people by exhibiting coloured lanterns.' The old song of the
 Gironde was sung:
 
-To die for one's country is the most beautiful and enviable fate.6
+To die for one's country is the most beautiful and enviable fate [^15].
 
 The tricolour flew over the Palais Royal and the Tuileries, where Marx's
 old friend, Imbert, was now installed as governor. Here and there the
@@ -5490,7 +5362,7 @@ well.
 liberty.
 
 'Long live France! Long live Poland! Long live united Republican
-Germany! Long live the brotherhood of the peoples!'7
+Germany! Long live the brotherhood of the peoples [^16]!'
 
 The first detachments of German legionaries had already started drilling
 on the Champ de Mars. They even had their anthem ready: 'We march to
@@ -5683,95 +5555,6 @@ Left Hegelians, the arrival at clarification, the rejection of
 semi-demi, muddle-headed, sentimental Socialism, the Communist
 Manifesto, the Communist League. When Marx left Paris the flag of the
 Republic was flying from the Palais Royal and Germany was in flames.
-
-### Chapter 12 notes
-
-1: _Im Hochland fiel der erste Schuss,
-Im Hochland wider die Pfaffen_.
-
-2: _Drauf ging der Tanz in Welschland los
-Die Scyllen und Charybden,
-Vesuv und Aetna brachen los,
-Ausbruch auf Ausbruch, Stoss auf Stoss_. ...
-
-3: '_en identifiant la cause de la nationalité à la cause de la
-démocratie et à l'affranchissement de la classe opprimée_.'
-
-4: '_La tyrannie vous a banni, la libre France vous ouvre les portes, à
-vous et à tous ceux qui luttent pour la sainte cause de la fraternité
-des peuples_.'
-
-5: '_Après avoir reçu, le 3 mars, à cinq heures du soir, l'ordre (le
-quitter le royaume belge dans le délai de vingt-quatre heures, j'étais
-occupé encore, dans la nuit du même jour, de faire mes préparatifis de
-voyage, lorsqu'un commissaire de police, accompagné de dix gardes
-municipaux, pénétra dans mon domicile, fouilla toute la maison, et finit
-par m'arrêter, sous prétexte que je n'avais pas de papiers. Sans parler
-des papiers très réguliers que M. Duchâtel m'avait remis en m'expulsant
-de la France, je tenais en mains le passeport d'expulsion que la
-Belgique m'avait délivré il y avait quelques heures seulement_.
-
-'_Je ne vous aurais pas parlé, monsieur, de mon arrestation et des
-brutalités que j'ai souflertes, s'il ne s'y rattachait une circonstance
-qu'on aura peine à comprendre, même en Autriche_.
-
-'_Immédiatement après mon arrestation, ma femme se fait conduire chez M.
-Jottrand, président de l'association démocratique de Belgique, pour
-l'engager à prendre les mesures nécessaires. En rentrant chez elle, elle
-trouve à la porte un sergent de ville qui lui dit, avec une politesse
-exquise, que, si elle voulait parler à M. Marx, elle n'aurait qu' à le
-suivre. Ma femme accepte l'offre avec empressement. On la conduit au
-bureau de la police, et le commissaire lui déclare d'abord que M. Marx
-n'y était pas; puis il lui demande brutalement qui elle était, ce
-qu'elle allait faire chez M. Jottrand, et si elle avait ses papiers sur
-elle. Un démocrate belge, M. Gigot, qui avait suivi ma femme au bureau
-de la police avec la garde municipal, se révoltant des questions à la
-fois absurdes et insolentes du commissaire, est réduit au silence par
-des gardes qui s'emparent de lui et le jettent en prison. Sous le
-prétexte de vagabondage, ma femme est amenée à la prison de
-l'Hôtel-de-Ville, et enfermée avec des femmes perdues, dans une salle
-obscure. A onze heures du matin, elle est conduite en plein jour, sous
-toute une escorte de gendarmerie, au cabinet du juge d'instruction.
-Pendant deux heures, elle est mise au secret, malgré les plus vives
-réclamations qui arrivent de toutes parts. Elle reste là exposée à toute
-la rigeur de la saison et aux propos les plus indignes des gendarmes_.
-
-'_Elle paraît enfin devant le juge d'instruction, qui est tout étonné
-que la police, dans sa sollicitude, n'a pas arrêté egalement les enfants
-de bas-âge. L'interrogatoire ne pouvait étre que factice, et tout le
-crime de ma femme consiste en ce que, bien qu'appartenant à
-l'aristocratie prussienne, elle partage les sentiments démocratiques de
-son mari_.
-
-'_Je n'entre pas dans tous les détails de cette révoltante afiaire. Je
-dirai seulement que, lorsque nous étions relâchés, les vingt-quatre
-heures étaient justement expirées, et qu'il nous fallait partir sans
-pouvoir seulement emporter les effets les plus indispensables_.'
-
-6: _Mourir pour la patrie C'est le sort le plus beau Le plus digne
-d'envie_.
-
-7: '_Appel au Citoyens Français_.
-
-'_Des Armes_!
-
-'_Pour les Allemands marchant au secours de leur frères qui combattent
-en ce moment pour la liberté, qui se font égorger pour leur droits, et
-qu'on veut tromper de nouveau_.
-
-'_Les démocrates allemands de Paris se sont formés en légion pour aller
-proclamer ensemble la République allemande_.
-
-'_Il leur faut des armes, des munitions, de l'argent, des objets
-d'habillement. Prêtez-leur votre assistance; vos dons seront reçus avec
-gratitude. Ils serviront à délivrer l'Allemagne et en même temps la
-Pologne_.
-
-'_Démocrates allemands et polonais marcheront ensemble à la conquête de
-la liberté_.
-
-'_Vive la France! Vive la Pologne! Vive l'Allemagne unie et
-républicaine! Vive la fraternité des peuples_!'
 
 ## Chapter 13: The 'Mad Year' in Cologne
 
@@ -6295,11 +6078,11 @@ very first day. There was no other way of freeing Poland than by war.
 Russia was the mainstay of European reaction; it must be overthrown in
 war. With every month it became clearer that only war with Russia could
 save the German Revolution. The German Revolution had got stuck in 'a
-tedious philistine _cul-de-sac_,' as Engels complained in
-September, 1848. It failed to overcome the old impediment of its
-division into innumerable petty states. Prussia, though it had sustained
-some heavy blows, was fundamentally intact, and remained the single
-serious internal opponent. Austria stood firm in spite of all shocks and
+tedious philistine _cul-de-sac_,' as Engels complained in September,
+1848. It failed to overcome the old impediment of its division into
+innumerable petty states. Prussia, though it had sustained some heavy
+blows, was fundamentally intact, and remained the single serious
+internal opponent. Austria stood firm in spite of all shocks and
 threatened to become strong once more. The only possibility of uniting
 Germany was for Germany to make a united war on Russia. 'If Germany
 could be brought to war with Russia, it would be all up with Habsburgs
@@ -6609,7 +6392,7 @@ glowing verses of Freiligrath, urging them to make Vienna's cause their
 own:
 
 >If we could only kneel we should down on our needs
->If we could only pray, we should pray for Vienna.1
+>If we could only pray, we should pray for Vienna [^17].
 
 The Left produced their usual resounding rhetorical phrases in praise of
 the Viennese. But they failed to understand, would not listen, no longer
@@ -6733,21 +6516,21 @@ the 'social-republican revolution.'
 'Social-republican,' was the term he used, not 'Socialist' or
 'proletarian.' The seventeen points of the programme of the Communist
 League had demanded a republic with socialistic institutions, a Republic
-with equal suffrage for all, which should free the peasants of all
-feudal burdens, assure the workers a livelihood by national workshops,
-the breaking of the power of the aristocracy of finance for the benefit
-of industry and the petty-bourgeoisie, a state bank to replace the
-private banks and control credit. Social-republicanism involved neither
-the abolition of private ownership of the means of production nor the
-abolition of class-conflicts. It meant capitalism still, but capitalism
-in a State in which workers, petty-bourgeoisie and peasants had maximum
-concessions. The social-republican revolution did not emancipate the
-proletariat; it merely prepared the ground for the struggle for its
-emancipation. If the bourgeoisie failed, if they did not manage to
-attain what was expected of them, i.e. a constitutional monarchy in
-theory but their own supremacy in fact, the other anti-feudal classes
-must part from them and workers, petty-bourgeoisie and peasants must
-advance for the social republic.
+with equal suffrage for all, which should free the peasants of
+all feudal burdens, assure the workers a livelihood by national
+workshops, the breaking of the power of the aristocracy of finance for
+the benefit of industry and the petty-bourgeoisie, a state bank to
+replace the private banks and control credit. Social-republicanism
+involved neither the abolition of private ownership of the means of
+production nor the abolition of class-conflicts. It meant capitalism
+still, but capitalism in a State in which workers, petty-bourgeoisie and
+peasants had maximum concessions. The social-republican revolution did
+not emancipate the proletariat; it merely prepared the ground for the
+struggle for its emancipation. If the bourgeoisie failed, if they did
+not manage to attain what was expected of them, i.e. a constitutional
+monarchy in theory but their own supremacy in fact, the other
+anti-feudal classes must part from them and workers, petty-bourgeoisie
+and peasants must advance for the social republic.
 
 From the autumn of 1848 onwards the _Neue Rheinische Zeitung_ started
 changing its tone. If previously it had only paid slight attention to
@@ -6995,9 +6778,8 @@ practice as a faithful and selfless helper of the poor. Cholera broke
 out in the autumn, and Gottschalk, actuated by the sympathy for the poor
 which was the whole reason of his being, was the first and for a long
 time the only doctor to work in the infected slum districts. He caught
-the disease himself and died, after a day's illness, on September
-8, 1849. Many hundreds of workers followed their dead friend to his
-grave.
+the disease himself and died, after a day's illness, on September 8,
+1849. Many hundreds of workers followed their dead friend to his grave.
 
 In the struggle against the majority of the Workers' Union, a
 substantial proportion of Gottschalk's adherents had been actuated by
@@ -7016,11 +6798,11 @@ not been able to resist Marx's arguments for its dissolution. The
 branches of the League abroad had never acknowledged its dissolution. At
 the second Democratic Congress in Berlin, Ewerbeck, leader of the Paris
 branch, had conversations with former League members, with whom be
-arranged to summon a general League Congress in Berlin for
-December, 1848. The Congress was to appoint new executive officers in
-place of those previously appointed by Marx. The victory of Reaction in
-Berlin prevented the Congress from taking place, but the will to revive
-the League was there. Moll, who settled in London after fleeing from
+arranged to summon a general League Congress in Berlin for December,
+1848. The Congress was to appoint new executive officers in place of
+those previously appointed by Marx. The victory of Reaction in Berlin
+prevented the Congress from taking place, but the will to revive the
+League was there. Moll, who settled in London after fleeing from
 Cologne, was particularly active in the matter. Members of the London
 branch co-operated with him in drafting new League statutes. Moll,
 Heinrich Bauer and Georg Eccarius were to be the leaders of the
@@ -7261,12 +7043,12 @@ Zeitung_ appeared, printed in red. A prominent position was given to
 Freiligrath's powerful valedictory poem:
 
 >Defiance and scorn quivering on my lips, the gleaming dagger in my
->hand, still exclaiming: rebellion! in death, thus am I honourably
->defeated. Now farewell, farewell, you world of battle, farewell, you
->struggling hosts; farewell, you powder-blackened fields, farewell, you
->swords and spears. Farewell, but not for ever; for they cannot kill the
->spirit. Soon I shall once more be on high; soon I shall return on a
->steed!2
+hand, still exclaiming: rebellion! in death, thus am I honourably
+defeated. Now farewell, farewell, you world of battle, farewell, you
+struggling hosts; farewell, you powder-blackened fields, farewell, you
+swords and spears. Farewell, but not for ever; for they cannot kill the
+spirit. Soon I shall once more be on high; soon I shall return on a
+steed [^18]!
 
 The last issue of the _Neue Rheinische Zeitung_ warned the workers
 against any sort of rising. In view of the military situation in Cologne
@@ -7338,24 +7120,6 @@ Manifesto which urged them to support every revolutionary movement aimed
 at existing social and political conditions, stepped without a moment's
 hesitation into the ranks of the insurrectionary army.
 
-### Chapter 14 notes
-
-1: _Wenn wir noch knien könnten, wir lägen auf den Knien
-Wenn wir noch beten könnten, wir beteten für Wien_.
-
-2: _...Auf der Lippe den Trotz und den zuckenden Hohn,
-In der Hand den blitzenden Degen,
-Noch im Sterben rufend: Die Rebellion!
-So bin ich in Ehren erlegen...
-Nun Ade, nun Ade, du kämpfende Welt,
-Nun Ade, ihr ringenden Heere!
-Nun Ade, du pulvergeschwärztes Feld,
-Nun Ade, ihr Schwerter und Speere!
-Nun Ade, doch nicht für immer Ade!
-Denn sie toten den Geist nicht, ihr Brüder!
-Bald richt'ich mich rasselnd in die Höh.
-Bald kehr ich reisiger wieder_!
-
 ## Chapter 15: The End of the Communist League
 
 The more desperate the situation in Germany became the greater hopes did
@@ -7382,7 +7146,7 @@ Italy's freedom and independence, had stormed Rome, the last stronghold
 of Italian liberty, and delivered its Republican defenders into the
 hands of the Papal Inquisition. The French Constitution still contained
 the fine phrase: 'The Republic never employs its forces against the
-liberty of any people.'1
+liberty of any people [^19].'
 
 On June 11, only a few days after Marx's arrival in Paris, Ledru-Rollin,
 leader of the Montagnards, proposed in the Chamber that the President,
@@ -7729,12 +7493,13 @@ aim of the association,' paragraph one of the statutes reads, 'is to
 make an end of the privileged classes, to submit these classes to the
 dictatorship of the proletariat by maintaining a permanent revolution
 until the realisation of Communism, which shall be the last form of
-constitution the human family.'2
+constitution the human family [^20].'
 
 This goal, to which the members of the association swore an oath of
 loyalty, was to be attained by 'bonds of solidarity between all sections
 of the revolutionary Communist Party by breaking down the barriers of
-nationality in conformity with the principle of republican fraternity.'3
+nationality in conformity with the principle of republican fraternity
+[^21].'
 
 The rank and file of the secret societies did not themselves become
 members of this secret society, which was restricted to their leaders.
@@ -8182,7 +7947,7 @@ Belgian police passed on to the Prussians his own agents' report that
 Marx forgathered every evening at a tavern with a group of desperadoes,
 to whom he made inflammatory speeches--'he teaches his partisans whom he
 one day counts on sending individually to Germany on missions the nature
-of which may easily be guessed.'4
+of which may easily be guessed [^22].'
 
 The police also discovered that Marx, not satisfied with the
 assassination of German princes, had aims on the lives of Queen Victoria
@@ -8356,25 +8121,6 @@ the German revolution began to peter out, Engels looked back with a
 smile of regret to the 'sleepless night of exile' during the years that
 led up to the Revolution. The real and 'dreadful 'sleepless night of
 exile' started now.
-
-### Chapter 15 notes
-
-1: '_La République française n'emploie jamais ses forces contre la
-liberté d'aucun peuple_.'
-
-2: '_Le but de l'association est la déchéance de toutes les classes
-privilégiées de soumettre ces classes à la dictature des prolétaires en
-maintenant la révolution en permanence jusqu' à la réalisation du
-communisme, qui doit être la dernière forme de constitution de la
-famille humaine_.'
-
-3: '_des liens de solidarité entre toutes les fractions du parti
-communiste révolutionnaire en faisant disparaître conformément au
-principe de la fraternité républicaine les divisions de nationalité_.'
-
-4: '_il endoctrine ses séides qu'il compte lâcher un jour
-individuellement en Allemagne avec une mission déterminée facile à
-deviner_.'
 
 ## Chapter 16: The Sleepless Night of Exile
 
@@ -9521,8 +9267,8 @@ returned to Germany.
 Lassalle conducted his propaganda in speech and writing from 1862 until
 his early death in the late summer of 1864. His speeches were brilliant,
 his pamphlets magnificently written. He did in fact create a German
-workers' party. The General Union of German Workers was founded in
-May, 1863. But before it started its existence Lassalle had started to
+workers' party. The General Union of German Workers was founded in May,
+1863. But before it started its existence Lassalle had started to
 negotiate with Bismarck.
 
 The conflict between the Prime Minister of Prussia and the Progressive
@@ -10420,18 +10166,18 @@ Garibaldi. The League's programme was a nebulous mixture of democracy,
 anti-clericalism and pacifism, intended to mean as much to as many
 people as possible. In practice it did nothing for anybody.
 
-The League, having practically no solid popular backing of it [sic] own,
-was very anxious to be on good terms with the International. An attempt
-was made to have it incorporated as a kind of subsidiary organisation
-within the International, to enable it to propagate its own special aims
-among the proletariat. Marx was necessarily opposed to any such plan.
-The development of the young workers' movement could only be hampered by
-connection with these generals without an army, for the important men
-had only lent their names to the League at its inception and in reality
-the movement was in the hands of Democratic leaders of the second and
-third rank. To involve the International with the League would mean
-burdening it with a swarm of ambitious, wrangling and clique-forming
-political intriguers.
+The League, having practically no solid popular backing of it \[sic\]
+own, was very anxious to be on good terms with the International. An
+attempt was made to have it incorporated as a kind of subsidiary
+organisation within the International, to enable it to propagate its own
+special aims among the proletariat. Marx was necessarily opposed to any
+such plan. The development of the young workers' movement could only be
+hampered by connection with these generals without an army, for the
+important men had only lent their names to the League at its inception
+and in reality the movement was in the hands of Democratic leaders of
+the second and third rank. To involve the International with the League
+would mean burdening it with a swarm of ambitious, wrangling and
+clique-forming political intriguers.
 
 Marx was not able to convince the International of all this until 1868.
 The Brussels Congress of that year unanimously carried a resolution
@@ -10598,7 +10344,7 @@ after the Alliance had submitted its statutes to the General Council
 Bakunin wrote. It was a long letter, overflowing with friendliness. 'My
 country is now the International, of which you are one of the principal
 founders. You see, therefore, my dear friend, that I am your disciple,
-and I am proud of it.'1
+and I am proud of it [^23].'
 
 This sounded genuine, upright and sincere, but it was anything but what
 it seemed. The letter was a calculated part of the web of intrigue that
@@ -10654,33 +10400,34 @@ eyes, but how Bakunin presented himself to them.
 Locle into a state of high excitement. He was the sole subject of
 conversation in workshops, clubs and drawing-rooms. ... Everyone said
 that the presence in the ranks of the International of a man as
-energetic as he could not fail to be a source of great strength.'2 Locle
-was an obscure provincial township, and for a celebrity to visit it was
-an epoch-making event; and now a rare and exotic celebrity was actually
-on the spot. The big watchmaking village could scarcely contain itself
-with excitement. 'I went to meet him at the station with Father Meuron,
-and we took him to the International Club, where we spent the rest of
-the afternoon talking with some friends who had gathered there.'3 The
-local branch, the _Cercle International_, was just celebrating the
-sixty-fifth birthday of 'Father' Neuron, a French _émigré_, who had been
-a Carbonaro in the days of the July Monarchy and perhaps in the days of
-the Restoration too. The Internationalists of Locle, all hungry for
-experience, surrounded Bakunin. 'If Bakunin's imposing stature struck
-the imagination, the familiarity of his greeting gained men's hearts. He
-promptly made a conquest of everybody.'4 Bakunin showed himself a blithe
-and sociable human being, a good raconteur, homely and simple. 'In
-conversation Bakunin willingly related anecdotes, gave reminiscences of
-his youth, told us things he had said or heard. He had a whole
-repertoire of anecdotes, proverbs and favourite sayings that he liked to
-repeat.'5 Guillaume particularly remembered one story which Bakunin
-told. 'Once, at the end of a dinner in Germany, he had proposed a toast,
-he told us laughing, saying: "I drink to the destruction of public order
-and the unleashing of evil passions."'6 Bakunin described the seven
-stages of happiness as follows: 'In the first place, the supreme
-happiness was to die fighting for liberty; in the second place, love and
-friendship; in the third place, science and art; in the fourth place,
-smoking; in the fifth place, drinking; in the sixth place, eating; and
-in the seventh place, sleeping.'7
+energetic as he could not fail to be a source of great strength [^24].'
+Locle was an obscure provincial township, and for a celebrity to visit
+it was an epoch-making event; and now a rare and exotic celebrity was
+actually on the spot. The big watchmaking village could scarcely contain
+itself with excitement. 'I went to meet him at the station with Father
+Meuron, and we took him to the International Club, where we spent the
+rest of the afternoon talking with some friends who had gathered
+there [^25].' The local branch, the _Cercle International_, was just
+celebrating the sixty-fifth birthday of 'Father' Neuron, a French
+_émigré_, who had been a Carbonaro in the days of the July Monarchy and
+perhaps in the days of the Restoration too. The Internationalists of
+Locle, all hungry for experience, surrounded Bakunin. 'If Bakunin's
+imposing stature struck the imagination, the familiarity of his greeting
+gained men's hearts. He promptly made a conquest of everybody [^26].'
+Bakunin showed himself a blithe and sociable human being, a good
+raconteur, homely and simple. 'In conversation Bakunin willingly related
+anecdotes, gave reminiscences of his youth, told us things he had said
+or heard. He had a whole repertoire of anecdotes, proverbs and favourite
+sayings that he liked to repeat [^27].' Guillaume particularly
+remembered one story which Bakunin told. 'Once, at the end of a dinner
+in Germany, he had proposed a toast, he told us laughing, saying: "I
+drink to the destruction of public order and the unleashing of evil
+passions [^28]."' Bakunin described the seven stages of happiness as
+follows: 'In the first place, the supreme happiness was to die fighting
+for liberty; in the second place, love and friendship; in the third
+place, science and art; in the fourth place, smoking; in the fifth
+place, drinking; in the sixth place, eating; and in the seventh place,
+sleeping [^29].'
 
 Twenty years before Bakunin had defined the seven stages of happiness in
 the same way, and he had spoken of the unleashing of the passions then
@@ -10695,16 +10442,16 @@ attached importance to swearing oaths upon a dagger. He explained the
 object of the society as 'a free association of men who united for
 collective action, without formality, without solemnity, without
 mysterious rites, simply because they felt confidence in one another and
-deemed unity preferable to isolated action.'8 Guillaume is no objective
-witness, but he must have been pretty faithful to the facts in this.
-However much Bakunin wanted to assimilate his organisation to the
+deemed unity preferable to isolated action [^30].' Guillaume is no
+objective witness, but he must have been pretty faithful to the facts in
+this. However much Bakunin wanted to assimilate his organisation to the
 International, it remained a secret society within the International,
 keeping its existence secret from it and aiming at gaining control of
 it. Guillaume bears witness to this, for he describes how Meuron, the
 old Carbonaro, who joined the secret society at the same time, rejoiced.
 'He rejoiced at the thought that the International would be doubled by a
 secret organisation which should preserve it from the dangers to which
-the intriguing and ambitious might subject it.'9
+the intriguing and ambitious might subject it [^31].'
 
 The contrast between the ideas of the old Illuminati, Carbonari and the
 rest and those whose aim was to use the International to lead the
@@ -10880,50 +10627,6 @@ life in constantly changing forms. Meanwhile war had become inevitable.
 European events postponed it, complicated it, blurred the issues. That
 it was bound to break out was clear to everyone in the winter of 1869.
 
-### Chapter 18 notes
-
-1: '_Ma patrie maintenant c'est l'Internationale, dont tu es l'un des
-principaux fondateurs. Tu vois donc, cher ami, que je suis ton disciple,
-et je suis fier de l'être_.'
-
-2: '_La nouvelle de la venue a'u célèbre révolutionnaire russe avait mis
-le Locle en émoi; et dans les ateliers, dans les cercles, dans les
-salons, on ne parlait que de lui. ... On se disait que la présence, dans
-les rangs de l'Internationale, d'un homme aussi énergique, ne pouvait
-manquer de lui apporter une grande force_.'
-
-3: '_J'étais allé l'attendre à la gare avec le père Meuron, et nous le
-conduisîmes au Cercle International, où nous passâmes le reste de
-l'après--midi à causer avec quelques amis qui s'y étaient réunis_.'
-
-4: '_Si l'imposante stature de Bakounine frappait les imaginations, la
-familiarité de son accueil lui gagnait les cœurs; il fit immèdiatement
-la conquête a'e tout le monde_.'
-
-5: '_Dans les conversations, Bakounine racontait volontiers des
-historiettes, des souvenirs de sa jeunesse, des choses qu'il avait dites
-ou entendu dire. Il avait tout un répertoire d'anecdotes, de proverbes,
-des mots favorits qu'il aimait à répéter_.'
-
-6: '_Une fois, à la fin d'un dîner, en Allemagne, il avait, nous dit il
-en riant, porté ce toast, accueilli par un tonnerre d'applaudissements:
-"Je bois à la destruction de l'ordre public et au déchainement des
-mauvaises passions_."'
-
-7: _En premier lieu, comme bonheur suprême mourir en combattant pour la
-liberté; en second lieu, l'amour et l'amitié; en troisième lieu, la
-science et l'art; quatriêmement, fumer; cinquièmement, boire;
-sixièmement, manger; septièment, dormir_.'
-
-8: '_Le libre rapprochement d'hommes qui s'unissaient pour l'action
-collective, sans formalité, sans solennité, sans rites mystérieux,
-simplement parce qu'ils avaient confiance les uns dans les autres et que
-l'entente leur paraissait préférable à l'action isolée_.'
-
-9: '_Il réjouissait à la pensée que l'Internationale serait doublée
-d'une organisation secrète qui la préserverait du danger que pouvaient
-lui faire courir les intrigants et les ambitieux_.'
-
 ## Chapter 19: The Franco-Prussian War
 
 In the year of the foundation of the International Prussia and Austria
@@ -11093,7 +10796,7 @@ with. That Bismarck's ambitions were not German ambitions but
 'dynastic-Hohenzollern' ambitions was plain enough. But his blunt
 refusal to entertain the French demand for 'compensation' for having
 remained neutral in the Austrian war and the harshness with which he
-asserted Prussian demands in the dispute about Luxemburg [sic?]
+asserted Prussian demands in the dispute about Luxemburg \[sic?\]
 immediately afterwards finally destroyed the suspicion that he was only
 a tool of Napoleon. The reactionary Junker Bismarck introduced universal
 suffrage into the North German Reichstag, though for reasons that
@@ -11330,7 +11033,7 @@ is lost,' he wrote to his friends, almost in desperation. 'Oh, if I were
 young, I should not be writing letters but should be among you.'
 Danton's words were constantly upon his lips. 'Before marching against
 the enemy, it is necessary to destroy, to paralyse the enemy behind
-one.'1
+one [^32].'
 
 On August 14 Blanqui and some of his followers carried out an attack on
 the police barracks in the Grande Rue de la Vilette. Their cry: '_Vive
@@ -11465,9 +11168,9 @@ occasion to spread the organisation of the working class.'
 'Restraint on the part of the International in France until after the
 conclusion of peace,' as Engels put it, was far from meaning that the
 French workers were to go on quietly and calmly organising as if they
-were living, say, in Belgium or in England or as if the date were
-still 1869. Their task was not only to participate actively in the
-struggle against the invaders and to continue the building up of their
+were living, say, in Belgium or in England or as if the date were still
+1869. Their task was not only to participate actively in the struggle
+against the invaders and to continue the building up of their
 organisation. Marx highly praised what the members of the International
 did at Lyons before Bakunin ruined everything there. On October 19,
 1870, he wrote to Beesly, saying that under pressure of the local
@@ -11553,7 +11256,7 @@ formed a special 'French branch' of the International soon came into
 Violent conflict with the General Council. Anyone who worked for the
 International in France was immediately suspect in their eyes. Such a
 person was bound to have inclinations towards Bonapartism, if he were
-not actually an agent of Napoleon. Felix [sic] Pyat, Vésinier, and
+not actually an agent of Napoleon. Felix \[sic\] Pyat, Vésinier, and
 others of their leaders outdid each other in radicalism. Tyrannicide was
 their ideal. Pyat constantly drank toasts to 'the bullet that will slay
 a tyrant,' and he opened a subscription to buy a 'revolver of honour'
@@ -11782,11 +11485,11 @@ was broken by the reverse he suffered at Lyons. While still there he
 wrote to a friend in deep despair: 'Farewell liberty, farewell
 Socialism, farewell justice for the people, and farewell the triumph of
 humanity!' All his hopes of France had been in vain. 'I have no more
-faith in the revolution in France,' he wrote at the end of
-October, 1870. 'The country is no longer revolutionary at all. The
-people has become as doctrinaire and as bourgeois as the bourgeois. The
-social revolution might have saved it, and the social revolution alone
-was capable of saving it.' The people had shown itself incapable of
+faith in the revolution in France,' he wrote at the end of October,
+1870. 'The country is no longer revolutionary at all. The people has
+become as doctrinaire and as bourgeois as the bourgeois. The social
+revolution might have saved it, and the social revolution alone was
+capable of saving it.' The people had shown itself incapable of
 embracing its own salvation. 'Farewell all our dreams of imminent
 emancipation. There will be a crushing and overwhelming reaction.'
 
@@ -12160,16 +11863,11 @@ the unshakable conviction of final victory. The address ended with these
 stirring words: 'Working men's Paris, with its Commune, will be for ever
 celebrated as the glorious harbinger of a new society. Its martyrs are
 enshrined in the great heart of the working class. Its exterminators
-history has already nailed to that external [sic] pillory from which all
-the prayers of their priests will not avail to redeem them.' The final
-words were like the sounding of the Last Trump. The Commune was
+history has already nailed to that external \[sic\] pillory from which
+all the prayers of their priests will not avail to redeem them.' The
+final words were like the sounding of the Last Trump. The Commune was
 defeated, a battle was lost, but the working-Class struggle was
 continued.
-
-### Chapter 19 notes
-
-1: '_Avant de marcher contra l'ennemi, il faut le détruire, le paralyser
-derrière soi_.'
 
 ## Chapter 20: The Downfall of the International
 
@@ -12799,42 +12497,42 @@ a letter bearing the stamp of Nechaiev's organisation. Its most
 remarkable passages are quoted below:
 
 >'DEAR SIR,--On behalf of the bureau I have the honour to write to you
->as follows. We have received from the committee in Russia a letter
->which refers among other things to you. It states: "It has come to the
->knowledge of the committee that a few young gentlemen, dilettanti
->Liberals, living abroad, are beginning to exploit the knowledge and
->energy of certain people known to us, taking advantage of their
->hard-pressed financial straits. Valuable personalities, forced by these
->dilettante exploiters to work for a day-labourer's hire, are thereby
->deprived of the possibility of working for the liberation of mankind.
->Thus a certain Liubavin has given the celebrated Bakunin the task of
->translating a book by Marx, and, exploiting his financial distress just
->like a real exploiting bourgeois, has given him an advance and now
->insists on the work being completed. Bakunin, delivered in this manner
->to the mercy of young Liubavin, who is so concerned about the
->enlightenment of Russia, but only by the work of others, is prevented
->from being able to work for the supremely important cause of the
->Russian people, for which he is indispensable. How the behaviour of
->Liubavin and others like him conflicts with the cause of the freedom of
->the people and how contemptible, bourgeois and immoral their behaviour
->is compared with that of those they employ and how little it differs
->from the practices of the police must be clear to every decent person.
+as follows. We have received from the committee in Russia a letter which
+refers among other things to you. It states: "It has come to the
+knowledge of the committee that a few young gentlemen, dilettanti
+Liberals, living abroad, are beginning to exploit the knowledge and
+energy of certain people known to us, taking advantage of their
+hard-pressed financial straits. Valuable personalities, forced by these
+dilettante exploiters to work for a day-labourer's hire, are thereby
+deprived of the possibility of working for the liberation of mankind.
+Thus a certain Liubavin has given the celebrated Bakunin the task of
+translating a book by Marx, and, exploiting his financial distress just
+like a real exploiting bourgeois, has given him an advance and now
+insists on the work being completed. Bakunin, delivered in this manner
+to the mercy of young Liubavin, who is so concerned about the
+enlightenment of Russia, but only by the work of others, is prevented
+from being able to work for the supremely important cause of the Russian
+people, for which he is indispensable. How the behaviour of Liubavin and
+others like him conflicts with the cause of the freedom of the people
+and how contemptible, bourgeois and immoral their behaviour is compared
+with that of those they employ and how little it differs from the
+practices of the police must be clear to every decent person.
 
 >"'The committee entrusts the foreign bureau to inform Liubavin:
 
 >"'(1) That if he and parasites like him are of the opinion that the
->translation of _Capital_ is so important to the Russian people at the
->present time they should pay for it out of their own pocket instead of
->studying chemistry and preparing themselves for fat professorships in
->the pay of the state. ...
+translation of _Capital_ is so important to the Russian people at the
+present time they should pay for it out of their own pocket instead of
+studying chemistry and preparing themselves for fat professorships in
+the pay of the state. ...
 
 >'"(2) It must immediately inform Bakunin that in accordance with the
->decision of the Russian revolutionary committee he is exempt from any
->moral duty to continue with the work of translation. ..."
+decision of the Russian revolutionary committee he is exempt from any
+moral duty to continue with the work of translation. ..."
 
 >'Convinced that you understand, we request you, dear sir, not to place
->us in the unpleasant position of being compelled to resort to less
->civilised measures. ...
+us in the unpleasant position of being compelled to resort to less
+civilised measures. ...
 
 >'AMSKIY,
 >'Secretary to the Bureau.'
@@ -13453,8 +13151,8 @@ himself almost entirely to International affairs; and what time was left
 to him he had to devote to the settling of matters he believed to have
 been settled already.
 
-_Das Kapital_ was to have been translated into French at the end
-of 1867. Elie Reclus, brother of Elisée Reclus, an anarchist who
+_Das Kapital_ was to have been translated into French at the end of
+1867. Elie Reclus, brother of Elisée Reclus, an anarchist who
 subsequently became a well-known geographer, undertook the task, but
 soon abandoned it. Two years later another Frenchman undertook it but
 did not get very far. Not till the winter of 1871 was a French publisher
@@ -13470,16 +13168,16 @@ published in French, though it only came out in instalments published at
 intervals. Marx wrote to Lachâtre that this method of publication gave
 him particular satisfaction. 'The work will be more accessible to the
 working classes in this form, and for me that consideration takes
-precedence of all others.'1 Roy, the translator, did his work well, but
-Marx had 'the deuce of an amount' to do all the same; not only had he to
-revise the translation, which was no light task in view of the condensed
-style of the original and the play made with Hegelian phraseology in the
-chapter on the theory of value, but he simplified passages here and
-expanded passages there, amplifying the statistical data and indulging
-in controversies with French economists. The final instalment did not
-appear till May, 1875, for there were periods when he had to stop work
-on it altogether and others when he could only continue by exerting
-himself to the utmost, for he was a sick man.
+precedence of all others [^33].' Roy, the translator, did his work well,
+but Marx had 'the deuce of an amount' to do all the same; not only had
+he to revise the translation, which was no light task in view of the
+condensed style of the original and the play made with Hegelian
+phraseology in the chapter on the theory of value, but he simplified
+passages here and expanded passages there, amplifying the statistical
+data and indulging in controversies with French economists. The final
+instalment did not appear till May, 1875, for there were periods when he
+had to stop work on it altogether and others when he could only continue
+by exerting himself to the utmost, for he was a sick man.
 
 In autumn, 1873, he broke down altogether. He had been suffering from
 headaches and insomnia during the summer and was ordered by his doctor
@@ -13770,7 +13468,7 @@ outside any party control.' They did not submit to his control and had
 no justification whatever for their claim that theirs was the scientific
 Socialism that Marx had founded. A remark that Marx once made to
 Lafargue has often been quoted. 'What is quite certain is that I am not
-a Marxist.'2
+a Marxist [^34].'
 
 Nevertheless the movement in France made progress while working classes
 in England, the most industrialised country in the world and the country
@@ -13924,9 +13622,297 @@ workers of the world.
 
 His name, and his work, will re-echo down the centuries.
 
-### Chapter 20 notes
+[^01]: _Unsere Taten sind Worte bis jetzt und noch lange
+  Hinter die Abstraktion stellt sich die Praxis von selbst_.
 
-1: '_Sous cette forme l'ouvrage sera plus accessible à la classe
-ouvrière et pour moi cette considération l'emporte sur toute autre_.'
+[^02]: _Wer jaget hinterdrein mit wildem Ungestüm?
+  Ein schwarzer Kerl aus Trier, ein markhaft Ungetüm.
+  Er gehet, hüpfet nicht, er springet auf den Hacken
+  Und raset voller Wut und gleich als wollt' er packen
+  Das weite Himmelszelt und zu der Erde ziehn
+  Streckt er die Arme sein weit in die Lüfte hin.
+  Geballt die böse Faust, so tobt er sonder Rasten,
+  Als wenn ihn bei den Schopf zehntausend Teufel fassten_.
 
-2: '_Ce qu'il y a de certain, c'est que moi je ne suis pas Marxiste_.'
+[^03]: The German for peasant is _Bauer_.
+
+[^04]: '_Depuis l'expédition de mon dernier très-humble rapport, j'ai eu
+  aussi occasion do rencontrer Mr. le Comte de Nesselrode, dans le salon
+  de son épouse, et de lui parler; mais au lieu de me fournir des
+  renseignements qui auraient pu m'être utiles, ou intéressants, sous le
+  rapport de la politique Mr. le Vice-Chancelier a saisi cette occasion
+  pour me demander: si j'avais lu déjà l'article véritablement infame,
+  que *la gazette Rhénane*, publiée à Cologne avait lancé dernièrement
+  contre le Cabinet Russe,--en basant ses déclamations furibondes sur
+  le faux prétexte d'une note qui m'aurait été adressée par lui,
+  relativement à la tendance de la presse Allomande. J'ai répondu à Mr.
+  le Comte de Nesselrode, que je ne connaissais pas textuellement cet
+  article, mais que je me rappelais fort bien, que *la gazette d'Etat*
+  avait publié, il n'y a pas longtems, une réfutation de quelques
+  articles semblables, on déclarant brièvement, mais assez
+  positivement, que les suppositions sur lesquelles le raisonnemont de
+  ces articles avait été basé, manquaient de fondement et de tout motif
+  raisonnable. Cette réfutation n'était point inconnue á Mr. le
+  Vice-Chancelier; mais il m'a avvué, qu'elle ne suffisait pas, pour
+  lui faire comprendre, comment un censeur employé par le gouvernement
+  de Votre Majesté avait pu laisser passer un article d'une nature
+  semblable, qui, selon lui, surpassait encore do beaucoup, en perfidie
+  et en violence, tout ce qui avait été publié jusqu'ici dans los
+  feuilles Prussiennes contre le gouvernement Imperial. Il y a ajouté
+  encore qu'afin que je puisse en juger pour moi-même, en toute
+  connaissance de cause, il m'enverait la feuille de *la gazette
+  Rhénane*, qui renfermait l'article en question, et il l'a fait, en
+  effet, encore le même soir.--Je suis donc véritablement heureux
+  d'avoir trouvé, cette nuit, en revenant du bal patriotique, dans le
+  numéro *de la gazette d'Etat* du 31. janvier, qui venait d'arriver
+  par la poste, l'ordre émané tout récemment des trois Ministères de
+  Votre Majesté qui président aux afi'aires de censure, et en vertu
+  duquel *la gazette Rhénane* doit cesser de paraître à dater du 1.
+  avril prochain! Aussi me ferai-je un devoir des plus empressés de
+  faire valoir cette mesure énergique auprès de Mr. le Comte de
+  Nesselrode aujourd'hui même à l'occasion d'un dîner auquel il m'a
+  engagé. je crois, du reste, devoir faire observer encore
+  très-humblement à ce sujet, que lors de la conversation que j'ai eu,
+  avant-hier, avec Mr. le Vice-Chancelier, il m'avait très expressément
+  assuré, que l'Empereur ne connaissait probablement pas encore
+  l'article en question parce que, pour sa part, il avait hésité
+  jusqu'ici à le placer sous les yeux de Sa Majesté Imperiale_.'
+
+[^05]: _Wir liessen kühn der Freiheit Fahne wehen
+  Und ernst tat jeder Schiffman seine Pflicht,
+  War d'rum vergebens auch der Mannschaft Spähen:
+  Die Fahrt war schön and sie gereut uns nicht_.
+
+  _Dass uns der Götter Zorn hat nachgetrachtet
+  Es schreckt uns nicht, dass unser Mast gefällt.
+  Denn auch Kolumbus ward zuerst verachtet
+  Und endlich sah er doch die neue Welt_.
+
+  _Ihr Freunde, deren Beifall uns geworden,
+  Ihr Gegner, die ihr uns mit Kampf geehrt
+  Wir seh'n uns wieder einst an neuen Borden,
+  Wenn Alles bricht, der Mut bleibt unversehrt_.
+
+[^06]: _Auch nach Weibergemeinschaft steht ihr Sinn,
+  Abschaffen woll'n sie die Ehe,
+  Dass alles in Zukunft ad libitum
+  Miteinander zu Bette gehe:
+  Tartar und Mongole mit Griechenfrau'n,
+  Cherusker mit gelben Chinesen,
+  Eisbären mit schwedischen Nachtigall'n,
+  Türkinnen und Irokesen,
+  Tranduftende Samoyedinnen soll'n
+  Zu Briten and Römern sich betten,
+  Plattnasige düstre Kaffern zu
+  Alabasterweissen Grisetten.
+  Ja, ändern wird sich die ganze Welt
+  Durch diese moderne Leitung-
+  Doch die schonsten Weiber bekommen die
+  Redakteure der_ Rheinischen Zeitung.
+
+[^07]: '_C'est surtout à Paris que les communistes allemands ont établi
+  le foyer et le point de départ de leurs intrigues; c'est par la France
+  qu'ils espèrent agir; en dehors de ce royaume, si ce n'est en
+  Angleterre, ils n'osent affronter avec une égale audace la sévérité
+  des lois et celle des magistrats_.'
+
+[^08]: _Der Dichter steht auf einer höh'ren Warte
+  Als auf den Zinnen der Partei_.
+
+[^09]: '_Conjointement avec deux de mes amis Fréderic Engels et Philippe
+  Gigot (tous deux à Bruxelles) j'ai organisé avec les communistes et
+  socialistes allemands une correspondence suivie, qui devra s'occuper
+  et de la discussion de questions scientifiques et de la surveillance à
+  exercer sur les écrits populaires et la propagande socialiste, qu'on
+  peut faire en Allemagne par ce moyen. Le but principal de notre
+  correspondence sera pourtant celui, de mettre les socialistes
+  allemands en rapport avec les socialistes français et anglais, de
+  tenir les étrangers au courant des mouvements socialistes qui seront
+  opérés en Allemagne et d'informer les Allemands en Allemagne des
+  progrès du socialisme en France et en Angleterre. De cette manière
+  des différences d'opinion pourront se fair jour; on arrivera à un
+  échange d'idées et à une critique impartiale. C'est là un pas, que le
+  mouvement social aura fait dans son expression_ littéraire _afin de
+  se débarrasser des limites de la_ nationalité. _Et au moment de
+  l'action, il est certainement d'un grand interêt pour chacun, d'être
+  instruit de l'état des afi'aires à l'étranger aussi bien que chez
+  lui_.
+
+  '_Outre les communistes en Allemagne notre correspondence comprendra
+  aussi les socialistes allemands à Paris et à Londres. Nos rapports
+  avec l'Angleterre sont déjà établis; quant à la France nous croyons
+  tous que nous ne pouvons y trouver un meilleur correspondent que
+  vous_...'
+
+[^10]: _Im Hochland fiel der erste Schuss,
+  Im Hochland wider die Pfaffen_.
+
+[^11]: _Drauf ging der Tanz in Welschland los
+  Die Scyllen und Charybden,
+  Vesuv und Aetna brachen los,
+  Ausbruch auf Ausbruch, Stoss auf Stoss_. ...
+
+[^12]: '_en identifiant la cause de la nationalité à la cause de la
+  démocratie et à l'affranchissement de la classe opprimée_.'
+
+[^13]: '_La tyrannie vous a banni, la libre France vous ouvre les
+  portes, à vous et à tous ceux qui luttent pour la sainte cause de la
+  fraternité des peuples_.'
+
+[^14]: '_Après avoir reçu, le 3 mars, à cinq heures du soir, l'ordre (le
+  quitter le royaume belge dans le délai de vingt-quatre heures, j'étais
+  occupé encore, dans la nuit du même jour, de faire mes préparatifis de
+  voyage, lorsqu'un commissaire de police, accompagné de dix gardes
+  municipaux, pénétra dans mon domicile, fouilla toute la maison, et
+  finit par m'arrêter, sous prétexte que je n'avais pas de papiers.
+  Sans parler des papiers très réguliers que M. Duchâtel m'avait remis
+  en m'expulsant de la France, je tenais en mains le passeport
+  d'expulsion que la Belgique m'avait délivré il y avait quelques
+  heures seulement_.
+
+  '_Je ne vous aurais pas parlé, monsieur, de mon arrestation et des
+  brutalités que j'ai souflertes, s'il ne s'y rattachait une
+  circonstance qu'on aura peine à comprendre, même en Autriche_.
+
+  '_Immédiatement après mon arrestation, ma femme se fait conduire chez
+  M. Jottrand, président de l'association démocratique de Belgique, pour
+  l'engager à prendre les mesures nécessaires. En rentrant chez elle,
+  elle trouve à la porte un sergent de ville qui lui dit, avec une
+  politesse exquise, que, si elle voulait parler à M. Marx, elle
+  n'aurait qu' à le suivre. Ma femme accepte l'offre avec empressement.
+  On la conduit au bureau de la police, et le commissaire lui déclare
+  d'abord que M. Marx n'y était pas; puis il lui demande brutalement
+  qui elle était, ce qu'elle allait faire chez M. Jottrand, et si elle
+  avait ses papiers sur elle. Un démocrate belge, M. Gigot, qui avait
+  suivi ma femme au bureau de la police avec la garde municipal, se
+  révoltant des questions à la fois absurdes et insolentes du
+  commissaire, est réduit au silence par des gardes qui s'emparent de
+  lui et le jettent en prison. Sous le prétexte de vagabondage, ma
+  femme est amenée à la prison de l'Hôtel-de-Ville, et enfermée avec
+  des femmes perdues, dans une salle obscure. A onze heures du matin,
+  elle est conduite en plein jour, sous toute une escorte de
+  gendarmerie, au cabinet du juge d'instruction. Pendant deux heures,
+  elle est mise au secret, malgré les plus vives réclamations qui
+  arrivent de toutes parts. Elle reste là exposée à toute la rigeur de
+  la saison et aux propos les plus indignes des gendarmes_.
+
+  '_Elle paraît enfin devant le juge d'instruction, qui est tout étonné
+  que la police, dans sa sollicitude, n'a pas arrêté egalement les
+  enfants de bas-âge. L'interrogatoire ne pouvait étre que factice, et
+  tout le crime de ma femme consiste en ce que, bien qu'appartenant à
+  l'aristocratie prussienne, elle partage les sentiments démocratiques
+  de son mari_.
+
+  '_Je n'entre pas dans tous les détails de cette révoltante afiaire. Je
+  dirai seulement que, lorsque nous étions relâchés, les vingt-quatre
+  heures étaient justement expirées, et qu'il nous fallait partir sans
+  pouvoir seulement emporter les effets les plus indispensables_.'
+
+[^15]: _Mourir pour la patrie C'est le sort le plus beau Le plus digne
+  d'envie_.
+
+[^16]: '_Appel au Citoyens Français_.
+
+  '_Des Armes_!
+
+  '_Pour les Allemands marchant au secours de leur frères qui combattent
+  en ce moment pour la liberté, qui se font égorger pour leur droits, et
+  qu'on veut tromper de nouveau_.
+
+  '_Les démocrates allemands de Paris se sont formés en légion pour
+  aller proclamer ensemble la République allemande_.
+
+  '_Il leur faut des armes, des munitions, de l'argent, des objets
+  d'habillement. Prêtez-leur votre assistance; vos dons seront reçus
+  avec gratitude. Ils serviront à délivrer l'Allemagne et en même temps
+  la Pologne_.
+
+  '_Démocrates allemands et polonais marcheront ensemble à la conquête
+  de la liberté_.
+
+  '_Vive la France! Vive la Pologne! Vive l'Allemagne unie et
+  républicaine! Vive la fraternité des peuples_!'
+
+[^17]: _Wenn wir noch knien könnten, wir lägen auf den Knien
+  Wenn wir noch beten könnten, wir beteten für Wien_.
+
+[^18]: _...Auf der Lippe den Trotz und den zuckenden Hohn,
+  In der Hand den blitzenden Degen,
+  Noch im Sterben rufend: Die Rebellion!
+  So bin ich in Ehren erlegen...
+  Nun Ade, nun Ade, du kämpfende Welt,
+  Nun Ade, ihr ringenden Heere!
+  Nun Ade, du pulvergeschwärztes Feld,
+  Nun Ade, ihr Schwerter und Speere!
+  Nun Ade, doch nicht für immer Ade!
+  Denn sie toten den Geist nicht, ihr Brüder!
+  Bald richt'ich mich rasselnd in die Höh.
+  Bald kehr ich reisiger wieder_!
+
+[^19]: '_La République française n'emploie jamais ses forces contre la
+  liberté d'aucun peuple_.'
+
+[^20]: '_Le but de l'association est la déchéance de toutes les classes
+  privilégiées de soumettre ces classes à la dictature des prolétaires
+  en maintenant la révolution en permanence jusqu' à la réalisation du
+  communisme, qui doit être la dernière forme de constitution de la
+  famille humaine_.'
+
+[^21]: '_des liens de solidarité entre toutes les fractions du parti
+  communiste révolutionnaire en faisant disparaître conformément au
+  principe de la fraternité républicaine les divisions de nationalité_.'
+
+[^22]: '_il endoctrine ses séides qu'il compte lâcher un jour
+  individuellement en Allemagne avec une mission déterminée facile à
+  deviner_.'
+
+[^23]: '_Ma patrie maintenant c'est l'Internationale, dont tu es l'un
+  des principaux fondateurs. Tu vois donc, cher ami, que je suis ton
+  disciple, et je suis fier de l'être_.'
+
+[^24]: '_La nouvelle de la venue a'u célèbre révolutionnaire russe
+  avait mis le Locle en émoi; et dans les ateliers, dans les cercles,
+  dans les salons, on ne parlait que de lui. ... On se disait que la
+  présence, dans les rangs de l'Internationale, d'un homme aussi
+  énergique, ne pouvait manquer de lui apporter une grande force_.'
+
+[^25]: '_J'étais allé l'attendre à la gare avec le père Meuron, et nous
+  le conduisîmes au Cercle International, où nous passâmes le reste de
+  l'après--midi à causer avec quelques amis qui s'y étaient réunis_.'
+
+[^26]: '_Si l'imposante stature de Bakounine frappait les imaginations,
+  la familiarité de son accueil lui gagnait les cœurs; il fit
+  immèdiatement la conquête a'e tout le monde_.'
+
+[^27]: '_Dans les conversations, Bakounine racontait volontiers des
+  historiettes, des souvenirs de sa jeunesse, des choses qu'il avait
+  dites ou entendu dire. Il avait tout un répertoire d'anecdotes, de
+  proverbes, des mots favorits qu'il aimait à répéter_.'
+
+[^28]: '_Une fois, à la fin d'un dîner, en Allemagne, il avait, nous
+  dit il en riant, porté ce toast, accueilli par un tonnerre
+  d'applaudissements: "Je bois à la destruction de l'ordre public et au
+  déchainement des mauvaises passions_."'
+
+[^29]: _En premier lieu, comme bonheur suprême mourir en combattant
+  pour la liberté; en second lieu, l'amour et l'amitié; en troisième
+  lieu, la science et l'art; quatriêmement, fumer; cinquièmement, boire;
+  sixièmement, manger; septièment, dormir_.'
+
+[^30]: '_Le libre rapprochement d'hommes qui s'unissaient pour l'action
+  collective, sans formalité, sans solennité, sans rites mystérieux,
+  simplement parce qu'ils avaient confiance les uns dans les autres et
+  que l'entente leur paraissait préférable à l'action isolée_.'
+
+[^31]: '_Il réjouissait à la pensée que l'Internationale serait doublée
+  d'une organisation secrète qui la préserverait du danger que pouvaient
+  lui faire courir les intrigants et les ambitieux_.'
+
+[^32]: '_Avant de marcher contra l'ennemi, il faut le détruire, le
+  paralyser derrière soi_.'
+
+[^33]: '_Sous cette forme l'ouvrage sera plus accessible à la classe
+  ouvrière et pour moi cette considération l'emporte sur toute autre_.'
+
+[^34]: '_Ce qu'il y a de certain, c'est que moi je ne suis pas
+  Marxiste_.'
