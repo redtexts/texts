@@ -683,7 +683,7 @@ by "revisionism". If there is one single myth at the bottom of the
 outlook informed by "the best of German Social Democracy and Russian
 Bolshevism" which has now become problematic, it is that rose tinted
 view of the early SPD. It is through that view that the international
-left was colonized by the lenses of _Aufklaerung_ which originated in
+left was colonized by the lenses of _Aufklärung_ which originated in
 the civil service of the enlightened despotic states.
 
 One can see this impasse on several levels. Let us begin with the
@@ -981,7 +981,7 @@ nascent state elite, in or out of power, whose movement results in
 another form of capitalism (real domination) and calls it "socialism".
 What is compelling about such an analysis is that it avoids moralizing
 and offers a "sociological" explanation for an "epistemology". Once
-again it means that this social stratum that held an _Aufklaerung_ form
+again it means that this social stratum that held an _Aufklärung_ form
 of materialism because it was a proto-state civil service in a
 development regime, and that its **economics**, codified in the Leninist
 theory of imperialism, were also the economics of that stratum. It is
