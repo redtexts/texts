@@ -106,7 +106,7 @@ committee -- denotes both their political incoherence, their illusion in
 the possibility of re-dressing the Trotskyist organisation, and finally
 their total incomprehension of the political and organisational
 conditions indispensable to the elaboration of revolutionary thought and
-orientation
+orientation.
 
 The overall judgment we made of this tendency in recent issues of
 _Internationalisme_, however severe it might have been, was absolutely
