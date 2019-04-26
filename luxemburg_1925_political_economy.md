@@ -82,7 +82,7 @@ Germany imported in 1913:
 
 * Raw materials: to the value of 5,262 million marks
 * Semi-finished products: 1,246 million marks
-* Finished productsL 1,776 million marks
+* Finished products: 1,776 million marks
 * Foodstuffs and consumer goods: 3,063 million marks
 * Live animals: 289 million marks
 
