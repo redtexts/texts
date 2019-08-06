@@ -765,7 +765,7 @@ which commodities exchange with each other regulated? We know from
 experience that these proportions vary infinitely. Taking one single
 commodity, wheat, for instance, we shall find that a quarter of wheat
 exchanges in almost countless variations of proportion with different
-commodities. Yet, _its value remaining_ _always the same_, whether
+commodities. Yet, _its value remaining always the same_, whether
 expressed in silk, gold, or any other commodity, it must be something
 distinct from, and independent of, these _different rates of exchange_
 with different articles. It must be possible to express, in a very
@@ -1141,7 +1141,7 @@ the basis of the wages system the value of labouring power is settled
 like that of every other commodity; and as different kinds of labouring
 power have different values, or require different quantities of labour
 for their production, they _must_ fetch different prices in the labour
-market. To clamour for _equal or even equitable_ _retribution_ on the
+market. To clamour for _equal or even equitable retribution_ on the
 basis of the wages system is the same as to clamour for _freedom_ on the
 basis of the slavery system. What you think just or equitable is out of
 the question. The question is: What is necessary and unavoidable with a
