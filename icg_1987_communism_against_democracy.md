@@ -461,7 +461,7 @@ and not of human beings.
 
 After he has developed the several attributes of money -- money as
 measure of values, money as medium of circulation, money as material of
-wealth (see Capital, chap.III) -- Marx goes on to the third attribute
+wealth (see Capital, chap. III) -- Marx goes on to the third attribute
 which "presupposes the first two and constitutes their unity", how "from
 its servile role, in which it appears as mere medium of circulation, it
 suddenly changes into the lord and god of the world of commodities. It
