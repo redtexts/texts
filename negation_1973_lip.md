@@ -2,7 +2,7 @@
 title: LIP and the Self-Managed Counter-Revolution
 author: Négation
 date: 1973
-description: A critical assessment of workers' self-management at the LIP factory in France. This Negation is not related to the US group with the same name. French original at <http://archivesautonomies.org/IMG/pdf/gauchecommuniste/gauchescommunistes-ap1952/negation/negation-n03.pdf>. From <https://www.oocities.org/~johngray/lip.htm>.
+description: "A critical assessment of workers' self-management at the LIP factory in France. This Negation is not related to the US group with the same name. French original at <http://archivesautonomies.org/IMG/pdf/gauchecommuniste/gauchescommunistes-ap1952/negation/negation-n03.pdf>. From <https://www.oocities.org/~johngray/lip.htm>."
 ...
 
 ## Publication notes
@@ -1433,7 +1433,7 @@ they are now. That is to say not to allow nine hours of work to go by
 without a meeting so that each worker understands what is happening in
 the enterprise as a whole, where it is going, why we work, what it means
 for society. Then it will be necessary for society to respond to the
-workers' aspirations.... There might be some guys who take on
+workers' aspirations... There might be some guys who take on
 responsibilities, there might be responsibilities that are rotated; when
 one takes on responsibilities something happens; one then learns to
 accept many other things; if one understands why, then one can very well
@@ -2082,7 +2082,7 @@ borrow.
 [^51]: Indeed it seems that the conversion of money into means of
   production (materials) might have been foreseen: see _Le Monde_ of
   August 2, 1973: "according to those in charge of the production
-  department ... it will be possible to buy raw materials: we are
+  department \[...\] it will be possible to buy raw materials: we are
   studying various propositions which have been made to us." This sort
   of managerial logic also was behind the "Lip" attempt to start the
   entire cycle of reproduction: see _Le Monde_ of July 13, 1973: "the
@@ -2224,7 +2224,7 @@ borrow.
   of _Lip Unité_ (of unknown origin but reproduced by Quatre Millions de
   Jeunes Travailleurs, B.P. 8806, 75261 Paris Cedex 06) substitutes
   itself, pure and simple for the Lip workers in order to make them say
-  what they should have done if ... if what, in fact? This manner of
+  what they should have done if [...] if what, in fact? This manner of
   working tends to conceal the programatic conceptions of the above. In
   general, the diversionary method expresses the impossibility of any
   sort of (even a potential) revolutionary affirmation of a movement. It
