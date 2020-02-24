@@ -1,8 +1,8 @@
 ---
 title: "Karl Marx: Man and Fighter"
-author: Nicolaievsky, Boris and Otto Maenchen-Helfen
+author: Nicolaievsky, Boris
 date: 1936
-description: Based on Archive.org's scan of the 1936 original British edition, available at <https://archive.org/details/in.ernet.dli.2015.210638>. The only intentional changes made to the original text are to fix obvious typos; to move English translations of German and French into the body of the text, out from the footnotes; and to exclude the index, title page, and colophon. It is believed that the original text is now in the public domain. This ebook is entered into the public domain.
+description: Based on Archive.org's scan of the 1936 original British edition, as translated by Otto Maenchen-Helfen, and available at <https://archive.org/details/in.ernet.dli.2015.210638>. The only intentional changes were to fix obvious typos; to swap the placement of non-English passages and their translations (previously the English translations were relegated to footnotes, with the French and German originals in the body); and to exclude the index, title page, and colophon.
 ...
 
 ## Foreword
