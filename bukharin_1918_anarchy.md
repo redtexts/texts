@@ -221,7 +221,7 @@ on the dictatorship of the proletariat; it boils down to their aversion
 systematic, organised mass action.
 
 It follows from anarchist theory that the consistent anarchist must be
-averse to soviet power and fight against it [^02]. But, given that such
+averse to soviet power and fight against it.[^02] But, given that such
 a stance would be clearly absurd for workers and peasants, the number of
 anarchists whose principles lead them to such a position is not great;
 on the contrary, there are anarchists quite satisfied to take a seat in
