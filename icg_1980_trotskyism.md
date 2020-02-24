@@ -2,7 +2,7 @@
 title: "Trotskyism: Product and Agent of Counterrevolution"
 author: Internationalist Communist Group
 date: 1980
-description: Likely a translation of "Trotskysme, produit et agent de la contre-révolution" from Le Communiste no. 8, November 1980. Some minor corrections to spelling and punctuation have been made for this red texts version. From <http://www.gci-icg.org/english/trotskyism.htm>.
+description: Likely a translation of "Trotskysme, produit et agent de la contre-révolution" from Le Communiste no. 8, November 1980. Some minor corrections to spelling and punctuation have been made for this red texts version. From <https://web.archive.org/web/20181115071320/http://www.gci-icg.org/english/trotskyism.htm>.
 keywords: Trotsky
 ...
 

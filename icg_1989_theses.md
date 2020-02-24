@@ -2,7 +2,7 @@
 title: Theses of Programmatical Orientation
 author: Internationalist Communist Group
 date: 1989
-description: A comprehensive statement of the politics of the Internationalist Communist Group, an early split from the International Communist Current. The English translation was published in 1999. From <http://www.gci-icg.org/english/theses_programmatical_orientation.htm>.
+description: A comprehensive statement of the politics of the Internationalist Communist Group, an early split from the International Communist Current. The English translation was published in 1999. From <https://web.archive.org/web/20161219202828/http://gci-icg.org/english/theses_programmatical_orientation.htm>.
 ...
 
 ## Introduction
