@@ -5,7 +5,7 @@ date: 2007
 description: "From Anarchy: A Journal of Desire Armed, no. 64. Sourced from <https://theanarchistlibrary.org/library/bob-black-class-struggle-social-democrats-or-the-press-of-business>."
 ...
 
-_2007 Publishing & Distribution Catalog_
+_2007 Publishing & Distribution Catalog_  
 AK Press 2006, 80 pages, paper.
 
 This is a leaner, meaner AK Press Catalog than the previous annuals
