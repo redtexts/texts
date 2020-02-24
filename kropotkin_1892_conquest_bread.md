@@ -4004,7 +4004,7 @@ crack or flaw, of the blooms, whatever be their thickness.
 I expected an infernal grating, and I saw machines which cut blocks of
 steel thirty feet long with no more noise than is needed to cut cheese.
 And when I expressed my admiration to the engineer who showed us round,
-he answered -- 
+he answered --
 
 "A mere question of economy! This machine, that planes steel, has been
 in use for forty-two years. It would not have lasted ten years if its
