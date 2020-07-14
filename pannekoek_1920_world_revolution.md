@@ -2,7 +2,7 @@
 title: World Revolution and Communist Tactics
 author: Pannekoek, Anton
 date: 1920
-description: Published in Dutch in 1920 and soon thereafter in German. This translation was done by D.A. Smart for the book Pannekoek and Gorter's Marxism. This version is based on the one hosted by the Marxists Internet Archive at <https://www.marxists.org/archive/pannekoe/tactics>.
+description: Published in Dutch in 1920 and soon thereafter in German. This translation was done by D.A. Smart for the book Pannekoek and Gorter's Marxism. This version is based on the one hosted by the Marxists Internet Archive at <https://www.marxists.org/archive/pannekoe/tactics/>.
 ...
 
 >Theory itself becomes a material force once it takes a hold on the

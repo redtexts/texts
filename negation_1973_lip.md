@@ -2,7 +2,7 @@
 title: LIP and the Self-Managed Counter-Revolution
 author: Négation
 date: 1973
-description: "A critical assessment of workers' self-management at the LIP factory in France. This Negation is not related to the US group with the same name. French original at <http://archivesautonomies.org/IMG/pdf/gauchecommuniste/gauchescommunistes-ap1952/negation/negation-n03.pdf>. From <https://www.oocities.org/~johngray/lip.htm>."
+description: "A critical assessment of workers' self-management at the LIP factory in France. This Negation is not related to the US group with the same name. French original at <https://archivesautonomies.org/IMG/pdf/gauchecommuniste/gauchescommunistes-ap1952/negation/negation-n03.pdf>. From <https://www.oocities.org/~johngray/lip.htm>."
 ...
 
 ## Publication notes

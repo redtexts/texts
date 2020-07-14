@@ -1037,7 +1037,7 @@ Form", 1997
 
 Dauvé, Gilles and Martin, Francois, _The Eclipse and Re-emergence of the
 Communist Movement_, Antagonism Press, 1997,
-<https://www.oocities.org/antagonism1/etoc.html>
+<https://web.archive.org/web/20091021091514/https://www.geocities.com/antagonism1/etoc.html>
 
 Dodd, Kathryn, _A Sylvia Pankhurst Reader_, 1993
 
@@ -1074,8 +1074,9 @@ Consciousness", ICC
 International Communist Party, "Revolution and Counter-Revolution in
 Russia", ICP, 1991
 
-International Communist Party, "The Democratic Principle", In _Communist
-Program_ #7, 1981, <http://www.geocities.com/antagonism1/bordtdp.html>
+International Communist Party, "The Democratic
+Principle", In _Communist Program_ #7, 1981,
+<https://web.archive.org/web/20030513112327/http://www.geocities.com/antagonism1/bordtdp.html>
 
 International Communist Party, Party and Class, ICP, sinistra.net
 
