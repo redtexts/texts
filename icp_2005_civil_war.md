@@ -121,13 +121,14 @@ was composed of a significant number of small farmers and artisans.
 
 This formula allowed the Democratic Party to secure the presidency
 with Jefferson (1800) and hang onto it, with a few, insignificant
-exceptions, until the fateful year of 1860.  Such continuity of
-government and political line, not without occasional jolts and
-resistance from the North, allowed for an uninterrupted development
-of the United States both in a territorial and economic sense. In
-1860 the territory of the Union was already approaching what it is
-today, being bordered by the two oceans and by Canada and Mexico. The
-principal stages in this growth were:
+exceptions, until the fateful year of 1860.
+
+Such continuity of government and political line, not without occasional
+jolts and resistance from the North, allowed for an uninterrupted
+development of the United States both in a territorial and economic
+sense. In 1860 the territory of the Union was already approaching what
+it is today, being bordered by the two oceans and by Canada and Mexico.
+The principal stages in this growth were:
 
 1. The acquisition of Louisiana from France in 1803 2. The 1812-14
 war with Great Britain, which prevented an expansion towards Canada
@@ -1073,10 +1074,11 @@ rice for exportation, such exports, in theory, should have allowed the
 South to acquire all the industrial products it lacked, but there was
 the small problem of Northern naval blockade. The North, on the other
 hand, with its abundant production of maize and wheat, and meat, would
-never be likely to have serious problems with its food supply.  In the
-light of these facts it is difficult to understand the harshness,
-and long duration, of the conflict, and the reasons for this were
-many and various.
+never be likely to have serious problems with its food supply.
+
+In the light of these facts it is difficult to understand the harshness,
+and long duration, of the conflict, and the reasons for this were many
+and various.
 
 In the first place, the two camps entered into the war unprepared:
 the regular army of the United States amounted to 16,000 men, and
@@ -1151,7 +1153,7 @@ of entire battalions from a considerable distance. Despite the fact
 that frontal assaults would thenceforth only prove effective in
 extremely rare cases, the military strategists would nevertheless
 continue over the course of the war to hurl wave upon wave of men
-against the enemy strongholds.  Whilst previously it was a case of
+against the enemy strongholds. Whilst previously it was a case of
 having to face not-very-accurate enemy fire over a hundred metres or
 so before directly impacting with the enemy, now it was often a matter
 of having to traverse a kilometre or so in the face of firepower which
@@ -1163,7 +1165,7 @@ response to this tactical revolution was the prioritising of defence
 over attack, and the birth of the trench. The American generals
 wouldn't fully grasp the significance of this tactical revolution;
 and even 50 years later the same lesson was still being learnt in
-the same blood-soaked way during the "Great War".  Even in 1940 there
+the same blood-soaked way during the "Great War". Even in 1940 there
 were those who would rave about "millions of bayonets".
 
 Another important consequence of the introduction of rifles was it
@@ -1183,7 +1185,7 @@ Another innovation of the Civil War, due in part to its extent, was
 the greater logistical requirements of the two armies, which resulted,
 for the first time in modern history, in the systematic destruction
 of the enemy's economic and productive resources assuming strategic
-importance.  And, in order to prevent a partisan war setting in (which
+importance. And, in order to prevent a partisan war setting in (which
 nevertheless did happen), or stop it developing further, it was but a
 short step from there to out and out terror. The acceptance of such
 a policy of annihilation would come about almost as an intrinsic,
@@ -1236,7 +1238,7 @@ in their turn, initiate a new phase of naval warfare.
 
 "From whatever standpoint one regards it, the American Civil War
 presents a spectacle without parallel in the annals of military
-history.  The vast extent of the disputed territory; the far-flung
+history. The vast extent of the disputed territory; the far-flung
 front of the lines of operation; the numerical strength of the hostile
 armies, the creation of which hardly drew any support from a prior
 organisational basis; the fabulous cost of these armies; the manner of
@@ -1301,7 +1303,7 @@ In the North the situation was different. There it didn't take long
 for the State governments to realise that whereas the ordinary citizen
 was ready to take up arms in a _Hannibal ad portas_[^fn-2] scenario
 (which for good or bad was the fate of the South) it was reluctant
-to fight for anything else.  The "national" governments therefore
+to fight for anything else. The "national" governments therefore
 soon discovered that even if, in theory, they had unlimited human
 resources, these resources couldn't be mobilised without recourse
 to a new and powerful weapon: war propaganda, a weapon which in the
@@ -1362,7 +1364,7 @@ would therefore be focused in the summer of 1861. In the North public
 opinion was clamouring for a decisive victory, not least because
 most of the troops were only enrolled on three-month terms, giving
 an idea of how long Washington thought the war would last. "Forward
-to Richmond!"  was the battle-cry of politicians and hack journalists
+to Richmond!" was the battle-cry of politicians and hack journalists
 alike; the battle-cry, that is, of those who thought they would be
 travelling there in carriages or trains, not marching, or languishing
 in trenches. But they would have to wait a few years: the battle which
@@ -1462,7 +1464,7 @@ sufficient forces to put in the field for a joint attack.
 be required for such an operation? By no means. In a land where
 communication, particularly between distant points, depends much
 more on railways than on highways, the seizure of the railways is
-sufficient.  The southernmost railway line between the States on the
+sufficient. The southernmost railway line between the States on the
 Gulf of Mexico and the Atlantic coast goes through Macon and Gordon
 near Milledgeville.
 
@@ -1521,7 +1523,7 @@ the bay of Norfolk (in southern hands but blockaded by the North):
 a battleship. This was the Merrimack (re-christened the Virginia)
 a wholly new concept in ships, impenetrable to the cannon shot then
 available and therefore able to get alongside war ships and sink them
-at its leisure.  It should have given them an advantage capable of
+at its leisure. It should have given them an advantage capable of
 breaking the Northern blockade, but the northerners were working on a
 similar, possibly better, ship, the Monitor; which just a day after
 the attack by the Virginia would reach the bay of Norfolk where a
@@ -1581,7 +1583,7 @@ West Virginia and threaten Washington. Federal troops are sent north,
 weakening a still powerful army, which nevertheless still has 125,000
 troops after the division. But they aren't enough for McClellan,
 who has a curious propensity of always vastly overestimating the
-enemy's strength.  Therefore, when attacked by Lee in the Seven
+enemy's strength. Therefore, when attacked by Lee in the Seven
 Days' battles (25 May to 1 June) he retreats to the bridgehead; here
 McClellan decides to re-embark his army, which emerges relatively
 unscathed, in marked contrast to the Confederates whose victory costs
@@ -1596,7 +1598,7 @@ For Marx this Federal success is extremely important and decides the
 outcome of the war, not least because of its effects on the battle
 of Perryville (Kentucky) in the following month. If the Southerners
 had won at Antietam, their push into Kentucky would have had far
-greater impact.  From there, just by crossing the River Ohio and
+greater impact. From there, just by crossing the River Ohio and
 pushing forward into the eponymous State, they could have split the
 North in two. In a nutshell, it is almost the reverse of the tactics
 that Marx hoped the North would follow in his article of March
@@ -1702,7 +1704,7 @@ Valley; Central (River Rapidan); South (peninsular). Clearly the
 principal arena is the central one, and the first encounter is
 fought in a stretch of land known as the Wilderness on the 5-6 May
 1864. It is an extremely bloody affair, as is by now the norm, and
-the Northerners are stopped.  Grant prefers not [sic?] to persevere
+the Northerners are stopped. Grant prefers not [sic?] to persevere
 and moves south. This forces Lee to move off quickly in order to
 head him off and to take up advantageous positions, which he does at
 Spotsylvania, where there is another huge massacre between the 9th
@@ -1713,7 +1715,7 @@ to the south, this time moving menacingly close to Richmond. Lee lines
 up at Cold Harbour and Grant concentrates all his forces there. However
 Lee too has to deploy all of his forces and, unlike 1862, instead of
 sending detachments to menace the northern rear he has to recall all
-forces available to him, even from other theatres.  It is at this
+forces available to him, even from other theatres. It is at this
 point that Sherman in the west sets out on his march on Atlanta.
 
 On June 3 Grant attacks, and his forces are beaten back (7,000 dead
@@ -1785,12 +1787,12 @@ afford to abandon, even if tactically it might have been the best
 option, Lee still has some room for manoeuvre, with Early's troops,
 in the Shenandoah valley. But Sheridan gets put in charge of closing
 down this front as well, and in August he organises the Army of the
-Shenandoah.  Grant's orders are not just to destroy the enemy's army,
+Shenandoah. Grant's orders are not just to destroy the enemy's army,
 but also to devastate the valley and render it unserviceable to the
-Confederates.  And not only to the regular army, but also to the bands
+Confederates. And not only to the regular army, but also to the bands
 of partisans, which although present in several States are particularly
 active in the valley, commanded by a southern officer by the name of
-Colonel Mosby.  And partisan bands operating behind enemy lines, with
+Colonel Mosby. And partisan bands operating behind enemy lines, with
 the aim of keeping a substantial part of the enemy forces occupied,
 would prove to be another original feature of the Civil War seen in
 later wars. Thus Sheridan advances south, harrying the Confederates,
@@ -1875,7 +1877,7 @@ one from which the secession had originated) the scattered southern
 forces are reunited in North Carolina, and their command restored to
 Johnston. Here Johnston makes a vain attempt to stop the Federals,
 but his temporising abilities are of little avail against such
-overwhelming forces.  Meanwhile, in the valley of the Shenandoah,
+overwhelming forces. Meanwhile, in the valley of the Shenandoah,
 Sheridan disperses the remnants of the southern forces under Early's
 command, and takes his cavalry before Petersburgh: Grant launches an
 enveloping attack (Battle of Five Forks, 29-30 March) and on April
@@ -2075,7 +2077,7 @@ was fighting against. History would thus have taken its course anyway,
 transcending lines on the map, different coloured uniforms, races,
 Generals; and also, transcending any ideas and consciousness that
 the participants may have had of the situation in which they were
-operating.  In the end North America had to be transformed in order
+operating. In the end North America had to be transformed in order
 to allow the capitalist system to develop in line with the rhythms
 which world trade and the available resources allowed. And thus it was.
 
@@ -2156,7 +2158,7 @@ no general conscription) to obtain exemption by paying a commutation
 fee of 300 dollars to the government. For the overwhelming majority
 who couldn't obtain exemption -- 300 dollars was more than a year's
 wages for many workers -- it was case of a "war of the rich, fought
-by the poor".  Nothing new under the sun!
+by the poor". Nothing new under the sun!
 
 In July of the same year, immediately after the law had come into
 force, popular rage exploded into open revolt in the cities of the
@@ -2174,7 +2176,7 @@ just returned from Gettysburg suppressed the riots. It is thought
 that the number of deaths resulting from this event, which in the
 country's interior history in terms of casualties comes next after
 the Civil War itself and the attack on the Twin Towers, is thought to
-be around four hundred.  Other revolts, which were less bloodthirsty,
+be around four hundred. Other revolts, which were less bloodthirsty,
 took place in several other cities.
 
 Writing about these events soon afterwards in Capital, Marx would
@@ -2226,7 +2228,7 @@ It is calculated that the human cost in terms of loss of life was over
 365,000 for the North and over 320,000 for the South. In a country
 of about 30,000,000 inhabitants 700,000 dead was a considerable
 amount; to this must be added around another half a million wounded
-and disabled.  And yet these figures, enormous though they are,
+and disabled. And yet these figures, enormous though they are,
 fail to give an accurate impression of the real devastation wrought,
 and the suffering experienced by the people on both sides.
 
@@ -2267,7 +2269,7 @@ by 35%, sheep by 20% and pigs by 42%. And the serious lack of forage
 meant re-establishing pre-war levels was prevented. The South had
 been reduced to colonial status, and the conditions resulting from
 the war would maintain it in a position of under-development for
-many decades to come.  Naturally this also applied to the southern
+many decades to come. Naturally this also applied to the southern
 manufacturing industry, which was maybe the Confederacy's weakest
 point at the start of the war.
 
@@ -2316,7 +2318,7 @@ when their uniforms, which appeared composed of normal material,
 would literally melt in the rain. Swindling the state is, of course,
 a very common phenomenon, especially during the general chaos of the
 war when it is very easy to get round the regulations, especially if
-a few officials are bribed here and there.  So, whilst the war was
+a few officials are bribed here and there. So, whilst the war was
 used on the one hand to infuse proletarians with patriotic ideals,
 on the other it was just another opportunity for the bourgeoisie
 to do business, whether legal or illegal, with friends or enemies,
@@ -2369,7 +2371,7 @@ a revolutionary war it won't be able to win.
 Marx is more optimistic: he recognises the political and military
 weaknesses of the North, which the South doesn't have, but he knows
 that time is on the side of the North and that the situation will
-change.  Even after the second battle of Bull Run, Marx, writing on
+change. Even after the second battle of Bull Run, Marx, writing on
 10 September, 1862, would advise Engels not to be too influenced
 by the military aspect of things. Certainly there should be a
 transition from the 'constitutional' to the 'revolutionary' phase,
@@ -2423,7 +2425,7 @@ preached on _its own merits_, but only as a means towards, and a form
 of transition to, social revolution, it is, nevertheless, annoying
 that a rotten oligarchy, with a population only half as large,
 should evince such strength as the great fat, helpless democracy"
-(15 November 1862).  Marx, however, recalling that the South was in
+(15 November 1862). Marx, however, recalling that the South was in
 a very difficult situation and that the democratic victory was the
 sort of reaction that occurred in every revolutionary movement,
 continued to remain optimistic. In fact it was probably mainly
@@ -2522,10 +2524,10 @@ witness against whites in court; if they abandoned work they could be
 thrown into prison for breaking their contract; anyone found not to
 be working could be arrested and fined 50 dollars. Those who couldn't
 pay the fine could be hired to anyone in the county who would pay
-the fine.  Blacks could also be fined for making insulting gestures,
+the fine. Blacks could also be fined for making insulting gestures,
 for not observing the curfew and for possession of firearms. A personal
 control over blacks was established which was indistinguishable from
-slavery.  Despite the thirteenth amendment, which rendered slavery
+slavery. Despite the thirteenth amendment, which rendered slavery
 unconstitutional, the South attempted to legally recreate it in all
 but name. By the end of 1865 the ex-confederates were back in power
 and had re-established their rule.
@@ -2596,7 +2598,7 @@ the working class.
 
 In a speech on 18 December 1865, Stevens presented to public opinion
 and to Congress his analysis of the situation and his programme of
-action.  The South had to be treated as a conquered country and not as
+action. The South had to be treated as a conquered country and not as
 a series of states that, after having left the Union, could be welcomed
 back with open arms. "The foundation of their institutions-political,
 municipal, and social-must be broken up and relaid, or all our
@@ -2798,7 +2800,7 @@ states). The Republicans however questioned the results in four States,
 twenty electoral votes; if all these votes had gone to the republican
 candidate Rutherford B. Hayes, he would have been elected. Resistance
 came mainly from army veterans, who had no intention of accepting the
-latter result.  It was even feared there might even be a new outbreak
+latter result. It was even feared there might even be a new outbreak
 of war. Pessimists predicted it would be the last free election
 (and maybe they were right!). After a few months, a compromise was
 reached. The South would accept Hayes' victory, on condition that,
