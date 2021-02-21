@@ -2,7 +2,7 @@
 title: "Islamic Fundamentalism: Religious Fanaticism to Reinforce the State"
 author: Internationalist Perspective
 date: 1989
-description: Written by Mac Intosh for Internationalist Perspective 15. From <http://www.internationalist-perspective.org/IP/ip-archive/ip_15_islamic.html>.
+description: Written by Mac Intosh for Internationalist Perspective 15. From <https://web.archive.org/web/20200202230146/http://www.internationalist-perspective.org/IP/ip-archive/ip_15_islamic.html>.
 ...
 
 The past decade has been a wave of "Islamic fundamentalism" roll over

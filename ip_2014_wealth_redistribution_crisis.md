@@ -2,7 +2,7 @@
 title: Why Wealth Redistribution Cannot Solve Capitalism's Crisis
 author: Internationalist Perspective
 date: 2014
-description: Written by Sander and Mac Intosh in October 2014 for Internationalist Perspective 60. Available online at <http://internationalist-perspective.org/IP/ip-archive/ip-archive.html>.
+description: Written by Sander and Mac Intosh in October 2014 for Internationalist Perspective 60. Available online at <https://web.archive.org/web/20200212004047/http://internationalist-perspective.org/IP/ip-archive/ip-archive.html>.
 keywords: Capitalism
 ...
 
@@ -453,7 +453,7 @@ portion of it, amongst its many poor? Then the fictitious nature of this
 treasure would reveal itself in hyper-inflation, in a decline of China's
 competitive position, in global economic chaos^[More on this in: Will
 China save capitalism? In Internationalist Perspective 55
-http://internationalist-perspective.org/IP/ip-archive/ip_55_china.html].
+https://internationalistperspective.org/issue/internationalist-perspective-no-55/].
 Hyper-inflation would also result from a massive redistribution of
 wealth in the most advanced countries. The fortunes of the Waltons and
 other multibillionaires have the same sterilizing function as the

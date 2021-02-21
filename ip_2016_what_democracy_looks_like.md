@@ -2,7 +2,7 @@
 title: This is What Democracy Looks Like
 author: Internationalist Perspective
 date: 2016
-description: \"IP Statement on the US Election,\" published November 2016 at <http://internationalist-perspective.org/blog/2016/11/22/this-is-what-democracy-looks-like/>.
+description: \"IP Statement on the US Election,\" published November 2016 at <https://web.archive.org/web/20200202231139/http://internationalist-perspective.org/blog/2016/11/22/this-is-what-democracy-looks-like/>.
 keywords: Democracy
 ...
 
