@@ -2,7 +2,7 @@
 title: The Left Wing
 author: Rutgers, S.J.
 date: 1916
-description: The following is a collection of six articles the Dutch communist and comrade of Gorter and Pannekoek wrote for International Socialist Review, the journal of the revolutionary wing of the Socialist Party of America. The first part, "The Battle Cry of a New International," is not by title an installment of the "The Left Wing" series, but was regarded as such by the editors.
+description: The following is a collection of seven articles the Dutch communist and comrade of Gorter and Pannekoek wrote for International Socialist Review, the journal of the revolutionary wing of the Socialist Party of America. The first part, "The Battle Cry of a New International," is not by title an installment of the "The Left Wing" series, but was regarded as such by the editors.
 ...
 
 ## The Battle Cry of a New International (May 1916)
@@ -211,7 +211,7 @@ of American Socialists will welcome the plan of action suggested in
 these articles, and will desire to swing the Socialist Party of America
 into line with the new International that is even now taking definite
 form. We believe these articles will prove to be the most valuable
-series we have ever published in the REVIEW. Thy will put the American
+series we have ever published in the REVIEW. They will put the American
 comrades, who want a revolutionary organization, in touch with the
 comrades across the ocean who have like aims and a more definite
 program. - EDITORS.
@@ -1294,6 +1294,187 @@ hands, or may we expect a brilliant example, which would do more to help
 the present European situation, than a dozen peace resolutions and as
 many congresses for peace and Internationalism?
 
+## The Left Wing: Mass Action and Mass Democracy (November 1916)
+
+The disadvantage of a series of articles, especially in a monthly
+review, is that nobody can be expected to recollect what has been said a
+few months, or even a month, ago. We live in such a hurry and have such
+a variety of impressions, provided we are not yet dumb-founded and
+crushed by modern capitalism, that we are prevented from fully enjoying
+even THE INTERNATIONAL SOCIALIST REVIEW. Most of us have lost the art of
+reading properly. If you only try to experiment with yourself in reading
+an article which interests you, asking at the end about the beginning,
+you will be astonished at the results, unless you read very carefully
+several times. To remember the contents of an article which was read a
+month ago is practically beyond human effort and this means a serious
+setback to the greater part of the American people, who, for their
+mental development, depend largely upon magazines and newspapers, rather
+than upon books and pamphlets.
+
+To develop any kind of logical reasoning on a serious subject generally
+demands more words than can be pressed into one article, the more so
+because lengthy articles are very seldom read carefully. The only
+half-way remedy seems to give a short summary at the end, which, altho
+it will always lack logic and force, may induce some of the readers to
+take up once more the original articles and re-read them as a whole. The
+Left Wing series, not being the expression of the point of view of some
+individual, but of a growing group of International Socialists, it is
+worth while to reconsider their new conceptions and to compare their
+experience with American practice.
+
+To facilitate this, I give the following summary:
+
+Capitalism with its concentration of capital and growing productivity of
+labor, develops monopolistic tendencies, which enable the monopolists to
+get a bigger share in the general surplus value. To invest these big
+profits in a profitable way, it is necessary to extend big business and
+monopolies, broadening the field by opening new territories or deepening
+the monopolistic tendencies by subjugating new industries.
+
+This leads to aggression, both abroad and at home and to a complete
+breakdown of whatever was left of a more or less independent capitalist
+class. The big monopolistic interests, concentrated in the banks, secure
+complete control of the so-called independent capitalists and middle
+classes, economically as well as politically, which are only two sides
+of the same condition. (July issue.)
+
+This leads to a new aggressive policy of the capitalist class against
+the workers all over the world and it is this new form of class struggle
+which we call _imperialism_, of which the foreign aggression is one face
+and brutality against the workers at home, another. In this sense, the
+United States are by no means behind in the imperialistic race, altho
+the special form of development here has prevented the workers from
+recognizing its complete form in time. (June issue.)
+
+Instead of a growing democracy, this development means the end of the
+old middle class democracy. Democratic forms are used in the political
+control of financial monopolistic capital, and develop into a new form
+of absolutism, the so-called "plutocracy" (government of money kings).
+The United States show the most typical and most advanced form of this
+political system, and it is the worst of self-deceptions to tell the
+workers that there is so much as a political democracy in this country.
+(August issue.)
+
+The new forms of capitalist class struggle and the fundamental change in
+what we may expect from middle class democracy greatly affects our own
+class struggle. The old form of Socialist parliamentary action becomes
+ever more obsolete; we can no longer hope to gain practical results by
+instructing our leaders to skilfully exploit the differences in the
+interests of capitalist groups, even if we put our power into the hands
+of the most prominent lawyers. We gradually realize that we confront
+one solid opponent, who succeeds only too well in fooling the workers by
+all kinds of promises or even by accidentally voting a labor law, that
+often is not even put into effect, or that is more than checked by other
+measures.
+
+The situation certainly must look hopeless to those comrades who fail to
+see the new development which brings its own solution of the problem.
+
+Instead of putting our hope on leaders, on which we were fully dependent
+in the period of political negotiations, the workers are forced to take
+their fate more in their own hands. We have to realize that the
+"leaders" generally belong to a (middle) class, which becomes ever more
+antagonistic to labor, which makes it still more dangerous to depend
+upon them, and at the same time the issues at stake lose the complexity
+of old style politics and become more and more straight issue of class
+power. It may require a competent lawyer to understand at least some of
+the tricks of politicians and bankers, but to protect against the
+shooting of peaceful strikers requires class sentiment and courage in
+the first place. Our Socialist politicians and office holders gradually
+become useless, because they have no success and cannot have any real
+success in their old style fight for the working class. They are worse
+than useless, because the rank and file trust in the ability of leaders
+to protect their interests and fail to develop their own energy and
+class power.
+
+The cleverest and strongest among a group always will have a certain
+amount of influence, but experience has already shown that those who
+have influence upon the workers in critical times of class war are
+thrown into jail. And we cannot hope to gain the slightest advantage
+when our methods of fight are not such as to allow every open place in
+the ranks to be readily occupied by another worker during the fight.
+This demands simple, open methods of fighting and a general class
+consciousness and understanding among the rank and file.
+
+Strong leaders who did complicated fighting were a feature of the old
+form of "democracy" and they failed, together with the general failure
+of middle class democracy. In fact, a class of powerful leaders is out
+of harmony with the very principle of real democracy. The new form of
+class fighting, in which the masses (rank and file) will have
+understanding and control, solves the problem of democracy, as the very
+meaning of democracy is the control of the masses.
+
+Mass action and mass democracy have to develop gradually; in fact, there
+is a beginning of this development, mostly on the economic field, and
+there is no use in denying that the future of labor belongs to these new
+forms and not to the Gompers, Hutchinsons and other leaders of the A. F.
+of L., nor to the politicians and officials of the Socialist party.
+(October issue.)
+
+So far, this is a summary of what has been illustrated more fully in the
+preceding articles. It seems to me that the facts as stated are very
+plain. They may be wrong and then you should say so, but if not, if the
+facts are all right, then it cannot be denied that this conception of
+the Left Wing is very important; that we have to make up our minds what
+to do; how to help the new developments, the new methods; how to act to
+increase our class power.
+
+Somebody asked me: how can you expect the workers to understand their
+own interests without sufficient schools and teaching and time to read
+and to study? and, as in Europe, as well as in the United States,
+imperialism has decided that the present school system is already too
+expensive, that the workers know already too much to be good slaves, to
+agree with this view means to give up all hope in a victory of the
+working class in the near future.
+
+We readily admit that, very likely, the workers will never learn to
+clearly understand what is their interest in fighting for certain laws,
+discussing whether labor is a commodity or not; they will not learn to
+understand what it means when the same policy is called first a
+protective tariff, then a competitive tariff, then fiscal, then
+anti-dumping, etc.; they will not understand parliamentary fighting as
+long as their own leaders follow the capitalists in their methods, which
+are established by the capitalists for the sole purpose of fooling the
+workers.
+
+But the workers will easily understand their interests in important
+class issues, they will understand their interests, when their fellow
+workers are shot by thugs or militia, or jailed by capitalist judges,
+and they would rise to protest if they had not lost the control of their
+own interests and their own self-respect, and yet the victims of
+capitalist power will not have fallen in vain, because the brutality of
+the ruling class will gradually awaken the workers. They will see this
+series of bloody crimes from Ludlow to Minnesota and they will note that
+their leaders did nothing to prevent or even to protest seriously. And
+if the class consciousness of the workers is not dead, if the workers
+are not prepared to be beaten to pieces, one group after another, they
+will back up protests with their masses, if necessary, over the heads of
+their leaders.
+
+It is not, in the first place, the difficulty of understanding what are
+the real interests of the workers in the class struggle, it is the
+difficulty of how to act, how to break the old forms of power, including
+the power entrusted to leaders, and how to get the habit of fighting and
+experience to fight and to control the fight, both on the political and
+economic field. The capitalist class uses political instruments,
+militia, judges, etc., as strong, efficient tools in their class
+struggles; the workers will have to fight those tools as well as the
+economic instruments, but in a manner that suits their purposes and not
+according to the methods their foes invented for them; not in
+parliamentary negotiations and hair-splittings, but by the power of
+their masses, compelling the capitalist class to openly oppose or to
+submit to their demands.
+
+Fighting, as everything else, has to be learned in practice, and mass
+fighting means that the rank and file has to do some independent
+thinking and has to get its own understanding of important class issues
+under imperialism, not resting before there is organized protest and
+organized action in each special case. The form of this mass action
+will develop with a growing class consciousness and a growing
+international understanding, and will at the same time enable the
+workers to acquire the qualities necessary to organize a co-operative
+commonwealth.
+
 ## The Left Wing: An Actual Beginning (December 1916)
 
 While many of us were "talking it over," a group of comrades in Boston
@@ -1378,7 +1559,7 @@ who fear that criticism will hasten their downfall. If those elements
 refuse a chance for reorganization, this will only illustrate their lack
 of vitality.
 
-There now is a beginning of action, however small as yet. Some of you
+There now is a beginning of _action_, however small as yet. Some of you
 may not like it at this moment, others perhaps would have preferred it
 in some other form. Don't bother about smaller details. Act; join;
 participate in discussions, in meetings, in demonstrations; give your
