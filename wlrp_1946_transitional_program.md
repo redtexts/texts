@@ -241,7 +241,7 @@ than the Stalinist Party; that makes the Democratic Party also a working
 class party. That would be four working class parties in one afternoon.
 
 Trotskyite: No, of course, the Democratic Party is not a working class
-party. The fact that many workers support it is not the point. Tho
+party. The fact that many workers support it is not the point. The
 Stalinist Party pretends to be a working class party, and many workers
 fall for it.
 
