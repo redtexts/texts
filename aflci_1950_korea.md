@@ -1,6 +1,6 @@
 ---
 title: Korea, the Scientific Slaughterhouse
-author: American Faction Left Communist International
+author: American Fraction of the Left Communist International
 date: 1950
 description: Initially published in the Autumn-Winter 1950 issue of The Internationalist, a publication of the Italian communist left in the U.S. This article was reprinted in the May 1975 issue of the Revolutionary Workers Group publication Workers' Truth. From a scanned PDF at <https://archive.org/details/rwg_workers_truth_1975-05>.
 ...
