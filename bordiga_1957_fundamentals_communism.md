@@ -2,7 +2,7 @@
 title: The Fundamentals of Revolutionary Communism
 author: Bordiga, Amadeo
 date: 1957
-description: Published in Il Programma Comunista 13, 14, and 15 in 1957. This version based on the online copy found at <http://www.quinterna.org/lingue/english/historical_en/the_fundamentals.htm>.
+description: Published in Il Programma Comunista 13, 14, and 15 in 1957. This version based on the online copy found at <https://www.quinterna.org/lingue/english/historical_en/the_fundamentals.htm>.
 ...
 
 ## Foreword (1976)
