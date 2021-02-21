@@ -661,7 +661,7 @@ issue a leaflet or poster urging trade unionists to back the miners."
 
 >"It is almost three months since the TUC Congress pledged full support
 for the miners ... TUC leaders should be campaigning day in and day out
-among their members for action ... " (_SW_ 24.11.84)
+among their members for action ..." (_SW_ 24.11.84)
 
 Oh come on comrades, this really is too much:
 
