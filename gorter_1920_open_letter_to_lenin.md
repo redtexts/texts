@@ -2,7 +2,7 @@
 title: Open Letter to Comrade Lenin
 author: Gorter, Herman
 date: 1920
-description: Written in German in 1920 in German and published in English in 1921 in Workers' Dreadnought. Republished again by Wildcat in 1989, and then published online by Antagonism Press in 2004. This red texts version is based on the Marxists Internet Archive version at <https://www.marxists.org/archive/gorter/1920/open-letter.htm>, but incorporates the introductions and some corrections from the Antagonism Press version, available at <https://www.oocities.org/capitolhill/lobby/3909/gorter/gortertoc.html>.
+description: Written in German in 1920 in German and published in English in 1921 in Workers' Dreadnought. Republished again by Wildcat in 1989, and then published online by Antagonism Press in 2004. This red texts version is based on the Marxists Internet Archive version at <https://www.marxists.org/archive/gorter/1920/open-letter.htm>, but incorporates the introductions and some corrections from the Antagonism Press version, available at <https://web.archive.org/web/20091020101349/https://www.geocities.com/capitolhill/lobby/3909/gorter/gortertoc.html>.
 ...
 
 ## Antagonism Press introduction, 2004

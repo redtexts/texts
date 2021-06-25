@@ -2,7 +2,7 @@
 title: How Socialist Is the Socialist Workers Party?
 author: Wildcat
 date: 1985
-description: A pamphlet attacking the Trotskyist Socialist Workers Party. From <https://www.oocities.org/athens/acropolis/8195/swp.html>.
+description: A pamphlet attacking the Trotskyist Socialist Workers Party. From <https://web.archive.org/web/20091026195703/http://www.geocities.com/Athens/Acropolis/8195/swp.html>.
 ...
 
 ## Part One: The Nature of the SWP

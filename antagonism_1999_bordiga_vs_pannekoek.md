@@ -2,7 +2,7 @@
 title: Bordiga versus Pannekoek
 author: Antagonism
 date: 2000-2001
-description: Antagonism notes this was written by "an anonymous collective" in 2000-2001. It consists of a bibliography and an introduction to two texts on the relationship between class and party. One text is by Anton Pannekoek of the German-Dutch communist left, the other is by Amadeo Bordiga of the Italian communist left. It was originally posted at <https://www.oocities.org/capitolhill/lobby/3909/bordiga/bvptoc.html>.
+description: Antagonism notes this was written by "an anonymous collective" in 2000-2001. It consists of a bibliography and an introduction to two texts on the relationship between class and party. One text is by Anton Pannekoek of the German-Dutch communist left, the other is by Amadeo Bordiga of the Italian communist left. It was originally posted at <https://web.archive.org/web/20091027020653/http://www.geocities.com/CapitolHill/Lobby/3909/class.html>.
 ...
 
 ## Introduction
@@ -1022,13 +1022,13 @@ Soldiers Councils 1905-1921_, Pantheon, 1974
 
 Bologna, S., "Class Composition and the Theory of the Party at the
 Origins of the Worker's Council Movement",
-<https://www.oocities.org/cordobakaf/bologna.html>
+<https://web.archive.org/web/20091026180622/https://www.geocities.com/cordobakaf/bologna.html>
 
 Bricianer, Serge, _Pannekoek and the Workers' Councils_, Telos Press,
 1978
 
 Camatte, Jacques, "Community and Communism in Russia",
-<https://www.oocities.org/~johngray/comrus01.htm>
+<https://web.archive.org/web/20091026180755/https://www.geocities.com/~johngray/comrus01.htm>
 
 Camatte, Jacques, _This World We Must Leave_, Autonomedia, 1995
 
@@ -1043,7 +1043,7 @@ Dodd, Kathryn, _A Sylvia Pankhurst Reader_, 1993
 
 Goldner, Loren, "Communism is the Material Human Community: Amadeo
 Bordiga Today", Collective Action Notes, 1997,
-<https://www.oocities.org/CapitolHill/Lobby/2379/gold62.htm>
+<https://web.archive.org/web/20091018192600/https://www.geocities.com/CapitolHill/Lobby/2379/gold62.htm>
 
 Gombin, Richard, _The Origins of Modern Leftism_, Pelican, 1975
 
@@ -1055,7 +1055,7 @@ Lawrence and Wishart, 1978
 
 Gregoire, Roger and Perlman, Fredy, "Worker-Student Action Committees,
 France May 1969", Red and Black, 1969,
-<https://www.oocities.org/~johngray/peractil.htm>
+<https://web.archive.org/web/20091027055933/http://www.geocities.com/~johngray/peractil.htm>
 
 Icarus, "The Wilhelmshaven Revolt", Simian, 1975,
 <https://web.archive.org/web/20040707164303/http://kurasje.tripod.com/arkiv/3100f.htm>
@@ -1086,11 +1086,11 @@ Press, 1977
 McLellan, David, _The Thought of Karl Marx_, Macmillan, 1980
 
 Negation, "LIP and the self-managed counter-revolution", Black and Red,
-1975, <https://www.oocities.org/~johngray/lip.htm>
+1975, <https://web.archive.org/web/20091027055851/https://www.geocities.com/~johngray/lip.htm>
 
 Pannekoek, Anton, "From the Bottom Up, Three Texts by Anton Pannekoek",
 Collective Action, 1996,
-<https://www.oocities.org/CapitolHill/Lobby/2379/>
+<https://web.archive.org/web/20091018192526/http://www.geocities.com/CapitolHill/Lobby/2379/>
 
 Rachleff, Peter, "Soviet and Factory Committees in the Russian
 Revolution", In _Radical America_ Vol 8 #6, November-December 1994
@@ -1099,7 +1099,7 @@ Rubel, Maximilien and Crump, John, _Non-Market Socialism in the 19th
 and 20th Centuries_, Macmillan, 1987
 
 Rühle, Otto, "From the Bourgeois to the Proletarian Revolution",
-<https://www.oocities.org/~johngray/borpro.htm>
+<https://web.archive.org/web/20091026180745/http://www.geocities.com/~johngray/borpro.htm>
 
 Smith, Chris, _Technical Workers: Class, Labour and Trade Unionism_,
 Macmillan, 1987

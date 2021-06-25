@@ -2,7 +2,7 @@
 title: Class Analysis, for Anti-Capitalist Struggle
 author: Antagonism
 date: 1995
-description: This text was "an attempt to grapple with the problem of class and its meaning for those involved in struggle. Published in 1995 in 'Whatever,'" according to <https://www.oocities.org/capitolhill/lobby/3909/our80s90s/index.html>. From <https://www.oocities.org/capitolhill/lobby/3909/class.html>.
+description: This text was "an attempt to grapple with the problem of class and its meaning for those involved in struggle. Published in 1995 in 'Whatever.'" From <https://web.archive.org/web/20091027020653/http://www.geocities.com/CapitolHill/Lobby/3909/class.html>.
 ...
 
 This article is an attempt at communication with individuals and groups

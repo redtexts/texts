@@ -2,7 +2,7 @@
 title: Fascism and Anti-Fascism
 author: Dauvé, Gilles
 date: 1979
-description: "This is an unauthorized English translation from 1982 of the first 10 sections of Dauvé's 1979 text \"Bilan: Contre-révolution en Espagne, 1936-1939,\" which can be found in the original French at <https://www.oocities.org/~johngray/bilan.htm>. In 1998 Dauvé wrote a modernized follow-up to this text under the title When Insurrections Die. The red texts version of this text is a proofread copy of what is at <https://libcom.org/library/fascism-anti-fascism-gilles-dauve-jean-barrot>."
+description: "This is an unauthorized English translation from 1982 of the first 10 sections of Dauvé's 1979 text \"Bilan: Contre-révolution en Espagne, 1936-1939,\" which can be found in the original French at <https://web.archive.org/web/20091022165956/https://www.geocities.com/~johngray/bilan.htm>. In 1998 Dauvé wrote a modernized follow-up to this text under the title When Insurrections Die. The red texts version of this text is a proofread copy of what is at <https://libcom.org/library/fascism-anti-fascism-gilles-dauve-jean-barrot>."
 keywords:
 - Anti-Fascism
 - History

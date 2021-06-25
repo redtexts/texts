@@ -2,7 +2,7 @@
 title: Third Worldism or Socialism
 author: Solidarity
 date: 1972
-description: "From a Solidarity pamphlet entitled \"Ceylon: The JVP Uprising\" that was apparently published in 1972. Originally posted online on the Subversion website at <https://www.oocities.org/athens/acropolis/8195/blasts/blasts.htm>."
+description: "From a Solidarity pamphlet entitled \"Ceylon: The JVP Uprising\" that was apparently published in 1972. Originally posted online on the Subversion website at <https://web.archive.org/web/20091019195648/http://www.geocities.com/Athens/Acropolis/8195/blasts/thirdworld/thirdworld.html>."
 ...
 
 Various theories have been put forward as to why the left, in advanced

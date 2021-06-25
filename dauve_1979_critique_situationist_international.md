@@ -2,7 +2,7 @@
 title: Critique of the Situationist International
 author: Dauvé, Gilles
 date: 1979
-description: The following text has been based off the [libcom.org](https://libcom.org/library/critique-situationist-international-gilles-dauve) version of the article. The text, with greater detail on it's background can also be found on [John Gray's Website](https://www.oocities.org/~johngray/barsit01.htm), from which the footnotes for this text have been taken.
+description: The following text has been based off the [libcom.org](https://libcom.org/library/critique-situationist-international-gilles-dauve) version of the article. The text, with greater detail on it's background can also be found on [John Gray's Website](https://web.archive.org/web/20090730020033/https://www.geocities.com/~johngray/barsit01.htm), from which the footnotes for this text have been taken.
 ...
 
 # Ideology and the Wage System

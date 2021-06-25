@@ -2,7 +2,7 @@
 title: "Excerpt from A World Without Money: Communism"
 author: Les Amis de 4 Millions de Jeunes Travailleurs
 date: 1975-1976
-description: "An article made of excerpts of the 1975-1976 book 'A World Without Money' ('Un Monde Sans Argent: Le Communisme'). Translation and article by Socialist Party of Great Britain, published in their publication Socialist Standard in July 1979. Originally posted online, with the SPGB's introduction, at <https://www.oocities.org/~johngray/stanmond.htm>. Another translation of this section, with slightly different wording, is also available on red texts as part of the full 'A World Without Money.'"
+description: "An article made of excerpts of the 1975-1976 book 'A World Without Money' ('Un Monde Sans Argent: Le Communisme'). Translation and article by Socialist Party of Great Britain, published in their publication Socialist Standard in July 1979. Originally posted online, with the SPGB's introduction, at <https://web.archive.org/web/20091027060011/https://www.geocities.com/~johngray/stanmond.htm>. Another translation of this section, with slightly different wording, is also available on red texts as part of the full 'A World Without Money.'"
 ...
 
 Communism is the negation of capitalism. A movement produced by the

@@ -2,7 +2,7 @@
 title: "Ireland, Nationalism, and Imperialism: The Myths Exploded"
 author: Subversion
 date: 1992
-description: A pamphlet offering an "analysis of the war in Ireland, looking at the roles of the British state and the republican movement." Published circa 1992 (Subversion 10 lists it as coming soon, subversion 11 lists it as out). Footnotes sourced from a scan of the original pamphlet found at <https://libcom.org/library/ireland-nationalism-imperialism-myths-subversion>. From <https://www.oocities.org/athens/acropolis/8195/ire_int.htm>.
+description: A pamphlet offering an "analysis of the war in Ireland, looking at the roles of the British state and the republican movement." Published circa 1992 (Subversion 10 lists it as coming soon, subversion 11 lists it as out). Footnotes sourced from a scan of the original pamphlet found at <https://libcom.org/library/ireland-nationalism-imperialism-myths-subversion>. From <https://web.archive.org/web/20091019211950/https://www.geocities.com/athens/acropolis/8195/ire_int.htm>.
 ...
 
 ## Twenty Years on a Knife Edge

@@ -2,7 +2,7 @@
 title: "The \"Renegade\" Kautsky and his Disciple Lenin"
 author: Dauvé, Gilles
 date: 1977
-description: "Originally published as an afterword to Kautsky's Three Sources of Marxism, which is mentioned throughout. From <https://libcom.org/library/renegade-kautsky-disciple-lenin-dauve>, with some formatting fixes from <https://www.oocities.org/~johngray/barrotk.htm>."
+description: "Originally published as an afterword to Kautsky's Three Sources of Marxism, which is mentioned throughout. From <https://libcom.org/library/renegade-kautsky-disciple-lenin-dauve>, with some formatting fixes from <https://web.archive.org/web/20091019185622/https://www.geocities.com/~johngray/barrotk.htm>."
 ...
 
 _The three sources of Marxism; the historic work of Marx_ is clearly of

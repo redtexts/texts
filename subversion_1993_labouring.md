@@ -2,7 +2,7 @@
 title: "Labouring in Vain: Why the Labor Party Is Not a Socialist Party"
 author: Subversion
 date: 1993
-description: Published as a pamphlet, probably in 1993. (Subversion 12 lists it as coming soon, Subversion 13 lists it as out. Both issues are from 1993.) Footnotes incorporated from a scanned 1995 reprint available at <https://archive.org/details/LabourInVain/>. From <https://www.oocities.org/athens/acropolis/8195/labintro.htm>.
+description: Published as a pamphlet, probably in 1993. (Subversion 12 lists it as coming soon, Subversion 13 lists it as out. Both issues are from 1993.) Footnotes incorporated from a scanned 1995 reprint available at <https://archive.org/details/LabourInVain/>. From <https://web.archive.org/web/20091020001622/https://www.geocities.com/athens/acropolis/8195/labintro.htm>.
 ...
 
 This pamphlet was written before the "changes" to the Labour Party which
