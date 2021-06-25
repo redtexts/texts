@@ -2,7 +2,7 @@
 title: Money Must Go!
 author: Philoren
 date: 1943
-description: In the book Non-Market Socialism in the Nineteenth and Twentieth Centuries Philoren is said to be a pseudonym for Philips and Renson, both chemists and sympathisers of the Socialist Party of Great Britain. Said book gives a publication date of 1943. Since this was posted online, a family member wrote to say that one of the authors was a Phil Feldstein, who was born in London before 1917 and died sometime before 1952. From a scanned PDF at <https://archive.org/details/philoren-money_must_go>.
+description: Philoren was the joint pseudonym of Phil Feldstein and Israel Renson, supposedly both chemists and sympathisers of the Socialist Party of Great Britain. A publication date of 1943 is given in the book Non-Market Socialism in the Nineteenth and Twentieth Centuries, although an obituary for Renson states it was published just after the war.
 ...
 
 ## PREFACE
