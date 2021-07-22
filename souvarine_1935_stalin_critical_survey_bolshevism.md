@@ -3551,7 +3551,7 @@ inestimable devotion to which the Bolshevik Party in the hands of a
 Lenin owed its strength. Simon (Senko) Ter-Petrossian was born, like
 Stalin, at Gori, the son of Armenian parents. He was the faithful
 assistant of Stalin, to whom he owed his nickname. A communist historian
-might find a parallel in Rob Roy, Waiter Scott's mediaeval hero: a
+might find a parallel in Rob Roy, Walter Scott's mediaeval hero: a
 counter-revolutionary might compare him to Rocambole.
 
 Before the revolution he served Social-Democracy by accepting the most
@@ -7208,10 +7208,10 @@ for existing constitutional forms. But for some months the Council of
 Commissars, with Lenin and Trotsky as its principal members, had the
 semblance of power. During the Civil War, the same group of men,
 overwhelmed by the chaotic state of affairs and by their tasks, were to
-assume ah responsibility, to direct everything, and juridical
+assume all responsibility, to direct everything, and juridical
 distinctions lost all meaning. Effective power was concentrated in fact
 in the small directing group of which Lenin was the centre, in the
-Central Committee, For the settlement of urgent questions a Political
+Central Committee. For the settlement of urgent questions a Political
 Bureau of four members was nominated, but under the obligation to
 consult all the members of the Central Committee present at any given
 moment in the Smolny Institute. It was a quarter consisting of Lenin,
@@ -9210,7 +9210,7 @@ resolved."
 
 WHAT remained of the Bolshevism of yesteryear at the end of the Civil
 War? A changed theory with the old vocabulary adapted to changed
-circumstances. A veteran Parts with a tried and tested hierarchy, but
+circumstances. A veteran Party with a tried and tested hierarchy, but
 whose ranks were gradually debolshevised by the army of recruits
 attracted by the magnet of power. At the Eighth Congress in 1919,
 313,000 Party members were represented; in March of the next year
@@ -9227,7 +9227,7 @@ impossibility of reversing the changes made became clear.
 One by one Lenin's fundamental October theses were abandoned -- soviet
 democracy, the suppression of privileges, equality of remuneration, the
 abolition of the professional police, army and bureaucracy, peasant
-usufruct of the land, the right of self-determination, Gradually faith
+usufruct of the land, the right of self-determination. Gradually faith
 in the immediacy of a Socialist world revolution, the imminence of the
 end of the capitalist regime, and the Messianic belief in the universal
 spread Of the Russian example faded from the minds of Leninists. Doubt
@@ -9726,7 +9726,7 @@ for industrial purposes. This idea of a "democracy of producers" meant
 obligatory trade unionism for the workers, and for the trade unions
 subjection to the political and economic administration of the State,
 that is, to the Communist Party. Under Trotsky's plan the trade unions
-would have had no functions, Other than participation in production, in
+would have had no functions, other than participation in production, in
 the workers' State.
 
 Lenin did not agree. The War Commissar's methods had already caused
@@ -10003,7 +10003,7 @@ Socialists of various shades seized the opportunity of shaping the
 agitation in conformity with their views. The communists replied by
 arrests, the closing down of factories where there was agitation, the
 suppression of demonstrations. Zinoviev, President of the Petrograd
-Soviet, Simply used police methods.
+Soviet, simply used police methods.
 
 But cold and hunger, lack of coal and the reduction of rations -- due
 partly to the stagnation of the railways -- roused the people. The crews
@@ -10248,7 +10248,7 @@ Russian Revolution.
 
 Lenin was wiser when he faced the dilemma of the liberals who supported
 the new regime. He stated it correctly: Was the N.E.P. an evolutionary
-or a tactical measure To this "class truth propounded by a class enemy"
+or a tactical measure? To this "class truth propounded by a class enemy"
 he replied frankly. "_A development such as that expected by Ustryalov
 is possible. History has seen all sorts of metamorphoses.... Great
 historical issues are decided by the masses_." And pending the great
@@ -10544,7 +10544,7 @@ machine-gun" a figurative, but significant, remark. V. Kossior commented
 on the diminution in numbers. "Many workmen," he said, "are leaving the
 Party.... The reason is the rule of force, which has nothing in common
 with real discipline and which is practised among us. Our Party carries
-wood and sweeps the streets, Votes but decides nothing. The not
+wood and sweeps the streets, votes but decides nothing. The not
 over-healthy proletariat cannot stand this atmosphere."
 
 But the severest accusation of all brought against the Politbureau was
@@ -15663,7 +15663,7 @@ need to manoeuvre took precedence over their slogans to the point of
 rendering them unrecognisable. In order to prove that Trotskyism was no
 more, Kamenev read Trotsky's retraction on the "permanent revolution":
 "Experience has invariably shown that wherever any of us disagreed with
-Lenin on any fundamental point, Lenin-was always correct." In his
+Lenin on any fundamental point, Lenin was always correct." In his
 pamphlet the _New Course_, Trotsky had once written: "With regard to the
 theory of the permanent revolution, I can find absolutely no reason for
 retracting what I wrote on this subject in 1904, 1905, 1906 and later."
@@ -16270,7 +16270,7 @@ but far from conceiving of a supplementary revolution in order to
 suppress the regime of oppression and Bolshevik-Soviet exploitation, he
 planned long-term reforms which would only perpetuate it.
 
-His views on external politics were equally unconvincing, He was
+His views on external politics were equally unconvincing. He was
 over-anxious to load on to Stalin's shoulders what was really a
 collective responsibility, in which Lenin had a large share, and in
 which all the chief Leninists have had a part according to their
@@ -19469,7 +19469,7 @@ without having tripled the tools, fertilisers and buildings, and without
 even having provided the minimum essentials originally scheduled, he
 clearly discredited the principle, which he could not even conceive,
 much less apply. Similar statements hold good for industry. With a
-rolling stock inferior in quantity and quality to that of 1917, With
+rolling stock inferior in quantity and quality to that of 1917, with
 worn-out rails, rotten sleepers, and faulty signals, it was not logical
 to burden the transport with a triple load, unless deliberately to
 provoke catastrophe upon catastrophe and the ruin of the railways;
@@ -20265,7 +20265,7 @@ inequality can be easily seen. Wages vary enormously, and the advantages
 accorded to the most favoured aggravate contrasts that are more odious
 than in any capitalist country. Stalin had been an unconscious leveller
 until the day he became aware of the inconvenience of equalitarianism,
-depersonalisation and irresponsibility, In 1934 he insisted on his
+depersonalisation and irresponsibility. In 1934 he insisted on his
 latest discovery. "Tastes and needs are not, and cannot be identical and
 equal in quality and quantity, either in a socialist period or in a
 communist period." To the excessive levelling of the unprivileged
