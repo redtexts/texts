@@ -22,11 +22,13 @@ adversaries?
 
 Two things result from this fact.
 
-I. Communism is already acknowledged by all European Powers to be itself
-a Power. II. It is high time that Communists should openly, in the face
-of the whole world, publish their views, their aims, their tendencies,
-and meet this nursery tale of the Spectre of Communism with a Manifesto
-of the party itself.
+1. Communism is already acknowledged by all European Powers to be itself
+   a Power.
+
+2. It is high time that Communists should openly, in the face of the
+   whole world, publish their views, their aims, their tendencies, and
+   meet this nursery tale of the Spectre of Communism with a Manifesto
+   of the party itself.
 
 To this end, Communists of various nationalities have assembled in
 London, and sketched the following Manifesto, to be published in the
