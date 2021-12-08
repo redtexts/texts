@@ -151,7 +151,7 @@ of the workers. Concretely, such governments sell out the workers, but
 historically, they do them a lot of good because they expose themselves
 before the workers and so help them move more to the Left.
 
-Worker: I my seem narrow-minded, but it's very queer to advocate the
+Worker: I may seem narrow-minded, but it's very queer to advocate the
 formation of any government which would sell out the workers, as you say
 these governments would.
 
