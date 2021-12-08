@@ -9230,7 +9230,7 @@ abolition of the professional police, army and bureaucracy, peasant
 usufruct of the land, the right of self-determination. Gradually faith
 in the immediacy of a Socialist world revolution, the imminence of the
 end of the capitalist regime, and the Messianic belief in the universal
-spread Of the Russian example faded from the minds of Leninists. Doubt
+spread of the Russian example faded from the minds of Leninists. Doubt
 began to assail the minds of the leaders, and conquered the mental
 passivity of the led. As for the non-political masses, overwhelmed with
 privation and poverty, they thought of nothing but day to day existence;
