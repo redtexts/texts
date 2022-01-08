@@ -2,7 +2,7 @@
 title: "The 1950s and 60s: Damen, Bordiga, and the Passion for Communism"
 author: International Communist Current
 date: 2016
-description: Published in International Review 158, Spring 2017. Online at <https://en.internationalism.org/content/6964/womens-role-emergence-human-solidarity>. This red texts version has slight changes to the formatting (e.g., capitalization, punctuation).
+description: Published in International Review 158, Spring 2017. Online at <https://en.internationalism.org/international-review/201609/14092/1950s-and-60s-damen-bordiga-and-passion-communism>. This red texts version has slight changes to the formatting (e.g., capitalization, punctuation).
 ...
 
 Prior to our excursion into the attempts of Spanish anarchism to
