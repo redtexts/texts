@@ -9719,7 +9719,7 @@ enterprises, of the exchange, and of food supply led Trotsky to raise
 boldly and fully the question of the place of trade unions in economic
 life. He had saved the transport industry for the time being by applying
 to it crude army methods, with a perseverance recognised by Lenin and
-the whole Patty. Inspired by these first results of the system, he
+the whole Party. Inspired by these first results of the system, he
 thought it opportune to extend it generally by incorporating the trade
 unions in the State and transforming them into governmental institutions
 for industrial purposes. This idea of a "democracy of producers" meant
