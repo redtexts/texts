@@ -2,7 +2,7 @@
 title: The Communist Tendency in History
 author: L'Insecurite Sociale
 date: 1985
-description: Originally published on the [Practical History website](https://web.archive.org/web/20091026195552/http://www.geocities.com/pract_history/tendency.html). They included a note that stated "this essay discusses the meaning of communism with examples from Pierre Clastres, Gerrard Winstanley and Moses Hess. It was written, we believe, by 'M', a member of the French-based communist group L'Insecurite Sociale in the early 1980s." The French original is available at <http://www.geocities.ws/hemeis2003/IS_85.html#_Toc111977878> and indicates that this is a transcript of a presentation delivered in 1985.
+description: Originally published on the [Practical History website](https://web.archive.org/web/20091026195552/http://www.geocities.com/pract_history/tendency.html). They included a note that stated "this essay discusses the meaning of communism with examples from Pierre Clastres, Gerrard Winstanley and Moses Hess. It was written, we believe, by 'M', a member of the French-based communist group L'Insecurite Sociale in the early 1980s." The French original is available at <https://www.geocities.ws/hemeis2003/IS_85.html#_Toc111977878> and indicates that this is a transcript of a presentation delivered in 1985.
 keywords: History
 ...
 

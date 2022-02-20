@@ -2,7 +2,7 @@
 title: "Critical Review of \"The ABC of Communism\" 90 Years Later: The Bankruptcy of the Analysis of Capitalism Made by the Communist International"
 author: Mouvement Communiste
 date: 2007
-description: Written in May 2007 and found online at <http://www.mouvement-communiste.com>.
+description: Written in May 2007 and found online at <https://mouvement-communiste.com/documents/MC/Letters/LTMC0724EN.pdf>.
 ...
 
 The ABC of Communism is still a useful text today. Conceived in order to
