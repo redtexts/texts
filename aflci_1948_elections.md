@@ -91,7 +91,7 @@ Imperialist war with "democratic aims."
 Clearly support for any of the parties and leaders at present dominating
 the American political arena is support for capitalism and wars. Instead
 of a vote for the parties of war and capitalism, we advocate the
-building of a working-class revolutionary party int he U.S. with the
+building of a working-class revolutionary party in the U.S. with the
 following basic principles:
 
 1. Our conception of the world and the society proper to it is that of
