@@ -2,21 +2,21 @@
 title: Capitalism and its Revolutionary Destruction
 author: Wildcat
 date: Mid-1980s
-description: Originally posted at the Subversion group's website at <https://web.archive.org/web/20091026195652/http://www.geocities.com/Athens/Acropolis/8195/revorg.html>. Question marks indicate places where the preceding word in the online text was unclear.
+description: Originally posted on the Subversion group's website. This version has been proofread and formatted to better match a scan hosted by the Sparrows' Nest Library and Archive at <https://www.thesparrowsnest.org.uk/collections/public_archive/659.pdf>.
 ...
 
 ## Introduction
 
-This pamphlet has been produced as a first draft to give brief
-introduction to the ideas of the Wildcat group [sic] are producing it
+This pamphlet has been produced as a **first draft** to give brief
+introduction to the ideas of the **Wildcat** group. We are producing it
 not as some definitive statement revolutionary theory, but rather as a
 tool for dialogue. As our discussion and activity develop, many our
-ideas will be modified, become more detailed and more [?] clearly
-related to what's happening in the class struggle.
+ideas will be modified, become more detailed and more clearly related to
+what's happening in the class struggle.
 
 If you think that the following is in any way a contribution towards the
 revolutionary destruction of capitalism we welcome any correspondence or
-[?] criticisms you may have. Obviously we also look forward to working
+/ criticisms you may have. Obviously we also look forward to working
 with other revolutionaries on both a practical and theoretical level.
 
 ## Capitalism
@@ -71,13 +71,13 @@ rights of the isolated individual, were designed to ensure faith in the
 Obviously it still suits the enemy today if we see ourselves as sharing
 interests with them. Take a look at the wide spread incitements to take
 part in 'public debates' on whether such-and-such a government or
-political lobby has 'right' or 'wrong' policies, or on which party
-should be in power. Central to the 'freedom of choice' allowed to those
+political lobby has "right" or "wrong" policies, or on which party
+should be in power. Central to the "freedom of choice" allowed to those
 who see themselves as part of 'the public' is the right to vote.
 
-Nobody who coherently grasps the fundamental reality that this is a
+Nobody who coherently grasps the **fundamental reality** that this is a
 class society could possibly doubt that the revolutionary destruction of
-capitalism implies the destruction of all parliaments. Today,
+capitalism implies the destruction of **all parliaments**. Today,
 parliaments are no longer even the executive committees of the ruling
 class, but an elaborate con trick to make us feel consulted. It follows
 from all of the above that revolutionaries do not, under any
@@ -89,7 +89,7 @@ Capitalism represented a great advance over previous societies, such as
 the medieval feudalism which it replaced in Western Europe. Under
 capitalism the world has progressed from a state of universal scarcity
 to one of potential abundance. But the drive for profit which has led to
-the rapid growth of the productive forces under capitalism, also
+the rapid growth of the productive forces under capitalism, **also**
 prevents them from being used in a rational way to benefit the whole of
 humanity. This will be the task of a new society: COMMUNISM.
 
@@ -108,7 +108,7 @@ bankruptcy of the capitalist system.
 
 In the underdeveloped world workers assemble the latest computer
 technology in sweatshops whose conditions would have shocked Marx and
-Engels while the majority of the population there sinks towards
+Engels; while the majority of the population there sinks towards
 starvation and destitution. In the industrialised world, despite the
 automation of industry, the pace of work increases while wages stagnate
 or fall. Unemployment leads to "third world conditions" in our cities.
@@ -138,7 +138,7 @@ Poland. The so-called socialism in these countries is simply state
 capitalism. The Russian bloc is not only just as capitalist as countries
 in the West, it is also just as imperialist. Despite their conflict of
 interest with the ruling class in the West, the Russian rulers form part
-of the same class, and are just as much our enemies.
+of the **same class**, and are just as much our enemies.
 
 In the West the struggle continues under Labour Party and "Socialist"
 governments just as much as under conservative ones. Across the world,
@@ -183,17 +183,17 @@ conditions of life for the working class are the same. Capitalism still
 exists, because workers sell their labour-power and consequently are
 dispossessed of the means to freely create the conditions of life. Just
 like in the West there is a ruling class which lives off the surplus (in
-the form of surplus value) produced by the workers. In Russia this class
-consists of a central Party elite which owns the state.
+the form of **surplus value**) produced by the workers. In Russia this
+class consists of a central Party elite which owns the state.
 
 In practice state capitalism is rejected whenever, for example, there
 are strikes against nationalised industries or "socialist" governments,
-or when there is rioting or looting in "Socialist" countries.
+or when there is rioting or looting in "socialist" countries.
 Nevertheless, the idea that state capitalism is or could be beneficial
 to the working class is still a powerful force holding back the class
 struggle. Despite the fact that "socialist" and "communist" parties
 continually attack the interests of the working class, the belief that
-they are "workers parties" is still very strong. Advances in the class
+they are "workers' parties" is still very strong. Advances in the class
 struggle, if they are to happen, will bring working class people more
 and more into conflict with these parties, and with the far left
 organisations. The latter either "critically" support the mainstream
@@ -205,9 +205,9 @@ self-management).
 
 We are opposed to all capitalist front organisations, such as CND. We
 are also opposed to the anti-fascist fronts which seek to channel
-people's resistance to fascism and racism into support for capitalist
+peoples' resistance to fascism and racism into support for capitalist
 democracy, which maintains the very system which is responsible for
-these evils. We stand for independent working class direct action
+these evils. We stand for independent working class **direct action**
 against racists. The idea of a front of workers with "progressive"
 capitalists against "nasty" ones was used by the left to mobilise the
 working class into the holocaust of the Second Imperialist World War.
@@ -220,8 +220,8 @@ attempt to rally the working class to the cause of nationalism whether
 in the name of "national liberation", the "defence of freedom and
 democracy" or the "defence of socialism". We call on the working class
 to oppose all wars between rival capitalist states by taking up and
-intensifying the class war against capitalism in all its forms, against
-all governments and bosses, black and white, "socialist" and
+intensifying the **class war** against capitalism in all its forms,
+against all governments and bosses, black and white, "socialist" and
 conservative. We call for mutinies in the armed forces of all warring
 states, and for united action of working class people in uniform on both
 sides against both their ruling classes.
@@ -234,7 +234,7 @@ our struggles. The working class must unite against them.
 Nationalism is only one of the many reactionary forces which at present
 divide and weaken the working class.
 
-Religion arose as a means for individuals to find some order in what
+**Religion** arose as a means for individuals to find some order in what
 otherwise appeared to be an inexplicable and irrational world. The
 development of science and industry means that the world can now be
 explained without resort to mysticism. But the capitalist ruling class,
@@ -250,8 +250,8 @@ fundamentalists, Sikh or Hindu zealots, sectarian rampages from Belfast
 to Beirut, Christians bombing U.S. abortion clinics: the examples are
 endless.
 
-Racism has deep roots in the colonial history of capitalism. Much of the
-wealth of early capitalism was founded on the enslavement of black
+**Racism** has deep roots in the colonial history of capitalism. Much of
+the wealth of early capitalism was founded on the enslavement of black
 people. In modern times, in times of economic boom, immigrant labour is
 used to perform the most menial and low paid work. In times of crisis
 racial minorities are the first to suffer its effects.
@@ -260,7 +260,7 @@ Across the world religious and racial divisions are maintained and
 exploited are by the ruling class to set working class people against
 each other.
 
-Sexism. The sexual division of labour and the general oppression of
+**Sexism**. The sexual division of labour and the general oppression of
 women existed in class societies prior to capitalism. However, as with
 racism these divisions have been maintained and incorporated by
 capitalism for its own ends.
@@ -278,8 +278,8 @@ second class wage-slaves in much the same way as immigrant workers
 throughout the world. They are a surplus pool of cheap labour to be
 shuttled in and out of the workforce to suit the needs of capital. The
 man is made responsible for wife and children by effectively making them
-his property. The work ethic -- and even scabbing -- are justified by
-the male "having the family to think of." Everyone has their place in
+his **property**. The work ethic -- and even scabbing -- are justified
+by the male "having the family to think of." Everyone has their place in
 capitalist normality.
 
 The maintenance of oppressive sex roles contributes to the sexual misery
@@ -293,10 +293,11 @@ present a threat to "family values" and sexual "norms".
 It is not some "unity of the oppressed" across class barriers which will
 end oppression. All these oppressions are an integral part of class
 society and can only be ended with its abolition. This does not mean
-that these oppressions will automatically start to be fought when the
-class struggle advances in other areas of society. They must be actively
-fought now both because of their effect on our daily lives and because
-they prevent the working class unity necessary to overthrow capitalism.
+that these oppressions will **automatically** start to be fought when
+the class struggle advances in other areas of society. They must be
+actively fought **now** both because of their effect on our daily lives
+and because they prevent the working class unity necessary to overthrow
+capitalism.
 
 ## The Struggle Today
 
@@ -363,7 +364,7 @@ communism.
 
 ## The struggle for COMMUNISM
 
-### A. Seizing control from the unions.
+### A. Seizing Control from the Unions
 
 Despite the limitations of today's struggles they contain the seeds of a
 future struggle for communism. We already know from the experience of
@@ -391,8 +392,8 @@ sceptical attitude towards all such groups.
 But a small minority cannot win the struggle on its own. Nor can its aim
 be to replace the existing reactionary trade union leadership with its
 own "enlightened" leadership. Their primary aim must be to get more and
-more people actively involved in the struggle, in the organisation of
-the struggle, and in the discussion of strategy and tactics. On this
+more people **actively** involved in the struggle, in the organisation
+of the struggle, and in the discussion of strategy and tactics. On this
 basis a new form of organisation can emerge during the course of mass
 struggle through which the working class can seize control of its
 struggle from the trade unions.
@@ -414,10 +415,10 @@ struggle. These delegates will be chosen, mandatable, revokable and
 dismissible by the meetings which elected them.
 
 Unlike capitalist democracy which is based on the passivity of the
-individual, this working class self-organisation is meaningless unless
-it is based on mass struggle and the active participation of the vast
-majority of those involved. It reflects the collective fighting spirit
-of the working class.
+individual, this working class **self-organisation** is meaningless
+unless it is based on mass struggle and the active participation of the
+vast majority of those involved. It reflects the collective fighting
+spirit of the working class.
 
 Many mass struggles that have taken this form have been defeated.
 Attempts to preserve the form when the active, potentially revolutionary
@@ -426,8 +427,8 @@ they have not simply disappeared they have played a reactionary role in
 subsequent struggles.
 
 Nevertheless such forms of organisation, whilst not guaranteeing the
-development of the class struggle towards communism, provide the best
-framework for an active and militant class to control and extend its
+development of the class struggle towards communism, provide the **best
+framework** for an active and militant class to control and extend its
 struggle.
 
 As part of that militant class the most clear-sighted minorities will be
@@ -441,7 +442,7 @@ great mass of the working class must become conscious communists.
 
 By then the stage would be set for the seizure of power by these mass
 assemblies, organised into Workers' Councils -- a modern form of the
-Raten and Soviets of the revolutions in Germany and Russia after WW1 --
+Räten and Soviets of the revolutions in Germany and Russia after WW1 --
 in a revolution which overthrows capitalism.
 
 In communist society the Workers' Councils will provide the initial
@@ -455,29 +456,30 @@ communism, a society based on the free association of individuals. But
 the revolution itself will inevitably be a bloody affair. Even the
 limited struggles of today, for very modest demands, provoke a violent
 response from the ruling class. But this is only a foretaste of the
-ferocious violence which the ruling class is already preparing to use
-against a future revolutionary struggle. At all times -- before, during
-and for as long as is necessary after the revolution -- the working
-class must be prepared to use whatever violence is necessary to drive
-its struggle forward and seal its victory.
+ferocious violence which the ruling class is **already preparing** to
+use against a future revolutionary struggle. At all times -- before,
+during and for as long as is necessary after the revolution -- the
+working class must be prepared to use whatever violence is necessary to
+drive its struggle forward and seal its victory.
 
 To those who deplore the need for bloodshed, we reply: there is no
 alternative. Nevertheless, the experience of past mass struggle suggests
 that, at its highest points, the movement tends to acquire an
-irresistible force which simply cannot be opposed. The stronger, the
+irresistible force which simply **cannot** be opposed. The stronger, the
 better organised we are, the less actual violence will be necessary.
 
 ### E. The Transformation of Society
 
 The organisation of communist society will be based or the collective
 'administration of things', not on the political power of a ruling
-minority over the majority. The State, which throughout history has been
-the organisation of ruling class power, will have been abolished.
+minority over the majority. **The State**, which throughout history has
+been the organisation of ruling class power, **will have been
+abolished**.
 
-The struggle of the working class, as a class, to seize power is, at the
-same time, a struggle to transform society towards communism. This
-struggle continues after the seizure of power. It takes place on many
-different levels.
+The struggle of the working class, **as a class**, to seize power is,
+**at the same time**, a struggle to transform society towards communism.
+This struggle continues after the seizure of power. It takes place on
+many different levels.
 
 It is a struggle to spread the revolution to all parts of the world, to
 remove pockets of resistance. To guard against sabotage, and to destroy
@@ -501,26 +503,26 @@ the development of capitalist industry and agriculture.
 Goods will be freely available and free of charge. Money will disappear.
 However, communist society will not be like a huge supermarket where
 passive individuals simply help themselves. Work will be done because we
-want it to be done and want to do it -- not because we have to in order
-to survive. The focus of interest in our lives will shift away from
-passively consuming, to include the new form of productive activity.
-This does not mean that overnight all productive activities will become
-passionately interesting... but a free society will strive to make them
-so by continually transforming the aims and methods of production. There
-will no longer be a mad scramble to exploit resources without concern
-for the future, or a rush to buy the "latest model" which gives the
-illusion of inventiveness and newness.
+want it to be done and want to do it -- not because we **have** to in
+order to survive. The focus of interest in our lives will shift away
+from passively consuming, to include the new form of productive
+activity. This does not mean that overnight all productive activities
+will become passionately interesting... but a free society will strive
+to make them so by continually transforming the aims and methods of
+production. There will no longer be a mad scramble to exploit resources
+without concern for the future, or a rush to buy the "latest model"
+which gives the illusion of inventiveness and newness.
 
 The separation between work and leisure will actually disappear. People
 will freely associate to creatively use and transform their lives, by
 creatively using and transforming goods, activities and the environment,
-in an attempt to satisfy all our developing needs and desires. Community
-and communication will emerge in this common project: people will no
-longer be mere objects in the production process. The essence of
+in an attempt to satisfy **all** our developing needs and desires.
+Community and communication will emerge in this common project: people
+will no longer be mere objects in the production process. The essence of
 communism is the passionate transformation of the world and of
-ourselves, in the creation of a world human community.
+ourselves, in the creation of a **world human community**.
 
-## Revolutionary Organisation
+## Revolutionary Organisations
 
 Our role as revolutionaries in all this is, through our propaganda,
 agitation and active involvement, to publicise, support and encourage in
