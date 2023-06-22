@@ -111,7 +111,7 @@ and took several thousand "Bordigists" with him. In 1928 the "Italian
 Communist Left" (as they called themselves) voted Trotsky the "head of
 the international left opposition" and there ensued a lengthy exchange
 between Bordiga and Trotsky, which ended in a generally complete failing
-out circa. 1931-32. But Bordiga is one of the most original, brilliant
+out circa 1931-32. But Bordiga is one of the most original, brilliant
 and utterly neglected Marxists of the century. (His legacy could never
 be made palatable by the postwar PCI in the way that Gramsci's was.) He
 remained in Italy through the war (once he had been ousted and calumnied
@@ -166,8 +166,8 @@ Bordigist analysis took its distance from the super-industrialization
 strategy of the Left Opposition, for ultimately "Bukharinist" reasons.
 He felt after 1945 that only something like Bukharin's strategy had any
 hope of preserving the international revolutionary character of the
-regime, (which to Bordiga was more important than Russian
-industrialization) because it would not destroy the Bolshevik party.
+regime (which to Bordiga was more important than Russian
+industrialization), because it would not destroy the Bolshevik party.
 Bukharin said in the 1924-28 faction fights that the implementation of
 Trotsky's leftist "super-industrialization" strategy could only be
 carried out by the most elephantine state bureaucracy history had ever
@@ -182,22 +182,22 @@ expenditures resulting from the anarchic conditions of petty production:
 in sum, the whole economic apparatus of the proletarian state not only
 does not facilitate but actually hinders the development of the
 productive forces. It leads directly to the opposite of what it is
-supposed to do." (ibid)] When Stalin stole the left's program and put it
-into practice, he completely confirmed Bukharin, as Trotsky himself
-acknowledged in a backhanded way after most of his faction in Russia had
-capitulated to Stalin ^[The "Bukharinist" aspect of Trotsky's assessment
-of the Stalinist "left" turn after 1928 is noted in _Bilan d'une
-révolution_, op. cit., p, 148.]. Bordiga took more seriously perhaps
-than even Trotsky the idea of the international character of the
-revolution and of the Soviet regime; to him the idea of "socialism in
-one country" was a grotesque abomination of everything Marxism stood
-for, which it of course was. In his final confrontation with Stalin in
-Moscow in 1926, Bordiga proposed that all the Communist Parties of the
-world should jointly rule the Soviet Union, as a demonstration of the
-supra-national reality of the workers' movement ^[This intervention was
-made at the Sixth Enlarged Executive Committee Plenum of the Comintern
-in 1926. ibid. p. 38.]. This proposal was, needless to say, coolly
-received by Stalin and his friends.
+supposed to do." (ibid)]. When Stalin stole the left's program and
+put it into practice, he completely confirmed Bukharin, as Trotsky
+himself acknowledged in a backhanded way after most of his faction
+in Russia had capitulated to Stalin ^[The "Bukharinist" aspect of
+Trotsky's assessment of the Stalinist "left" turn after 1928 is noted
+in _Bilan d'une révolution_, op. cit., p, 148.]. Bordiga took more
+seriously perhaps than even Trotsky the idea of the international
+character of the revolution and of the Soviet regime; to him the
+idea of "socialism in one country" was a grotesque abomination of
+everything Marxism stood for, which it of course was. In his final
+confrontation with Stalin in Moscow in 1926, Bordiga proposed that
+all the Communist Parties of the world should jointly rule the Soviet
+Union, as a demonstration of the supra-national reality of the workers'
+movement ^[This intervention was made at the Sixth Enlarged Executive
+Committee Plenum of the Comintern in 1926. ibid. p. 38.]. This proposal
+was, needless to say, coolly received by Stalin and his friends.
 
 But this is just the beginning. Bordiga's writings on the capitalist
 nature of the Soviet economy, in contrast to those produced by the
@@ -320,7 +320,7 @@ critique, moreover, the whole emphasis is placed on the question of
 "democracy", which for them is essentially everything. Socialism is
 effectively conceived as "democratic collectivism", so its absence, and
 the absence of the surface of capitalism [sic] forms, must be
-**"bureaucratic** collectivism". In other words, this tradition's whole
+"**bureaucratic** collectivism". In other words, this tradition's whole
 disagreement with Stalinism and then Trotskyism revolved around the fact
 that what happened in Russia after 1917 or 1921 was **anti-democratic**.
 Of course that was tremendously important, but its influence is to
@@ -836,7 +836,7 @@ Capitalism seemed to be moving away from a "competitive" or
 "laissez-faire" phase to a phase of cartels, monopolies, imperialism,
 state guidance, the emergence of finance capital, arms races, colonial
 land grabs: all the elements Hilferding called "organized capitalism"
-_circa._ 1910. World War I marked the turning point. The Russian
+circa 1910. World War I marked the turning point. The Russian
 Revolution showed that, in Lenin's phrase, "the proletarian revolution
 lurks behind every strike", and the 1917-1921 period very nearly seemed
 to confirm that. Then came, after an ephemeral stabilization, 1929,
@@ -909,7 +909,7 @@ creation of a large arms sector that had only barely come into existence
 around the turn of the century). What did this indicate? It indicated
 that the "story" of capitalist development was as follows. In 1815-1914
 the phase of "classic" or "competitive" capitalism, the system had
-primarily transformed peasants into workers, at lest in England, the
+primarily transformed peasants into workers, at least in England, the
 U.S., France and Germany. In the post-1914 period (in reality beginning
 circa 1890) the new phase of "organized" capitalism, "monopoly"
 capitalism, the "epoch of imperialist decay" continued to deplete the

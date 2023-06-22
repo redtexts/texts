@@ -2,7 +2,7 @@
 title: The Balkan War
 author: Bordiga, Amadeo
 date: 1912
-description: Originally published in "L'Avanguardia" in December 1912. Translated into English in Communist Left, no.10/11, p. 63-68. From <http://sinistra.net/lib/upt/comlef/cote/cotesdadae.html>.
+description: Originally published in "L'Avanguardia" in December 1912. Translated into English in Communist Left, no.10/11, p. 63-68. From <https://sinistra.net/lib/upt/comlef/cote/cotesdadae.html>.
 ...
 
 Though we can't yet evaluate the historical consequences of the

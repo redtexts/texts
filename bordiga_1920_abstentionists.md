@@ -2,7 +2,7 @@
 title: Theses of the Abstentionist Communist Faction of the Italian Socialist Party
 author: Bordiga, Amadeo
 date: 1920
-description: "Though this is presented as a collective work, Bordiga was apparently the principal author: it is included in _The Science and Passion of Communism: Selected Writings of Amadeo Bordiga_ and sinistra.net lists it in an index of Bordiga's works. The translation below appeared in English in Communist Program, No. 5, June 1979. The theses were originally presented at the national conference of the Communist Abstentionist Faction of the Italian Socialist Party in Florence in May 1920. This group became the core of the new Communist Party of Italy in 1921. For more background, see <http://www.sinistra.net/lib/upt/compro/lipu/lipuhcabie.html>. From <https://www.marxists.org/archive/bordiga/works/1920/abstentionists.htm>."
+description: "Though this is presented as a collective work, Bordiga was apparently the principal author: it is included in _The Science and Passion of Communism: Selected Writings of Amadeo Bordiga_ and sinistra.net lists it in an index of Bordiga's works. The translation below appeared in English in Communist Program, No. 5, June 1979. The theses were originally presented at the national conference of the Communist Abstentionist Faction of the Italian Socialist Party in Florence in May 1920. This group became the core of the new Communist Party of Italy in 1921. For more background, see <https://www.sinistra.net/lib/upt/compro/lipu/lipuhcabie.html>. From <https://www.marxists.org/archive/bordiga/works/1920/abstentionists.htm>."
 ...
 
 ## I

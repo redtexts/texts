@@ -2,7 +2,7 @@
 title: Why Russia Isn't Socialist
 author: International Communist Party
 date: 1970
-description: Originally published in 1970 in Il Programma Comunista and later posted online at <http://www.sinistra.net/lib/pro/whyrusnsoc.html>. This version changes some of the original's formatting.
+description: Originally published in 1970 in Il Programma Comunista and later posted online at <https://www.sinistra.net/lib/pro/whyrusnsoc.html>. This version changes some of the original's formatting.
 keywords: USSR
 ...
 
@@ -42,7 +42,7 @@ fundamental characteristics so as to be able to recognise it in all
 circumstances. These characteristics can be summed up as follows:
 
 In Capitalist society commodities are produced, i.e. human activity is
-dedicated in the main, to the manufacture of objects destiny to be
+dedicated in the main, to the manufacture of objects destined to be
 exchanged for money, i.e. sold. Meanwhile, the great mass of producers
 are deprived of the means of production (as opposed to the artisan or
 the small peasant who possess their own work instruments).
@@ -134,7 +134,7 @@ characteristics of the economy. In bourgeois society, the essential
 commodity, and the very origin and basis of capital, is labour power as
 a commodity. The price of labour power, on the labour market, is
 expressed by a salary which is the money equivalent of the products
-necessary for the workers maintenance. However, even when labour power
+necessary for the worker's maintenance. However, even when labour power
 is paid at a correct value that enables the wage labourer to provide for
 his own and his family's needs, the capitalist enterprise always gains a
 surplus from the sale of products. This surplus value or profit, this
@@ -591,7 +591,7 @@ For Lenin, and all Marxists worthy of the name, the accomplishment of
 this gigantic task never represented a realisation of Socialism, but of
 out and out capitalism. Despite the scandalous confusion caused by the
 learned savants who transform the conscious criminal falsifications of
-Stalinism into erudite nonsense, Socialism in not "constructed" like the
+Stalinism into erudite nonsense, Socialism is not "constructed" like the
 concrete and steel structures which are indispensable to modern
 production: Socialism is the freeing of forces that already exists and
 involves the destruction of the obstacles which obsolete productions
@@ -844,14 +844,14 @@ the five types of Russian economy:
 4. State capitalism: i.e. grain monopoly and national accounting of
    production, which the proletarian power strives to accomplish in the
    face of a multitude of difficulties.
-5. Socialism: On this last point, Lenin is crystal clear; it is, he says
-   nothing but a "legal opportunity" of the proletarian state. An
+5. Socialism: On this last point, Lenin is crystal clear; it is, he
+   says, nothing but a "legal opportunity" of the proletarian state. An
    opportunity that could only become an immediate reality if the
    Russian revolution, as Lenin sharply reminded Bukharin on another
    occasion, had inherited the historic results from a "completed
-   Imperialism" from "a system in which everything was in submission to
-   finance capital" and in which "it remained only to decapitate it to
-   leave everything else in the hands of the proletariat".
+   Imperialism" from "a system in which everything was in submission
+   to finance capital" and in which "it remained only to decapitate
+   it to leave everything else in the hands of the proletariat".
 
 This evidently wasn't the case in Russia, and it is for this reason
 that, in Lenin's outline, the struggle unfolds not between state
@@ -1476,7 +1476,7 @@ profit.
 
 This explanation simply isn't one. "Bureaucracy", by-and-large, has
 always appeared at definite moments in the genesis or evolution of all
-the important modes of production Well then, it is the nature of these
+the important modes of production. Well then, it is the nature of these
 modes of production which determines the roles and privileges of the
 bureaucracy and not the other way around. After all, the structures of
 modern capitalism, in their "traditional" as much as in their Russian

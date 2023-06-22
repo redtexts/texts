@@ -472,14 +472,6 @@ Parliamentary acts. It relates to the fundamental laws, not of one
 country only, but of human society, founded on man's convictions of
 Right and Justice.
 
-Such a change in the system of labor implies a change of Law. Not, of
-course, that new laws must first be enacted by Parliament or Congress.
-It concerns changes in the depth of society \[in the customs and
-practice of society\], far beyond the reach of such temporary things as
-Parliamentary acts. It relates to the fundamental laws, not of one
-country only, but of human society, founded on man's convictions of
-Right and Justice.
-
 These laws are not immutable. To be sure, the ruling classes at all
 times have tried to perpetuate the existing Law by proclaiming that it
 is based on nature, founded on the eternal rights of man, or sanctified

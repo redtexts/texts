@@ -83,11 +83,11 @@ first.
 Proletarian revolution will destroy democracy, impose the proletarian
 class power in order to abolish all classes and all powers. The fact
 that capital always developed by poles of concentration that moved
-along the centuries does contradict the fact that it is a worldwide
-relation of production and that the proletarians have no country to
-defend, no homeland to die for. National liberation, the "oppressed
-nations," the "socialist countries" are bourgeois ideologies to prevent
-class war!
+along the centuries does \[not\] contradict the fact that it is a
+worldwide relation of production and that the proletarians have no
+country to defend, no homeland to die for. National liberation, the
+"oppressed nations," the "socialist countries" are bourgeois ideologies
+to prevent class war!
 
 And last point of the Trotskyist theory we denounce: the transitional
 programme.
