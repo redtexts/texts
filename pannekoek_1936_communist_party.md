@@ -5,7 +5,7 @@ date: 1936
 description: Published in the June 1936 issue of International Council Correspondence under the pseudonym J. Harper. From <https://www.marxists.org/archive/pannekoe/1936/06/communist-party.htm>. The errors present in the original published version and noted in the MIA version are retained here.
 ...
 
-## I.
+## I
 
 During the world war small groups in all countries arose, convinced that
 out of this ordeal of capitalism, a proletarian revolution must ensue,
@@ -228,7 +228,7 @@ means strangling the class and leading it to its defeat.
 We will show how in the communist party this doctrine after its first
 glorious ascendance led to rapid decay.
 
-## II.
+## II
 
 These are the principles leading the communist party and determining its
 practice: the party has to win dictatorship, to conquer power, to make

@@ -276,7 +276,7 @@ revolution, before her death. She said:
 >certainly, not the dictatorship of the proletariat, however, but only
 >the dictatorship of a handful of politicians, **that is a dictatorship
 >in the bourgeois sense**."
-
+>
 >"Perfect, dictatorship! ... But this dictatorship must be the work of
 >the **class** and not of a minority that leads in the name of the
 >class, that is that it must be a faithful and progressive emanation of

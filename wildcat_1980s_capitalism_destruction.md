@@ -10,7 +10,7 @@ description: Originally posted on the Subversion group's website. This version h
 This pamphlet has been produced as a **first draft** to give brief
 introduction to the ideas of the **Wildcat** group. We are producing it
 not as some definitive statement revolutionary theory, but rather as a
-tool for dialogue. As our discussion and activity develop, many our
+tool for dialogue. As our discussion and activity develop, many of our
 ideas will be modified, become more detailed and more clearly related to
 what's happening in the class struggle.
 
@@ -73,7 +73,7 @@ interests with them. Take a look at the wide spread incitements to take
 part in 'public debates' on whether such-and-such a government or
 political lobby has "right" or "wrong" policies, or on which party
 should be in power. Central to the "freedom of choice" allowed to those
-who see themselves as part of 'the public' is the right to vote.
+who see themselves as part of "the public" is the right to vote.
 
 Nobody who coherently grasps the **fundamental reality** that this is a
 class society could possibly doubt that the revolutionary destruction of

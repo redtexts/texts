@@ -255,7 +255,7 @@ essence.**
 >life, which is far removed from his individuality, to be his true life
 >and inasmuch as religion is here the spirit of civil society and the
 >expression of the separation and distance of man from man." (...)
-
+>
 >"Political democracy is Christian inasmuch as it regards man -- not
 >just one man but all men -- as a sovereign and supreme being; but man
 >in his uncultivated, unsocial aspect, man in his contingent existence,
@@ -416,7 +416,7 @@ articulated by the French Revolution":
 >Freedom are thus not only respected in exchange based on exchange
 >values but, also, the exchange of exchange values is the productive,
 >real, basis of all **equality** and **freedom**."
-
+>
 >"... exchange value or, more precisely, the money system is in fact the
 >system of equality and freedom, and that the disturbances which they
 >encounter in the further development of the system are disturbances
@@ -429,14 +429,14 @@ articulated by the French Revolution":
 >power, we are in the paradise of human rights and liberties. Each one
 >is aiming at his own private interests in the reign of equality,
 >liberty and private property.
-
+>
 >**Liberty**: because the buyer and the seller of commodities (including
 >labour power) do not obey any other rule than their own free will.
-
+>
 >**Equality**: because in the world of commodities everybody is a buyer
 >and a seller, and everybody gets a value equal to the value contained
 >in the goods they are selling, exchanging equivalent for equivalent.
-
+>
 >**Property**: because each one appears, in the world of exchange, as an
 >owner of their commodity and they can only dispose of what belongs to
 >them." - ICG, Communism no. 1.
@@ -514,7 +514,7 @@ they only exist as money as exploited human.
 >simultaneously becomes the real community, since it is the general
 >substance of survival for all, and at the same time the social product
 >of all."
-
+>
 >"But as we have seen in money the community (gemeinwesen) is at the
 >same time a mere abstraction, a mere external, accidental thing for the
 >individual, and at the same time merely a means for his satisfaction as

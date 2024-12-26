@@ -435,13 +435,13 @@ ecstatic outbursts of feeling--we find evidence of his mental condition
 at the time.
 
 >"Dear Father,
-
+>
 >"Berlin, November 10, 1837.
-
+>
 >"There are moments in life which are placed like boundary stones to
 >mark the close of a period, but which at the same time definitely point
 >in a new direction.
-
+>
 >"At such a point of transition, we feel constrained to contemplate the
 >past and the present with the eagle eye of thought, that we may become
 >aware of our actual position. Indeed, universal history itself loves
@@ -450,7 +450,7 @@ at the time.
 >the spirit of history has merely thrown herself back in an arm chair
 >that she may collect her thoughts, may impregnate her mind with a
 >knowledge of her own doings.
-
+>
 >"In such moments, however, the individual grows lyrical, for every
 >metamorphosis is to some extent a swansong, to some extent the overture
 >of a great new poem, which in still blurred yet brilliant tints strives
@@ -465,14 +465,14 @@ at the time.
 >necessary condition; how [else], at any rate, could the often hostile
 >play of chance, and the aberration of the spirit, escape the reproach
 >of being due to an unkind heart?
-
+>
 >"When, therefore, at the close of a year lived here, I now glance back
 >upon what has passed therein, and in this way, my dear Father, answer
 >your most affectionate letter from Ems, you will allow me to
 >contemplate my circumstances, like life in general, as the expression
 >of a mental activity which shapes itself in all directions, in science,
 >art, private affairs.
-
+>
 >"When I left you, a new world had just opened for me, the world of
 >love--indeed to begin with a love that was frenzied in its yearnings
 >and void of hope. Even the journey to Berlin, which would otherwise
@@ -484,10 +484,10 @@ at the time.
 >in the inns were not more overladen, the food they bore was not more
 >indigestible, than were the contents of my own imagination; and, to
 >conclude, art was not so beautiful as my Jenny.
-
+>
 >"When I reached Berlin, I broke all existing ties, paid very few visits
 >and those reluctantly, and sought to immerse myself in science and art.
-
+>
 >"In my then state of mind, it was inevitable that lyrical poetry should
 >be my first topic of interest, at any rate the most agreeable and most
 >obvious; but, in accordance with my position, and my whole previous
@@ -501,7 +501,7 @@ at the time.
 >the poems of the first three volumes I sent to Jenny. The whole width
 >of a longing which sees no frontiers, assumes multifarious forms, and
 >finds 'expansion' in 'poetizing.'
-
+>
 >"But poesy could only be, must only be, a casual companion. I had to
 >study jurisprudence, and above all I felt an urge to wrestle with
 >philosophy. The two were so closely interconnected, that I read
@@ -512,7 +512,7 @@ at the time.
 >metaphysical propositions, and in this ill-starred opus carried on the
 >discussion down to the topic of international law--a work of nearly
 >three hundred pages.
-
+>
 >"Most notably, here, I was greatly disturbed by the conflict between
 >what actually is and what ought to be which is peculiar to idealism,
 >and this gave rise to the following hopelessly inaccurate
@@ -525,7 +525,7 @@ at the time.
 >argues hither and thither, while the topic itself is never formulated
 >as something rich in content, something truly alive) was from the first
 >a hindrance to the comprehension of the truth.
-
+>
 >"The mathematician may construct a triangle and demonstrate its
 >properties; but it remains a mere idea in space, and undergoes no
 >further development. We must put one triangle beside another, then it
@@ -537,14 +537,14 @@ at the time.
 >arbitrary classifications; the rationale of the thing itself must
 >disclose itself in all its contradictoriness, and must find its unity
 >in itself.
-
+>
 >"As second part, there now followed the philosophy of law, this
 >meaning, as I then saw the matter, the study of the development of
 >ideas in positive Roman law, as if positive law in the development of
 >its ideas (I do not mean in its purely final determinations) could be
 >anything different from the configuration of the concept of law, which
 >the first part ought to embrace!
-
+>
 >"This part I had, over and above, divided into the formal and the
 >material doctrine of law: the former being the pure form of the system
 >in its succession and its interaction, the classification and the
@@ -563,7 +563,7 @@ at the time.
 >develop apart from the other, with the result that I did not achieve
 >any genuine form, but only constructed a desk with a number of drawers
 >which I subsequently filled with sand.
-
+>
 >"The concept is, really, the intermediary between form and content. In
 >a philosophical disquisition on law, therefore, one must be shown as
 >arising out of the other, for form can only be the continuation of
@@ -573,14 +573,14 @@ at the time.
 >uncovenanted. I even ventured upon a classification of jus publicum
 >(which has also been formally elaborated) in order to materialize the
 >scheme better...
-
+>
 >"But why should I fill pages with an account of things I have
 >discarded? The whole is permeated with trichotomous classifications,
 >penned with wearisome prolixity, the Roman notions being barbarously
 >misused in order to force them into my system. Still, to some extent I
 >gained an affection for my topic, and achieved a general survey of its
 >subject matter.
-
+>
 >"When I had reached the close of the discussion of material private
 >right, I perceived the fallaciousness of the whole, which in its
 >fundamental scheme borders on the Kantian, though differing wholly from
@@ -590,7 +590,7 @@ at the time.
 >philosophy, and I wrote a new metaphysical elementary system, but when
 >it was finished I was again constrained to recognize its futility, and
 >the futility of the whole of my previous endeavours.
-
+>
 >"Meanwhile I had acquired the habit of making extracts from all the
 >books I was reading; as from Lessing's _Laokoon_, Solger's _Erwin_,
 >Winckelmann's _Kunstgeschichte_, Luden's _Deutsche Geschichte_, writing
@@ -599,7 +599,7 @@ at the time.
 >(with the aid of grammars) of English and Italian, but as yet have made
 >no progress; I read Klein's _Kriminalrecht_ and his _Annalen_; and a
 >mass of modern literature, though this latter only in passing.
-
+>
 >"At the end of the session, I once more tried my hand at the dance of
 >the muses and at the music of satire; and already in the last pages I
 >sent you, idealism plays its part in the form of forced humour
@@ -607,12 +607,12 @@ at the time.
 >_(Oulanem)_, until at length it utterly miscarries, and is changed into
 >a purely formal art, for the most part without any stimulating objects,
 >without any enthusiastic movement of ideas.
-
+>
 >"Nevertheless these last poems are the only ones in which suddenly, as
 >if by the wave of a magician's wand (the experience was, to begin with,
 >overwhelming), the realm of true poesy flashed open before me like a
 >distant faery palace, and all my creations were shivered to fragments.
-
+>
 >"During the first term, I sat up night after night engaged in these
 >multifarious occupations; I went through many struggles, and
 >experienced both objective and subjective perturbations; and in the end
@@ -623,22 +623,22 @@ at the time.
 >and went through the gate to Stralau. It never entered my mind that
 >there from being an anemic youth I should ripen to a robustness of
 >frame.
-
+>
 >"A curtain had fallen, my holy of holies had been shattered, and new
 >gods had to be found for the vacant shrine.
-
+>
 >"Setting out from idealism (which, let me say in passing, I had
 >compared to and nourished with that of Kant and that of Fichte), I
 >proceeded to seek for the idea in the real itself. If in earlier days
 >the gods had dwelt above the world, they had now become its centre.
-
+>
 >"I had read fragments of the Hegelian philosophy, and had found its
 >grotesque craggy melody unpleasing. I wished to dive into the ocean
 >once again, but this time with the definite intention of discovering
 >our mental nature to be just as determined, concrete, and firmly
 >established as our bodily--no longer to practise the art of fence, but
 >to bring pure pearls into the sunlight.
-
+>
 >"I penned a dialogue of about twenty-four pages, entitled _Cleanthus,
 >or the Starting-Point and the Necessary Progress of Philosophy_. Here,
 >after a fashion, art and science, which had been wholly severed, were
@@ -652,7 +652,7 @@ at the time.
 >can now scarcely make head or tail of it), this darling child of mine,
 >nurtured in moonshine, bears me like a false-hearted siren into the
 >clutches of the enemy.
-
+>
 >"Overwhelmed with vexation, I was for several days quite unable to
 >think. Like a lunatic I tore up and down the garden beside the Spree's
 >dirty water 'which washes the soul and dilutes tea.' I even went out
@@ -672,7 +672,7 @@ at the time.
 >Tiere_. Next I turned to German law, but mainly concerned myself with
 >the capitulations of the Franconian kings, and the letters of the popes
 >to them.
-
+>
 >"From grief on account of Jenny's illness and because of the futility
 >of my lost labours, from intense vexation at having to make an idol of
 >a view I detested, I fell sick, as, my dear Father, I have previously
@@ -680,7 +680,7 @@ at the time.
 >novels, etc., being under the illusion that I could henceforward
 >refrain from anything of the kind--and indeed there is as yet no
 >evidence to the contrary.
-
+>
 >"While out of sorts, I had got to know Hegel from beginning to end, and
 >most of his disciples likewise. Through the instrumentality of friends
 >I made while in Stralau, I became a member of a Doctors' Club, to which
@@ -693,12 +693,12 @@ at the time.
 >was superadded; and I could not rest until I had purchased modernity
 >and achieved the standpoint of contemporary science by some poor
 >productions, such as _Der Besuch_.
-
+>
 >"If I have perhaps failed to explain this session clearly to you as a
 >whole, and to recount all its details, if its nuances are left hazy,
 >you will excuse me, dear Father, recognizing how eager I am to speak of
 >the present.
-
+>
 >"H. v. Chamisso has sent me a few insignificant lines, in which he
 >informs me of his 'regret that the _Almanac_ can make no use' of my
 >contributions, 'having long since gone to press.' I had to swallow my
@@ -709,7 +709,7 @@ at the time.
 >aesthetic notabilities of the Hegelian school have promised to
 >co-operate, influenced thereto by Instructor Bauer, who is a big gun
 >among them. Dr. Rudenberg will also lend a hand.
-
+>
 >"As regards the question of an official career, I have recently made
 >the acquaintance of an assistant judge, Schmidthänner by name, who
 >advises me to enter upon this after passing the third of my law
@@ -730,7 +730,7 @@ at the time.
 >combine to make me long to return home without delay. It is almost
 >imperative that I should come. Indeed, I should already be with you,
 >were I not in doubt as to your approval.
-
+>
 >"Believe me, this is not a selfish wish (though I should be so happy to
 >see Jenny again). I am driven by a thought which I cannot put into
 >words. Actually, in many respects, it would be difficult for me to
@@ -738,11 +738,11 @@ at the time.
 >way before sacred duties. "I beg you, dear Father, whatever you may
 >decide, not to show this letter (or at any rate this page of it) to
 >mother. My sudden arrival might upset her.
-
+>
 >"My letter to her was written long before Jenny's dear letter came to
 >hand, so I may unwittingly have written too much about unsuitable
 >matters.
-
+>
 >"In the hope that the clouds which hang over our family will gradually
 >disperse; that I shall be permitted to share your sufferings and mingle
 >my tears with yours, and, perhaps in direct touch with you, to show the
@@ -754,16 +754,16 @@ at the time.
 >depriving it of the power of utterance; in the hope that you will soon
 >be fully restored to health, that I shall he able to clasp you in my
 >arms, and to tell you all that I feel,
-
+>
 >"I remain always your loving son,
-
+>
 >"KARL
-
+>
 >"Forgive, dear Father, both the illegible handwriting and the defective
 >style. It is nearly four in the morning; the candle has burned out and
 >my eyes are clouded. Unrest has mastered me; I shall not be able to lay
 >the spectres that haunt me, until I am in your dear presence.
-
+>
 >"Please give my best love to my darling Jenny. I have already read her
 >letter a dozen times, finding new charms in it each time. In every
 >respect, style included, it is the most beautiful letter I can imagine

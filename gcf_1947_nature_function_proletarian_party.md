@@ -421,16 +421,16 @@ revolution must start from and embody the following elements:
 >**a.** Socialism is a necessity only because the development reached by
 >the productive forces is no longer compatible with a society divided
 >into classes.
-
+>
 >**b.** This necessity can only become a reality through the will and
 >conscious action of the oppressed class whose social liberation is tied
 >up with the liberation of humanity from its alienation from the forces
 >of production, to which it has hitherto been subjected.
-
+>
 >**c.** Socialism, being both an objective necessity and a subjective
 >will, can only be expressed in revolutionary **action** that is
 >conscious of its aims.
-
+>
 >**d.** Revolutionary action is inconceivable without a revolutionary
 >programme. Similarly, the elaboration of the programme is inseparable
 >from action. It is because the revolutionary party is a "_body of

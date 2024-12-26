@@ -318,10 +318,10 @@ split in September 1850, Marx wrote, among other points:
 >one. It has substituted an idealist conception for a materialist one.
 >Instead of seeing the real situation as the motor force of the
 >revolution, it sees only **mere will**...
-
+>
 >"... You tell (the workers): 'We must take power right away or else we
 >should all go home to bed.'
-
+>
 >"Just like the democrats who have made a fetish of the word 'people'
 >you make a fetish of the word 'proletariat'. Just like the democrats,
 >you substitute revolutionary phrase-mongering for the process of

@@ -12517,23 +12517,23 @@ others like him conflicts with the cause of the freedom of the people
 and how contemptible, bourgeois and immoral their behaviour is compared
 with that of those they employ and how little it differs from the
 practices of the police must be clear to every decent person.
-
+>
 >"'The committee entrusts the foreign bureau to inform Liubavin:
-
+>
 >"'(1) That if he and parasites like him are of the opinion that the
 translation of _Capital_ is so important to the Russian people at the
 present time they should pay for it out of their own pocket instead of
 studying chemistry and preparing themselves for fat professorships in
 the pay of the state. ...
-
+>
 >'"(2) It must immediately inform Bakunin that in accordance with the
 decision of the Russian revolutionary committee he is exempt from any
 moral duty to continue with the work of translation. ..."
-
+>
 >'Convinced that you understand, we request you, dear sir, not to place
 us in the unpleasant position of being compelled to resort to less
 civilised measures. ...
-
+>
 >'AMSKIY,  
 >'Secretary to the Bureau.'
 

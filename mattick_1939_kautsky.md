@@ -42,7 +42,7 @@ first of all a teacher, and that, because he looked upon society from a
 schoolmaster's perspective, he was well suited to his role as the
 leading spirit of a movement which aimed at educating workers and
 capitalists alike. Because he was an educator concerned with the
-'theoretical side' of Marxism, he could appear more revolutionary that
+'theoretical side' of Marxism, he could appear more revolutionary than
 was consistent with the movement he served. He appeared an 'orthodox'
 Marxist who tried to safeguard the Marxian inheritance as a treasurer
 who desires to preserve the funds of his organisation. However, what was
@@ -60,7 +60,7 @@ due time find adequate popularisation, a feat that should be easy after
 the scientific basis had been laid. "My life work became clear to me in
 1883," wrote Kautsky; "it was to be designated to the propagandising and
 popularisation, and, as far as I am able to, the continuation of the
-scientific results of Marx's thinking and research.[^03] However, not
+scientific results of Marx's thinking and research".[^03] However, not
 even he, the greatest populariser of Marx, has fulfilled Marx's hope;
 his simplifications turned out to be new mystifications unable to
 comprehend the true character of capitalist society. Nevertheless, even
@@ -501,7 +501,7 @@ duality of his own thought and action. Undoubtedly he would have
 sincerely liked being in reality the bourgeois of whom Marx once said,
 he is "a capitalist solely in the interest of the proletariat." But even
 such a change of affairs he would reject, unless it were attainable in
-the 'peaceful' bourgeois, democratic manner. Kautsky, "repudiates the
+the 'peaceful' bourgeois, democratic manner. Kautsky "repudiates the
 Bolshevik melody that is unpleasant to his ear," wrote Trotsky, "but
 does not seek another. The solution is simple: the old musician refuses
 altogether to play on the instrument of the revolution."[^20]
@@ -604,7 +604,7 @@ all socialists will stand on the side of democracy." After the
 experiences of the last war and the history since then, there is no need
 to search for the black sheep that causes wars, nor is it a secret any
 longer why wars are fought. However, to pose such questions is not
-stupidity as one may believe. Behind this apparent naïveté; lies the
+stupidity as one may believe. Behind this apparent naïveté lies the
 determination to serve capitalism in one form by fighting capitalism in
 another. It serves to prepare the workers for the coming war, in
 exchange for the right to organise in labour organisations, vote in
@@ -658,7 +658,7 @@ democracy, which it could not inaugurate during the time of its own
 reign, was put into practice by Hitler. Thus, to mention just a few
 facts, not the social democracy but Hitler fulfilled the long desire of
 the socialists, the Anschluss of Austria; not social democracy but
-fascism established the wished -- for state control of industry and
+fascism established the wished-for state control of industry and
 banking; not social democracy but Hitler declared the first of May a
 legal holiday. A careful analysis of what the socialists actually wanted
 to do and never did, compared with actual policies since 1933, will

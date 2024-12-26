@@ -1392,7 +1392,7 @@ no material possibility to do so.
 >would be a more normal shorthand today although many riders would need
 >to be added to stress that the historic process can not be dictated by
 >an individual within the communist parties, ed.]
-
+>
 >To state today that we wish to establish new parties upon the basis of
 >the first four congresses of the International is to command history to
 >pedal backwards ten years. It is to abstain from the understanding of

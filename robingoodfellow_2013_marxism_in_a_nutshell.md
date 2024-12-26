@@ -160,7 +160,7 @@ expropriation of a portion of the peasantry, who then became available
 to sell itself to capital.
 
 In the chapter of the _Capital, Volume I_, which deals with colonization
-(settler colonies) -- _The Modern Theory of Colonization_ -, Marx uses
+(settler colonies) -- _The Modern Theory of Colonization_ --, Marx uses
 this particular method of capitalist expansion to show that it is not
 the means of production themselves that create capital, but rather the
 fact that they exist in the face of a massive, dispossessed proletariat.

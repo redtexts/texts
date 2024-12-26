@@ -125,17 +125,17 @@ Fifty years ago, Schulze von Delitsch taught the German workers that each person
 >Herr Patrimonialrichter Schulze! Have you no idea at all about the real pattern of social labor today? Didn't you come from Bitterfeld and Delitzsch? In what century of the Middle Ages are you still living with these ideas? ... Have you no inkling that social labor today is precisely characterized by the fact that each person produces precisely what he cannot use himself? Have you no inkling that this has to be so, ever since the rise of modern industry, that the form and essence of present-day labor lies in this, and that without the sharpest emphasis on this point it is impossible to understand a single page of our present-day economic conditions, not a single one of our present-day economic phenomena?
 
 >According to you, then, Herr Leonor Reichenheim in Wüste-Giersdorf produces first of all the cotton yarn that he needs for himself. The surplus, which his daughters cannot work up into more stockings and nightshirts for him, he exchanges.
-
+>
 >Herr Borsig first of all produces machines for his family's needs. He then sells the surplus machines.
-
+>
 >The workshops making mourning clothes provide first of all for deaths in their own families. But if there are too few of these, and some mourning clothes are left over, they exchange them.
-
+>
 >Herr Wolff, proprietor of the local telegraph office, first has messages come in for his own instruction and pleasure. And when he's had his fill, if there are any left over, he exchanges them with the stock-exchange sharks and newspaper editorial offices against their surplus newspaper reports and shares! ...
-
+>
 >In conclusion, it is precisely the distinctive character of labor in _earlier_ periods of society, to be sharply emphasized, that at this time people produced first of all for their own needs and parted with the surplus, i.e. they principally pursued a natural economy.
-
+>
 >And it is again the distinctive character, the specific determination of labor in _modern_ society, that each produces only what he in no way does need, i.e. that everyone produces exchange-values, whereas previously they produced use-values.
-
+>
 >And do you not understand, Herr Schulze, that this is the necessary "form and manner of performing labor," ever more prevailing, in a society in which the division of labor has developed to such a degree as it has in modern society?
 
 What Lassalle tried here to explain to Schulze about capitalist private enterprise applies more each day now to the economic pattern of highly developed capitalist countries such as England, Germany, Belgium or the United States, in whose footsteps the others are following one after the other. And the attempt by the progressive patrician from Bitterfeld to mislead the workers was only more naive, but no cruder, than the tendentious arguments of a Bücher or Sombart against the concept of a world economy today.
@@ -3853,7 +3853,7 @@ the inadequacy of all his predecessors.
 >conceptual articulation and psychologically isolating deduction that
 >have produced such brilliant results for the economy of the present in
 >the hands of the masters of traditional "abstract" political economy.
-
+>
 >We cannot spare the more recent "historical" school the reproach that,
 >instead of penetrating into the nature of earlier economic epochs by
 >the above kind of investigation, it has, almost unnoticed, transferred
@@ -3883,15 +3883,15 @@ propose? Let us hear.
 >divide the whole of economic development into three stages, at least
 >for the peoples of Central and Western Europe, where it can be
 >historically traced with sufficient exactitude:
-
+>
 >1: The stage of self-contained domestic economy (pure subsistence
 >production, exchange-less economy), at which goods are consumed in the
 >same economic unit as that in which they are produced;
-
+>
 >2: The stage of urban economy (production for clients or stage of
 >direct exchange), at which goods move directly from the producing
 >economic unit to the consuming one;
-
+>
 >3: The stage of national economy (commodity production, stage of
 >circulation of goods), at which goods must as a general rule pass
 >through a series of economic units before they are consumed.
@@ -5643,7 +5643,7 @@ came to
 >yellow-, red- and blue-fringed cloth held together by a belt covered
 >his lower body. His legs, like his arms, were decorated with blue
 >jewels.
-
+>
 >Mwata proudly sat there with seven parasols protecting him from the sun
 >and swung around the tail of a wildebeest for a scepter, while twelve
 >Negroes armed with brooms were busy removing every piece of dust from
@@ -5669,7 +5669,7 @@ came to
 >noble aristocrats are the crown prince, Mwata's closest relatives, and
 >the high commanders of his army. But the very lives and property of
 >these nobles exist only due to Mwata's absolute power.
-
+>
 >If this tyrant is in a bad mood, he will have a person's ears cut off
 >if he does not understand a command and asks for it to be repeated, "in
 >order to teach him to listen more carefully." Every theft in his

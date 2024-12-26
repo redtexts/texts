@@ -100,29 +100,29 @@ The Resolution reads as follows:
 >of capitalist development, which, at the same time that the world
 >management becomes international, leaves in existence the national
 >capitalist states, with their conflicting interests.
-
+>
 >When the bourgeoisie and the governments try to mask this character of
 >the world war, by presenting it as a war, forced upon the nations for
 >national independence, the [sic] means deceiving the proletariat,
 >because this war is waged for the very purpose of subjugating foreign
 >people and foreign countries.
-
+>
 >As fraudulent is the legend about a defense of democracy in this war,
 >for Imperialism means the unscrupulous supremacy of Big Capital and
 >political reaction.
-
+>
 >The overcoming of Imperialism is only possible by doing away with the
 >antithesis, from which it originated, which means Socialist
 >Organization of the Capitalist Society, for which objective conditions
 >are ripe.
-
+>
 >At the beginning of the war the majority of the labor leaders failed to
 >apply this only possible tactic against imperialism. Overwhelmed by
 >nationalism, carried away by opportunism, _they surrendered the workers
 >to imperialism the very moment of the outbreak of the war and abandoned
 >the fundamentals of Socialism, thereby giving up the real fight for
 >proletarian interests_.
-
+>
 >Social patriotism and social imperialism, as accepted in Germany, not
 >only by the openly patriotic majority of the former Socialist leaders,
 >but also by-the center of the party around Kautsky, in France by the
@@ -133,13 +133,13 @@ The Resolution reads as follows:
 >workers by abusing the Socialist flag. _The uncompromising fight
 >against Social Imperialism is fundamental to a revolutionary
 >mobilization of the proletariat and the rebirth of the International_.
-
+>
 >It is the problem before the Socialist parties, as well as the
 >Socialist minorities in the now Social imperialistic parties, to awake
 >and to lead the mass of the workers in a _revolutionary struggle_
 >against the capitalist governments, to conquer political power for the
 >Socialist organization of society.
-
+>
 >Without giving up the fight for every inch of ground under present
 >Capitalism, for every reform that will strengthen the working class,
 >without denouncing any means of organizing and propaganda, the
@@ -152,7 +152,7 @@ The Resolution reads as follows:
 >domination of one nation by another, and the cry for new annexations
 >will not tempt because of any national solidarity, which has now led
 >the workers to the battle-field.
-
+>
 >The beginning of this struggle forms _the fight against the world-war,
 >to end the general murder as soon as possible_. This fight requires
 >_the voting against war credits, the giving up of any participation in
@@ -166,7 +166,7 @@ The Resolution reads as follows:
 >of _economic strikes_ and the endeavor to enlarge these, whenever
 >conditions are favorable, into political, strikes. _Civil war, not
 >civil peace_, is the issue.
-
+>
 >Contrary to all illusions, as to the possibility of getting a permanent
 >peace or a beginning of disarmament by whatever decree of diplomacy and
 >governments, the revolutionary Social democrats must show the workers

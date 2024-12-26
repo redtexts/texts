@@ -1284,14 +1284,14 @@ sentiment. In his autobiographical speech he went on to say:
 >Bochorishvili, of Ninua, and other advanced workers of Tiflis, I
 >learned _practical work_. In comparison with these comrades I was then
 >a tyro.
-
+>
 >Perhaps I had a little more book-learning than many of these comrades.
 >But in the practice of revolution I was certainly a beginner. Here,
 >among these comrades, I received my first baptism of fire in
 >revolution. Here, among these comrades, I became an apprentice of
 >revolution. As you see, my first teachers were the workers of Tiflis.
 >Allow me to express to them now the sincere gratitude of a comrade.
-
+>
 >Then I remember the years 1905 to 1907, when at the desire of the Party
 >I was _thrown_ into the work at Baku. Two years of revolutionary work
 >among the oil workers made me a _practical_ fighter and a _practical_
@@ -1329,7 +1329,7 @@ workman. The last part of the speech emphasises the picture:
 >Russia, under Lenin's direction, I became a master-worker in
 >revolution. Let me express to my Russian teachers my sincere gratitude
 >as a comrade and bow my head before the memory of my master Lenin.
-
+>
 >From apprentice at Tiflis, to journeyman at Baku, to masterworker in
 >our revolution at Leningrad -- such, comrades, is the course of my
 >apprenticeship to revolution. Such, comrades, is the true picture,
@@ -1707,7 +1707,7 @@ of petrol from Baku, and it had become the principal commercial port of
 the Caucasus and the terminus of the railway. The strongest workers'
 units were in the Rothschild and Mantashev works. Stalin worked among
 them, encouraged strikes, and took part in a street demonstration
-in 1902. The disciplinary measures taken against him at Tiflis did not
+in 1902\. The disciplinary measures taken against him at Tiflis did not
 prevent him from militant action elsewhere in the then primitive state
 of Social-Democratic organisation. But he had little inclination to
 measure himself against N. Chkheidze, I. Ramishvili, and other leading
@@ -3502,11 +3502,11 @@ word is justified) like a bomb.
 ### 4.2
 
 >Tiflis, June 26.
-
+>
 >To-day in Erivan Square in the middle of the town, and at a moment when
 >the Square was swarming with people, ten bombs were thrown in
 >succession. They exploded with great force.
-
+>
 >Between each of the explosions there were rifle and revolver shots.
 >Chimneys, doors and windows were broken or shaken down. The Square was
 >covered with debris. There were many killed and wounded. The
@@ -3603,7 +3603,7 @@ Bank."
 >From Pushkin Square, from which the Post Office could be seen, Patsya
 >Goldava gave the signal agreed with Stepko Kitskirvelli: They are
 >starting!
-
+>
 >The latter immediately communicated with Annette Sulamlidze, who in
 >turn, passed on the message to the _boyeviki_ who were waiting in the
 >Tilipuchuri Restaurant. Bachua Kupriashvili walked round Erivan Square
@@ -3616,17 +3616,17 @@ Bank."
 >Lomidze waited at the corner of the Armenian Bazaar and V.... Street,
 >defending the road by which the expropriators were to carry off the
 >money.
-
+>
 >Surrounded by horsemen the carriages drove rapidly through clouds of
 >dust. The Cossacks in front were already turning into S.... Street. At
 >that moment Datiko stepped forward a few paces. All the conspirators
 >hurled their bombs with all their strength.
-
+>
 >Two explosions, and then another two. Two policemen and a Cossack lay
 >on the pavement. The horses dashed through the escort. But the carriage
 >in which the money was loaded was not blown up, and the horses dashed
 >with it towards the S.... Bazaar.
-
+>
 >This was the decisive moment, and Bachua alone kept his head. He dashed
 >forward to cut off the horses; and caught the carriage at the end of
 >the Square. Unhesitatingly and with no thought for his own safety he
@@ -3635,7 +3635,7 @@ Bank."
 >bold _boyeviki_ but Chibriashvili came up just in time. Without paying
 >any attention to Bachua, he dragged the bag of money from the carriage
 >and made off in the direction of V.... Street.
-
+>
 >Where was Kamo, organiser and inspirer of the whole business? Dressed
 >as an officer, still pale and hardly recovered from his wounds, he had
 >been walking about the Square all the morning, keeping the public away
@@ -3645,7 +3645,7 @@ Bank."
 >in safety. When he came out of G.... Street into the Square, in
 >accordance with the plan of campaign, he thought the attempt was
 >another failure.
-
+>
 >In any case he had to help the comrades to get away before the soldiers
 >arrived-that was Kamo's first instinct. Rising in his seat, shooting
 >with his revolver, uttering shouts and oaths like a real captain, he
@@ -3653,7 +3653,7 @@ Bank."
 >encountered Datiko. The money was taken to the house of Mikha
 >Bocharidze and hidden under a divan. Then it was taken to an absolutely
 >safe place, the private office of the Director of the Observatory.
-
+>
 >When the soldiers surrounded the Square they found no one there.
 >Luckily all the persons engaged escaped arrest. Only certain indirect
 >accomplices, changing the notes abroad, were discovered with small
@@ -4188,7 +4188,7 @@ describes Koba as given to formal controversies.
 >Ordjonikidze ... brought home his conclusion by striking his fellow
 >speaker, the Socialist Revolutionary Ilya Kartsevadze, in the face, for
 >which he received a thorough thrashing from the Social Revolutionaries.
-
+>
 >Koba's personal appearance and his rudeness in controversy made him an
 >unpleasing speaker. His speeches lacked wit and his statement of his
 >case was dry. His mechanised memory was astounding.
@@ -5079,7 +5079,7 @@ _tundra_.
 THE War broke the workers' revolutionary movement in Russia just as it
 was reviving. Its power and energy had been revealed by strikes and
 barricade fighting in St. Petersburg during M. Poincare's visit in
-July 1914. As everywhere else, mobilisation and the state of war stifled
+July 1914\. As everywhere else, mobilisation and the state of war stifled
 at first all tendencies to open opposition. The policy of the great
 socialist parties of the belligerent countries in rallying to the "union
 sacrée" caused profound disturbance in the various strata of Russian
@@ -5535,7 +5535,7 @@ first repercussions as follows:
 >Bolsheviks over the extremists. Even in the Executive Committee we were
 >met with venomous smiles. It was the first and the only time that
 >_Pravda_ won the praise of "defensists" of the worst type.
-
+>
 >In the factories, this number of _Pravda_ produced stupefaction among
 >the adherents of our Party and its sympathisers, and the sarcastic
 >satisfaction of our enemies. In the Petrograd Committee, at the Bureau
@@ -5599,7 +5599,7 @@ closest comrade and the strongest representative of the state of mind
 which he condemns, and warns him to be on his guard against all the
 conciliators, including Stalin. At last, just as his patience was
 exhausted, he succeeded in returning to Russia, crossing Germany with a
-group Of émigrés, whence the legend of the "sealed car."
+group of émigrés, whence the legend of the "sealed car."
 
 The idea was not Lenin's but Martov's. In face of the refusal of the
 Governments of London and Paris to allow the political exiles to be
@@ -6304,7 +6304,7 @@ follows practical advice on the creation of a general staff for
 insurrection, on the distribution of forces, the occupation of strategic
 points, and the indispensable preliminary operations. Now or never, was
 the time to use, for the purposes of civil war, the military science
-learned from the study Of the "masters of war," of Clausewitz, and of
+learned from the study of the "masters of war," of Clausewitz, and of
 the experience of 1905.
 
 How did the Party respond to Lenin's hopes and appeals? The minutes of
@@ -7100,7 +7100,7 @@ sailors.
 The whole of the non-Bolshevik press abused and vilified the usurpers."
 Only the journals of the Right had been suspended, but the others felt
 their interests assailed by the attack on the freedom of the press.
-Articles Of Gorky, a former Left Bolshevik, give an idea of the general
+Articles of Gorky, a former Left Bolshevik, give an idea of the general
 point of view, and sum up the average opinion held by the socialist
 revolutionary intelligentsia: "Lenin, Trotsky and their disciples are
 already intoxicated with the poison of power as is proved by their
@@ -10576,7 +10576,7 @@ accumulation of duties, was strongly criticised, and Preobrazhensky
 cited Stalin as a case in point: "Take, for instance, Comrade Stalin, a
 member of the Politbureau and in charge of two Commissariats. Is it
 conceivable that one individual is equal to the work of two
-Commissariats, besides that Of the Politbureau, the Orgbureau, and a
+Commissariats, besides that of the Politbureau, the Orgbureau, and a
 dozen committees of the Central Committee?" To which Lenin replied in
 general terms that "there were no men available," and with regard to
 Stalin, silent in the Congress, that "we must have someone to whom any
@@ -10722,7 +10722,7 @@ to be superfluous; the death penalty alone would remain. "Mensheviks and
 Social Revolutionaries, openly confessed as such or disguised as
 non-Party men, we will keep in prison," he continued. A year later the
 tone is worse: "It's a case of machine-guns for the people called
-Mensheviks and Social Revolutionaries." The weight Of the iron hand was
+Mensheviks and Social Revolutionaries." The weight of the iron hand was
 soon felt by all citizens, including trade unionists and communists. In
 the Party there was henceforward only one valid dogma, that of the
 Politbureau, an orthodoxy of which Trotsky had once said: "Anyone who
@@ -11005,7 +11005,7 @@ he feared he might not be able to take part:
 >avoided, and the avoidance of which might be promoted, in my opinion,
 >by raising the number of members of the Central Committee to fifty or
 >one hundred.
-
+>
 >_Comrade Stalin, having become General Secretary, has concentrated an
 >enormous power in his hands; and I am not sure that he always knows how
 >to use that power with sufficient caution_. On the other hand Comrade
@@ -11016,7 +11016,7 @@ he feared he might not be able to take part:
 >Central Committee; but also by his too far-reaching self-confidence and
 >a disposition to be too much attracted by the purely administrative
 >side of affairs.
-
+>
 >These two qualities of the two most able leaders of the present Central
 >Committee might, quite innocently, lead to a split; if our Party does
 >not take measures to prevent it, a split might arise unexpectedly.
@@ -11341,7 +11341,7 @@ of essentials."
 
 The October Revolution had not only destroyed the material survivals
 from the Middle Ages, slavery and feudalism, as Lenin said modestly
-in 1921. There remained a great positive inheritance as a basis for the
+in 1921\. There remained a great positive inheritance as a basis for the
 creation of the most democratic republic in history and for taking the
 first steps towards a socialist regime. The internecine differences of a
 hostile world gave Soviet Russia more than one respite, and offered
@@ -11701,7 +11701,7 @@ the Ukrainian Communist Congress:
 >to act so that he will be richer this year than last year_. He will
 >understand this formula if we put it as the foundation of our internal
 >policy; it is profoundly different from War Communism. Then we demanded
->from the peasant the whole surplus Of his production over his immediate
+>from the peasant the whole surplus of his production over his immediate
 >needs; but with no surplus, an enterprise totters and falls. To-day we
 >say to him: a surplus is indispensable to advancement of your business,
 >keep it. _For, unless there is advancement in agriculture, we shall
@@ -11838,7 +11838,7 @@ any method of coercion to break them.
 Only small local groups of the old, broken-up Workers' Opposition
 survived. But a more active section, the Workers' Truth, issued some
 proclamations from the end of 1922 onwards. It attacked as a "new
-bourgeoisie" the higher and middle officials Of the Party, of the trade
+bourgeoisie" the higher and middle officials of the Party, of the trade
 unions and of the State, denounced the political and material advantages
 they enjoyed, and refused to acknowledge as a dictatorship of the
 proletariat a regime of tyranny and exploitation." "_The gulf between
@@ -12669,23 +12669,23 @@ Leninist religion. The result is worth quoting:
 >In leaving us, Comrade Lenin commanded us to hold high and to keep pure
 >the great name of Member of the Party. We swear to thee, Comrade Lenin,
 >to honour thy command.
-
+>
 >In leaving us, Comrade Lenin ordered us to conserve the unity of our
 >Party as the, apple of our eye. We swear to thee, Comrade Lenin, to
 >honour thy command.
-
+>
 >In leaving us, Comrade Lenin ordered us to maintain and strengthen the
 >dictatorship of the proletariat. We swear to thee, Comrade Lenin, to
 >exert our full strength to honour thy command.
-
+>
 >In leaving us, Comrade Lenin ordered us to strengthen with all our
 >might the union of workers and peasants. We swear to thee, Comrade
 >Lenin, to honour thy command.
-
+>
 >In leaving us, Comrade Lenin ordered us to strengthen and enlarge the
 >Union of the Republics. We swear to thee, Comrade Lenin, to honour thy
 >command.
-
+>
 >In leaving us, Comrade Lenin enjoined on us fidelity to the Communist
 >International. We swear to thee, Comrade Lenin, to devote our lives to
 >the enlargement and strengthening of the union of the workers of the
@@ -12932,8 +12932,8 @@ scientific principles, in enormous solid articles, made it its task to
 preserve "the purity of Leninist principles," evidently threatened by
 any thinking brain, and proclaimed, in a first combative editorial: "We
 were, are, and shall be, hard as a rock." Official instructions,
-whispered from the highest to the lowest in the hierarchy Of
-secretaries, suggested ways of showing zeal at the expense Of the
+whispered from the highest to the lowest in the hierarchy of
+secretaries, suggested ways of showing zeal at the expense of the
 Opposition. Omission of Trotsky's name from a list of the honorary
 presidents of a meeting, the removal of his portrait from an office,
 denunciation on all occasions of his "errors" or "bourgeois heresies,"
@@ -13106,8 +13106,8 @@ remained to be done was to foresee and to prohibit misunderstandings
 such as the inopportune storm of applause which had greeted Trotsky's
 appearance, though this could have no possible effect on the course of
 events. The new Central Committee had eighty-seven members, including
-deputy-members, and the Control Commission more than 150. But instead of
-enlarging the governing oligarchy, as Lenin had mistakenly supposed,
+deputy-members, and the Control Commission more than 150\. But instead
+of enlarging the governing oligarchy, as Lenin had mistakenly supposed,
 this numerical increase reduced still more the importance of the two
 committees, to the advantage of their small bureaux and, in the last
 resort, of the General Secretary.
@@ -13718,10 +13718,12 @@ sheds light on a certain aspect of Leninism, both in essence and in form
 terminology.
 
 >4 Consider the discussion as ended.
+>
 >5 Continue and develop the work of the Party so as to explain from begin from 1903 down to _The Lessons of October_, and charge the Political Bureau to furnish all the propaganda organisations (Party schools and others) with the necessary explanations on the subjects; insert in the curricula of political instruction explanations of the petty-bourgeois nature of Trotskyism, etc.
+>
 >6 In addition to explanatory propaganda in the Party, the Young Communists, etc., a broad popular explanation of the deviations of Trotskyism is indispensable for the worker and the peasant masses.
 
-Disparagement Of Trotsky thus took a permanent place at the moment when
+Disparagement of Trotsky thus took a permanent place at the moment when
 the rulers were pretending to suspend it. Any objection or
 contradiction, which might be ascribed to Trotskyism by those who
 monopolised the power of public expression, incurred henceforth the most
@@ -13739,7 +13741,7 @@ subversive literature, hindered and repressed by the G.P.U., cost those
 who were found taking part in it exclusion from the Party, that is, the
 loss of wages and house-room. Denunciations and abjurations decimated
 the ranks of the demoralised Left. Although the younger supporters gave
-evidence sometimes of cowardice, sometimes Of ambition, Trotsky had
+evidence sometimes of cowardice, sometimes of ambition, Trotsky had
 founded his hopes on them.
 
 "The Party was condemned to silence. A regime of pure dictatorship was
@@ -13761,7 +13763,7 @@ conflict with Stalin.
 
 ### 8.7
 
-THE conflict Of the triumvirs, arising out of differences on the course
+THE conflict of the triumvirs, arising out of differences on the course
 to be pursued against Trotsky, was soon transformed into a struggle for
 precedence which became more envenomed in the course of 1925.
 
@@ -14529,7 +14531,7 @@ stenographic report is attenuated but revealing:
 >loud applause.) Long live the Central Committee of our Party! Hurrah!
 >(Delegates shout Hurrah.) The Party above all! Yes, indeed! (Applause
 >and hurrahs.)
-
+>
 >Various voices. Long live Comrade Stalin! (Loud and prolonged cheers.
 >Cries of hurrah. Clamour.)
 
@@ -14585,14 +14587,14 @@ the Opposition, except on the very problem to he solved:
 >Central Committee. That is the only point upon which they are fully
 >united. The statement may seem strange, even ludicrous, but it is a
 >fact.
-
+>
 >There is a history behind all this. In the year 1923 after the Twelfth
 >Party Congress, these people, assembling in a "cellar" (laughter),
 >elaborated a platform in accordance with which the Political Bureau was
 >to be abolished and the Secretariat was to become the leading political
 >and organisational body. It was to consist of Zinoviev, Trotsky and
 >Stalin. What was the meaning of this platform? It meant that the party
->was to be led without Rykov, 'without Kalinin, without Tomsky, without
+>was to be led without Rykov, without Kalinin, without Tomsky, without
 >Molotov, without Bukharin. The platform came to nothing, not only
 >because it did not represent any principles, but also because the Party
 >cannot be led without the aid of those comrades I have just named. When
@@ -14604,8 +14606,8 @@ the Opposition, except on the very problem to he solved:
 >(Laughter.) Now it seems a new stage is beginning, opposed to the
 >first. Now they are demanding not the politicalisation of the
 >Secretariat, but its technicalisation, not the suppression of the
->Politbureau, but its omnipotence.... My only ear is that the Party will
->nor agree. _(A voice:_ Excellent!)
+>Politbureau, but its omnipotence.... My only fear is that the Party
+>will not agree. (_A voice:_ Excellent!)
 
 Stalin's game in all its simple astuteness is exposed in this speech.
 Master of the mechanism of government by the hold of the Party over the
@@ -15124,15 +15126,15 @@ Left which he purposely exaggerated:
 >would certainly be a fiasco_ -- to say nothing of the fact that if we
 >were to spend so much upon industry, there would be nothing left over
 >for agricultural credits.
-
->We might increase our imports twofold, especially the Import of
+>
+>We might increase our imports twofold, especially the import of
 >machinery, in order to hasten the growth of industry; but this, by
 >making our imports greatly exceed our exports, would lead to an
 >unfavourable balance of trade, and would disturb our exchange. This
 >would mean an undermining of the foundation _on which alone a carefully
 >planned guidance and development of manufacturing industry is
 >possible_.
-
+>
 >We might greatly increase exports, without paying heed to any other of
 >the main constituents of our economic life. We might do this regardless
 >of the condition of the home market. _The consequences of such a policy
@@ -17216,7 +17218,7 @@ information was secretly whispered and soon became well known.
 
 On July 11, 1928, Bukharin and Kamenev had a secret interview arranged
 by Sokolnikov. The same evening Kamenev dispatched an account of the
-conversations, completed by some Of his own reflections, to Zinoviev,
+conversations, completed by some of his own reflections, to Zinoviev,
 doing penance at Voronezh. Six months later the Trotskyists secretly
 published these revealing documents. Thus Bukharin, in spite of himself,
 makes a truthful and sincere contribution to Stalin's biography, the
@@ -17698,7 +17700,7 @@ and a few weeks later I. Smirnov, Byeloborodov and hundreds of others
 followed them. Even the last four intractable ones, Rakovsky, Sosnovsky,
 Muralov and V. Kossior, and their friends, raised no objections to the
 official policy except the injustices done to the original
-"industrialists," and the danger Of a future "zigzag to the Right." "The
+"industrialists," and the danger of a future "zigzag to the Right." "The
 Left Wing, from whose platform all the essential ideas of the Five Year
 Plan have been copied, still suffers under repressions and calumnies,"
 Trotsky complained in November 1929, but, he wrote, "the greatest
@@ -19193,17 +19195,38 @@ In the elementary style which is so typical of him, Stalin summed up
 before the Central Committee the general balance-sheet of
 industrialisation carried out according to his methods:
 
->Formerly we did not have an iron and steel industry, the basis of the industrialisation of the country. Now we have such an industry.
+>Formerly we did not have an iron and steel industry, the basis of the
+>industrialisation of the country. Now we have such an industry.
+>
 >We did not have a tractor industry. Now we have one.
+>
 >We did not have an automobile industry. Now we have one.
+>
 >We did not have an engineering industry. Now we have one.
->We did not have an important and modern chemical industry. Now we have one.
->We did not have a real and important industry for the production of modern agricultural machinery. Now we have one.
+>
+>We did not have an important and modern chemical industry. Now we have
+>one.
+>
+>We did not have a real and important industry for the production of
+>modern agricultural machinery. Now we have one.
+>
 >We did not have an aircraft industry. Now we have one.
->In the production of electric power, we were last in the list. Now we are among the first in the list.
->In the production of oil products and coal we were last in the list. Now we are among the first in the list.
->We had only one single coal and metallurgical base, the Ukraine, which we could hardly manage. We have not only succeeded in improving this base, but we have created a new coal and metallurgical base -- in the east, which is the pride of our country.
->We had only one single textile industry base-in the north of our country. In the very near future we will have two new bases of the textile industry, in Central Asia and Eastern Siberia.
+>
+>In the production of electric power, we were last in the list. Now we
+>are among the first in the list.
+>
+>In the production of oil products and coal we were last in the list.
+>Now we are among the first in the list.
+>
+>We had only one single coal and metallurgical base, the Ukraine, which
+>we could hardly manage. We have not only succeeded in improving this
+>base, but we have created a new coal and metallurgical base -- in the
+>east, which is the pride of our country.
+>
+>We had only one single textile industry base-in the north of our
+>country. In the very near future we will have two new bases of the
+>textile industry, in Central Asia and Eastern Siberia.
+>
 >And we have not only created these new enormous branches of industry,
 >but we have created them on such a scale and of such dimensions that
 >they make the scale and dimensions of European industry pale into
@@ -22276,7 +22299,7 @@ without trying to discredit them. In stigmatising them no great
 Imagination was shown: treason, connivance with Polish or Japanese
 spies, with the Gestapo or the Intelligence Service became current coin
 (it is curious to note that the Italian Ovra has never been implicated).
-Thus "nests of Trotskyists," "nests Of spies," "nests of fascism," were
+Thus "nests of Trotskyists," "nests of spies," "nests of fascism," were
 discovered in all the Russias, in towns and villages, in the countryside
 and on the mountains, at the head of all institutions and services.
 According to the revelations and denunciations of this period, the
@@ -23733,7 +23756,7 @@ itself and Stalin's regime, has inexorable consequences. A military
 defeat of the U.S.S.R., or an internal crisis, might be fatal to her
 unwary allies and turn to disaster. A final common victory won by the
 arms and resources of her allies, and ending in general exhaustion,
-would bring into force another fear expressed by Marx. if the continent
+would bring into force another fear expressed by Marx. If the continent
 of Europe persisted in capitalist excesses, the submission of man to the
 machine, the armaments race, the piling up of public debts, then -- as
 the author of _Capital_ wrote in 1867 -- "the rejuvenation of Europe by

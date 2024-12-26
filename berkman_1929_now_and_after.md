@@ -1446,13 +1446,13 @@ avoirdupois. Nevertheless, amid much weeping and swearing, they are
 selected; all dressed in red; and shipped away, at public charge, some
 two thousand miles, or say only to the south of Spain, and fed there
 till wanted.
-
+>
 >"And now to that same spot in the south of Spain are thirty similar
 French artisans, from a French Dumdrudge, in like manner wending, till
 at length, after infinite effort, the two parties come into actual
 juxtaposition; and Thirty stands fronting Thirty, each with a gun in his
 hand.
-
+>
 >"Straightway the word 'Fire!' is given, and they blow the souls out of
 one another, and in the place of sixty brisk useful craftsmen, the world
 has sixty dead carcasses, which it must bury, and anon shed tears for.

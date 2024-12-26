@@ -160,7 +160,7 @@ societies:
 >adult, to pass from apolitical to political. The destiny of all society
 >is the State as the organ which knows and expresses the common good for
 >all and which undertakes to impose it.
-
+>
 >Such is the traditional, almost general, conception of primitive
 >societies as state-less societies. The absence of the State indicates
 >their incompleteness, the embryonic stage of their existence, their
@@ -174,7 +174,7 @@ societies:
 >advance in their being. Freed from this innocent exoticism,
 >anthropology can now take seriously the real question for political
 >study: why were primitive societies state-less societies?
-
+>
 >As complete, finished, adult and no longer sub-political embryonic
 >societies, primitive societies have no state because they rejected the
 >divisions of the social body into dominators and dominated. The policy
@@ -186,7 +186,7 @@ societies:
 >keeps the society as one whole, with a view to maintaining its unitary
 >being, to warding off the appearance within it of the inequality
 >between masters and subjects, between the chief and the tribe.
-
+>
 >To hold power is to exercise it, to exercise it is to dominate those
 >upon whom it is exercised; which is exactly what primitive societies do
 >not want, which is why the chiefs are powerless, why power is not
@@ -233,31 +233,31 @@ relations. In the chapter discussing, in the form of a questionnaire,
 money and servitude, the following answers are given:
 
 >**1. What is money?**
-
+>
 >It is the value of human activity expressed in figures, the selling
 >price of the exchange of our lives.
-
+>
 >**2. Can human activity be expressed in figures?**
-
+>
 >Human activity, just as little as man himself, has no price: because
 >human activity is human life, which no sum of money can compensate, it
 >is invaluable.
-
+>
 >**3. What is the person who can be sold for money or who sells himself
 >for money?**
-
+>
 >The person who can be sold for money is a slave and the person who
 >sells himself for money has the soul of a slave.
-
+>
 >**4. What must we deduce from the existence of money?**
-
+>
 >We must deduce from this existence enslavement, because money is the
 >very sign of human slavery since it is the value of man expressed in
 >figures.
-
+>
 >**5. How long will people stay slaves and selling their abilities for
 >money?**
-
+>
 >This will remain so until society provides and guarantees each person
 >the means necessary for human life and action, so that the individual
 >will not be constrained to obtain these means by his own initiative and
@@ -267,10 +267,10 @@ money and servitude, the following answers are given:
 >can only be abolished by the establishment of a communitarian society
 >in which the means will be offered to each to develop and to use their
 >human faculties.
-
+>
 >**6. In a society thus instituted, is the existence of money possible
 >or imaginable?**
-
+>
 >No more than the existence of human enslavement. Since men will no
 >longer be obliged to sell to one another their powers and abilities,
 >they will have no more need to calculate their value in figures, they

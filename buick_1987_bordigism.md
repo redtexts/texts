@@ -17,7 +17,7 @@ society:
 >into being a world where human activity will never again take the form
 >of wage labour and where the products of such activity will no longer
 >be objects of commerce...
-
+>
 >Communism does not overthrow capital in order to restore commodities to
 >their original state. Commodity exchange is a link and a progress. But
 >it is a link between antagonistic parts. It will disappear without
@@ -26,10 +26,10 @@ society:
 >enterprises. It will organise itself to plan and use its common
 >heritage and to share out duties and enjoyments. The logic of sharing
 >will replace the logic of exchange.
-
+>
 >Money will disappear. It is not a neutral instrument of measurement. It
 >is the commodity in which all other commodities are reflected.
-
+>
 >Gold, silver and diamonds will no longer have any value apart from that
 >arising from their own utility. Gold can be reserved, in accordance
 >with Lenin's wish, for the construction of public lavatories^[_Un Monde
@@ -214,7 +214,7 @@ which were _both_ to be non-commercial and non-Monetary:
 
 >The following schema can serve as a re-capitulation of our difficult
 >subject...:
-
+>
 >_Transition stage_: the proletariat has conquered power and must
 >withdraw legal protection from the non-proletarian classes, precisely
 >because it cannot 'abolish' them in one go. This means that the
@@ -223,7 +223,7 @@ which were _both_ to be non-commercial and non-Monetary:
 >private disposition of the product and the means of production (whether
 >these be concentrated or scattered). Economy not yet socialist, a
 >transitional economy.
-
+>
 >_Lower stage of communism_: or, if you want, socialism. Society has
 >already come to _dispose of_ the products in _general_ and allocates
 >them to its members by means of a plan for 'rationing'. Exchange and
@@ -235,7 +235,7 @@ which were _both_ to be non-commercial and non-Monetary:
 >takes place without any equivalent in exchange. Example: when a malaria
 >epidemic breaks out, quinine is distributed free in the area concerned,
 >but in the proportion of a single tube per inhabitant.
-
+>
 >In this stage, apart from the obligation to work continuing, the
 >recording of the labour time supplied and the certificate attesting
 >this are necessary, i.e. the famous labour voucher so much discussed
@@ -243,7 +243,7 @@ which were _both_ to be non-commercial and non-Monetary:
 >to do so will involve the loss of a given amount of labour without
 >restitution of any equivalent. The law of value is buried (Engels:
 >society no longer attributes a 'value' to products).
-
+>
 >_Higher stage of communism_ which can also without hesitation be called
 >full socialism. The productivity of labour has become such that neither
 >constraint nor rationing are any longer necessary (except for
@@ -471,7 +471,7 @@ of the enterprise-capitalist system the following conclusion:
 >Thus, the _socialist demand_ proposes to overthrow not only _private
 >property_ law and economy, but at the same time the _market economy and
 >the enterprise economy_.
-
+>
 >It is only when society is moving beyond these three features of
 >present-day economy -- private ownership of the products, monetary
 >market, organisation of production by enterprises -- that it will be
@@ -802,11 +802,11 @@ available for individuals to take freely without charge:
 >land and fixed installations. In this society there will be no
 >individual appropriation even for consumption; distribution will be
 >social and for social purposes.
-
+>
 >Social consumption differs from individual consumption in that the
 >physical attribution of consumer goods does not take place through the
 >intermediary of commercial purchase and with the monetary means.
-
+>
 >When society satisfies all the needs of its members which do not
 >conflict with the best interests of its development, _independently_ of
 >the greater or lesser contribution they have made to social labour, all

@@ -159,7 +159,7 @@ individuals and groups of which it is composed, acknowledge truth,
 justice and morality as the rules governing their mutual affairs as well
 as their dealing with all others, without consideration of color, creed
 or nationality."
-
+>
 >"It is considered to be each man's duty to demand civil rights and
 human rights not just for himself but also for all those who do their
 duty. No rights without duties, no duties without rights."
@@ -240,7 +240,7 @@ studies of _international credit_ and send the results thereof to the
 general council, and that they publicize these studies for the benefit
 of all comrades in their 'bulletins', so that, at the next congress,
 the comrades will be able to pass resolutions in connection therewith."
-
+>
 >"2. The Congress recommends the immediate study of the idea of the
 cooperative fusion of all the present and future workers credit
 institutions into a future _central bank_ of the International
@@ -265,7 +265,7 @@ instead:
 >"From the physical, moral and social perspectives, female labor must
 be rejected, as it is a cause of degeneration and is one of the sources
 of the moral decline of the working class."
-
+>
 >"Woman has received certain tasks from nature, and her place is in the
 family; her duty consists in raising children, bringing order to man's
 life, accustoming him to family life and improving his habits. These
@@ -658,7 +658,7 @@ These relations of class, property and production (in other words,
 social existence) determine man's consciousness, that is, his
 conceptions of rights, politics, morality, religion, philosophy, art,
 etc.
-
+>
 >2. Technology is undergoing continuous development.
 Consequently, the productive forces, the mode of production, property
 and class relations, are also undergoing constant modification.
@@ -666,7 +666,7 @@ and class relations, are also undergoing constant modification.
 rights, politics, morality, religion, philosophy, art, etc., are also
 modified along with the relations of production and the productive
 forces.
-
+>
 >3. The _new_ technology, at a certain stage of development, enters
 into conflict with the old relations of production and property.
  Finally, the new technology prevails.

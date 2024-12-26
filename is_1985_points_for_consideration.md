@@ -266,31 +266,31 @@ discovery and realization without also embarking on the revolution.
 #### A Communist Credo: Questions and Answers-Excerpts (Moses Hess, 1844)
 
 >**1. What is money?**
-
+>
 >It is the value of human activity expressed in figures, the selling
 >price of the exchange of our lives.
-
+>
 >**2. Can human activity be expressed in figures?**
-
+>
 >Human activity, just as little as man himself, has no price: because
 >human activity is human life, which no sum of money can compensate, it
 >is invaluable.
-
+>
 >**3. What is the person who can be sold for money or who sells himself
 >for money?**
-
+>
 >The person who can be sold for money is a slave and the person who
 >sells himself for money has the soul of a slave.
-
+>
 >**4. What must we deduce from the existence of money?**
-
+>
 >We must deduce from this existence enslavement, because money is the
 >very sign of human slavery since it is the value of man expressed in
 >figures.
-
+>
 >**5. How long will people stay slaves and selling their abilities for
 >money?**
-
+>
 >This will remain so until society provides and guarantees each person
 >the means necessary for human life and action, so that the individual
 >will not be constrained to obtain these means by his own initiative and
@@ -300,10 +300,10 @@ discovery and realization without also embarking on the revolution.
 >can only be abolished by the establishment of a communitarian society
 >in which the means will be offered to each to develop and to use their
 >human faculties.
-
+>
 >**6. In a society thus instituted, is the existence of money possible
 >or imaginable?**
-
+>
 >No more than the existence of human enslavement. Since men will no
 >longer be obliged to sell to one another their powers and abilities,
 >they will have no more need to calculate their value in figures, they
@@ -561,7 +561,7 @@ criticize will be the result of their common labors.
 >learn to beat their swords into ploughshares, and their spears into
 >pruning hooks, and leave off warring, until this cheating device of
 >buying and selling be cast out among the rubbish of kingly power.
-
+>
 >The earth is to be planted, and the fruits reaped and carried into
 >barns and store-houses, by the assistance of every family. And if any
 >man or family want corn or-other provision they may go to the
@@ -573,7 +573,7 @@ criticize will be the result of their common labors.
 >without money; or else go to the flocks of sheep or herds of cattle,
 >and take and kill what meat is needful for their families, without
 >buying and selling.
-
+>
 >For as particular families and tradesmen do make several works more
 >than they can make use of: as hats, shoes, gloves, stockings, linen and
 >woollen cloth and the like, and do carry their particular work to
@@ -581,7 +581,7 @@ criticize will be the result of their common labors.
 >other store-houses, and fetch any other commodity which they want and
 >cannot make; for as other men partakes of their labours, it is reason
 >they should partake of other men's.
-
+>
 >As silver and gold is either found out in mines in our own land, or
 >brought by shipping from beyond sea, it shall not be coined with a
 >conqueror's stamp upon it, to set up buying and selling under his name
@@ -855,19 +855,19 @@ without being destroyed or ignored.
 #### How Matters are Managed (Chapter 14 of _News from Nowhere_ by William Morris, 1889)
 
 >Said I: "How about your relations with foreign nations?"
-
+>
 >"I will not affect not to know what you mean," said he, "but I will
 >tell you at once that the whole system of rival and contending nations
 >which played so great a part in the 'government' of the world of
 >civilisation has disappeared along with the inequality betwixt man and
 >man in society."
-
+>
 >"Does not that make the world duller?" said I.
-
+>
 >"Why?" said the old man.
-
+>
 >"The obliteration of national variety," said I.
-
+>
 >"Nonsense," he said, somewhat snappishly. "Cross the water and see. You
 >will find plenty of variety: the landscape the building, the diet, the
 >amusements, all various. The men and women varying in looks as well as
@@ -877,9 +877,9 @@ without being destroyed or ignored.
 >one another into certain artificial and mechanical groups and call them
 >nations, and stimulate their patriotism - i.e., their foolish and
 >envious prejudices?"
-
+>
 >"Well - I don't know how," said I.
-
+>
 >"That's right," said Hammond cheerily; "you can easily understand that
 >now we are freed from this folly it is obvious to us that by means of
 >this very diversity the different strains of blood in the world can be
@@ -1118,10 +1118,10 @@ this tendency will or will not be successful because we have not chosen
 it: it is this tendency itself that draws us on and allows us to explain
 what we think is best about us.
 
-#### On the Lack of Incentive to Labour in a Communist Society (Chapter 15 of _News from Nowhere_ by William Morris, 1889)
+### On the Lack of Incentive to Labour in a Communist Society (Chapter 15 of _News from Nowhere_ by William Morris, 1889)
 
 >"But the labour-saving machines?"
-
+>
 >"Heyday!" quoth he. "What's that you are saying? the labour-saving
 >machines? Yes, they were meant to 'save labour' (or, to speak more
 >plainly, the lives of men) on one piece of work in order that it might

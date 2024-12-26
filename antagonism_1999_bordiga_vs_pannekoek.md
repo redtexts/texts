@@ -346,7 +346,7 @@ describe:
 >"The escalation had gone as far as the formation of general assemblies
 >of sections of the population inside the occupied universities. The
 >occupants organized their own activities.
-
+>
 >"However, the people who 'socialized' the universities did not see the
 >factories as SOCIAL means of production; they did not see that these
 >factories have not been created by the workers employed there, but by
@@ -364,7 +364,7 @@ by factory:
 >militants substituted the inaction (or rather the bureaucratic action)
 >of the workers' bureaucracies, which was the only 'action' the workers
 >were willing to take, for their own action"^[_ibid_].
-
+>
 >"On May 21, the second day of the occupation, the action committee
 >militants found all the gates of the factory closed, and union
 >delegates defended the entrances against 'provocateurs'"^[_ibid_].

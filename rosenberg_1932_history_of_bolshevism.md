@@ -1753,7 +1753,7 @@ which he said _inter alia_:
 >party out of the masses, and that the peasant in Greater Russia has at
 >the same time begun to become democratic and to free himself from the
 >priests and the landowners.
-
+>
 >We are filled with national pride and it is for that reason especially
 >that we regard with a peculiar hatred our past of serfdom... our
 >present serfdom... A nation cannot itself be free whilst it oppresses
@@ -5349,11 +5349,11 @@ twentieth and twenty-first conditions ran:
 >Executive of the Communist International possesses the right to make
 >exceptions for the representatives of the centre named in paragraph
 >VII.
-
+>
 >Members of parties who refuse in principle to accept the conditions and
 >theses propounded by the Communist International shall be expelled from
 >the party.
-
+>
 >The above has special application to delegates to extraordinary
 >meetings of the party.
 
@@ -6206,14 +6206,14 @@ Congress as follows:
 >background in order to enable the Russian Revolution to live a little
 >longer. Thus the world revolution is condemned to disappear for years
 >to come.
-
+>
 >The Russian Revolution was only superficially a proletarian and
 >communist revolution. In reality it was far too little proletarian and
 >communist and far too greatly peasant and democratic... Out of this
 >partially-concealed contradiction arose the domestic policy of the
 >Soviet Republic and the Communist Party -- the dictatorship of the
 >party leaders, the rigid discipline, over-centralisation, etc.
-
+>
 >At the head of the Third International stands a party which is
 >compelled, and will be still more compelled, to pay more regard to
 >peasant and middle-class democracy than to the proletariat, and that
@@ -6702,7 +6702,7 @@ Party. The resolution ran:
 >leadership all the energy of the proletariat upon maintaining its
 >dictatorship in Russia until the proletariat in Western Europe shall be
 >able to come to the assistance of their brothers.
-
+>
 >In thus giving expression to its conviction that it is only thanks to
 >this resolute and purposeful policy on the part of the Russian
 >Communist Party that Soviet Russia will continue to be regarded as the
@@ -7943,7 +7943,7 @@ the Bolshevik Party. In this indictment the writers say _inter alia_:
 >economy of the Soviet Republic has in the main come to the end of its
 >period of reconstruction. Real results have been achieved in the course
 >of this period of economic reconstruction.
-
+>
 >Grave difficulties arose simultaneously with these achievements as a
 >result of this period of economic reconstruction. These difficulties,
 >which arose out of an insufficient development of productive forces and
